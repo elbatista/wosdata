@@ -1,0 +1,226 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "s-knniHwOXY8Pd59EvIF03Xb_W8",
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 9,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "eAg81VNCRiNrU1SfJwZ5--WsQx8",
+      "id": "PLY8a-6iyFIe_17e8NAKXAOGt32Rc4e8ua",
+      "snippet": {
+        "publishedAt": "2023-11-21T21:23:44Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Cinematic Videos - by Wonders of Switzerland",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "localized": {
+          "title": "Cinematic Videos - by Wonders of Switzerland",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "cRt_Utg4TMDT3s_fqIyuyBp4QN4",
+      "id": "PLY8a-6iyFIe_w9NbCqauoKx8bPMxVVzpG",
+      "snippet": {
+        "publishedAt": "2023-07-28T09:27:46Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Trailers of our videos - by Wonders of Switzerland",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "localized": {
+          "title": "Trailers of our videos - by Wonders of Switzerland",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "knckYjKgb8ggNTs_aKDqCFv_5gI",
+      "id": "PLY8a-6iyFIe-qaUrR8GFmYDYP5xQrzJ6P",
+      "snippet": {
+        "publishedAt": "2023-07-10T09:11:46Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Did you know? - by Wonders of Switzerland",
+        "description": "\"Did you know? - by Wonders of Switzerland\" is a captivating YouTube playlist that takes you on a fascinating journey through the hidden gems and remarkable facts about Switzerland. Presented by Wonders of Switzerland, a passionate team of explorers and storytellers, this series uncovers various aspects of this breathtaking country. Prepare to be amazed as each video reveals intriguing insights, surprising trivia, and incredible anecdotes about Switzerland's rich history, natural wonders and cultural heritage. Whether you're a local resident or an international viewer, \"Did you know? - by Wonders of Switzerland\" will leave you with a newfound appreciation for this remarkable nation, showcasing the wonders that make Switzerland truly unique.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "localized": {
+          "title": "Did you know? - by Wonders of Switzerland",
+          "description": "\"Did you know? - by Wonders of Switzerland\" is a captivating YouTube playlist that takes you on a fascinating journey through the hidden gems and remarkable facts about Switzerland. Presented by Wonders of Switzerland, a passionate team of explorers and storytellers, this series uncovers various aspects of this breathtaking country. Prepare to be amazed as each video reveals intriguing insights, surprising trivia, and incredible anecdotes about Switzerland's rich history, natural wonders and cultural heritage. Whether you're a local resident or an international viewer, \"Did you know? - by Wonders of Switzerland\" will leave you with a newfound appreciation for this remarkable nation, showcasing the wonders that make Switzerland truly unique."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "cQh2DyHSIWB-x8qZf_chWYcoS9c",
+      "id": "PLY8a-6iyFIe8MgidaGYYkMlGaWI_MfLCS",
+      "snippet": {
+        "publishedAt": "2023-03-31T13:37:16Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Lugano Region - by Wonders of Switzerland",
+        "description": "\"Lugano Region - by Wonders of Switzerland\" is a captivating YouTube playlist that takes you on a mesmerizing journey through the enchanting Lugano region in Switzerland. Presented by Wonders of Switzerland, a team of passionate explorers and storytellers, this series showcases the unique charm and natural beauty of Lugano and its surrounding areas. Each video in the playlist unveils the hidden treasures, stunning landscapes, and cultural delights that make the Lugano region a must-visit destination. From the picturesque shores of Lake Lugano to the lush valleys, rolling hills, and charming towns, you'll be immersed in the breathtaking sights and sounds of this remarkable region. Discover the rich history, indulge in the delectable cuisine, and experience the warm hospitality that the Lugano region is known for. Whether you're planning a visit or simply yearning to explore from afar, \"Lugano Region - by Wonders of Switzerland\" offers a captivating glimpse into the beauty and allure of this captivating corner of Switzerland.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "localized": {
+          "title": "Lugano Region - by Wonders of Switzerland",
+          "description": "\"Lugano Region - by Wonders of Switzerland\" is a captivating YouTube playlist that takes you on a mesmerizing journey through the enchanting Lugano region in Switzerland. Presented by Wonders of Switzerland, a team of passionate explorers and storytellers, this series showcases the unique charm and natural beauty of Lugano and its surrounding areas. Each video in the playlist unveils the hidden treasures, stunning landscapes, and cultural delights that make the Lugano region a must-visit destination. From the picturesque shores of Lake Lugano to the lush valleys, rolling hills, and charming towns, you'll be immersed in the breathtaking sights and sounds of this remarkable region. Discover the rich history, indulge in the delectable cuisine, and experience the warm hospitality that the Lugano region is known for. Whether you're planning a visit or simply yearning to explore from afar, \"Lugano Region - by Wonders of Switzerland\" offers a captivating glimpse into the beauty and allure of this captivating corner of Switzerland."
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "d17LbT7FbGcGxYMkOv9tGKHB4lI",
+      "id": "PLY8a-6iyFIe9Bd2nx5n-HkfMgDkoCkbMq",
+      "snippet": {
+        "publishedAt": "2023-03-20T08:35:48Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Inside Swiss Homes & Hotels - by Wonders of Switzerland",
+        "description": "\"Inside Swiss Homes & Hotels - by Wonders of Switzerland\" is an intriguing YouTube playlist that invites you to step behind the scenes and discover the captivating interiors of Swiss homes and hotels. Presented by Wonders of Switzerland, a team passionate about showcasing the unique lifestyle and hospitality of Switzerland, this series provides an exclusive glimpse into the spaces where people live, relax, and indulge in luxury. Each video in the playlist offers an intimate tour, showcasing the exquisite design, attention to detail, and exceptional comfort found in Swiss homes and hotels. From cozy chalets nestled in the Swiss Alps to elegant city apartments and luxurious resorts, you'll witness the harmonious blend of traditional craftsmanship and contemporary aesthetics that define Swiss interior design. Immerse yourself in the ambiance, learn about the regional influences, and gain inspiration from the creative decor and furnishings. Whether you're an interior design enthusiast, a travel aficionado, or simply curious about Swiss living, \"Inside Swiss Homes & Hotels - by Wonders of Switzerland\" offers an enchanting journey into the heart and soul of Swiss hospitality and the art of creating inviting and stylish spaces.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "localized": {
+          "title": "Inside Swiss Homes & Hotels - by Wonders of Switzerland",
+          "description": "\"Inside Swiss Homes & Hotels - by Wonders of Switzerland\" is an intriguing YouTube playlist that invites you to step behind the scenes and discover the captivating interiors of Swiss homes and hotels. Presented by Wonders of Switzerland, a team passionate about showcasing the unique lifestyle and hospitality of Switzerland, this series provides an exclusive glimpse into the spaces where people live, relax, and indulge in luxury. Each video in the playlist offers an intimate tour, showcasing the exquisite design, attention to detail, and exceptional comfort found in Swiss homes and hotels. From cozy chalets nestled in the Swiss Alps to elegant city apartments and luxurious resorts, you'll witness the harmonious blend of traditional craftsmanship and contemporary aesthetics that define Swiss interior design. Immerse yourself in the ambiance, learn about the regional influences, and gain inspiration from the creative decor and furnishings. Whether you're an interior design enthusiast, a travel aficionado, or simply curious about Swiss living, \"Inside Swiss Homes & Hotels - by Wonders of Switzerland\" offers an enchanting journey into the heart and soul of Swiss hospitality and the art of creating inviting and stylish spaces."
+        }
+      }
+    }
+  ]
+}

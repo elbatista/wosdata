@@ -1,0 +1,1303 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7h_k_vIJTq0dwALeDAfRHH3hzU8",
+  "regionCode": "CH",
+  "pageInfo": {
+    "totalResults": 39,
+    "resultsPerPage": 38
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8y7Goem4OJJZ6SYIt8RyPJJMZzs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vo-139pug3U"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-01T11:11:32Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Switzerland Top 10: Most Beautiful Places in Switzerland",
+        "description": "Welcome to a visual odyssey through the breathtaking landscapes of Switzerland! In this immersive video, we unveil the Top 10 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vo-139pug3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vo-139pug3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vo-139pug3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-01T11:11:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LqiLJZofKoUO_ICCLeGAYk5zu1Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KLclTW2NH2g"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-25T09:00:23Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Interlaken Switzerland | Beautiful Swiss Alps | Main Attractions to Visit | A Cinematic Short Film",
+        "description": "Embark on a breathtaking visual odyssey as we explore the mesmerizing city of Interlaken, in the beautiful swiss alps. Nestled ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-25T09:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ieV-v1KDW4r50LsW6i9kJE-RzEQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EL4YYc87uOQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-22T08:00:06Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Unraveling Chillon Castle: A Full Guided Tour of Switzerland&#39;s Most Visited Historical Building - 4K",
+        "description": "Welcome to our captivating adventure through the centuries-old Chillon Castle, nestled gracefully on the shores of Lake Geneva ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EL4YYc87uOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EL4YYc87uOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EL4YYc87uOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-22T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wePlqswSL2oOhTlMrlbxifuwt_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xa07d2O-o9Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-13T15:15:11Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "You won&#39;t believe the view !! Mount Pilatus - Switzerland 🇨🇭 Relaxing 4K HDR Video",
+        "description": "This video presents a great way to spend a day in Luzern, get to see the best view of the city by going to the top of Mount Pilatus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xa07d2O-o9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xa07d2O-o9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xa07d2O-o9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-13T15:15:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9ql6c_WgaqptvdyVIOpUsLGNkko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7YlwHCOenes"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-16T15:30:01Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Lausanne | One-Day Guided Tour | Switzerland&#39;s Gem | 4K UHD",
+        "description": "Join us on an unforgettable journey through the enchanting city of Lausanne! In this immersive YouTube video, we embark on a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7YlwHCOenes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7YlwHCOenes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7YlwHCOenes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-16T15:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hEkpjY_JcjX7jICjXWCJuOJlyhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x0FnTkEbe7s"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-20T16:45:01Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Inside a Swiss Luxury Resort | Tour at Five Zurich Hotel",
+        "description": "Welcome to the first video of the series Inside Swiss Homes & Hotels! In this series we are going to share tours of many places ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-20T16:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gNQAn5jBNZG1O8ypufbD8jvTI7I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cgjAloFbrxs"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-05T12:00:25Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Beautiful Swiss Village | Hidden Gem in Switzerland (Sonlerto)",
+        "description": "Embark on a captivating exploration of a traditional Swiss Village, nestled in the heart of Ticino, Switzerland, where stone houses ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cgjAloFbrxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cgjAloFbrxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cgjAloFbrxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-05T12:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4sPpDejIxQQfpF2UdIf5nywNt1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KJH0UZCgdhA"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-09T12:46:45Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Lauterbrunnen Switzerland | Most beautiful place in Switzerland",
+        "description": "Welcome to the fairy tale village of Lauterbrunnen Switzerland! Arguably the most beautiful place in Switzerland. 🏔️ Brace ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KJH0UZCgdhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KJH0UZCgdhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KJH0UZCgdhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-09T12:46:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qUbWy91XbyphRP95m_8e9Nkujoo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r-dTvIQMAyU"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-14T23:03:59Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "St. Moritz Switzerland: City tour and Muottas Muragl !!",
+        "description": "stmoritz #engadin #switzerland #swissmountains #winter #muottasmuragl St. Moritz, one of the most famous destinations in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r-dTvIQMAyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r-dTvIQMAyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r-dTvIQMAyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-14T23:03:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3hjgomcaO9RjpjeAIPeqIs-Zo34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "arF8h5qantY"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-18T08:51:26Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Foroglio Waterfall - Switzerland - Relaxing 4K HDR Video",
+        "description": "switzerland #schweiz #swiss #suisse #switzerlandwonderland #visitswitzerland #foroglio #waterfall #water #valbavona ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/arF8h5qantY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/arF8h5qantY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/arF8h5qantY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-18T08:51:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gvcw_BkvRt6zRCaHw4ClVqY7snQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XnaG09h1AQQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-10T21:23:47Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "London - Queen Elizabeth’s Home - 1 Day Tour - 4K HDR",
+        "description": "Follow us on another amazing tour through the Wonders of the World. This time: LONDON !! London is the capital ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XnaG09h1AQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XnaG09h1AQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XnaG09h1AQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-10T21:23:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e5oblRshsL64nZZBQ1VORwW-7q4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XCMDIb6gniQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-29T08:00:13Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Rochers de Naye | Switzerland | Guided Tour | Amazing Journey Through Swiss Alps | 4K UHD",
+        "description": "Embark on an extraordinary guided tour as we journey through the mesmerizing Swiss Alps, departing from the charming town of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XCMDIb6gniQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XCMDIb6gniQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XCMDIb6gniQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-29T08:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B_cx8vMyxULtT72eU0S3LLpMtjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mwljDNDTwf0"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-04T09:00:37Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Fribourg Unveiled: A Tale of Timeless Beauty and History in Switzerland",
+        "description": "Step into a world where time stands still, and history and beauty intertwine in Fribourg, Switzerland. In this guided tour, we'll lead ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mwljDNDTwf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mwljDNDTwf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwljDNDTwf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-04T09:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K5EV5095kDthX0kCNOhcNBJ3zQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f9U041kJbcY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-08T09:32:13Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Bern City Tour: Discovering the Amazing Swiss Capital",
+        "description": "Join us on an extraordinary journey through Bern, the picturesque capital of Switzerland. In this immersive guided tour, we delve ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f9U041kJbcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f9U041kJbcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9U041kJbcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-08T09:32:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JXqw3H-zPbz8XXTgjbOxKjkP2z0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BYcQKSqTyl8"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T16:00:06Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Swissminiatur | Amazing journey throughout Switzerland | Family-friendly attraction in Lugano Region",
+        "description": "Today, we bring you with us to Melide, a small city in the Lugano Region, to the miniature museum called Swissminiatur, featuring ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T16:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Op6CfcWeboEqizIs9w42auauadg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M-gjYt1ZkY4"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-11T17:53:27Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Gruyères: A Magical Journey Through Switzerland&#39;s Most Beautiful Village (and Castle!)",
+        "description": "Join us on an enchanting exploration of Gruyères, Switzerland, where history comes alive in the cobbled streets of a charming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M-gjYt1ZkY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M-gjYt1ZkY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M-gjYt1ZkY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-11T17:53:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wca5Ehug3IOsHrW5fb3c5PJhhOU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oD-_4wJAw-s"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-23T15:30:06Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Top 10 Must See Places in Lucerne - Switzerland - 4K - Guided Tour",
+        "description": "Lucerne ranks amongst the world's prettiest cities and is rich in sights and attractions. Contributing to Lucerne's cityscape ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oD-_4wJAw-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oD-_4wJAw-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oD-_4wJAw-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-23T15:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B4TpWDtyeuYUgGElYyWM1MXvLk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pKDkhIQ1kqs"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-17T09:00:33Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Flying over Lugano Switzerland | 4K UHDR | Relaxing Video | Beautiful Swiss City in Autumn Colours",
+        "description": "Escape to the enchanting and relaxing landscapes of Lugano, Switzerland, in this mesmerizing drone footage video capturing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pKDkhIQ1kqs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pKDkhIQ1kqs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pKDkhIQ1kqs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-17T09:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PHl2EVCWlB34ZnCOVV4aefDNqvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sQXi2iA0d_Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-08T08:00:25Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Jungfraujoch | The Top of Europe | Full Guide | Unveiling Switzerland&#39;s Alpine Gem | 4K UHD",
+        "description": "Join us on an extraordinary adventure as we embark on a breathtaking guided tour of Jungfraujoch, the Top of Europe! Nestled ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sQXi2iA0d_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sQXi2iA0d_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sQXi2iA0d_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-08T08:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DEyOaNcyZefNF4lYO2crJKterlU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GOr6DJF2JgE"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-26T08:00:05Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "The Magical Montreux Christmas Market in Switzerland (on Christmas Night)",
+        "description": "Step into the enchanting Montreux Christmas Market in Switzerland, as we take you on a mesmerizing journey through this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GOr6DJF2JgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GOr6DJF2JgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GOr6DJF2JgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-26T08:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qiw-1BTERYCu0MTfXkMAaG2cXkE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DIV_Q499hNM"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-02T13:59:31Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Verzasca Valley: the heart of Ticino in Switzerland (crystal clear waters)",
+        "description": "Embark on a captivating journey through Switzerland's Verzasca Valley, a hidden gem nestled within the Swiss Pre-Alps.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIV_Q499hNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIV_Q499hNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIV_Q499hNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-02T13:59:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "79bzpyb4QQKisnXWdhw7tYG-gD0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wyy97JuKjZQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-24T08:20:03Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Bellinzona | Exploring the Enchanting Fortresses | Guided Tour | Swiss Unesco Heritage | 4K UHD",
+        "description": "Join us on an unforgettable journey through time as we embark on a guided tour of the majestic Bellinzona Fortresses in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wyy97JuKjZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wyy97JuKjZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wyy97JuKjZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-24T08:20:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X4f9os3M-jf5gagv7UXW8sCAQhE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i2Jdbj_Oa1c"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-06T15:47:02Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Switzerland (not so) famous places: Secret Beautiful Gems in Ticino Switzerland",
+        "description": "In this immersive video, we unveil Switzerland's Hidden Gems Places in the Canton of Ticino, that showcase the diverse beauty ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i2Jdbj_Oa1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i2Jdbj_Oa1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i2Jdbj_Oa1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-06T15:47:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sz_QyOXsVpNU5ia-MFW-UAqYr_Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vM732ppJZog"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-24T17:00:39Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Wengen - Hidden Treasure in the Heart of Switzerland - Among the Most Beautiful Swiss Villages !",
+        "description": "In this video, we share our trip to a hidden treasure swiss village in the swiss alps. The Wengen village is an enchanting and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vM732ppJZog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vM732ppJZog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vM732ppJZog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-24T17:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yoanIiJbyp_pxZhovooAIz02SxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eoTfiAGkL8c"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-19T09:20:22Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Exploring Gandria: A Captivating Swiss Village Adventure - Full Guided Tour (Lugano)",
+        "description": "Join us on an unforgettable journey into the heart of the captivating Swiss village, Gandria! Immerse yourself in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eoTfiAGkL8c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eoTfiAGkL8c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eoTfiAGkL8c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-19T09:20:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a9i-voZPic3XrWix6v3Ko_PLnlY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JT1iFKNcjQM"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-28T12:19:47Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Balcone d&#39;Italia - Switzerland/Italy - Relaxing 4K Video",
+        "description": "switzerland #schweiz #swiss #suisse #switzerlandwonderland #visitswitzerland #balconeditalia #italy #italia #myswitzerland ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JT1iFKNcjQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JT1iFKNcjQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JT1iFKNcjQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-28T12:19:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QVNQzET82UOzt8wJ-RZPdHAmiCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AoJ_cvY7vkk"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T15:31:29Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Valle di Muggio in Switzerland | Discovering the Charm of a Typical Prealpine Valley in Ticino",
+        "description": "Welcome to our adventure in the stunning valley of Muggio, located in the heart of Ticino, Switzerland. In this video, we take you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AoJ_cvY7vkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AoJ_cvY7vkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AoJ_cvY7vkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T15:31:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VUa_vO9RVRQodxAFNdtKqxNP1Ps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vmtZmt71XIo"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T15:00:45Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Stäuber Falls (or Stäubifall) – One of the most beautiful and unknown waterfalls of Switzerland",
+        "description": "The Stäubifall waterfall is a beautiful natural attraction located in the Canton of Uri, in central Switzerland. The waterfall has a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vmtZmt71XIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vmtZmt71XIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vmtZmt71XIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T15:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9m8dWxdBYUKXLHwoK_NuL8-oONE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jUTylho4LGA"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-16T15:30:16Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Epic Adventure in Lauterbrunnen Valley: A Mesmerizing Autumn Journey",
+        "description": "Welcome to our captivating journey through the enchanting Lauterbrunnen Valley! Join us on an unforgettable one-day expedition ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jUTylho4LGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jUTylho4LGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jUTylho4LGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-16T15:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2PhBPcfQf7ozdJjk7oDuXuzhlxU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sMENon0E0Cw"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-12T08:00:33Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Staying in a Real Castle in Switzerland | Hotel Tour | Budget-Friendly | Swiss Alps (Montreux)",
+        "description": "Ever dreamed of staying in a real castle in the swiss alps? Now you can turn that dream into reality without breaking the bank.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sMENon0E0Cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sMENon0E0Cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sMENon0E0Cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-12T08:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5aUZH1qohTcZS8YRUANyR-dwJ8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R7ScgmIa2tg"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T15:30:07Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Geneva in 1 day | Guided Tour | Main Attractions | Switzerland | 4K UHD",
+        "description": "Join us on an awe-inspiring journey as we take you on a captivating guided tour through the enchanting city of Geneva, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R7ScgmIa2tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R7ScgmIa2tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R7ScgmIa2tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T15:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UGAeNKGxC-l1n3Wt4ps5vI_o1zU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KZ84VGdDT8A"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-14T23:55:14Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "St. Moritz Switzerland: Lake and surroundings",
+        "description": "stmoritz #engadin #switzerland #swissmountains #winter St. Moritz, one of the most famous destinations in Switzerland.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KZ84VGdDT8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KZ84VGdDT8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KZ84VGdDT8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-14T23:55:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AtEaop-oUqB1gd2zMj1pAGJX0uQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V7reiIQYd20"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T16:45:02Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "You won&#39;t believe how deep it is ! 1 Day in Lake Como, Italy | Among the Most Famous Lakes in Europe",
+        "description": "Como is a city at the southern tip of Lake Como in northern Italy, very close to the border with Switzerland. It's known for the Gothic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7reiIQYd20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7reiIQYd20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7reiIQYd20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T16:45:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9EjzU2n2qI7sHcWd09Wg6ZzpgAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xXrg4EpdStE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-17T16:40:08Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Monte Tamaro: a mountain of emotions in Switzerland | Scenic views | Family-friendly attractions",
+        "description": "Welcome to our guided tour of Monte Tamaro, located in the stunning Ticino region of Switzerland. In this video, we'll take you on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXrg4EpdStE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXrg4EpdStE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXrg4EpdStE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-17T16:40:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CHYyDKEFD9i1bJ9XDo4QTQRWmd8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "54pa-ctkkNY"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-29T18:28:47Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Rome - Colosseum &amp; Roman Forum 2022 4K HDR",
+        "description": "rome #italy #colosseum #romanforum The Colosseum; Italian: Colosseo; is an oval amphitheatre in the centre of the city of Rome, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/54pa-ctkkNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/54pa-ctkkNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/54pa-ctkkNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-29T18:28:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a6CqR4F6w0WJeD6P4LEu2SP079s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7myBCu2P8a4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-10T18:00:37Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Switzerland | Conquering Mount Bar | A Breathtaking Hike in Lugano - Ticino",
+        "description": "Join us on an unforgettable adventure as we embark on a challenging yet awe-inspiring journey up Mount Bar in Lugano, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7myBCu2P8a4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7myBCu2P8a4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7myBCu2P8a4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-10T18:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W-WYr18zXEZYAKu3WeMBmYyOk9w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ww9HqzCl0pU"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-14T17:51:29Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Pisa - Italy: Piazza dei Miracoli - 4K",
+        "description": "pisa #italy #leaningtower #piazzadeimiracoli The city of Pisa is a city and comune in Tuscany, central Italy. It is the capital city of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ww9HqzCl0pU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ww9HqzCl0pU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ww9HqzCl0pU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-14T17:51:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jwgm_P6PnGXDBqpirkIMfhZgJHM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BmG9g5GxoXg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-10T17:00:14Z",
+        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+        "title": "Switzerland 🇨🇭 Relaxing Video | Parco Della Breggia | A trip back in time",
+        "description": "The Parco delle Gola della Breggia is located in the Mendrisiotto region, along the river Breggia, in the lower part of the Valle di ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BmG9g5GxoXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BmG9g5GxoXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BmG9g5GxoXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wonders of Switzerland",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-10T17:00:14Z"
+      }
+    }
+  ]
+}
