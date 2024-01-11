@@ -1,226 +1,781 @@
-{
-  "kind": "youtube#playlistListResponse",
-  "etag": "novatag2",
-  "nextPageToken": "CAUQAA",
-  "pageInfo": {
-    "totalResults": 9,
-    "resultsPerPage": 5
-  },
-  "items": [
+[
     {
-      "kind": "youtube#playlist",
-      "etag": "eAg81VNCRiNrU1SfJwZ5--WsQx8",
-      "id": "PLY8a-6iyFIe_17e8NAKXAOGt32Rc4e8ua",
-      "snippet": {
+        "id": "PLY8a-6iyFIe_17e8NAKXAOGt32Rc4e8ua",
         "publishedAt": "2023-11-21T21:23:44Z",
-        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
         "title": "Cinematic Videos - by Wonders of Switzerland",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/KLclTW2NH2g/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Wonders of Switzerland",
-        "localized": {
-          "title": "Cinematic Videos - by Wonders of Switzerland",
-          "description": ""
-        }
-      }
+        "thumb": "https://i.ytimg.com/vi/KLclTW2NH2g/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "KLclTW2NH2g",
+                "title": "Interlaken Switzerland | Beautiful Swiss Alps | Main Attractions to Visit | A Cinematic Short Film",
+                "publishedAt": "2023-11-21T21:23:52Z",
+                "description": "Embark on a breathtaking visual odyssey as we explore the mesmerizing city of Interlaken, in the beautiful swiss alps. \n\nNestled between Lake Thun and Lake Brienz, Interlaken is a haven of tranquility surrounded by the majestic Swiss Alps. Join us on this cinematic adventure to witness the pristine lakes, charming villages, and awe-inspiring mountain peaks that make Interlaken a true gem. Immerse yourself in the soothing melodies of nature and let the stunning visuals transport you to a world where time seems to stand still. Whether you're a nature enthusiast, an adventure seeker, or simply a lover of beauty, this cinematic journey through Interlaken is sure to leave you spellbound. Sit back, relax, and let the magic of Interlaken, Switzerland unfold before your eyes.\n\n📍 Interlaken, Switzerland 🇨🇭 \n\n🏞️ Aerial Marvels:\nGlide over the crystal-clear waters of Lake Thun and Lake Brienz\nWitness the majesty of Interlaken's landscapes from a unique perspective\nAscend to the summit of Harder Kulm for jaw-dropping alpine vistas\n\n📸 Capture the Moment:\nShare your favorite aerial shots and experiences in the comments below. Don't forget to like, subscribe, and join us on this high-flying exploration of Interlaken! 🌄✈️\n\n🎶 Music by Epidemic Sound\n\n00:00 Intro\n01:16 The Two Lakes\n03:48 The Top of Interlaken\n\n#interlaken #switzerland #travel #travelinspiration",
+                "thumb": "https://i.ytimg.com/vi/KLclTW2NH2g/maxresdefault.jpg"
+            },
+            {
+                "videoid": "YoBiyFkxcB4",
+                "title": "Foroglio | Switzerland Waterfall | One of the Most Beautiful Traditional Villages in Ticino",
+                "publishedAt": "2023-11-21T21:24:09Z",
+                "description": "Foroglio is a beautiful waterfall in Switzerland, located more specifically in the village of Foroglio, in the Maggia Valley, canton of Ticino. The village is part of the municipality of Cevio and is known for its traditional stone houses, many of which have slate roofs, adding to the picturesque and authentic Swiss Alpine atmosphere.\n\n📍 Foroglio, Switzerland \n\nThe Foroglio waterfall is known for its picturesque setting, surrounded by lush greenery and the natural beauty of the Swiss Pre Alps. \nThe Foroglio waterfall is fed by the Maggia River and plunges down a rocky cliff, creating a stunning and serene atmosphere. \nVisitors often appreciate the tranquility of the area and the opportunity to enjoy nature.\n\n🎶 Music by Epidemic Sound\n\n#foroglio #switzerland   #nature  #travel  #travelgoals #switzerlandtour",
+                "thumb": "https://i.ytimg.com/vi/YoBiyFkxcB4/maxresdefault.jpg"
+            },
+            {
+                "videoid": "4sH3Jm0PuKQ",
+                "title": "Sabbione - Switzerland | Epic Cinematic Video | Real Life Hobbit Village | Switzerland at its Best",
+                "publishedAt": "2023-11-21T21:24:56Z",
+                "description": "Sabbione is a small village located in the upper part of the Maggia Valley, and it is known for its picturesque location surrounded by mountains and forests, and also for being a real life hobbit village, because it seems to have come straight out of Tolkien tales. The banks of the Maggia River are known for their crystal-clear waters and is popular for swimming, kayaking, and other water sports.\n\nThe Church of Santa Maria degli Angeli is also a significant attraction in the area. The church features beautiful frescoes and paintings, and it is a popular destination for visitors interested in art and history. The surrounding area of Sabbione is also well-known for its natural beauty, and there are numerous hiking and biking trails in the nearby mountains and forests. It is a popular destination for outdoor enthusiasts and features stunning scenery, including waterfalls, alpine meadows, and rugged peaks.\n\nIn addition to outdoor activities, Sabbione and the surrounding area offer a range of cultural and culinary experiences. The local cuisine features regional specialties such as polenta, risotto, and goat cheese, and there are several restaurants in the area that serve traditional Ticinese dishes. Overall, Sabbione is a charming village in the Maggia Valley of Ticino, Switzerland, that offers visitors a range of cultural and outdoor experiences. Whether you're interested in art, history, nature, or cuisine, Sabbione and the surrounding area are sure to offer something to suit your interests.\n\n\n📍 Sabbione, Ticino, Switzerland\n🎵 Music by Epidemicsound\n\n#sabbione #ticino  #switzerland  #travel #beautifuldestinations  #discoverswitzerland  #scenic #travelguide  #cinematic #epicvideo  #viralvideo",
+                "thumb": "https://i.ytimg.com/vi/4sH3Jm0PuKQ/maxresdefault.jpg"
+            },
+            {
+                "videoid": "KJH0UZCgdhA",
+                "title": "Lauterbrunnen Switzerland | Most beautiful place in Switzerland",
+                "publishedAt": "2023-12-09T12:38:59Z",
+                "description": "🇨🇭 Welcome to the fairy tale village of Lauterbrunnen Switzerland! Arguably the most beautiful place in Switzerland. \n\n🏔️ Brace yourself for an amazing journey through this picturesque Swiss wonderland, where breathtaking landscapes meet heart-pounding activities.\n\n🏞️ Alpine Marvels: Explore the iconic Lauterbrunnen Valley, adorned with majestic cliffs and over 70 cascading waterfalls, offering unparalleled panoramic views that inspired Tolkien himself.\n\n🚠 Trümmelbach Falls Adventure: Venture inside the mountain to witness the raw power of Trümmelbach Falls, a series of ten cascading waterfalls within the rock. It's a sensory spectacle that immerses you in the heart of nature's forces.\n\n🪂 Skydiving Spectacle: Join us as we witness fearless skydivers take the plunge from towering rock faces, creating a mesmerizing dance in the sky. Catch the adrenaline rush and awe-inspiring scenes that make Lauterbrunnen a magnet for thrill-seekers.\n\n🌄 Journey to Wengen: Embark on a scenic train ride to Wengen. Marvel at the snow-covered peaks, vast glaciers, and the breathtaking beauty that surrounds you at over 1,000 meters. Walk with us through the car-free village of Wengen,.\n\n🔔 Subscribe for More Adventures: Don't miss out on the excitement! Hit subscribe to stay tuned for our upcoming episodes featuring more thrilling escapades and hidden treasures from Lauterbrunnen, Switzerland. Join us as we uncover the secrets of this adventure paradise! \n\n🎶 Music by Epidemic Sound\n\nInformation about the local tourism:\nhttps://www.jungfrau.ch/en-gb/lauterbrunnen\nhttps://schilthorn.ch/en/Welcome\nhttps://www.truemmelbachfaelle.ch/\nhttps://wengen.swiss/en/summer/\n\nEquipment: DJI Mini 4 Pro, iPhone 13 Pro, Zhiyun Smooth 5\n\n_________________________\n\nOther videos from the region\n\nInterlaken: https://youtu.be/KLclTW2NH2g?si=7jOLfqovTl0UMNkc\nWengen: https://youtu.be/vM732ppJZog?si=liLYh6Y12vefekyt\nJungfraujoch: https://youtu.be/sQXi2iA0d_Q?si=bQBbSGZnaSbkXB1o\nBern: https://youtu.be/f9U041kJbcY?si=8sUqB0iBov_2wiQa\n\nKeep up with us!\nInstagram:  https://www.instagram.com/wonders.of.switzerland\n\nThis channel is made for you, if you enjoyed the video please make sure to subscribe!\n\n_________________________\n\n0:00 - Intro\n1:23 - Lauterbrunnen\n5:18 - Trümmelbach Falls\n8:47 - Wengen\n\n#lauterbrunnen #lauterbrunnenvalley #switzerland #travel #exploreswitzerland #travelinspiration #middleearth",
+                "thumb": "https://i.ytimg.com/vi/KJH0UZCgdhA/maxresdefault.jpg"
+            },
+            {
+                "videoid": "i2Jdbj_Oa1c",
+                "title": "Hidden Gems in Ticino Switzerland: Beautiful Places to Visit in Switzerland",
+                "publishedAt": "2024-01-06T13:22:43Z",
+                "description": "In this video we unveil some hidden gems places to visit in the Canton of Ticino in Switzerland, that showcase the diverse beauty and cultural richness of this amazing country.\n\n📍 Ticino, Switzerland\n\nMusic by Epidemic Sound\nEquipment: DJI Mini 4 Pro, iPhone 13 Pro, Zhiyun Smooth 5\n\nKeep up with us!\nInstagram:  https://www.instagram.com/wonders.of.switzerland\nThis channel is made for you, if you enjoyed the video please make sure to subscribe!\n\n0:00 - Intro\n1:06 - Verzasca Valley\n4:36 - Corippo Village \n6:37 - Maggia Valley\n8:57 - Locarno/Ascona Region\n\n#switzerland #ticino #hiddengems #travel",
+                "thumb": "https://i.ytimg.com/vi/i2Jdbj_Oa1c/maxresdefault.jpg"
+            }
+        ]
     },
     {
-      "kind": "youtube#playlist",
-      "etag": "cRt_Utg4TMDT3s_fqIyuyBp4QN4",
-      "id": "PLY8a-6iyFIe_w9NbCqauoKx8bPMxVVzpG",
-      "snippet": {
+        "id": "PLY8a-6iyFIe_w9NbCqauoKx8bPMxVVzpG",
         "publishedAt": "2023-07-28T09:27:46Z",
-        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
         "title": "Trailers of our videos - by Wonders of Switzerland",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/Vk3qrPFL4gg/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Wonders of Switzerland",
-        "localized": {
-          "title": "Trailers of our videos - by Wonders of Switzerland",
-          "description": ""
-        }
-      }
+        "thumb": "https://i.ytimg.com/vi/Vk3qrPFL4gg/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "Vk3qrPFL4gg",
+                "title": "Rochers de Naye - A Trailer - Breathtaking Swiss Adventure in the Swiss Alps",
+                "publishedAt": "2023-07-28T09:34:15Z",
+                "description": "🏔️ Join us on an unforgettable journey to the majestic Rochers-de-Naye in Switzerland! 🇨🇭 Get ready to immerse yourself in the breathtaking beauty of the Swiss Alps as we unveil a sneak peek of our upcoming guided tour video.\n\n🎥  In this thrilling trailer, you'll catch glimpses of the stunning landscapes that await you atop Rochers-de-Naye. From lush green meadows adorned with wildflowers to snow-capped peaks that touch the sky, this enchanting mountain range offers a panoramic view like no other.\nWhether you're an adventurer seeking adrenaline-pumping experiences or a nature lover yearning for serene moments, our upcoming guided tour promises something truly magical for everyone.\n\n📆  Mark your calendars and hit that subscribe button not to miss the full video's release, where you'll get to embark on a virtual journey like never before. Experience the serenity and splendor of Rochers-de-Naye from the comfort of your screen, and let your wanderlust take flight with our captivating travel series!\n\n🎬 Don't forget to subscribe and turn on notifications to be the first to experience our thrilling Rochers-de-Naye adventure! 🌟\n\n#switzerland #trailer #travel #travelgoals #montreux #rochersdenaye #nature #landscape #swissalps #swissbeauty #swiss",
+                "thumb": "https://i.ytimg.com/vi/Vk3qrPFL4gg/maxresdefault.jpg"
+            },
+            {
+                "videoid": "o6EV-FcZgDk",
+                "title": "Trailer: Chillon Castle | Full Guided Tour | Switzerland 🇨🇭 #switzerland #travel",
+                "publishedAt": "2023-07-28T09:34:54Z",
+                "description": "Trailer: Chillon Castle, Montreux, Switzerland 🇨🇭 \n\n#switzerland #travel #guidedtour #travelgoals #chilloncastle #montreux \n#swiss #amazingswitzerland #exploreswitzerland #myswitzerland #schweiz #iloveswitzerland #lifeofswitzerland #suica #travel #travelvlog #travelling #travelphotography #picoftheday #vidoftheday",
+                "thumb": "https://i.ytimg.com/vi/o6EV-FcZgDk/maxresdefault.jpg"
+            },
+            {
+                "videoid": "iq-T6NGEGR8",
+                "title": "Fairytale Village in Switzerland 🇨🇭",
+                "publishedAt": "2023-08-04T14:37:34Z",
+                "description": "Get ready to embark on a mesmerizing journey through the heart of Ticino, Switzerland — a land of hidden treasures and timeless allure.\n\nFollow us as we wind through picturesque Swiss villages and cobblestone streets, where stone houses adorned with intricate carvings share tales of bygone days.\n\nVenture off the beaten path and uncover nature's hidden gems — a tranquil waterfall nestled in lush wilderness that seems to whisper secrets of its own.\n\nWitness the enchanting beauty of old-world Swiss architecture that will transport you to a simpler, more elegant era.\n\nAnd as the sun sets over the Swiss village, cross a stunning stone bridge that connects past and present in perfect harmony.\n\nJoin us on this unforgettable adventure, where tradition, architecture, and the serenity of nature converge in a symphony of enchantment in Switzerland.\n\nAre you ready to be captivated?\n\n🎵 Music by Epidemic Sound\n\n#switzerland #swissvillage #swiss #ticino #nature #travel",
+                "thumb": "https://i.ytimg.com/vi/iq-T6NGEGR8/maxresdefault.jpg"
+            }
+        ]
     },
     {
-      "kind": "youtube#playlist",
-      "etag": "knckYjKgb8ggNTs_aKDqCFv_5gI",
-      "id": "PLY8a-6iyFIe-qaUrR8GFmYDYP5xQrzJ6P",
-      "snippet": {
+        "id": "PLY8a-6iyFIe-qaUrR8GFmYDYP5xQrzJ6P",
         "publishedAt": "2023-07-10T09:11:46Z",
-        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
         "title": "Did you know? - by Wonders of Switzerland",
-        "description": "\"Did you know? - by Wonders of Switzerland\" is a captivating YouTube playlist that takes you on a fascinating journey through the hidden gems and remarkable facts about Switzerland. Presented by Wonders of Switzerland, a passionate team of explorers and storytellers, this series uncovers various aspects of this breathtaking country. Prepare to be amazed as each video reveals intriguing insights, surprising trivia, and incredible anecdotes about Switzerland's rich history, natural wonders and cultural heritage. Whether you're a local resident or an international viewer, \"Did you know? - by Wonders of Switzerland\" will leave you with a newfound appreciation for this remarkable nation, showcasing the wonders that make Switzerland truly unique.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/z3mKBpIBgi0/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Wonders of Switzerland",
-        "localized": {
-          "title": "Did you know? - by Wonders of Switzerland",
-          "description": "\"Did you know? - by Wonders of Switzerland\" is a captivating YouTube playlist that takes you on a fascinating journey through the hidden gems and remarkable facts about Switzerland. Presented by Wonders of Switzerland, a passionate team of explorers and storytellers, this series uncovers various aspects of this breathtaking country. Prepare to be amazed as each video reveals intriguing insights, surprising trivia, and incredible anecdotes about Switzerland's rich history, natural wonders and cultural heritage. Whether you're a local resident or an international viewer, \"Did you know? - by Wonders of Switzerland\" will leave you with a newfound appreciation for this remarkable nation, showcasing the wonders that make Switzerland truly unique."
-        }
-      }
+        "thumb": "https://i.ytimg.com/vi/z3mKBpIBgi0/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "z3mKBpIBgi0",
+                "title": "Top 20 Highest Mountains in Switzerland (Alpine Majesty Unveiled)",
+                "publishedAt": "2023-07-10T09:11:52Z",
+                "description": "Discover Switzerland's top 20 highest mountains as we embark in this list through the alpine realm. From the iconic Rigi to the majestic Monte Rosa, discover the breathtaking grandeur of these towering peaks that have captivated mountaineers and nature lovers for generations. \n\n📍 Switzerland\n\n1. Monte Rosa (4,634 m)\n2. Zumsteinspitze (4,563 m)\n3. Matterhorn (4,478 m)\n4. Dent Blanche (4,357 m)\n5. Finsteraarhorn (4,274 m)\n6. Jungfrau (4,158 m)\n7. Mönch (4,110 m)\n8. Piz Bernina (4,049 m)\n9. Eiger (3,967 m)\n10. Nesthorn (3,822 m)\n11. Schinhorn (3,797 m)\n12. Tödi (3,613 m)\n13. Piz Corvatsch (3,451 m)\n14. Titlis (3,238 m)\n15. Schilthorn (2,970 m)\n16. Säntis (2,502 m)\n17. Männlichen (2,343 m)\n18. Mount Pilatus (2,128 m)\n19. Monte Tamaro (1,962 m)\n20. Rigi (1,798 m)\n\nChapters:\n00:00 Top 20\n01:53 Top 10\n02:43 Top 5\n03:04 Top 3\n\n🎵 Music by Epidemic Sound (https://www.epidemicsound.com)\n\n#top20  #mountains  #highlights  #alps  #hikingadventures  #mountainlovers  #nature #switzerland  #travel #nature",
+                "thumb": "https://i.ytimg.com/vi/z3mKBpIBgi0/maxresdefault.jpg"
+            },
+            {
+                "videoid": "Zt2cnNaGRlM",
+                "title": "Top 10 Largest Cities in Switzerland 🇨🇭 (by population)",
+                "publishedAt": "2023-08-08T09:04:40Z",
+                "description": "These are the Top 10 Largest Cities in Switzerland !\n\nIn this informative video, we present a list of the largest cities in Switzerland by population, showcasing each city, its canton, and revealing its population count.\n\n1.  Zurich, Zurich             341,730 people\n2.  Geneva, Geneva        183,981 people\n3.  Basel, Basel-City       164,488 people\n4.  Lausanne, Vaud        139,111 people\n5.  Bern, Bern                   121,631 people\n6.  Winterthur, Zurich     91,908  people\n7.  Lucerne, Lucerne       81,691  people\n8.  St Gallen, St Gallen   70,572  people\n9.  Lugano, Ticino           63,000  people\n10. Biel/Bienne, Bern     48,614  people\n\nChapters:\n00:00 Top 10\n00:53 Top 5\n01:14 Top 3\n\n🎵 Music by Epidemic Sound\n\nPhotos:\nRobert  Stokoe: https://www.pexels.com/photo/scenic-view-of-the-mountains-733148/\nUnsplash.com\nPexels.com\n\n#top10  #top10facts  #switzerland  #cities",
+                "thumb": "https://i.ytimg.com/vi/Zt2cnNaGRlM/maxresdefault.jpg"
+            }
+        ]
     },
     {
-      "kind": "youtube#playlist",
-      "etag": "cQh2DyHSIWB-x8qZf_chWYcoS9c",
-      "id": "PLY8a-6iyFIe8MgidaGYYkMlGaWI_MfLCS",
-      "snippet": {
+        "id": "PLY8a-6iyFIe8MgidaGYYkMlGaWI_MfLCS",
         "publishedAt": "2023-03-31T13:37:16Z",
-        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
         "title": "Lugano Region - by Wonders of Switzerland",
-        "description": "\"Lugano Region - by Wonders of Switzerland\" is a captivating YouTube playlist that takes you on a mesmerizing journey through the enchanting Lugano region in Switzerland. Presented by Wonders of Switzerland, a team of passionate explorers and storytellers, this series showcases the unique charm and natural beauty of Lugano and its surrounding areas. Each video in the playlist unveils the hidden treasures, stunning landscapes, and cultural delights that make the Lugano region a must-visit destination. From the picturesque shores of Lake Lugano to the lush valleys, rolling hills, and charming towns, you'll be immersed in the breathtaking sights and sounds of this remarkable region. Discover the rich history, indulge in the delectable cuisine, and experience the warm hospitality that the Lugano region is known for. Whether you're planning a visit or simply yearning to explore from afar, \"Lugano Region - by Wonders of Switzerland\" offers a captivating glimpse into the beauty and allure of this captivating corner of Switzerland.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/BYcQKSqTyl8/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Wonders of Switzerland",
-        "localized": {
-          "title": "Lugano Region - by Wonders of Switzerland",
-          "description": "\"Lugano Region - by Wonders of Switzerland\" is a captivating YouTube playlist that takes you on a mesmerizing journey through the enchanting Lugano region in Switzerland. Presented by Wonders of Switzerland, a team of passionate explorers and storytellers, this series showcases the unique charm and natural beauty of Lugano and its surrounding areas. Each video in the playlist unveils the hidden treasures, stunning landscapes, and cultural delights that make the Lugano region a must-visit destination. From the picturesque shores of Lake Lugano to the lush valleys, rolling hills, and charming towns, you'll be immersed in the breathtaking sights and sounds of this remarkable region. Discover the rich history, indulge in the delectable cuisine, and experience the warm hospitality that the Lugano region is known for. Whether you're planning a visit or simply yearning to explore from afar, \"Lugano Region - by Wonders of Switzerland\" offers a captivating glimpse into the beauty and allure of this captivating corner of Switzerland."
-        }
-      }
+        "thumb": "https://i.ytimg.com/vi/BYcQKSqTyl8/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "BYcQKSqTyl8",
+                "title": "Swissminiatur | Amazing journey throughout Switzerland | Family-friendly attraction in Lugano Region",
+                "publishedAt": "2023-03-31T13:37:22Z",
+                "description": "Today, we bring you with us to Melide, a small city in the Lugano Region, to the miniature museum called Swissminiatur, featuring Switzerland in miniature, for great emotions.\nThe miniatures they feature here represent the most significative places in Switzerland.\nSwissminiatur is Switzerland’s largest open-air miniature museum.\nOn the shores of Lake Lugano, the park is surrounded by majestic mountains including Monte Generoso, San Salvatore and also San Giorgio, which has been declared a UNESCO World Heritage Site.\nHome to 129 models of Switzerland’s most famous buildings, monuments and means of transport in the unusual 1.25 scale. The miniatures on display include meticulously faithful reproductions of Rapperswil Castle, Chillon Castle and the Castles of Bellinzona, the Parliament Building in Bern and the Piazza Grande in Locarno.\n\nImmerse yourself in the world of Swiss railway history in miniature: a 3,560 m miniature railway network winds its way around the park, with eighteen trains running on the tracks. Admire the funicular railways and cableways that travel up and down the mountains, the boats that plough through the lakes and the cars speeding along the motorway. See the planes getting ready to take off from Zurich-Kloten airport!\n\nTraditional methods and innovative processes have been combined to create some real masterpieces in miniature. Appreciate the painstaking handiwork, which stays true to the original and is carried out with great passion.\n\nSwissminiatur park opened in 1959 and visits here are recalled with great fondness by young and old alike. This is an amazing adventure. So, come with us and discover all the most amazing sites in Switzerland all in the same place.\n\n📍 Melide - Lugano, Switzerland\n\n🎶  Music by Epidemicsound\n\n#switzerland  #travel  #travelgoals",
+                "thumb": "https://i.ytimg.com/vi/BYcQKSqTyl8/maxresdefault.jpg"
+            },
+            {
+                "videoid": "xXrg4EpdStE",
+                "title": "Monte Tamaro: a mountain of emotions in Switzerland | Scenic views | Family-friendly attractions",
+                "publishedAt": "2023-04-17T15:37:54Z",
+                "description": "Welcome to our guided tour of Monte Tamaro, located in the stunning Ticino region of Switzerland. \nIn this video, we'll take you on a breathtaking journey through the beautiful mountain landscape, exploring its natural beauty, main attractions, and amazing views.\n\nOur adventure begins at the base of Monte Tamaro, where we'll take a cable car ride up to the summit. \nAs we ascend, you'll get a bird's-eye view of the picturesque villages nestled in the valley below. \nOnce we reach the top, we'll step out into the fresh mountain air and take in the awe-inspiring vistas of the Swiss Alps.\n\nAs we explore Monte Tamaro, we'll visit the famous Church of Santa Maria degli Angeli, a beautiful stone church with a fascinating history. \n\nWe'll also take a stroll along the famous \"Alpine Coaster,\" a thrilling ride that winds its way down the mountain, offering spectacular views of the surrounding landscape. \nFor those seeking a more leisurely experience, we'll also take a walk along one of the many hiking trails that wind their way through the mountain.\n\nWhether you're a nature lover, or just looking for an unforgettable adventure in the Swiss Alps, our guided tour of Monte Tamaro has something for everyone. \nSo sit back, relax, and join us on this incredible journey through one of Switzerland's most beautiful mountains.\n\n📍 Monte Tamaro, Lugano, Switzerland\n\n🎵 Music by Epidemicsound\n\n#MonteTamaro #ticino   #switzerland   #swissalps  #mountaintour   #alpinecoaster  #hikingtrails  #ChurchOfSantaMariaDegliAngeli #naturelovers  #travel  #explore  #adventure  #scenicviews  #BreathtakingLandscape #unforgettableexperience  #tourism  #visitswitzerland",
+                "thumb": "https://i.ytimg.com/vi/xXrg4EpdStE/maxresdefault.jpg"
+            },
+            {
+                "videoid": "AoJ_cvY7vkk",
+                "title": "Valle di Muggio in Switzerland | Discovering the Charm of a Typical Prealpine Valley in Ticino",
+                "publishedAt": "2023-04-21T13:41:23Z",
+                "description": "Welcome to our adventure in the stunning valley of Muggio, located in the heart of Ticino, Switzerland. In this video, we take you on a breathtaking journey through this magical destination, showcasing its three main attractions - the charming Muggio village, the picturesque Muggio valley, and the historic Bruzella mill.\n\nOur journey begins in the quaint village of Muggio, where we explore the narrow streets and alleys, adorned with traditional stone houses and blooming flowers. As we wander through the village, we discover the unique character and rich cultural heritage that make Muggio such a special place.\n\nNext, we venture into the breathtaking Muggio valley, surrounded by rolling hills and dense forests. We hike along the scenic trails, admiring the stunning views of the surrounding landscapes and the crystal-clear waters of the river running through the valley.\n\nFinally, we visit the Bruzella mill, an ancient water-powered mill that has been in operation for over 400 years. We learn about its fascinating history and witness the traditional techniques used to grind grain and produce flour, which is still used today to make delicious local bread and pastries.\n\nJoin us on this unforgettable journey to Muggio valley, as we discover the hidden treasures of this beautiful region and experience the authentic Swiss culture and traditions that make it truly unique.\n\n📍 La Valle di Muggio, Ticino, Switzerland\n🎶 Music by Epidemicsound\n\n#MuggioValley #Ticino #Switzerland #TravelSwitzerland #SwissCulture #TravelEurope #EuropeanAdventures #ExploreTheWorld #TravelVlog #NatureLovers #HikingAdventures #HistoricSites #BruzellaMill #MuggioVillage #ScenicViews #BucketListDestination #DiscoverSwitzerland #TravelInspiration #TravelGram #InstaTravel",
+                "thumb": "https://i.ytimg.com/vi/AoJ_cvY7vkk/maxresdefault.jpg"
+            },
+            {
+                "videoid": "7myBCu2P8a4",
+                "title": "Switzerland | Conquering Mount Bar | A Breathtaking Hike in Lugano - Ticino",
+                "publishedAt": "2023-06-09T23:28:54Z",
+                "description": "Join us on an unforgettable adventure as we embark on a challenging yet awe-inspiring journey up Mount Bar in Lugano, Switzerland. Nestled in the heart of the Swiss Pre-Alps, Mount Bar offers breathtaking panoramic views, stunning landscapes, and a sense of accomplishment like no other. Watch as we tackle the trails and push ourselves to reach the summit. Along the way, we'll share amazing views, highlight the natural beauty surrounding us, and capture the essence of this remarkable hiking experience. Whether you're an avid hiker or simply a nature enthusiast, this video will inspire you to explore the wonders of Lugano and the mesmerizing Mount Bar. So, pack your backpack, lace up your boots, and join us on this epic mountain adventure!\n\n#switzerland #travel #ticino #nature #discoverswitzerland #travelgoals #drone #scenicviews #naturelovers #hikingadventures #mountains",
+                "thumb": "https://i.ytimg.com/vi/7myBCu2P8a4/maxresdefault.jpg"
+            },
+            {
+                "videoid": "eoTfiAGkL8c",
+                "title": "Exploring Gandria: A Captivating Swiss Village Adventure - Full Guided Tour (Lugano)",
+                "publishedAt": "2023-08-18T22:21:15Z",
+                "description": "Join us on an unforgettable journey into the heart of the captivating Swiss village, Gandria! 🇨🇭 \nImmerse yourself in the enchanting tales of cobblestone streets, picturesque views, and hidden treasures.\n\nIn this episode of \"Wonders of Switzerland,\" we're your virtual tour guides to a swiss village called  Gandria, a true jewel of Swiss tradition. As a dynamic couple passionate about exploration, we're thrilled to take you on a complete guided tour that leaves no corner unexplored.\n\n🏡 Wander through charming alleyways adorned with vibrant flowers and discover the village's authentic architecture.\n☕ Indulge in a traditional local breakfast with a view of the serene lake.\n🎨 Explore hidden gems, historical landmarks, and artisan shops that add character to this lakeside haven.\n🍽️ Savor a delightful lunch while basking in the beauty of the lakeshore.\n🌳 Venture into Parco Heleneum, a bonus offering tranquility and mesmerizing views.\n\nRestaurant:\nhttps://www.ristoranteantico.ch/\n\nBoat tickets and info:\nhttps://www.lakelugano.ch/en/top/timetableticket\n\nWhether you're a returning viewer or joining us for the first time, this is the most comprehensive guided tour of Gandria you'll find on YouTube. So, buckle up and get ready to explore this Swiss treasure with us. Don't forget to hit that 'like' button and subscribe to \"Wonders of Switzerland\" for more remarkable journeys through this picturesque land. Let's uncover the magic of Gandria together! 🌄🚶‍♂️🎒\n\nChapters:\n00:00 Intro\n01:36 Arriving to Gandria by Car\n02:48 Arriving to Gandria by Boat\n04:13 Breakfast \n05:20 Walking the alleys\n07:13 The chapel (local church)\n08:28 Belvedere  \n09:49 Olive's Path\n10:26 Lunch\n11:57 Narrow alleyways\n13:52 Bonus - Parco Villa Heleneum \n\n🎵 Music by Epidemic Sound\n\n#switzerland #village #villagelife #ticino #travel #nature #virtualtour",
+                "thumb": "https://i.ytimg.com/vi/eoTfiAGkL8c/maxresdefault.jpg"
+            },
+            {
+                "videoid": "DIV_Q499hNM",
+                "title": "Verzasca Valley: the heart of Ticino in Switzerland (crystal clear waters)",
+                "publishedAt": "2023-09-02T12:29:17Z",
+                "description": "Embark on a captivating journey through Switzerland's Verzasca Valley, a hidden gem nestled within the Swiss Pre-Alps. \n\n📍 Ticino, Switzerland 🇨🇭 \n\nIn this enchanting landscape, nature's unparalleled beauty unfolds around every corner. Join us as we unveil two remarkable attractions that define this region: the daring Jumping Bridge, where thrill-seekers leap into crystal-clear waters, and the monumental Verzasca Dam, a testament to engineering amidst nature's grandeur. \n\nThis visual odyssey perfectly balances heart-pounding excitement with tranquil serenity, all set against the backdrop of the Verzasca Valley's awe-inspiring Swiss landscapes. Immerse yourself in the magic of this remarkable Swiss destination, and let its spirit linger in your heart. Experience the Verzasca Valley, a true wonder of Switzerland, like never before! 🌄🏞️🇨🇭\n\n🎵 Music by Epidemic Sound\n\n00:00 Intro\n00:45 Jump Bridge Area\n03:22 Ponte Verzasca Area\n05:57 Verzasca Dam\n\n\n#switzerland #verzasca #ticino #nature #travel",
+                "thumb": "https://i.ytimg.com/vi/DIV_Q499hNM/maxresdefault.jpg"
+            },
+            {
+                "videoid": "pKDkhIQ1kqs",
+                "title": "Flying over Lugano Switzerland | 4K UHDR | Relaxing Video | Beautiful Swiss City in Autumn Colours",
+                "publishedAt": "2023-12-16T17:11:39Z",
+                "description": "Escape to the enchanting and relaxing landscapes of Lugano, Switzerland, in this mesmerizing drone footage video capturing Lugano's serene beauty during the fall season. Immerse yourself in the rich hues of autumn as the drone gracefully glides over the picturesque landscapes, showcasing the Lugano's vibrant landscapes, charming architecture, and the relaxing waters of Lake Lugano in the distance.\n\n📍 Lugano, Switzerland\n\n🏞️ Scenic Lakeside Views: Marvel at the breathtaking vistas of Lake Lugano, surrounded by the rolling hills and mountains that provide a stunning backdrop. The calm waters mirror the autumnal beauty, offering a sense of peace and tranquility.\n\n🎶 Soothing Soundscape: Let the gentle hum of the drone and the natural sounds of Lugano's surroundings create a calming atmosphere. This video is designed to be a visual and auditory retreat, allowing you to unwind and experience the beauty of Lugano in a unique and immersive way.\n\nWhether you're seeking a moment of relaxation, inspiration, or simply a virtual escape, this drone footage of Lugano in the autumn promises to transport you to a world of tranquility and natural splendor. Sit back, relax, and let Lugano's serene charm unfold before your eyes. 🍁✨\n\n🎵Music by Epidemic Sound\n\nInformation about the local tourism:\nhttps://www.myswitzerland.com/en-ch/destinations/lugano/\nhttps://www.luganoregion.com/en/\n\nEquipment: DJI Mini 4 Pro\n\nOther videos from Switzerland:\nLauterbrunnen: https://youtu.be/KJH0UZCgdhA\nInterlaken: https://youtu.be/KLclTW2NH2g?si=7jOLfqovTl0UMNkc\nWengen: https://youtu.be/vM732ppJZog?si=liLYh6Y12vefekyt\nJungfraujoch: https://youtu.be/sQXi2iA0d_Q?si=bQBbSGZnaSbkXB1o\nBern: https://youtu.be/f9U041kJbcY?si=8sUqB0iBov_2wiQa\n\nKeep up with us!\nInstagram:  https://www.instagram.com/wonders.of.switzerland\n\nThis channel is made for you, if you enjoyed the video please make sure to subscribe!\n\n#lugano #switzerland #dronevideo #relaxing #flyover",
+                "thumb": "https://i.ytimg.com/vi/pKDkhIQ1kqs/maxresdefault.jpg"
+            }
+        ]
     },
     {
-      "kind": "youtube#playlist",
-      "etag": "d17LbT7FbGcGxYMkOv9tGKHB4lI",
-      "id": "PLY8a-6iyFIe9Bd2nx5n-HkfMgDkoCkbMq",
-      "snippet": {
+        "id": "PLY8a-6iyFIe9Bd2nx5n-HkfMgDkoCkbMq",
         "publishedAt": "2023-03-20T08:35:48Z",
-        "channelId": "UCp84mSQtZSdduaVONDiCLlQ",
         "title": "Inside Swiss Homes & Hotels - by Wonders of Switzerland",
-        "description": "\"Inside Swiss Homes & Hotels - by Wonders of Switzerland\" is an intriguing YouTube playlist that invites you to step behind the scenes and discover the captivating interiors of Swiss homes and hotels. Presented by Wonders of Switzerland, a team passionate about showcasing the unique lifestyle and hospitality of Switzerland, this series provides an exclusive glimpse into the spaces where people live, relax, and indulge in luxury. Each video in the playlist offers an intimate tour, showcasing the exquisite design, attention to detail, and exceptional comfort found in Swiss homes and hotels. From cozy chalets nestled in the Swiss Alps to elegant city apartments and luxurious resorts, you'll witness the harmonious blend of traditional craftsmanship and contemporary aesthetics that define Swiss interior design. Immerse yourself in the ambiance, learn about the regional influences, and gain inspiration from the creative decor and furnishings. Whether you're an interior design enthusiast, a travel aficionado, or simply curious about Swiss living, \"Inside Swiss Homes & Hotels - by Wonders of Switzerland\" offers an enchanting journey into the heart and soul of Swiss hospitality and the art of creating inviting and stylish spaces.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/x0FnTkEbe7s/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "Wonders of Switzerland",
-        "localized": {
-          "title": "Inside Swiss Homes & Hotels - by Wonders of Switzerland",
-          "description": "\"Inside Swiss Homes & Hotels - by Wonders of Switzerland\" is an intriguing YouTube playlist that invites you to step behind the scenes and discover the captivating interiors of Swiss homes and hotels. Presented by Wonders of Switzerland, a team passionate about showcasing the unique lifestyle and hospitality of Switzerland, this series provides an exclusive glimpse into the spaces where people live, relax, and indulge in luxury. Each video in the playlist offers an intimate tour, showcasing the exquisite design, attention to detail, and exceptional comfort found in Swiss homes and hotels. From cozy chalets nestled in the Swiss Alps to elegant city apartments and luxurious resorts, you'll witness the harmonious blend of traditional craftsmanship and contemporary aesthetics that define Swiss interior design. Immerse yourself in the ambiance, learn about the regional influences, and gain inspiration from the creative decor and furnishings. Whether you're an interior design enthusiast, a travel aficionado, or simply curious about Swiss living, \"Inside Swiss Homes & Hotels - by Wonders of Switzerland\" offers an enchanting journey into the heart and soul of Swiss hospitality and the art of creating inviting and stylish spaces."
-        }
-      }
+        "thumb": "https://i.ytimg.com/vi/x0FnTkEbe7s/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "x0FnTkEbe7s",
+                "title": "Inside a Swiss Luxury Resort | Tour at Five Zurich Hotel",
+                "publishedAt": "2023-03-20T08:45:53Z",
+                "description": "Welcome to the first video of the series Inside Swiss Homes & Hotels! In this series we are going to share tours of many places around Switzerland, this may help those who are looking for an Airbnb or hotel to stay, or just curious about life in Switzerland. \n\n📍 Zurich, Switzerland\n\nThe Five Hotel is a resort located in Zurich.\nIt has 45 luxurious suites, 42 suite sized lifestyle rooms and 62 Amazing Rooms with glittering skyline city views or mountain views. They offer shuttle service upon request to pick you up at Zurich HB, Triemli, and Schweighof stations.\nFive is among the top rated Smart and sustainable hotels in the world.\nIf you decide to stay there you wont regret it.\n\nhttps://zurich.fivehotelsandresorts.com/\n\n♬ Music by Epidemic Sound\n#switzerland #zurich  #travel #hotels #tour #review #hotelreview #resorts",
+                "thumb": "https://i.ytimg.com/vi/x0FnTkEbe7s/maxresdefault.jpg"
+            },
+            {
+                "videoid": "sMENon0E0Cw",
+                "title": "Staying in a Real Castle in Switzerland | Hotel Tour | Budget-Friendly | Swiss Alps (Montreux)",
+                "publishedAt": "2023-08-10T12:59:44Z",
+                "description": "Ever dreamed of staying in a real castle in the swiss alps? Now you can turn that dream into reality without breaking the bank. Join us on this enchanting hotel tour as we unlock the doors to Châtelard Castle Hotel, in Montreux, Switzerland, where affordable luxury meets historic charm.\n\n📍 Montreux, Switzerland 🇨🇭\n\nCastle's WebSite:\nhttps://chateauchatelard.ch/en/\n\nDiscover this cozy room that exude comfort and elegance inside a real castle, offering a taste of the past while providing all the modern conveniences you need for a very budget-friendly cost. But that's just the beginning. The real treasure lies in the incredible views that greet you outside your window—Montreux, the picturesque Lake Geneva, and the breathtaking Swiss Alps all in one mesmerizing panorama.\n\nWhether you're sipping a morning coffee while gazing at the sun-kissed Swiss Alps or winding down your day with the shimmering city lights of Montreux in Switzerland, this video showcases the incredible experience that awaits you at Châtelard Castle Hotel. Don't miss out on this chance to make your castle stay dreams come true, without compromising on affordability. Watch now and embark on a journey to a world where luxury and savings meet in perfect harmony!\n\nChapters:\n00:00 Intro\n01:18 The Room\n04:30 Kitchen and bathroom\n05:42 The exterior\n\n🎵 Music by Epidemic Sound and Youtube Audio Library\n\n#affordableluxury #breathtakingviews  #lakegeneva   #alpinebeauty   #travelgoals  #exploreswitzerland  #switzerland #swissalps #swissbeauty #travel #travelinspiration",
+                "thumb": "https://i.ytimg.com/vi/sMENon0E0Cw/maxresdefault.jpg"
+            }
+        ]
+    },
+    {
+        "id": "PLY8a-6iyFIe-j4Wk1E9W1bujFienD1Fs-",
+        "publishedAt": "2022-11-03T12:33:25Z",
+        "title": "Around the World - by Wonders of Switzerland",
+        "thumb": "https://i.ytimg.com/vi/V7reiIQYd20/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "V7reiIQYd20",
+                "title": "You won't believe how deep it is ! 1 Day in Lake Como, Italy | Among the Most Famous Lakes in Europe",
+                "publishedAt": "2022-11-03T12:33:33Z",
+                "description": "Como is a city at the southern tip of Lake Como in northern Italy, very close to the border with Switzerland. It's known for the Gothic Como Cathedral, a scenic funicular railway, and a waterfront promenade. The Museo Didattico della Seta traces the history of Como's silk industry, while the Tempio Voltiano museum is dedicated to Italian physicist Alessandro Volta. Just north are the lakeside gardens of the palatial Villa Olmo, as well as other stately villas. \n\nIn this video, we share our adventure in Como and offer some itinerary ideas. If you will spend 1 day in Como and want to follow our itinerary, here are some useful links: \n\nDuomo di Como: \n  Location: https://goo.gl/maps/bRnTAQceK4zQyj4t5\n  Website: https://www.cattedraledicomo.it/en/home-2/\n  Timetable: 10.30 am to 5.30 pm every weekday; on Saturdays from 10.45 am to 4.30 pm; and Sundays from 1 pm to 4.30 pm.\n\nLake Shore and Tempio Voltiano: https://goo.gl/maps/pQwTTERDYhbtaffQA\n\nBoat Cruise to Bellagio: https://www.navigazionelaghi.it/risultati?lake=Como\n\nComo-Brunate funicular railway: https://www.funicolarecomo.it/\n\nTimestamps:\n00:00 - Intro\n00:37 - Duomo di Como\n02:52 - Lake Shore\n04:39 - Boat Cruise to Bellagio\n05:59 - Bellagio Village\n\n🎵 Music by Epidemic Sound\n\n#switzerland #italy #como #lakecomo #travel #travelvlog #itinerary #travelguide",
+                "thumb": "https://i.ytimg.com/vi/V7reiIQYd20/maxresdefault.jpg"
+            },
+            {
+                "videoid": "Ww9HqzCl0pU",
+                "title": "Pisa - Italy: Piazza dei Miracoli - 4K",
+                "publishedAt": "2023-07-10T10:13:27Z",
+                "description": "#pisa #italy #leaningtower #piazzadeimiracoli\n\nThe city of Pisa is a city and comune in Tuscany, central Italy.\nIt is the capital city of the Province of Pisa. Although Pisa is known worldwide for its leaning tower, the city contains more than twenty other historic churches, several medieval palaces, and bridges across the Arno river.\nMuch of the city's architecture was financed from its history as one of the Italian maritime republics.\n\nThe Piazza dei Miracoli (Italian; English: Square of Miracles), formally known as Piazza del Duomo (English: Cathedral Square), is recognised as an important centre of European medieval art and one of the finest architectural complexes in the world. \nConsidered sacred by the Catholic Church, its owner, the square is dominated by four great religious edifices: the Pisa Cathedral, the Pisa Baptistry, the Campanile, and the Camposanto Monumentale (Monumental Cemetery). \nPartly paved and partly grassed, the Piazza dei Miracoli is also the site of the Ospedale Nuovo di Santo Spirito (New Hospital of the Holy Spirit), which houses the Sinopias Museum (Italian: Museo delle Sinopie) and the Cathedral Museum (Italian: Museo dell'Opera del Duomo).\n\n------------------------------------------------------------------------------------------------------------\nFollow us:\nInstagram: https://www.instagram.com/wonders.switzerland\nTwitter: https://twitter.com/wonders_swiss\n-----------------------------------------------------------------------------------------------------------\n\n🎵 \nAll music in this video is promoted by Youtube's Audio Library",
+                "thumb": "https://i.ytimg.com/vi/Ww9HqzCl0pU/maxresdefault.jpg"
+            },
+            {
+                "videoid": "54pa-ctkkNY",
+                "title": "Rome - Colosseum & Roman Forum 2022 4K HDR",
+                "publishedAt": "2023-07-10T10:14:02Z",
+                "description": "#rome #italy #colosseum #romanforum \n\nThe Colosseum; Italian: Colosseo; is an oval amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. It is the largest ancient amphitheatre ever built, and is still the largest standing amphitheatre in the world today.\n\nThe Colosseum is built of travertine limestone, tuff (volcanic rock), and brick-faced concrete. It could hold an estimated 50,000 to 80,000 spectators at various points in its history, having an average audience of some 65,000; It was used for gladiatorial contests and public spectacles including animal hunts, executions, re-enactments of famous battles, and dramas based on Roman mythology, and briefly mock sea battles. \n\nThe building ceased to be used for entertainment in the early medieval era.The Roman Forum, also known by its Latin name Forum Romanum (Italian: Foro Romano), is a rectangular forum (plaza) surrounded by the ruins of several important ancient government buildings at the center of the city of Rome. Citizens of the ancient city referred to this space, originally a marketplace, as the Forum Magnum, or simply the Forum.\n\n------------------------------------------------------------------------------------------------------------\nFollow us:\nInstagram: https://www.instagram.com/wonders.switzerland\nTwitter: https://twitter.com/wonders_swiss\n-----------------------------------------------------------------------------------------------------------\n\n🎵 All music in this video is promoted by Youtube's Audio Library",
+                "thumb": "https://i.ytimg.com/vi/54pa-ctkkNY/maxresdefault.jpg"
+            },
+            {
+                "videoid": "XnaG09h1AQQ",
+                "title": "London - Queen Elizabeth’s Home - 1 Day Tour - 4K HDR",
+                "publishedAt": "2023-07-10T10:14:13Z",
+                "description": "Follow us on another amazing tour through the Wonders of the World. This time: LONDON !! 🇬🇧 🇬🇧 🇬🇧\n\n\nLondon is the capital and largest city of England and the United Kingdom, with a population of just over 9 million. It stands on the River Thames in south-east England at the head of a 50-mile (80 km) estuary down to the North Sea, and has been a major settlement for two millennia. The City of London, its ancient core and financial center, was founded by the Romans as Londinium and retains boundaries close to its medieval ones.\n\n\nAs one of the world's major global cities, London exerts a strong influence on its arts, entertainment, fashion, commerce and finance, education, health care, media, science and technology, tourism, and transport and communications.\n\n\nLondon's diverse cultures encompass over 300 languages. The London metropolitan area is third-most populous in Europe after Istanbul's and Moscow's, with about 14 million inhabitants in 2016, granting London the status of a megacity.\n\n\nLondon has four World Heritage Sites: the Tower of London; Kew Gardens; the combined Palace of Westminster, Westminster Abbey, and St Margaret's Church; and also the historic settlement in Greenwich, where the Royal Observatory, Greenwich defines the Prime Meridian (0° longitude) and Greenwich Mean Time. Other landmarks include Buckingham Palace, the London Eye, Piccadilly Circus, St Paul's Cathedral, Tower Bridge, and Trafalgar Square.\n\n\n\n🎶 Music by Youtube's Audio Library\n\n#london #queenelizabeth #thequeen",
+                "thumb": "https://i.ytimg.com/vi/XnaG09h1AQQ/maxresdefault.jpg"
+            }
+        ]
+    },
+    {
+        "id": "PLY8a-6iyFIe-I6UDmmXmTWjs-jxS26OcB",
+        "publishedAt": "2022-10-23T11:08:43Z",
+        "title": "Around Switzerland - by Wonders of Switzerland",
+        "thumb": "https://i.ytimg.com/vi/oD-_4wJAw-s/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "oD-_4wJAw-s",
+                "title": "Top 10 Must See Places in Lucerne - Switzerland - 4K - Guided Tour",
+                "publishedAt": "2022-10-23T11:08:55Z",
+                "description": "Lucerne ranks amongst the world's prettiest cities and is rich in sights and attractions. Contributing to Lucerne's cityscape alongside the world-famous Chapel Bridge and Water Tower are the Musegg Wall, the Jesuit Church, the Lion Monument, the KKL culture and convention centre and many other sites of interest. Lucerne is best discovered on foot – so come with us on this guided tour! \n\nFree Pocket Guide: https://pdfhost.io/v/WX9wYGM.K_Lucerne_Pocket_Guide\nLucerne water - online fountain guide: https://lucernewater.ch/\n\nTimestamps:\n00:00 - Intro\n01:05 - 10th KKL\n02:25 - 9th Church of St Leodegar\n03:54 - 8th Rathaus Brewery\n04:53 - 7th City Center\n06:21 - 6th Jesuit Church\n08:02 - 5th Musegg Wall\n09:55 - 4th Lion Monument\n11:11 - 3rd Boat Cruise\n12:48 - 2nd Chapel Bridge\n14:24 - 1st Mount Pilatus\n17:13 - Bonus: The Country Side\n\n♬ Music by Epidemic Sound\n\n#switzerland  #lucerne #tourguide #travel  #travelguide  #top10",
+                "thumb": "https://i.ytimg.com/vi/oD-_4wJAw-s/maxresdefault.jpg"
+            },
+            {
+                "videoid": "vM732ppJZog",
+                "title": "Wengen - Hidden Treasure in the Heart of Switzerland - Among the Most Beautiful Swiss Villages !",
+                "publishedAt": "2023-03-24T08:03:34Z",
+                "description": "In this video, we share our trip to a hidden treasure swiss village in the swiss alps. 🇨🇭 \n\nThe Wengen village is an enchanting and very traditional swiss village in the Jungfrau region, and near the amazing Lauterbrunnen Valley  ⛰️ \n\nThe car-free resort of Wengen is situated on a sunny plateau and offers a breathtaking view of the Jungfrau. One of the main attractions is the railway trip to the Jungfraujoch - the Top of Europe.  🚃   The Lauberhorn Races in January and the Jungfrau Marathon at the beginning of September are also top events held in Wengen.\n\nWe will first show you the nice resort hotel 🏨 in which we stayed there, and then show you some of the things we think you should do when visiting Wengen.\n\n✨ We saved the best for the end of the video. So stick with us till the end so that you don't miss what we think is the best thing you should do there.\n\n📍 Wengen, Switzerland\n\n🎵 Music by EpidemicSound\n\n#switzerland #wengen #travel #travelgoals",
+                "thumb": "https://i.ytimg.com/vi/vM732ppJZog/maxresdefault.jpg"
+            },
+            {
+                "videoid": "4sH3Jm0PuKQ",
+                "title": "Sabbione - Switzerland | Epic Cinematic Video | Real Life Hobbit Village | Switzerland at its Best",
+                "publishedAt": "2023-04-11T10:01:38Z",
+                "description": "Sabbione is a small village located in the upper part of the Maggia Valley, and it is known for its picturesque location surrounded by mountains and forests, and also for being a real life hobbit village, because it seems to have come straight out of Tolkien tales. The banks of the Maggia River are known for their crystal-clear waters and is popular for swimming, kayaking, and other water sports.\n\nThe Church of Santa Maria degli Angeli is also a significant attraction in the area. The church features beautiful frescoes and paintings, and it is a popular destination for visitors interested in art and history. The surrounding area of Sabbione is also well-known for its natural beauty, and there are numerous hiking and biking trails in the nearby mountains and forests. It is a popular destination for outdoor enthusiasts and features stunning scenery, including waterfalls, alpine meadows, and rugged peaks.\n\nIn addition to outdoor activities, Sabbione and the surrounding area offer a range of cultural and culinary experiences. The local cuisine features regional specialties such as polenta, risotto, and goat cheese, and there are several restaurants in the area that serve traditional Ticinese dishes. Overall, Sabbione is a charming village in the Maggia Valley of Ticino, Switzerland, that offers visitors a range of cultural and outdoor experiences. Whether you're interested in art, history, nature, or cuisine, Sabbione and the surrounding area are sure to offer something to suit your interests.\n\n\n📍 Sabbione, Ticino, Switzerland\n🎵 Music by Epidemicsound\n\n#sabbione #ticino  #switzerland  #travel #beautifuldestinations  #discoverswitzerland  #scenic #travelguide  #cinematic #epicvideo  #viralvideo",
+                "thumb": "https://i.ytimg.com/vi/4sH3Jm0PuKQ/maxresdefault.jpg"
+            },
+            {
+                "videoid": "jUTylho4LGA",
+                "title": "Epic Adventure in Lauterbrunnen Valley: A Mesmerizing Autumn Journey",
+                "publishedAt": "2023-06-16T13:12:16Z",
+                "description": "Welcome to our captivating journey through the enchanting Lauterbrunnen Valley! Join us on an unforgettable one-day expedition filled with scenic drives, leisurely walks, and awe-inspiring views of cascading waterfalls. As we embark on this adventure on a remarkable autumn day, the valley comes alive with vibrant colors and a touch of cloudy mystique, adding an extra layer of magic to the already stunning landscape.\n\n📍 Lauterbrunnen, Switzerland 🇨🇭 \n\nOur adventure begins as we hit the road, cruising through picturesque countryside roads surrounded by golden-hued trees. With every turn, we'll be treated to postcard-worthy views, capturing the essence of autumn in its full glory. As we approach Lauterbrunnen Valley, the anticipation builds, knowing that an extraordinary experience awaits us.\n\nOnce we arrive, we'll set off on foot, navigating the well-marked trails that wind their way through the valley's heart. The sound of rushing water accompanies us as we make our way to the valley's most famous waterfall. Prepare to be spellbound as we witness the majestic spectacle of water cascading down towering cliffs, creating a symphony of mist and spray.\n\nAs we continue our trek, we'll encounter charming Swiss villages nestled among the lush meadows. We'll take a moment to immerse ourselves in the tranquility of these idyllic settlements, appreciating the warm hospitality of the locals and their rich cultural heritage.\n\nThroughout our adventure, we'll capture every breathtaking moment, ensuring you feel as if you're right there with us. Join us as we embrace the beauty of nature, embarking on a day-long journey that will leave you in awe. So sit back, relax, and get ready to be transported to a world where autumn's magic and Lauterbrunnen Valley's splendor unite in a truly extraordinary experience. Don't forget to subscribe, hit the bell icon, and join our community of adventure seekers. Let's begin this incredible journey together!\n\n🎵 Music by Epidemicsound\n\n#LauterbrunnenValleyAdventure #AutumnExploration #BreathtakingWaterfalls #ScenicRoadTrip #SwissNature #CloudyDayMagic #UnforgettableJourney #SwissVillageCharm #NaturePhotography #OutdoorAdventure #BucketListDestination #TravelInspiration #TravelVlog #Wanderlust #ExploreTheWorld",
+                "thumb": "https://i.ytimg.com/vi/jUTylho4LGA/maxresdefault.jpg"
+            },
+            {
+                "videoid": "Wyy97JuKjZQ",
+                "title": "Bellinzona | Exploring the Enchanting Fortresses | Guided Tour | Swiss Unesco Heritage | 4K UHD",
+                "publishedAt": "2023-06-23T22:05:40Z",
+                "description": "Join us on an unforgettable journey through time as we embark on a guided tour of the majestic Bellinzona Fortresses in Switzerland. Nestled amidst breathtaking Alpine scenery, these UNESCO World Heritage sites offer a captivating glimpse into the rich history of the region.\n\n📍 Bellinzona, Ticino, Switzerland 🇨🇭 \n🎫 To buy the Bellinzona Pass 3 Castle Ticket:\nhttps://booking.bellinzonaevalli.ch/it/products/bellinzona-pass\n\nIn this immersive experience, our knowledgeable guide will lead you through the intricately preserved fortresses, revealing their secrets and sharing fascinating stories of battles, conquests, and the lives of those who once called these fortifications home. From the imposing Castelgrande, perched on a rocky hill, to the charming Montebello and the mighty Sasso Corbaro, each fortress boasts its own unique allure and architectural wonders.\n\nAs we wander through the ancient halls and ramparts, you'll witness stunning panoramic views of the surrounding valleys and the picturesque town of Bellinzona. Discover the strategic significance of these fortresses, which guarded key trade routes and territories throughout the centuries.\n\nWhether you're a history enthusiast, an architecture lover, or simply seeking a glimpse into Switzerland's past, this guided tour promises an enchanting adventure. So, grab your virtual passport and join us as we unravel the mysteries of the Bellinzona Fortresses, where history comes alive before your eyes. Don't miss out on this extraordinary exploration of Swiss heritage!\n\n🎵 Music by Epidemicsound\n\n#BellinzonaFortresses #SwissHistory #UNESCOHeritage #GuidedTour #AlpineAdventure #HistoricalJourney #ArchitectureWonders #FortressExploration #SwissCulture #TravelSwitzerland #VirtualTour #ExploreBellinzona #HeritageSites #ScenicViews #TimeTravel  #DiscoverSwitzerland #grandtourofswitzerland\n\n\n00:00 - Intro\n00:55 - Train\n01:23 - Castel Grande\n02:40 - City Wall\n03:17 - Church of Saints Peter and Stephen\n03:50 - Montebello Castle \n04:39 - Montebello's inner courtyards \n06:34 - Conclusion",
+                "thumb": "https://i.ytimg.com/vi/Wyy97JuKjZQ/maxresdefault.jpg"
+            },
+            {
+                "videoid": "R7ScgmIa2tg",
+                "title": "Geneva in 1 day | Guided Tour | Main Attractions | Switzerland | 4K UHD",
+                "publishedAt": "2023-06-30T06:50:23Z",
+                "description": "Join us on an awe-inspiring journey as we take you on a captivating guided tour through the enchanting city of Geneva, Switzerland. Nestled on the picturesque shores of Lake Geneva, this cosmopolitan metropolis is renowned for its rich history, vibrant culture, and breathtaking landmarks.\n\n📍 Geneva, Switzerland 🇨🇭 \n\n🔗 https://www.myswitzerland.com/en-ch/destinations/geneva/\n\nIn this mesmerizing video, we'll delve into the heart of Geneva, unveiling its most remarkable sites. Prepare to be captivated by the iconic Jet d'Eau, a towering fountain that gracefully showers the lake with a magnificent spray. We'll then wander through the charming streets of the Old Town, where the past intertwines with the present, revealing centuries-old architecture, quaint cafes, and bustling markets.\n\nOur journey continues as we venture into the United Nations Office, a symbol of diplomacy and international cooperation. No tour of Geneva would be complete without a visit to the beautiful St. Pierre Cathedral. \nAs we make our way to the Reformation Wall, prepare to be awestruck by this monumental tribute to the leaders of the Protestant Reformation. Towering statues of influential figures such as John Calvin, Martin Luther, and John Knox stand proudly, representing the pivotal role Geneva played in shaping religious history.\n\nWe'll also explore the enchanting Jardin Anglais, home to the iconic L'Horloge Fleurie, a stunning flower clock that showcases Geneva's passion for precision and nature.\n\nWhether you're planning a trip to Geneva or simply seeking to experience its wonders from afar, this guided tour promises to transport you to the very heart of this mesmerizing city. Prepare to be inspired, amazed, and captivated by the irresistible charm and splendor of Geneva, Switzerland.\n\n🎵 Music by Epidemic Sound (https://www.epidemicsound.com)\n\nChapters:\n00:00 Intro\n00:44 United Nations\n01:03 The City\n02:55 St. Peter's Cathedral\n03:25 Reformation Wall\n04:30 Botanical Garden\n07:23 Conclusion\n\n#GenevaExploration #SwissDelights #HistoricTreasures #ReformationWallTour #CulturalGems #GenevaAdventures #DiscoverSwitzerland #UnveilingGeneva #LandmarksAndLegends #SwissHeritage #SwissWonders #SwissBeauty #SwissAdventures #SwissCulture #SwissPride #SwitzerlandTour #SwissTravel #ExploreSwitzerland",
+                "thumb": "https://i.ytimg.com/vi/R7ScgmIa2tg/maxresdefault.jpg"
+            },
+            {
+                "videoid": "sQXi2iA0d_Q",
+                "title": "Jungfraujoch | The Top of Europe | Full Guide | Unveiling Switzerland's Alpine Gem | 4K UHD",
+                "publishedAt": "2023-07-06T13:36:56Z",
+                "description": "Join us on an extraordinary adventure as we embark on a breathtaking guided tour of Jungfraujoch, the Top of Europe! Nestled amidst the stunning Swiss Alps, this enchanting destination boasts a plethora of awe-inspiring attractions that will leave you spellbound.\n\n📍 Jungfraujoch, Switzerland\n\nWebsite: \n🔗 https://www.jungfrau.ch/en-gb/\n\nBuy tickets here: \n🎫  https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/buy-jungfraujoch-ticket/\n\nIn this immersive video, we take you on a virtual journey through the snow-capped peaks and mesmerizing landscapes that surround Jungfraujoch. Brace yourself for an adrenaline-pumping cable-car ride through the Eiger and Mönch mountains, as we ascend to the highest railway station in Europe.\n\nOnce we reach the summit, get ready to be mesmerized by the colossal Aletsch Glacier, a UNESCO World Heritage site, stretching as far as the eye can see. We'll explore the Ice Palace, a fascinating underground world of glistening ice sculptures, and marvel at the panoramic views from the Sphinx Observation Terrace, where the Swiss Alps reveal their majestic grandeur.\n\nWe will walk you through the must-see attractions, including the fascinating Alpine Sensation exhibition, which offers a captivating glimpse into the region's history and natural wonders. And don't forget to indulge in some Swiss delicacies at the charming restaurants and cafes dotted around the Jungfraujoch summit.\n\nWhether you're an avid adventurer, a nature enthusiast, or simply seeking an unforgettable experience, this virtual tour of Jungfraujoch is sure to leave you in awe. So, sit back, relax, and prepare to be transported to the heart of Switzerland's alpine paradise!\n\nDon't forget to hit that \"Subscribe\" button and turn on the notification bell to join our community of travel enthusiasts. Let's embark on this remarkable journey together!\n\nChapters:\n00:00 Intro\n00:41 The Eiger Express\n02:53 Eiger Glacier Station\n03:51 The Top of Europe\n05:44 The Alpine Sensation\n08:25 The Return Journey\n09:24 Conclusion\n\n🎵 Music by Epidemic Sound (https://www.epidemicsound.com)\n\n#switzerland    #relaxing   #mountains   #jungfrau   #jungfraujoch   #travel  #4k  #topofeurope  #swissalps  #virtualtour",
+                "thumb": "https://i.ytimg.com/vi/sQXi2iA0d_Q/maxresdefault.jpg"
+            },
+            {
+                "videoid": "rrP7hZof4gQ",
+                "title": "The Amazing Wonders of Switzerland",
+                "publishedAt": "2023-07-10T10:16:08Z",
+                "description": "Discover Switzerland, a breathtaking destination among the world's finest. Experience its indescribable marvels and immerse yourself in awe-inspiring landscapes and scenarios, all captured in stunning 4K resolution for your viewing pleasure. Join us on remarkable and relaxing adventures!\n\nBe sure to subscribe and follow us for an incredible journey\n\n🎶 Music by YouTube’s Audio Library\n\n#switzerland #schweiz #swiss #suisse #switzerlandwonderland #visitswitzerland #myswitzerland #inlovewithswitzerland #switzerland_vacations #swissxplorers #lifeofswitzerland #swissalps #amazingswitzerland #switzerlandpictures #switzerland_destinations #svizzera #exploreswitzerland #iloveswitzerland #suica #suiza #schweizeralpenclub",
+                "thumb": "https://i.ytimg.com/vi/rrP7hZof4gQ/maxresdefault.jpg"
+            },
+            {
+                "videoid": "7YlwHCOenes",
+                "title": "Lausanne | One-Day Guided Tour | Switzerland's Gem | 4K UHD",
+                "publishedAt": "2023-07-16T06:42:43Z",
+                "description": "Join us on an unforgettable journey through the enchanting city of Lausanne! In this immersive YouTube video, we embark on a one-day guided tour, highlighting four must-visit attractions that showcase the rich heritage and natural beauty of this Swiss gem.\n\n📍 Lausanne, Switzerland 🇨🇭 \n\nOur adventure begins at the awe-inspiring Cathedral of Notre Dame of Lausanne, a magnificent Gothic masterpiece. Visit the churchyard to witness breathtaking panoramic views of the city below, with the shimmering Lake Geneva as a backdrop. Prepare to be captivated by the intricate architectural details and the tranquil atmosphere of this sacred place.\n\nNext, we venture to Sauvabelin Tower, nestled within the enchanting Sauvabelin Forest. Ascending this charming wooden tower offers an unparalleled vista of Lausanne's lush greenery, surrounding alps, and the glistening lake in the distance. The serene natural surroundings make it the perfect spot for nature lovers and photography enthusiasts.\n\nOur tour then takes us to the grandeur of Vufflens Castle, a medieval fortress steeped in history and charm. Marvel at the castle's imposing architecture as we wander through its enchanting gardens. The picturesque surroundings and sweeping views make it a truly remarkable destination.\n\nFinally, we conclude our journey at Aquatis Aquarium, a haven for aquatic enthusiasts and families alike. Immerse yourself in the fascinating underwater world as we explore diverse marine ecosystems, encounter exotic fish species, and learn about conservation efforts. Aquatis offers an educational and awe-inspiring experience for visitors of all ages.\n\nJoin us as we uncover the hidden gems of Lausanne, from the heights of Notre Dame Cathedral to the depths of Aquatis Aquarium. Whether you're a history buff, nature lover, or simply seeking a captivating adventure, this one-day guided tour promises to leave you inspired and yearning for more. Don't miss out on this remarkable journey through Lausanne's cultural and natural wonders!\n\nChapters:\n00:00 Intro\n00:44 Cathedral of Notre Dame of Lausanne\n03:22 Sauvabelin Tower\n05:51 Vufflens Castle\n07:53 Aquatis Aquarium\n12:01 Conclusion\n\n🎵 Music by Epidemic Sound\n\n#switzerland #relaxing #lausanne #travel #4k #citytour #travelinspiration #travelvlog #traveling #travelguide",
+                "thumb": "https://i.ytimg.com/vi/7YlwHCOenes/maxresdefault.jpg"
+            },
+            {
+                "videoid": "EL4YYc87uOQ",
+                "title": "Unraveling Chillon Castle: A Full Guided Tour of Switzerland's Most Visited Historical Building - 4K",
+                "publishedAt": "2023-07-21T09:51:29Z",
+                "description": "🏰 Welcome to our captivating adventure through the centuries-old Chillon Castle, nestled gracefully on the shores of Lake Geneva in the picturesque town of Montreux! Join us on this unforgettable journey as we take you through the rich history, mesmerizing architecture, and hidden wonders of one of Switzerland's most iconic landmarks.\n\n📍 Montreux, Switzerland\n\n🌊 Perched on a rocky outcrop, Chillon Castle boasts a history that dates back over a thousand years, making it a true testament to the region's storied past. As we step inside its imposing walls, you'll be immersed in a world of medieval splendor and historical intrigue. We will walk you through the various rooms, halls, and corridors, sharing captivating stories about the castle's former inhabitants.\n\n🔍 Prepare to be amazed by the castle's intricate architectural details, ranging from medieval towers and drawbridges to elegant Gothic windows and Renaissance chambers. Each room carries a distinct character, giving you a glimpse into the lives of the dukes, counts, and also prisoners who once resided within these walls.\n\n📜 As we wander through the Castle's halls, we'll unveil the fascinating legends and myths associated with Chillon, including the tale of Lord Byron's prisoner and the secrets that lie hidden within the castle's depths. The aura of mystery and romance that envelops Chillon Castle is certain to leave you spellbound.\n\n🌅 Moreover, the panoramic views of Lake Geneva and the surrounding Alps from the castle's vantage points are nothing short of breathtaking. Prepare your cameras to capture the stunning landscape that adds another layer of charm to this unforgettable experience.\n\n🤝 Whether you're a history enthusiast, an architecture aficionado, or simply seeking an unforgettable adventure, our guided tour of Chillon Castle promises to be an enriching and visually stunning journey. So, come along as we embark on this unforgettable journey!\n\nChapters:\n00:00 Intro\n02:42 Wine Cellars\n04:13 The Prison\n07:01 Courtyards\n08:39 Tower Passages\n09:33 The Great Halls\n10:28 Bernese Chamber\n11:30 The Chapel\n12:07 The Weapons Room\n12:44 Conclusion\n\n🎵 Music by Epidemic Sound\n\n#chilloncastle #switzerland #montreux #virtualtour #travel #travelinspiration #travelguide #swissalps #lakegeneva #medieval #castle #history #4k #travelling",
+                "thumb": "https://i.ytimg.com/vi/EL4YYc87uOQ/maxresdefault.jpg"
+            },
+            {
+                "videoid": "XCMDIb6gniQ",
+                "title": "Rochers de Naye | Switzerland | Guided Tour | Amazing Journey Through Swiss Alps | 4K UHD",
+                "publishedAt": "2023-07-28T09:24:27Z",
+                "description": "Embark on an extraordinary guided tour as we journey through the mesmerizing Swiss Alps, departing from the charming town of Montreux on the famous Golden Pass Line. Brace yourself for an unforgettable adventure filled with awe-inspiring views, captivating landscapes, and the mystical charm of Rochers de Naye, even on a heavy clouded day.\n\n📍 Montreux, Switzerland 🇨🇭 \n\nAs we board the iconic Golden Pass train, we're whisked away on a picturesque ride through lush valleys and quaint villages. Watch as the scenery unfolds before your eyes, offering glimpses of Swiss beauty at its finest. The ever-changing vistas of cloud-covered mountains and verdant meadows create an enchanting ambiance, promising a unique and intimate experience.\n\nThe journey takes us higher into the clouds, and as we ascend, the air becomes crisper, signaling our approach to the alpine wonderland of Rochers de Naye. Even on a cloudy day, the mountains exude a magical allure, shrouded in mist and mystery. Prepare to be mesmerized as we venture into this ethereal realm.\n\nUpon reaching the summit, the panoramic views from Rochers de Naye will leave you speechless. Thick clouds weave through the rugged peaks, adding an air of drama and mystique to the landscape. The tranquility of the surrounding nature embraces us, inviting introspection and a connection with the elements.\n\nTogether, we'll explore the well-marked trails that wind through the mountain's vast expanse.  We'll pause at breathtaking viewpoints, where you can absorb the vastness of the Swiss Alps, even in their clouded embrace.\n\nJoin us on this immersive guided tour, where every moment is an opportunity to immerse yourself in the serene beauty and mystique of the Swiss Alps. Rochers de Naye in its clouded glory promises a captivating experience that will remain etched in your heart forever.\n\nSo, come along and be enchanted by the hidden treasures of Rochers de Naye. Uncover the magic that lies within the clouds and experience the Swiss Alps like never before. Get ready to create memories that will forever evoke a sense of wonder and wanderlust. Let's set off on this extraordinary journey together! 🚂🏔️🌥️\n\nMore info:\nhttps://www.myvaud.ch/en/P815/the-cog-railway-montreux-rochers-de-naye\n\n🎵 Music By Epidemic Sound\n\nChapters:\n00:00 Intro\n01:26 Train Ride\n05:45 Rochers de Naye\n13:15 Conclusion\n\n#switzerland  #montreux  #virtualtour  #travel  #travelinspiration  #travelguide  #swissalps  #lakegeneva  #4k #travelling #cogwheel #train",
+                "thumb": "https://i.ytimg.com/vi/XCMDIb6gniQ/maxresdefault.jpg"
+            },
+            {
+                "videoid": "GOr6DJF2JgE",
+                "title": "The Magical Montreux Christmas Market in Switzerland (on Christmas Night)",
+                "publishedAt": "2023-08-25T13:07:14Z",
+                "description": "Step into the enchanting Montreux Christmas Market in Switzerland, as we take you on a mesmerizing journey through this captivating Christmas night. \n\n📍 Montreux, Switzerland 🇨🇭 \n\nJoin us in exploring the charming streets of the Montreux Christmas Market adorned with twinkling lights, indulging in delectable treats from inviting food trucks, and witnessing the awe-inspiring sight of Santa Claus soaring through the heavens. \n\nExperience the festive ambiance, unique gift shops, and delightful flavors that make the Montreux Christmas market an unforgettable holiday destination. Don't miss out on this magical adventure that brings the true essence of Christmas to life in all its splendor.\n\nChapters:\n00:00 Intro\n00:35 The Christmas Market\n01:31 Handicraft Shops\n02:19 The Food Party\n03:28 The Flying Santa Claus\n\n🎵 Music by Epidemic Sound\n\n#switzerland  #christmas  #travel  #montreux",
+                "thumb": "https://i.ytimg.com/vi/GOr6DJF2JgE/maxresdefault.jpg"
+            },
+            {
+                "videoid": "f9U041kJbcY",
+                "title": "Bern City Tour: Discovering the Amazing Swiss Capital",
+                "publishedAt": "2023-10-08T08:58:40Z",
+                "description": "Join us on an extraordinary journey through Bern, the picturesque capital of Switzerland. In this immersive guided tour, we delve deep into the heart of Bern, uncovering its rich history, captivating culture, and the breathtaking natural beauty that make this city a true Swiss treasure.\n\n📍 Bern, Switzerland\n\nFrom the iconic Nydegg Bridge, where the Aare River gracefully flows beneath, to the exquisite sculptures adorning the Bern Munster, we explore the hidden gems and iconic landmarks that define this enchanting city. As we meander through the UNESCO World Heritage-listed Old Town, history comes to life on the cobblestone streets.\n\nBut our adventure doesn't stop there. We ascend the Munster Platform to soak in panoramic views of the city's red-tiled rooftops and the distant Bernese Alps. Inside the Federal Palace, the seat of Swiss government, we gain insights into the country's political workings.\n\nWhether you're planning your Swiss adventure or joining us from the comfort of your own home, prepare to be captivated by Bern's timeless beauty and storied past. Join us on this virtual journey and discover the wonders of Bern, Switzerland's hidden gem. 🇨🇭🏞️🏛️📽️\n\n🎵 Music by Epidemic Sound\n\nChapters:\n00:00 Intro\n01:01 Car ride\n2:45 Arriving in Bern / Parking\n3:15 Nydegg Bridge\n5:01 Rosengarten\n7:53 The Old Town\n10:11 Bern's Munster\n14:46 Federal Palace\n15:54 Conclusion\n\n#switzerland #bern #travel  #city #europe #oldtown  #outdooradventure #virtualtour",
+                "thumb": "https://i.ytimg.com/vi/f9U041kJbcY/maxresdefault.jpg"
+            },
+            {
+                "videoid": "mwljDNDTwf0",
+                "title": "Fribourg Unveiled: A Tale of Timeless Beauty and History in Switzerland",
+                "publishedAt": "2023-11-02T09:34:49Z",
+                "description": "Step into a world where time stands still, and history and beauty intertwine in Fribourg, Switzerland. In this guided tour, we'll lead you through the enchanting layers of this city's rich past and vibrant present.\n\n📍 Fribourg, Switzerland 🇨🇭 \n\nOur journey includes the well-preserved medieval fortifications that once safeguarded Fribourg. From the magnificent Pont de Berne, offering a picturesque gateway, to the cobbled streets that wind through the Old Town, where half-timbered facades and charming squares beckon you to explore. \nThe 'Grand Tour of Switzerland' photo spot provides a panoramic revelation, with vistas that capture the heart and soul of Fribourg. Here, the Pre-Alps' majesty reveals itself, and the stunning scenery unfolds before your eyes.\nWe delve into the tranquil lore of the Loreto Chapel, where history and devotion converge, offering moments of quiet reflection and serenity.\nAnd last but not least, the Saint Nicholas Cathedral, a Gothic masterpiece that pierces the sky. Step inside to admire the intricate stained glass windows and sculptures, then ascend to the tower for panoramic views that will leave you breathless.\n\nLinks:\n📸 Grand Tour of Switzerland App: https://www.myswitzerland.com/en-ch/experiences/experience-tour/car-motorcycle-grand-tour/grand-tour-of-switzerland-app/\n\n⛪️ St Nicolas Cathedral: https://www.stnicolas.ch/\n\n\n\nChapters:\n0:00 Intro\n2:18 Loreto Chapel\n3:55 The Grand Tour of Switzerland \n5:42 Bern Bridge\n7:41 The Old Town\n8:44 The Fortifications\n11:05 St. Nicolas Cathedral\n\nOur journey in Fribourg is just the beginning. Subscribe to our channel and stay tuned as we continue to unveil the treasures of Switzerland. Let us be your guide as we embark on extraordinary journeys, one destination at a time 🇨🇭\n\n🎵 Music by Epidemic Sound\n\n#fribourg  #switzerland  #travel  #tourism  #historicplaces  #medievalcity  #citytour  #culturalheritage  #historicallandmarks  #europetravel  #wanderlust  #travelinspiration  #sightseeing  #exploretheworld  #beautifuldestinations  #travelguide  #bucketlist  #timelessbeauty  #worldheritage",
+                "thumb": "https://i.ytimg.com/vi/mwljDNDTwf0/maxresdefault.jpg"
+            },
+            {
+                "videoid": "M-gjYt1ZkY4",
+                "title": "Gruyères: A Magical Journey Through Switzerland's Most Beautiful Village (and Castle!)",
+                "publishedAt": "2023-11-11T17:46:44Z",
+                "description": "Join us on an enchanting exploration of Gruyères, Switzerland, where history comes alive in the cobbled streets of a charming village. \n\n📍 Gruyères, Switzerland 🇨🇭 \n\nImmerse yourself in the medieval allure of Gruyères Castle, witness the artistry of Gruyère cheese production at La Maison du Gruyère, and experience the tranquil transformation of the village by night. From cozy corners to historical wonders, Gruyères offers a tapestry of culture, tradition, and natural beauty. Come along as we uncover the magic of this Swiss gem. Don't forget to like, subscribe, and embark on more adventures with us!\n\n\n🎵 Music by Epidemic Sound\n\n#gruyere  #swiss  #swissbeauty  #cheese  #village  #villagelife  #castle  #travel  #culturalheritage  #exploreswitzerland  #switzerland  #villagelifestyle  #nature  #travelinspiration  #hiddengems  #adventureawaits",
+                "thumb": "https://i.ytimg.com/vi/M-gjYt1ZkY4/maxresdefault.jpg"
+            },
+            {
+                "videoid": "YoBiyFkxcB4",
+                "title": "Foroglio | Switzerland Waterfall | One of the Most Beautiful Traditional Villages in Ticino",
+                "publishedAt": "2023-11-16T08:12:13Z",
+                "description": "Foroglio is a beautiful waterfall in Switzerland, located more specifically in the village of Foroglio, in the Maggia Valley, canton of Ticino. The village is part of the municipality of Cevio and is known for its traditional stone houses, many of which have slate roofs, adding to the picturesque and authentic Swiss Alpine atmosphere.\n\n📍 Foroglio, Switzerland \n\nThe Foroglio waterfall is known for its picturesque setting, surrounded by lush greenery and the natural beauty of the Swiss Pre Alps. \nThe Foroglio waterfall is fed by the Maggia River and plunges down a rocky cliff, creating a stunning and serene atmosphere. \nVisitors often appreciate the tranquility of the area and the opportunity to enjoy nature.\n\n🎶 Music by Epidemic Sound\n\n#foroglio #switzerland   #nature  #travel  #travelgoals #switzerlandtour",
+                "thumb": "https://i.ytimg.com/vi/YoBiyFkxcB4/maxresdefault.jpg"
+            },
+            {
+                "videoid": "KLclTW2NH2g",
+                "title": "Interlaken Switzerland | Beautiful Swiss Alps | Main Attractions to Visit | A Cinematic Short Film",
+                "publishedAt": "2023-11-21T21:24:30Z",
+                "description": "Embark on a breathtaking visual odyssey as we explore the mesmerizing city of Interlaken, in the beautiful swiss alps. \n\nNestled between Lake Thun and Lake Brienz, Interlaken is a haven of tranquility surrounded by the majestic Swiss Alps. Join us on this cinematic adventure to witness the pristine lakes, charming villages, and awe-inspiring mountain peaks that make Interlaken a true gem. Immerse yourself in the soothing melodies of nature and let the stunning visuals transport you to a world where time seems to stand still. Whether you're a nature enthusiast, an adventure seeker, or simply a lover of beauty, this cinematic journey through Interlaken is sure to leave you spellbound. Sit back, relax, and let the magic of Interlaken, Switzerland unfold before your eyes.\n\n📍 Interlaken, Switzerland 🇨🇭 \n\n🏞️ Aerial Marvels:\nGlide over the crystal-clear waters of Lake Thun and Lake Brienz\nWitness the majesty of Interlaken's landscapes from a unique perspective\nAscend to the summit of Harder Kulm for jaw-dropping alpine vistas\n\n📸 Capture the Moment:\nShare your favorite aerial shots and experiences in the comments below. Don't forget to like, subscribe, and join us on this high-flying exploration of Interlaken! 🌄✈️\n\n🎶 Music by Epidemic Sound\n\n00:00 Intro\n01:16 The Two Lakes\n03:48 The Top of Interlaken\n\n#interlaken #switzerland #travel #travelinspiration",
+                "thumb": "https://i.ytimg.com/vi/KLclTW2NH2g/maxresdefault.jpg"
+            },
+            {
+                "videoid": "KJH0UZCgdhA",
+                "title": "Lauterbrunnen Switzerland | Most beautiful place in Switzerland",
+                "publishedAt": "2023-12-09T12:38:59Z",
+                "description": "🇨🇭 Welcome to the fairy tale village of Lauterbrunnen Switzerland! Arguably the most beautiful place in Switzerland. \n\n🏔️ Brace yourself for an amazing journey through this picturesque Swiss wonderland, where breathtaking landscapes meet heart-pounding activities.\n\n🏞️ Alpine Marvels: Explore the iconic Lauterbrunnen Valley, adorned with majestic cliffs and over 70 cascading waterfalls, offering unparalleled panoramic views that inspired Tolkien himself.\n\n🚠 Trümmelbach Falls Adventure: Venture inside the mountain to witness the raw power of Trümmelbach Falls, a series of ten cascading waterfalls within the rock. It's a sensory spectacle that immerses you in the heart of nature's forces.\n\n🪂 Skydiving Spectacle: Join us as we witness fearless skydivers take the plunge from towering rock faces, creating a mesmerizing dance in the sky. Catch the adrenaline rush and awe-inspiring scenes that make Lauterbrunnen a magnet for thrill-seekers.\n\n🌄 Journey to Wengen: Embark on a scenic train ride to Wengen. Marvel at the snow-covered peaks, vast glaciers, and the breathtaking beauty that surrounds you at over 1,000 meters. Walk with us through the car-free village of Wengen,.\n\n🔔 Subscribe for More Adventures: Don't miss out on the excitement! Hit subscribe to stay tuned for our upcoming episodes featuring more thrilling escapades and hidden treasures from Lauterbrunnen, Switzerland. Join us as we uncover the secrets of this adventure paradise! \n\n🎶 Music by Epidemic Sound\n\nInformation about the local tourism:\nhttps://www.jungfrau.ch/en-gb/lauterbrunnen\nhttps://schilthorn.ch/en/Welcome\nhttps://www.truemmelbachfaelle.ch/\nhttps://wengen.swiss/en/summer/\n\nEquipment: DJI Mini 4 Pro, iPhone 13 Pro, Zhiyun Smooth 5\n\n_________________________\n\nOther videos from the region\n\nInterlaken: https://youtu.be/KLclTW2NH2g?si=7jOLfqovTl0UMNkc\nWengen: https://youtu.be/vM732ppJZog?si=liLYh6Y12vefekyt\nJungfraujoch: https://youtu.be/sQXi2iA0d_Q?si=bQBbSGZnaSbkXB1o\nBern: https://youtu.be/f9U041kJbcY?si=8sUqB0iBov_2wiQa\n\nKeep up with us!\nInstagram:  https://www.instagram.com/wonders.of.switzerland\n\nThis channel is made for you, if you enjoyed the video please make sure to subscribe!\n\n_________________________\n\n0:00 - Intro\n1:23 - Lauterbrunnen\n5:18 - Trümmelbach Falls\n8:47 - Wengen\n\n#lauterbrunnen #lauterbrunnenvalley #switzerland #travel #exploreswitzerland #travelinspiration #middleearth",
+                "thumb": "https://i.ytimg.com/vi/KJH0UZCgdhA/maxresdefault.jpg"
+            },
+            {
+                "videoid": "vo-139pug3U",
+                "title": "Switzerland Top 10: Most Beautiful Places in Switzerland",
+                "publishedAt": "2024-01-01T04:03:37Z",
+                "description": "Welcome to a visual odyssey through the breathtaking landscapes of Switzerland! In this immersive video, we unveil the Top 10 Must-Visit Places that showcase the diverse beauty and cultural richness of this Alpine wonderland.\n\n1st:      Lauterbrunnen's Waterfall Wonderland (https://youtu.be/KJH0UZCgdhA)\n2nd:     Interlaken's Alpine Charm (https://youtu.be/KLclTW2NH2g)\n3rd:     Lucerne / Mount Pilatus Adventure (https://youtu.be/oD-_4wJAw-s  /  https://youtu.be/Xa07d2O-o9Y)\n4th:     Lausanne's Cultural Tapestry (https://youtu.be/7YlwHCOenes)\n5th:     Montreux and Chillon Castle (https://youtu.be/GOr6DJF2JgE  /  https://youtu.be/EL4YYc87uOQ)\n6th:     Top of Europe: Jungfraujoch (https://youtu.be/sQXi2iA0d_Q)\n7th      Foroglio's Alpine Haven (https://youtu.be/YoBiyFkxcB4)\n8th:     Stäuben Falls (Staubifall) (https://youtu.be/vmtZmt71XIo)\n9th:     Charming Bern  (https://youtu.be/f9U041kJbcY)\n10th:   Lugano's Lakeside Splendor (https://youtu.be/pKDkhIQ1kqs)\n\nJoin us on this exploration of Switzerland's wonders, where every destination unveils a new chapter in the story of this Alpine paradise. Don't forget to subscribe, share your favorite Swiss gems in the comments, and let us be your guide to the top wonders of Switzerland!\n\nMusic by Epidemic Sound\nEquipment: DJI Mini 4 Pro, iPhone 13 Pro, Zhiyun Smooth 5\n\nKeep up with us!\nInstagram:  https://www.instagram.com/wonders.of.switzerland\nThis channel is made for you, if you enjoyed the video please make sure to subscribe!\n\n0:00 - Intro\n1:17 - 10 Lugano\n3:14 - 9 Bern\n4:59 - 8 Staubilfall\n6:15 - 7 Foroglio\n7:58 - 6 Jungfraujoch\n9:45 - 5 Montreux / Chillon Castle\n11:35 - 4 Lausanne\n13:00 - 3 Lucerne / Mount Pilatus\n15:08 - 2 Interlaken\n17:01 - 1 Lauterbrunnen\n\n#switzerland #top10 #travel #travelinspiration",
+                "thumb": "https://i.ytimg.com/vi/vo-139pug3U/maxresdefault.jpg"
+            },
+            {
+                "videoid": "i2Jdbj_Oa1c",
+                "title": "Hidden Gems in Ticino Switzerland: Beautiful Places to Visit in Switzerland",
+                "publishedAt": "2024-01-06T13:18:00Z",
+                "description": "In this video we unveil some hidden gems places to visit in the Canton of Ticino in Switzerland, that showcase the diverse beauty and cultural richness of this amazing country.\n\n📍 Ticino, Switzerland\n\nMusic by Epidemic Sound\nEquipment: DJI Mini 4 Pro, iPhone 13 Pro, Zhiyun Smooth 5\n\nKeep up with us!\nInstagram:  https://www.instagram.com/wonders.of.switzerland\nThis channel is made for you, if you enjoyed the video please make sure to subscribe!\n\n0:00 - Intro\n1:06 - Verzasca Valley\n4:36 - Corippo Village \n6:37 - Maggia Valley\n8:57 - Locarno/Ascona Region\n\n#switzerland #ticino #hiddengems #travel",
+                "thumb": "https://i.ytimg.com/vi/i2Jdbj_Oa1c/maxresdefault.jpg"
+            }
+        ]
+    },
+    {
+        "id": "PLY8a-6iyFIe96cUTDOoXTU-UFLOZOnlnv",
+        "publishedAt": "2022-09-13T07:31:12Z",
+        "title": "Relaxing Videos - by Wonders of Switzerland",
+        "thumb": "https://i.ytimg.com/vi/Xa07d2O-o9Y/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "Xa07d2O-o9Y",
+                "title": "You won't believe the view !! Mount Pilatus - Switzerland 🇨🇭 Relaxing 4K HDR Video",
+                "publishedAt": "2022-09-13T07:31:19Z",
+                "description": "This video presents a great way to spend a day in Luzern, get to see the best view of the city by going to the top of  Mount Pilatus by cable car; and have fun in its adventure park, which includes an almost 2.500 ft toboggan run.\n\nMount Pilatus, is a mountain massif overlooking Lucerne in Central Switzerland. It is composed of several peaks, of which the highest (2,128.5 m (6,983 ft)) is named Tomlishorn.\nThe top can also be reached with the Pilatus Railway, the world's steepest cogwheel railway, from Alpnachstad, operating from May to November (depending on snow conditions) and the whole year with the aerial panorama gondolas and aerial cableways from Kriens. Tomlishorn is located about 1.3 km (0.81 mi) to the southeast of the top cable car and cog railway station. Two other peaks, closer to the stations are called Esel (Donkey, 2,118 m [6,949 ft]), which lies just east over the railway station, the one on the west side is called Oberhaupt (Head-Leader, 2,105 m [6,906 ft]).\n\n♬ Music by Epidemic Sound\n\n#switzerland  #relaxing  #mountains  #luzern  #pilatus #travel #4k",
+                "thumb": "https://i.ytimg.com/vi/Xa07d2O-o9Y/maxresdefault.jpg"
+            },
+            {
+                "videoid": "arF8h5qantY",
+                "title": "Foroglio Waterfall - Switzerland - Relaxing 4K HDR Video",
+                "publishedAt": "2022-09-13T10:14:47Z",
+                "description": "#switzerland #schweiz #swiss #suisse #switzerlandwonderland #visitswitzerland #foroglio #waterfall #water #valbavona #maggiavalley #myswitzerland #inlovewithswitzerland #switzerland_vacations #swissxplorers #lifeofswitzerland #swissalps #amazingswitzerland #switzerlandpictures #switzerland_destinations #svizzera #exploreswitzerland #iloveswitzerland #alpen #suica #suiza #schweizeralpenclub\n\nTicino is rich in waterfalls. The most spectacular one is the Foroglio in the Bavona Valley, at the top of the Maggia Valley. The water plummets vociferously from a height of 110 meters through foam and splashes in a striking natural scenery. Nearby, a very charming village with houses gathered around a little church, reminding us of the life of past generations who practiced transhumance and lived in the Bavona Valley only from spring to autumn.\n\n--\nAudio by Youtube's Audio Library",
+                "thumb": "https://i.ytimg.com/vi/arF8h5qantY/maxresdefault.jpg"
+            },
+            {
+                "videoid": "JT1iFKNcjQM",
+                "title": "Balcone d'Italia - Switzerland/Italy - Relaxing 4K Video",
+                "publishedAt": "2022-09-13T10:14:47Z",
+                "description": "#switzerland #schweiz #swiss #suisse #switzerlandwonderland #visitswitzerland #balconeditalia #italy #italia #myswitzerland #inlovewithswitzerland #switzerland_vacations #swissxplorers #lifeofswitzerland #swissalps #amazingswitzerland #switzerlandpictures #switzerland_destinations #svizzera #exploreswitzerland #iloveswitzerland #alpen #suica #suiza #schweizeralpenclub #travel #traveling #relaxing #relax \n\nSitting 1300 meters above Lake Lugano, the “Balcony of Italy” or Monte Sighignola, once a dirt road used in WW1, is right on border's edge between Italy and Switzerland.  On a beautiful clear day, the view from the top is absolutely breathtaking, as you'll can take in the snowcapped Alps, Lake Maggiore and Lake Varese.  This is a challenging but rewarding climb to the top from Lake Como and Val d’Intelvi, with a peaceful descent, returning through Valmara and Lake Lugano.\n\n--\nAudio by Youtube's Audio Library",
+                "thumb": "https://i.ytimg.com/vi/JT1iFKNcjQM/maxresdefault.jpg"
+            },
+            {
+                "videoid": "BmG9g5GxoXg",
+                "title": "Switzerland 🇨🇭 Relaxing Video | Parco Della Breggia | A trip back in time",
+                "publishedAt": "2022-11-10T15:02:16Z",
+                "description": "The Parco delle Gola della Breggia is located in the Mendrisiotto region, along the river Breggia, in the lower part of the Valle di Muggio in Ticino, Switzerland. \nThe natural landscape is exceptionally interesting, especially for its geological and paleontological patrimony: the rocks that appear on the surface are hundreds of millions years old. It makes this Park one of the most important geological sites in Switzerland. This place is also a treasure of biodiversity, and a silent witness to the local economic and industrial history.\n\nTimestamps\n00:00 Intro\n00:47 Gole della Breggia\n03:50 Waterfall \n04:57 Panoramic Bridge\n\nIn this video, we share the beauties we experienced on the day we spent there. If you want to see this place in person, here are some helpful links and tips to help you plan your trip:\n\nThe entrance is free, and it's open 24x7.\nThey offer a parking space, which is also free.\nDogs are welcome.\nSwim is allowed .\n(IMPORTANT: before making a fire outside in Switzerland, you must always consult https://www.alert.swiss/ to see if there are no restrictions at that time of the year).\n\nhttps://www.ticino.ch/en/itineraries/details/Parco-delle-Gole-della-Breggia/148228.html\n\nhttps://www.parcobreggia.ch/\nhttps://www.ascona-locarno.com/it/commons/details/Parco-delle-Gole-della-Breggia/52602\n\n🎵 Music by Epidemic Sound \n\n#switzerland  #ticinoturismo  #relaxingvideos  #swissnature  #4kvideo  #relax",
+                "thumb": "https://i.ytimg.com/vi/BmG9g5GxoXg/maxresdefault.jpg"
+            },
+            {
+                "videoid": "vmtZmt71XIo",
+                "title": "Stäuber Falls (or Stäubifall) – One of the most beautiful and unknown waterfalls of Switzerland",
+                "publishedAt": "2023-04-07T09:24:25Z",
+                "description": "The Stäubifall waterfall is a beautiful natural attraction located in the Canton of Uri, in central Switzerland. The waterfall has a height of around 90 meters (295 feet) and is known for its picturesque setting and the scenic hike that leads up to it.\n\nThe hike to the Stäubifall waterfall is about 2.5 kilometers long and takes approximately 45 minutes to complete. The trail is well-marked and offers stunning views of the surrounding mountains and valleys.\n\nThe waterfall itself is a nice spot for photography, as it cascades down a rocky cliff face surrounded by lush greenery. \n\nOverall, the Stäubifall waterfall is a must-visit attraction for nature lovers and hikers in Switzerland, offering a beautiful natural setting and a memorable experience for visitors.\n\n📍 Stäuber Falls, 6465 Unterschächen, Switzerland \n\n🎶 Music by Epidemicsound\n\n#relaxing #switzerland #nature #peaceofmind",
+                "thumb": "https://i.ytimg.com/vi/vmtZmt71XIo/maxresdefault.jpg"
+            },
+            {
+                "videoid": "rjK2WnxwyCQ",
+                "title": "Peaceful Rainy Day Drive in the Majestic Andermatt Region | Swiss Alps Adventure",
+                "publishedAt": "2023-06-12T16:45:30Z",
+                "description": "Embark on a peaceful  and captivating journey through the awe-inspiring Andermatt region in the Swiss Alps on a rainy day. Join us as we navigate the winding roads, enveloped by mist and surrounded by snow-capped mountains, creating a surreal atmosphere that will leave you in awe.\n\n📍 Andermatt, Switzerland 🇨🇭 \n\nThis video captures the essence of tranquility as raindrops delicately fall and merge with the lush landscapes of the Andermatt region. Marvel at the breathtaking views of snow-covered peaks, deep snowy valleys, and cascading waterfalls that punctuate this picturesque drive. As we make our way through quaint villages, the charm and authenticity of this alpine paradise shine through, even on a rainy day.\n\nImmerse yourself in the serenity of the Swiss Alps as we showcase the beauty of this hidden gem. Feel a sense of calm and peace as we capture the misty mountains and the rhythmic sound of raindrops on our journey. \n\nWhether you're a nature lover, a travel enthusiast, or simply seeking a moment of tranquility, this video is sure to captivate you with its mesmerizing views and the raw beauty of the Andermatt region. Join us on this magical rainy day drive through the Swiss Alps, and let the majesty of this captivating landscape transport you to a world of serene wonder.\n\n🎵 Music by Epidemicsound\n\n#AndermattRegion #SwissAlps #RainyDayDrive #MountainViews #SnowyPeaks #AlpineBeauty #TranquilJourney #NatureEscape #SereneLandscapes #HiddenGems #MistyMountains #NatureLovers #Switzerland #ScenicDrive #RainyDayAdventure #SwissTravel #ExploreTheAlps #CaptivatingViews #EtherealBeauty #TravelInspiration #SwissParadise",
+                "thumb": "https://i.ytimg.com/vi/rjK2WnxwyCQ/maxresdefault.jpg"
+            },
+            {
+                "videoid": "cgjAloFbrxs",
+                "title": "Beautiful Swiss Village | Hidden Gem in Switzerland (Sonlerto)",
+                "publishedAt": "2023-08-05T08:46:17Z",
+                "description": "Embark on a captivating exploration of a traditional Swiss Village, nestled in the heart of Ticino, Switzerland, where stone houses hold timeless stories.\n\n📍 Sonlerto, Ticino, Switzerland 🇨🇭\n\nJoin us on an unforgettable adventure as we journey through the breathtaking landscapes of Switzerland's Ticino region, delving deep into the heart of a hidden gem—a charming Swiss village that seems to have been plucked from the pages of a fairy tale. \nThis captivating video invites you to an experience where tradition, architecture, and nature converge in a symphony of enchantment.\n\nAs we meander through the picturesque valleys and majestic Swiss Alps, the beauty of the surrounding nature sets the stage for the mesmerizing journey that awaits. \nThe village, nestled amidst lush greenery, emerges like a well-kept secret waiting to be unraveled.\n\nStep into a world where time seems to slow down, and the essence of a bygone era lingers in every corner. \nThe traditional Ticinese architecture beckons, with its stone houses adorned with elaborate carvings that narrate stories of generations past. \n\nAs we venture off the beaten path, nature unveils her hidden treasures.\nDiscover a tranquil waterfall and a stunning stone bridge, breathing testament to the enduring spirit of the past. \nIt is a journey that lingers in the heart, an experience that transcends the boundaries of time.\n\nWelcome to the world of Enchanting Switzerland — a place where nature's splendor and old-world allure converge in perfect harmony. \nJoin us as we unveil the hidden treasures, celebrate the traditions, and immerse ourselves in the serenity of this captivating Swiss village. \n\nAre you ready to be captivated? \nCome, let us embark on this journey through time together.\n\n🎵 Music by Epidemic Sound\n\nChapters:\n00:00 Intro\n00:56 Car ride\n2:10 Arriving at the peaceful village\n4:35 Walking the narrow paths\n9:05 Waterfall and Stone Bridge\n10:50 Conclusion\n\n#switzerland #village #villagelife #ticino #travel #nature #outdooradventure #virtualtour",
+                "thumb": "https://i.ytimg.com/vi/cgjAloFbrxs/maxresdefault.jpg"
+            },
+            {
+                "videoid": "pKDkhIQ1kqs",
+                "title": "Flying over Lugano Switzerland | 4K UHDR | Relaxing Video | Beautiful Swiss City in Autumn Colours",
+                "publishedAt": "2023-12-16T23:54:02Z",
+                "description": "Escape to the enchanting and relaxing landscapes of Lugano, Switzerland, in this mesmerizing drone footage video capturing Lugano's serene beauty during the fall season. Immerse yourself in the rich hues of autumn as the drone gracefully glides over the picturesque landscapes, showcasing the Lugano's vibrant landscapes, charming architecture, and the relaxing waters of Lake Lugano in the distance.\n\n📍 Lugano, Switzerland\n\n🏞️ Scenic Lakeside Views: Marvel at the breathtaking vistas of Lake Lugano, surrounded by the rolling hills and mountains that provide a stunning backdrop. The calm waters mirror the autumnal beauty, offering a sense of peace and tranquility.\n\n🎶 Soothing Soundscape: Let the gentle hum of the drone and the natural sounds of Lugano's surroundings create a calming atmosphere. This video is designed to be a visual and auditory retreat, allowing you to unwind and experience the beauty of Lugano in a unique and immersive way.\n\nWhether you're seeking a moment of relaxation, inspiration, or simply a virtual escape, this drone footage of Lugano in the autumn promises to transport you to a world of tranquility and natural splendor. Sit back, relax, and let Lugano's serene charm unfold before your eyes. 🍁✨\n\n🎵Music by Epidemic Sound\n\nInformation about the local tourism:\nhttps://www.myswitzerland.com/en-ch/destinations/lugano/\nhttps://www.luganoregion.com/en/\n\nEquipment: DJI Mini 4 Pro\n\nOther videos from Switzerland:\nLauterbrunnen: https://youtu.be/KJH0UZCgdhA\nInterlaken: https://youtu.be/KLclTW2NH2g?si=7jOLfqovTl0UMNkc\nWengen: https://youtu.be/vM732ppJZog?si=liLYh6Y12vefekyt\nJungfraujoch: https://youtu.be/sQXi2iA0d_Q?si=bQBbSGZnaSbkXB1o\nBern: https://youtu.be/f9U041kJbcY?si=8sUqB0iBov_2wiQa\n\nKeep up with us!\nInstagram:  https://www.instagram.com/wonders.of.switzerland\n\nThis channel is made for you, if you enjoyed the video please make sure to subscribe!\n\n#lugano #switzerland #dronevideo #relaxing #flyover",
+                "thumb": "https://i.ytimg.com/vi/pKDkhIQ1kqs/maxresdefault.jpg"
+            },
+            {
+                "videoid": "vo-139pug3U",
+                "title": "Switzerland Top 10: Most Beautiful Places in Switzerland",
+                "publishedAt": "2024-01-01T04:03:37Z",
+                "description": "Welcome to a visual odyssey through the breathtaking landscapes of Switzerland! In this immersive video, we unveil the Top 10 Must-Visit Places that showcase the diverse beauty and cultural richness of this Alpine wonderland.\n\n1st:      Lauterbrunnen's Waterfall Wonderland (https://youtu.be/KJH0UZCgdhA)\n2nd:     Interlaken's Alpine Charm (https://youtu.be/KLclTW2NH2g)\n3rd:     Lucerne / Mount Pilatus Adventure (https://youtu.be/oD-_4wJAw-s  /  https://youtu.be/Xa07d2O-o9Y)\n4th:     Lausanne's Cultural Tapestry (https://youtu.be/7YlwHCOenes)\n5th:     Montreux and Chillon Castle (https://youtu.be/GOr6DJF2JgE  /  https://youtu.be/EL4YYc87uOQ)\n6th:     Top of Europe: Jungfraujoch (https://youtu.be/sQXi2iA0d_Q)\n7th      Foroglio's Alpine Haven (https://youtu.be/YoBiyFkxcB4)\n8th:     Stäuben Falls (Staubifall) (https://youtu.be/vmtZmt71XIo)\n9th:     Charming Bern  (https://youtu.be/f9U041kJbcY)\n10th:   Lugano's Lakeside Splendor (https://youtu.be/pKDkhIQ1kqs)\n\nJoin us on this exploration of Switzerland's wonders, where every destination unveils a new chapter in the story of this Alpine paradise. Don't forget to subscribe, share your favorite Swiss gems in the comments, and let us be your guide to the top wonders of Switzerland!\n\nMusic by Epidemic Sound\nEquipment: DJI Mini 4 Pro, iPhone 13 Pro, Zhiyun Smooth 5\n\nKeep up with us!\nInstagram:  https://www.instagram.com/wonders.of.switzerland\nThis channel is made for you, if you enjoyed the video please make sure to subscribe!\n\n0:00 - Intro\n1:17 - 10 Lugano\n3:14 - 9 Bern\n4:59 - 8 Staubilfall\n6:15 - 7 Foroglio\n7:58 - 6 Jungfraujoch\n9:45 - 5 Montreux / Chillon Castle\n11:35 - 4 Lausanne\n13:00 - 3 Lucerne / Mount Pilatus\n15:08 - 2 Interlaken\n17:01 - 1 Lauterbrunnen\n\n#switzerland #top10 #travel #travelinspiration",
+                "thumb": "https://i.ytimg.com/vi/vo-139pug3U/maxresdefault.jpg"
+            }
+        ]
+    },
+    {
+        "id": "PLY8a-6iyFIe-9aA-40r51il89Zh4TKFMv",
+        "publishedAt": "2022-08-10T10:40:28Z",
+        "title": "Shorts - by Wonders of Switzerland",
+        "thumb": "https://i.ytimg.com/vi/rldj1v_XiAs/maxresdefault.jpg",
+        "items": [
+            {
+                "videoid": "rldj1v_XiAs",
+                "title": "Swiss mountains and the rain 🏔🌧 🇨🇭",
+                "publishedAt": "2022-08-10T10:41:22Z",
+                "description": "#amazingswitzerland  #switzerland #swiss #exploreswitzerland #iloveswitzerland #inlovewithswitzerland #myswitzerland #lifeofswitzerland #schweiz #suica #suisse #mountains #swissalps #swissxplorers #swissbeauty #swisstourism #swissmade #travel #traveling \n\nLugano region and its surrounding mountains engulfed by a beautiful rainstorm.",
+                "thumb": "https://i.ytimg.com/vi/rldj1v_XiAs/maxresdefault.jpg"
+            },
+            {
+                "videoid": "RicHJLy5VyA",
+                "title": "Mount Pilatus - Luzern - Switzerland 🇨🇭",
+                "publishedAt": "2022-08-10T10:41:22Z",
+                "description": "#amazingswitzerland  #swiss #switzerland #exploreswitzerland #iloveswitzerland #inlovewithswitzerland #myswitzerland #alpen #travel #traveling #travelvlog #schweiz #svizzera #suisse #suica #luzern #mountains #alpen",
+                "thumb": "https://i.ytimg.com/vi/RicHJLy5VyA/maxresdefault.jpg"
+            },
+            {
+                "videoid": "pJFv80qkep0",
+                "title": "August 1 - Swiss national day 🇨🇭🎆 #swiss #switzerland #amazingswitzerland #lugano #1august2022",
+                "publishedAt": "2022-08-10T10:41:22Z",
+                "description": "#amazingswitzerland #swiss #switzerland #exploreswitzerland #iloveswitzerland #myswitzerland #lifeofswitzerland #inlovewithswitzerland",
+                "thumb": "https://i.ytimg.com/vi/pJFv80qkep0/maxresdefault.jpg"
+            },
+            {
+                "videoid": "W3zoSpIdV_U",
+                "title": "The chapel bridge - Luzern 🇨🇭",
+                "publishedAt": "2022-08-10T10:41:22Z",
+                "description": "",
+                "thumb": "https://i.ytimg.com/vi/W3zoSpIdV_U/maxresdefault.jpg"
+            },
+            {
+                "videoid": "9RFNS_MXQpI",
+                "title": "Lake Lugano",
+                "publishedAt": "2022-08-10T10:41:22Z",
+                "description": "Lake Lugano timelapse in 2022",
+                "thumb": "https://i.ytimg.com/vi/9RFNS_MXQpI/maxresdefault.jpg"
+            },
+            {
+                "videoid": "6FSozfKH3D8",
+                "title": "Summer vibes ☀️🇨🇭#switzerland #amazingswitzerland #swiss #exploreswitzerland #schweiz",
+                "publishedAt": "2022-08-16T16:29:37Z",
+                "description": "#swiss #amazingswitzerland #switzerland #exploreswitzerland #myswitzerland #schweiz #lifeofswitzerland #suica #suisse",
+                "thumb": "https://i.ytimg.com/vi/6FSozfKH3D8/default.jpg"
+            },
+            {
+                "videoid": "fTv4Q0uioHo",
+                "title": "Switzerland 🇨🇭 😍",
+                "publishedAt": "2022-08-17T16:31:54Z",
+                "description": "#amazingswitzerland #swiss #switzerland #exploreswitzerland #myswitzerland #schweiz #iloveswitzerland #inlovewithswitzerland #lifeofswitzerland #suica #suisse #luzern #lucerne #lucerna #travel #traveling #travelvlog #travelling #vacation #mountains #mountain",
+                "thumb": "https://i.ytimg.com/vi/fTv4Q0uioHo/maxresdefault.jpg"
+            },
+            {
+                "videoid": "WpZsvHaD6SY",
+                "title": "Switzerland 🇨🇭🏔😍",
+                "publishedAt": "2022-08-18T16:19:23Z",
+                "description": "#switzerland #swiss #amazingswitzerland #exploreswitzerland #myswitzerland #schweiz #iloveswitzerland #lifeofswitzerland #suica #travel #travelvlog #travelling #travelphotography #mountains #mountain #luzern #lucerna #lucerne #mountpilatus #picoftheday #vidoftheday",
+                "thumb": "https://i.ytimg.com/vi/WpZsvHaD6SY/maxresdefault.jpg"
+            },
+            {
+                "videoid": "P0bg-Q2p2lA",
+                "title": "Switzerland 🇨🇭 Mount Pilatus  🏔 🚠 🚞 😍",
+                "publishedAt": "2022-08-19T17:18:08Z",
+                "description": "#switzerland #swiss #schweiz #amazingswitzerland #exploreswitzerland #myswitzerland #iloveswitzerland #lifeofswitzerland #suica #suisse #luzern #mountpilatus #travel #youtubeshorts #travelvlog #travelling #mountains",
+                "thumb": "https://i.ytimg.com/vi/P0bg-Q2p2lA/maxresdefault.jpg"
+            },
+            {
+                "videoid": "2WJ9muTrvL8",
+                "title": "Swiss night sky  🌔  😍 🇨🇭",
+                "publishedAt": "2022-08-20T16:08:44Z",
+                "description": "#switzerland #swiss #schweiz #suisse #suica #svizzera  #exploreswitzerland #amazingswitzerland #myswitzerland #iloveswitzerland #lifeofswitzerland #travel #travelvlog #nightsky #sunset #lugano #ticino #ticinoturismo",
+                "thumb": "https://i.ytimg.com/vi/2WJ9muTrvL8/maxresdefault.jpg"
+            },
+            {
+                "videoid": "1Tp5p57zCO4",
+                "title": "#switzerland #lugano #travel Switzerland 🇨🇭Lake Lugano 😍",
+                "publishedAt": "2022-08-22T16:28:45Z",
+                "description": "#switzerland  #swiss #schweiz #suisse #svizzera #suica  #lugano #lake #travel #travelvlog #traveling #lake #lakelugano #lugareslindos #lagos #europe #beautifulnature #beautifulplace",
+                "thumb": "https://i.ytimg.com/vi/1Tp5p57zCO4/maxresdefault.jpg"
+            },
+            {
+                "videoid": "k1fxK9yFq40",
+                "title": "#switzerland #foroglio Switzerland 🇨🇭 Foroglio Waterfall",
+                "publishedAt": "2022-08-23T15:24:36Z",
+                "description": "#switzerland #swiss #schweiz #suisse #svizzera #amazingswitzerland #exploreswitzerland #myswitzerland #suica #iloveswitzerland #travel #travelvlog #traveling #waterfall #foroglio",
+                "thumb": "https://i.ytimg.com/vi/k1fxK9yFq40/maxresdefault.jpg"
+            },
+            {
+                "videoid": "p5klj9kT-WU",
+                "title": "#switzerland #ticino #ticinoturismo Foroglio - Switzerland 🇨🇭",
+                "publishedAt": "2022-08-24T16:11:36Z",
+                "description": "#switzerland #schweiz #suisse #svizzera #suica #suíça #suiça #ticino #ticinoturismo",
+                "thumb": "https://i.ytimg.com/vi/p5klj9kT-WU/maxresdefault.jpg"
+            },
+            {
+                "videoid": "q3gmNfDOfxc",
+                "title": "#morcote #switzerland #lakelugano Morcote - Switzerland 🇨🇭",
+                "publishedAt": "2022-08-29T17:43:44Z",
+                "description": "#morcote #switzerland #amazingswitzerland #swiss #schweiz #exploreswitzerland #myswitzerland #suisse #suica #travel #travelvlog",
+                "thumb": "https://i.ytimg.com/vi/q3gmNfDOfxc/maxresdefault.jpg"
+            },
+            {
+                "videoid": "YJq-u6jV1xs",
+                "title": "#swingtheworld #morcote #switzerland  Switzerland 🇨🇭",
+                "publishedAt": "2022-08-30T20:40:05Z",
+                "description": "@swingtheworldcommunity\n#switzerland #amazingswitzerland #swiss #schweiz #exploreswitzerland #suica #suisse #travel #travelvlog",
+                "thumb": "https://i.ytimg.com/vi/YJq-u6jV1xs/maxresdefault.jpg"
+            },
+            {
+                "videoid": "GELYGpqVwAY",
+                "title": "#luzern #switzerland Lion Monument 🦁🇨🇭",
+                "publishedAt": "2022-09-02T16:17:47Z",
+                "description": "#switzerland #swiss #amazingswitzerland #exploreswitzerland #myswitzerland #schweiz #iloveswitzerland #lifeofswitzerland #suica #travel #travelvlog #travelling #travelphotography #luzern #lucerna #lucerne #picoftheday #vidoftheday",
+                "thumb": "https://i.ytimg.com/vi/GELYGpqVwAY/maxresdefault.jpg"
+            },
+            {
+                "videoid": "QeYErutOpZQ",
+                "title": "#switzerland #morcote #lakelugano Morcote - Switzerland 🇨🇭",
+                "publishedAt": "2022-09-04T19:46:23Z",
+                "description": "#switzerland   #swiss #amazingswitzerland   #exploreswitzerland   #myswitzerland   #schweiz #iloveswitzerland   #lifeofswitzerland   #suica   #travel #travelvlog   #travelling #travelphotography   #luzern   #lucerna #lucerne #picoftheday   #vidoftheday",
+                "thumb": "https://i.ytimg.com/vi/QeYErutOpZQ/maxresdefault.jpg"
+            },
+            {
+                "videoid": "eJ6QkNj0Pqg",
+                "title": "You won't believe this view !! Lake Luzern - Switzerland 🇨🇭😍",
+                "publishedAt": "2022-09-07T14:37:42Z",
+                "description": "Lucerne is known as the pocket-sized version of Switzerland. History, culture and of course, spectacular scenery come together in a perfect blend that’ll have you longing to extend your stay.\n\nLake Lucerne, Switzerland’s fourth largest lake is one not to be missed. Its setting is simply stunning, with the tops of the nearby mountains glistening all year round and the lake’s fjord-like offshoots giving a more Scandinavian feel than Swiss. You can take it all in from one of the historic paddle-boats that ply the lake, or tour the water’s edge on foot.\n\n#shorts  #switzerland #lucerne #summer #summervibes #sailing #sail",
+                "thumb": "https://i.ytimg.com/vi/eJ6QkNj0Pqg/maxresdefault.jpg"
+            },
+            {
+                "videoid": "9n1iDz_lI-w",
+                "title": "In memory of Queen Elizabeth 💔👑 - London 2022",
+                "publishedAt": "2022-09-08T19:53:07Z",
+                "description": "A tribute to the lovely Queen Elizabeth. Rest in peace 💔👑🇬🇧\n\n#queenelizabeth #queen #london #uk",
+                "thumb": "https://i.ytimg.com/vi/9n1iDz_lI-w/maxresdefault.jpg"
+            },
+            {
+                "videoid": "LXQW3N0HMq4",
+                "title": "Perfect reflection ⛰😍",
+                "publishedAt": "2022-09-10T16:06:44Z",
+                "description": "The Monte Tamaro lies in the triangle between Lugano, Bellinzona and Locarno. It is famous for the Santa Maria degli Angeli church designed by Mario Botta and the scenic ridge walk from Monte Lema.\nAltitude: 1,962 metres\nHow to get there: Train from Lugano or Bellinzona to Rivera-Bironico, 15-minute walk to the valley station, two-stage cable car to Alpe Foppa (1,530 metres)\nViews: To the north across the Magadino plain to Bellinzona, the Ticino mountains to the Gotthard region and the Bernese Oberland; to the south-east the Dent della Vecchia and Monte Generoso \n\n#switzerland #ticino #lugano #montetamaro #mountains #reflexes  #lake",
+                "thumb": "https://i.ytimg.com/vi/LXQW3N0HMq4/maxresdefault.jpg"
+            },
+            {
+                "videoid": "85GEj0SpMM8",
+                "title": "How many do you count ??  🪂 🇨🇭",
+                "publishedAt": "2022-09-12T15:57:55Z",
+                "description": "Take off on a paraglider from Alpe Foppa on Monte Tamaro. The flight over the Vedeggio valley has a magnificent 360-degree view ranging from Pizzo Vogorno to Camoghé, Monte Bar and the Denti della Vecchia.\n\nAt Monte Tamaro, you can take off on your own with your paraglider or organise a tandem flight with professional pilots.\n\nWould you like to experience the thrill of flying, feel the air currents and see breathtaking views from above? Then tandem flying is perfect! Installed in a light harness, together with professional pilots, you can enjoy this magnificent experience.\n\nFind prices here: https://www.montetamaro.ch/en/adventure/paragliding/\n\n#switzerland  #paragliding #mountains #swissview #montetamaro",
+                "thumb": "https://i.ytimg.com/vi/85GEj0SpMM8/maxresdefault.jpg"
+            },
+            {
+                "videoid": "lth7ggJhr9M",
+                "title": "Wait for the goats !  🐐 😂 🇨🇭",
+                "publishedAt": "2022-09-15T14:57:45Z",
+                "description": "These are some awesome shots of our hiking to the top of Mount Tamaro. \nThis hike to the Monte Tamaro peak is a nice challenge with the great reward of panorama views across the Ticino region. Unlike other mountains where the cable car takes you right to top, the Tamaro cable car only takes you half-way up and you have to earn the rest of your views. This 9km loop has steep climbs but also beautiful traverses around mountains and down grassy slopes.\n.\n.\n.\n.\n\n📍Mount Tamaro - Lugano - Switzerland 🇨🇭\n\n#shorts    \n#shortvideo    \n#switzerland    \n#travel \n#schweiz \n#suisse \n#suica \n#goats",
+                "thumb": "https://i.ytimg.com/vi/lth7ggJhr9M/maxresdefault.jpg"
+            },
+            {
+                "videoid": "hWRUMbN0JkI",
+                "title": "Swiss landscapes 🇨🇭",
+                "publishedAt": "2022-09-16T12:04:50Z",
+                "description": "This small landlocked country in central Europe also known as the land of Swiss Alps fascinates with its unique and diverse beauty even the most demanding client. In this small area (the north-south distance is 220km and the east-west distance 346km) you will find a magnificent variety of sceneries convenient to all type of preferences. Whether you like mountains and hills, lakes, rivers and glaciers, dreamy villages and well preserved medieval cities. Altogether, they compose unforgettable charm of this wonderful country.\n\n📍Monte Tamaro - Ticino - Switzerland\n\n#swiss #landscape #hiking #clouds #bluesky #shorts #shortvideo #short \n@MonteTamaroSARivera @SwissView1 @SwitzerlandisLife @ticinoturismo",
+                "thumb": "https://i.ytimg.com/vi/hWRUMbN0JkI/maxresdefault.jpg"
+            },
+            {
+                "videoid": "tIyoYw6-dCw",
+                "title": "Swiss views ⛰☁️🇨🇭",
+                "publishedAt": "2022-09-17T17:40:34Z",
+                "description": "Are you ready to dive into a wonderland? Then head over to Switzerland !!\n\n#swissbeauty #swissmade #switzerland #ticino #shorts #shortvideo",
+                "thumb": "https://i.ytimg.com/vi/tIyoYw6-dCw/maxresdefault.jpg"
+            },
+            {
+                "videoid": "-P-74ZvzzmA",
+                "title": "Who wanna be in this place? ⛰🇨🇭🍺",
+                "publishedAt": "2022-09-19T17:11:01Z",
+                "description": "A perfect view for a perfect drink 🍺 \n\n#shorts #switzerland #beer #landscape #swissmade",
+                "thumb": "https://i.ytimg.com/vi/-P-74ZvzzmA/maxresdefault.jpg"
+            },
+            {
+                "videoid": "7pSOG0I6KOU",
+                "title": "Can you label this place ? 😍🇨🇭",
+                "publishedAt": "2022-09-20T17:01:41Z",
+                "description": "Switzerland has many awesome waterfalls. This one is located in the Canton of Ticino, the Italian part of Switzerland, and is a must see !!!\n\n📍Foroglio, Ticino, Switzerland \n\n#switzerland #waterfall #vidoftheday #shorts #shortvideo \n@ticinoturismo @HowToSwitzerland",
+                "thumb": "https://i.ytimg.com/vi/7pSOG0I6KOU/maxresdefault.jpg"
+            },
+            {
+                "videoid": "-1UkiiI69pM",
+                "title": "Lake Lucerne 🇨🇭 ⛴  ⛰",
+                "publishedAt": "2022-09-21T14:20:54Z",
+                "description": "A cruising on Lake Lucerne spans grandiose natural scenery!\nThe wonderful Alpine landscapes of Central Switzerland form the scenic  backdrop to Lake Lucerne. Such world famous peaks as Mount Rigi, Mount Pilatus and the Stanserhorn frame the water and add scenic grandeur. Gently gliding over the water is one of the most relaxing and tranquil ways to experience the heart of the Swiss Alps. Aside from its unique shape, with countless different bays and side arms, Lake Lucerne is also noteworthy for the variety of scenery. From urban and medieval Lucerne, to the dramatic cliffs of Lake Uri along the Gotthard route, there’s much to see.\n\n#suica #suíça #lagos #lago #lucerna #vídeodomomento",
+                "thumb": "https://i.ytimg.com/vi/-1UkiiI69pM/maxresdefault.jpg"
+            },
+            {
+                "videoid": "V1yDJBm8vpk",
+                "title": "Can you guess where it is ?",
+                "publishedAt": "2022-09-26T15:54:57Z",
+                "description": "Lake Como is at the border between Switzerland and Italy. A must see for your eurotrip !!\n\n#lakecomo #italy #switzerland #travel #shorts",
+                "thumb": "https://i.ytimg.com/vi/V1yDJBm8vpk/maxresdefault.jpg"
+            },
+            {
+                "videoid": "6iiEvH9w2e8",
+                "title": "Sunset timelapse 🌄",
+                "publishedAt": "2022-10-01T17:03:31Z",
+                "description": "Sunset in Lugano, Switzerland 🇨🇭 \n\n🎶 Music by Epidemicsound\n\n#switzerland  #swiss #swissalps #swissview #mountains #sky #timelapse #shorts",
+                "thumb": "https://i.ytimg.com/vi/6iiEvH9w2e8/maxresdefault.jpg"
+            },
+            {
+                "videoid": "h4Oi8wgnwoI",
+                "title": "Swiss Mountains 🇨🇭 ⛰ 😍",
+                "publishedAt": "2022-10-05T15:43:47Z",
+                "description": "The mountains around the city of Lucerne, Switzerland.\n\n🎶 Music by Epidemic sound\n\n#swiss #mountains #timelapse #shorts #shortvideo  #luzern",
+                "thumb": "https://i.ytimg.com/vi/h4Oi8wgnwoI/maxresdefault.jpg"
+            },
+            {
+                "videoid": "1ya3LOybojs",
+                "title": "Zermatt - Switzerland 🇨🇭",
+                "publishedAt": "2022-10-10T16:17:07Z",
+                "description": "Zermatt, in southern Switzerland’s Valais canton, is a mountain resort renowned for skiing, climbing and hiking. The town, at an elevation of around 1,600m, lies below the iconic, pyramid-shaped Matterhorn peak. Its main street, Bahnhofstrasse is lined with boutique shops, hotels and restaurants, and also has a lively après-ski scene.\n\n🎶 Music by Epidemic Sound\n\n#zermatt #matterhorn #schweiz #suica #switzerland #shorts",
+                "thumb": "https://i.ytimg.com/vi/1ya3LOybojs/maxresdefault.jpg"
+            },
+            {
+                "videoid": "zxNumqTR6rg",
+                "title": "Swiss miniature 🇨🇭",
+                "publishedAt": "2022-10-13T16:21:45Z",
+                "description": "Swissminiatur is Switzerland’s largest open-air miniature museum.\nLocated in Melide, on the shores of Lake Lugano, the park is surrounded by majestic mountains including Monte Generoso, San Salvatore and also San Giorgio, which has been declared a UNESCO World Heritage Site.\nRelax and unwind in a tranquil natural setting.\n\n#switzerland #swissminiature #shorts #shortvideo",
+                "thumb": "https://i.ytimg.com/vi/zxNumqTR6rg/maxresdefault.jpg"
+            },
+            {
+                "videoid": "FyydVPh-t_s",
+                "title": "Brissago - Ticino - Switzerland 🇨🇭",
+                "publishedAt": "2022-10-17T15:52:45Z",
+                "description": "Brissago - Ticino - Switzerland\n\n#brissago #ticino #ticinoturismo #shorts #switzerland",
+                "thumb": "https://i.ytimg.com/vi/FyydVPh-t_s/maxresdefault.jpg"
+            },
+            {
+                "videoid": "KJGosKRp1Iw",
+                "title": "Jesuitenkirche - Jesuit Church - Lucerne - Switzerland 🇨🇭",
+                "publishedAt": "2022-10-18T15:39:04Z",
+                "description": "The Lucerne Jesuit Church is a Catholic church in Lucerne, Switzerland. It is the first large Baroque church built in Switzerland north of the Alps. The Jesuit order, founded by Ignatius of Loyola in 1534, were active participants in the Counter-Reformation, the Catholic fight against the birth of Protestantism.\n\n#lucerne #switzerland #suica #suisse #schweiz #shorts #church #history",
+                "thumb": "https://i.ytimg.com/vi/KJGosKRp1Iw/maxresdefault.jpg"
+            },
+            {
+                "videoid": "Aob51O-v1GE",
+                "title": "St. Moritz - Switzerland 🇨🇭",
+                "publishedAt": "2022-10-20T15:43:02Z",
+                "description": "St. Moritz is a luxury alpine resort town in Switzerland’s Engadin valley. It has hosted the Winter Olympics twice, has the Cresta Run, a world-championship bobsled run made of natural ice, and an outdoor Olympic ice rink. Its frozen lake hosts polo, cricket and even horse racing on ice. Ski and snowboard areas include Corviglia, Diavolezza and Corvatsch, and there are well-groomed cross-country ski trails.\n\nElevation: 1,822 m\nArea: 28.69 km²\nWeather: 11°C, Wind S at 18 km/h, 67% Humidity weather.com\nPopulation: 5,233 (Dec 2014)\n\n#stmoritz  #switzerland #shorts #frozenlake #travel #schweiz #swiss",
+                "thumb": "https://i.ytimg.com/vi/Aob51O-v1GE/maxresdefault.jpg"
+            },
+            {
+                "videoid": "K6eF6UKtcD4",
+                "title": "St. Moritz - Muottas Muragl - Switzerland 🇨🇭",
+                "publishedAt": "2022-10-21T16:17:26Z",
+                "description": "The view from the top of Muottas Muragl in St. Moritz  - Switzerland. Breathtaking.\n\n#breathtakingvideo #switzerland #stmoritz #schweiz #suica #shorts",
+                "thumb": "https://i.ytimg.com/vi/K6eF6UKtcD4/maxresdefault.jpg"
+            },
+            {
+                "videoid": "6IzpcprlWek",
+                "title": "Lake of Gold 🚤 🌅 Lake Como",
+                "publishedAt": "2022-10-22T17:23:44Z",
+                "description": "Lake Como in the sunset\n\n#lakecomo  #como #italy #italia #italian #shorts",
+                "thumb": "https://i.ytimg.com/vi/6IzpcprlWek/default.jpg"
+            },
+            {
+                "videoid": "pSAIgZnwIjw",
+                "title": "Mini Swiss Alps 🏔🇨🇭😍",
+                "publishedAt": "2022-10-24T17:19:18Z",
+                "description": "Swiss miniature park in Lugano Switzerland \n\n#switzerland #shorts #schweiz #swiss #swissmade #alps #swissalps \n#amazingswitzerland #exploreswitzerland #myswitzerland #iloveswitzerland #inlovewithswitzerland #lifeofswitzerland #suica #suisse #lugano  #travel #traveling #travelvlog #travelling #vacation #mini  #miniature #shorts",
+                "thumb": "https://i.ytimg.com/vi/pSAIgZnwIjw/maxresdefault.jpg"
+            },
+            {
+                "videoid": "ZCQ1DeLHlLw",
+                "title": "Switzerland is awesome 🇨🇭😍",
+                "publishedAt": "2022-10-26T18:28:54Z",
+                "description": "Timelapse view from the top of Mount Tamaro in Lugano, Switzerland. \n\n#switzerland #timelapse #landscape #shorts #schweiz #suica #swiss #travel #amazingswitzerland #exploreswitzerland #",
+                "thumb": "https://i.ytimg.com/vi/ZCQ1DeLHlLw/maxresdefault.jpg"
+            },
+            {
+                "videoid": "o5O3mPC00xE",
+                "title": "Lugano Arte e Cultura",
+                "publishedAt": "2022-11-03T09:56:08Z",
+                "description": "Lugano Arte e Cultura is a polyfunctional cultural centre dedicated to music, visual and performance arts in Lugano, Switzerland. It houses the Museo d'Arte della Svizzera Italiana and hosts events such as \"LuganoInScena\" and \"LuganoMusica\". The Orchestra della Svizzera Italiana has its base at the LAC.\n\n#lugano #switzerland #shorts #art #culture #swissmade",
+                "thumb": "https://i.ytimg.com/vi/o5O3mPC00xE/maxresdefault.jpg"
+            },
+            {
+                "videoid": "YdT1V6gieFs",
+                "title": "Scaring beautiful storm ⛈😱",
+                "publishedAt": "2022-11-05T15:03:32Z",
+                "description": "Dramatic weather in Lugano Switzerland 🇨🇭 \n\n#switzerland #storm #shorts",
+                "thumb": "https://i.ytimg.com/vi/YdT1V6gieFs/maxresdefault.jpg"
+            },
+            {
+                "videoid": "nYHGKrqtD88",
+                "title": "Sunset in Lugano - Switzerland 🇨🇭",
+                "publishedAt": "2022-11-08T18:42:27Z",
+                "description": "Sunset Timelapse in Lugano Switzerland \n\n#sunset #timelapse #lugano #swiss #shorts",
+                "thumb": "https://i.ytimg.com/vi/nYHGKrqtD88/maxresdefault.jpg"
+            },
+            {
+                "videoid": "4crCdiDxN7c",
+                "title": "Autumn feelings 🍁 🍂",
+                "publishedAt": "2022-11-09T15:25:07Z",
+                "description": "Lugano - Switzerland in autumn colours.\n\n@LUGANO_real @SwitzerlandisLife \n\n#switzerland #lugano #autumn #shorts",
+                "thumb": "https://i.ytimg.com/vi/4crCdiDxN7c/maxresdefault.jpg"
+            },
+            {
+                "videoid": "NbM4pZ1zIFg",
+                "title": "Switzerland 🇨🇭😍🏔",
+                "publishedAt": "2022-11-12T17:52:37Z",
+                "description": "Swiss views are amazing 🤩 \n\n#switzerland  #travel  #schweiz  #shorts  #landscape  #swiss  #suica",
+                "thumb": "https://i.ytimg.com/vi/NbM4pZ1zIFg/maxresdefault.jpg"
+            },
+            {
+                "videoid": "ZkPtU--5f-U",
+                "title": "A piece of haven - Interlaken - Swiss Alps🇨🇭",
+                "publishedAt": "2022-11-14T16:56:44Z",
+                "description": "Swiss alps as seen from Interlaken, Switzerland. 🇨🇭 \nInterlaken is a traditional resort town in the mountainous Bernese Oberland region of central Switzerland. Built on a narrow stretch of valley, between the emerald-colored waters of Lake Thun and Lake Brienz, it has old timber houses and parkland on either side of the Aare River. Its surrounding mountains, with dense forests, alpine meadows and glaciers, has numerous hiking and skiing trails.\nInterlaken is literally a piece of heaven on earth.\n\n@InterlakenActivities @InterlakenTourism \n\n#interlaken #switzerland #swiss #alps #swissalps #shorts #heavenonearth",
+                "thumb": "https://i.ytimg.com/vi/ZkPtU--5f-U/maxresdefault.jpg"
+            },
+            {
+                "videoid": "dzLEztyehLo",
+                "title": "Interlaken - Switzerland 🇨🇭😍",
+                "publishedAt": "2022-11-18T21:58:57Z",
+                "description": "#switzerland #swiss #schweiz #shorts #suica #travel #landscape #interlaken #inlovewithswitzerland",
+                "thumb": "https://i.ytimg.com/vi/dzLEztyehLo/maxresdefault.jpg"
+            },
+            {
+                "videoid": "UAP5QS7xtRM",
+                "title": "Ticino - Switzerland 🇨🇭",
+                "publishedAt": "2022-11-19T20:04:04Z",
+                "description": "Ticino - Switzerland 🇨🇭 \n\n#switzerland #swiss #shorts #swiss #suica #switzerlandvillage #travel #switzerlandbeauty",
+                "thumb": "https://i.ytimg.com/vi/UAP5QS7xtRM/maxresdefault.jpg"
+            },
+            {
+                "videoid": "QJ61uy2176o",
+                "title": "Swiss made landscapes 🇨🇭😍",
+                "publishedAt": "2022-11-20T13:33:20Z",
+                "description": "It’s autumn time in Switzerland. Colourful and beautiful as usual. \n\n#switzerland #swiss #suica #schweiz #shorts",
+                "thumb": "https://i.ytimg.com/vi/QJ61uy2176o/maxresdefault.jpg"
+            },
+            {
+                "videoid": "yq-Ifc0OIQI",
+                "title": "Lauterbrunnen Valley",
+                "publishedAt": "2022-11-21T17:29:32Z",
+                "description": "The Lauterbrunnen village in Switzerland is an awesome place we definitely recommend visiting. \n\n#switzerland #lauterbrunnen #shorts",
+                "thumb": "https://i.ytimg.com/vi/yq-Ifc0OIQI/maxresdefault.jpg"
+            }
+        ]
     }
-  ]
-}
+]
