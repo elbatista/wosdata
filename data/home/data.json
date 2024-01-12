@@ -41,7 +41,7 @@
         "button": {
             "text":"Send us a message",
             "url": "/contact",
-            "target": "_blank"
+            "target": "_self"
         }
     }
 }
