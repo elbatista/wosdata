@@ -5,7 +5,7 @@
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
                 "style": {
-                    
+
                 }
             },
             "text": [
@@ -15,6 +15,23 @@
             "button": {
                 "text":"Explore our episodes",
                 "url": "/episodes"
+            }
+        },
+        {
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
+                "style": {
+                    
+                }
+            },
+            "text": [
+                "Discover the captivating beauty, rich culture, and hidden gems of Switzerland!",
+                "With a passion for exploration and storytelling, <span>we showcase the best of what Switzerland has to offer."
+            ],
+            "button": {
+                "text":"Go to our channel",
+                "url": "https://www.youtube.com/@wondersofswitzerland",
+                "target": "_blank"
             }
         }
     ],
