@@ -1,6 +1,23 @@
 {
-    "title": "WELCOME TO THE WONDERS OF SWITZERLAND!!!!!",
-    "items": [],
+    "title": "WELCOME TO THE WONDERS OF SWITZERLAND",
+    "items": [
+        {
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
+                "style": {
+                    
+                }
+            },
+            "text": [
+                "We take great pleasure in sharing itineraries and travel tips with you!",
+                "Our goal is to contribute on creating memorable experiences for others, just as we have had the privilege of enjoying ourselves."
+            ],
+            "button": {
+                "text":"Explore our episodes",
+                "url": "/episodes"
+            }
+        }
+    ],
     "reachout": {
         "title": "REACH OUT TO US",
         "text": "For partnerships, asking for help on your travel plans, or just to say hello 👋🏻",
