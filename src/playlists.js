@@ -1,16 +1,8 @@
 const axios = require('axios')
-const fs    = require('node:fs');
+const writeFile = require('./util');
 
 const YOUTUBE_API_PLAYLISTS = `https://www.googleapis.com/youtube/v3/playlists?part=snippet&maxResults=50&channelId=${process.env.CHANNELID}&key=${process.env.YOUTUBE_API_KEY}`;
 const YOUTUBE_API_PLAYLIST  = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&key=${process.env.YOUTUBE_API_KEY}`;
-
-const writeFile = (file, content) => {
-    try {
-        fs.writeFileSync(file, JSON.stringify(content));
-    } catch (err) {
-        console.error(err);
-    }
-}
 
 const updatePlaylists = () => {
     axios
