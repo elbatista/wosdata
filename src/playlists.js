@@ -21,10 +21,11 @@ const updatePlaylists = () => {
                 title: item.snippet.title,
                 publishedAt: item.snippet.publishedAt,
                 description: item.snippet.description,
-                thumb: item.snippet.thumbnails.maxres?.url || item.snippet.thumbnails.default?.url || ""
+                thumb: `https://img.youtube.com/vi/${item.snippet.resourceId.videoId}/maxresdefault.jpg`//item.snippet.thumbnails.maxres?.url || item.snippet.thumbnails.default?.url || ""
             }));
         }));
         writeFile('./data/playlists.json', playlists);
+        writeFile('./raw/playlists.json', result.data);
     });
 }
 

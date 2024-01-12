@@ -12,12 +12,10 @@ const updatePopular = () => {
             publishedAt: item.snippet.publishedAt,
             title: item.snippet.title,
             description: item.snippet.description,
-            thumb: item.snippet.thumbnails.maxres?.url
-            || item.snippet.thumbnails.high?.url 
-            || item.snippet.thumbnails.default?.url 
-            || ""
+            thumb: `https://img.youtube.com/vi/${item.id.videoId}/maxresdefault.jpg`
         }));
         writeFile('./data/popular.json', popular);
+        writeFile('./raw/popular.json', result.data);
     });
 }
 
