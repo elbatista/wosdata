@@ -37,7 +37,7 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/winecellar.jpeg",
                 "style": {
                     "width": "100%",
-                    "min-width": "400px",
+                    "minWidth": "400px",
                     "height": "300px"
                 }
             },
