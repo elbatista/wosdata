@@ -69,6 +69,26 @@
             "title": "The Courtyards of Chillon Castle",
             "text": ["The castle features several courtyards that played different roles throughout its history. The most notable ones are the Forecourt and the Courtyard of Honor. The Forecourt is the outermost courtyard and serves as the entrance to the castle. It is accessible through a drawbridge and features a fortified gatehouse with defensive elements such as arrow slits. The Forecourt served as the first line of defense for the castle in the past. Beyond the Forecourt lies the Courtyard of Honor, also known as the Great Courtyard. This spacious area is surrounded by the castle's main buildings and was the heart of the fortress. It was used for various functions, including military operations, ceremonies, and gatherings of the castle's inhabitants."],
             "reverse": false 
+        },
+        {
+            "type": "text",
+            "title": "Tower Passages and Great Halls",
+            "text": [
+                "Also very interesting are the Tower Passages. Several towers within the castle are interconnected by high passages and narrow corridors. These passages, built at different levels, allow visitors to explore the castle's architectural intricacies and experience the sense of verticality. From these elevated walkways, one can appreciate the castle's layout and admire the surrounding views from different heights.",
+                "The castle features also three formal great halls. The ones of greater significance are the Grand Hall and the council chamber. The Grand Hall, also referred to as the Great Hall, is one of the most impressive chambers in Chillon Castle. This vast room was used for official ceremonies, banquets, and receptions. Its high vaulted ceiling, adorned with intricate frescos and supported by massive columns, creates a grand ambiance. The hall offers stunning views of Lake Geneva through its large windows as well."
+            ],
+            "reverse": false 
+        },
+        {
+            "type": "text",
+            "title": "The Chapel and Weapons Room",
+            "text": [
+                "In the Bernese Chamber, we find a comfortable, plainly decorated bedroom, with a large four-poster bed, heating, en-suite bathroom, and even running water! This room was used as a bedroom in the middle ages and probably served the same purpose in the Bernese era. The Bernese decoration, painted on a white background, and adorned with plants, fruits, and animals, dates back to the early 17th century.",
+                "Another important attraction in Chillon Castle is its Chapel. The Chapel is the jewel of Chillon's architectural crown. The 14th-century paintings make it one of the rare religious buildings in the canton to have escaped the dissident zeal of the Reformation.",
+                "Lastly, but not least important, is the weapons room. Situated almost at the exact center of Chillon's rocky island, the weapons room in the keep probably dates back to the 11th century. As both a refugee tower and a symbol of power, the keep was also used as a guard tower, provisional residence, storage, and more recently as a prison.",
+                "In conclusion, Chillon Castle is definitely a must-visit attraction in Montreux, Switzerland. Its well-preserved medieval architecture, fascinating history, and stunning setting make it a captivating destination for tourists and locals alike. Visitors to Chillon Castle can explore its numerous rooms, including the grand halls, the chapel, the bedrooms, and the underground dungeons. The castle's interior is adorned with awesome old furniture, artwork, and historical artifacts, providing a glimpse into the daily life of its former inhabitants. In addition to its historical and architectural significance, Chillon Castle offers breathtaking views of Lake Geneva and the surrounding Alps. The castle's location makes it an ideal destination for both history enthusiasts and nature lovers. So don't miss this awesome site when traveling through Switzerland!"
+            ],
+            "reverse": false 
         }
     ]
 }
