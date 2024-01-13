@@ -3,7 +3,7 @@
     "headerReverse": false,
     "button": {
         "text": "Download pictures",
-        "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/pics.zip"
+        "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/pics.zip"
     },
     "sections": [
         {
@@ -34,7 +34,7 @@
                 "Today, the Chillon Wine Cellars have been transformed into a wine tasting area, allowing visitors to sample a variety of regional wines. The cellars offer a unique atmosphere with their vaulted ceiling and stone walls, creating a memorable setting for wine enthusiasts to enjoy a tasting experience."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/winecellar.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/winecellar.jpeg",
                 "style": {
                     "width": "100%",
                     "minWidth": "400px",
@@ -56,7 +56,7 @@
             "type": "img",
             "title": "",
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/prison.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/prison.jpeg",
                 "style": {
                     "width": "100%",
                     "height": "500px"
