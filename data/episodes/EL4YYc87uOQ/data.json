@@ -100,7 +100,8 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/chapel.jpeg",
                 "style": {
                     "width": "100%",
-                    "height": "800px"
+                    "height": "600px",
+                    "marginBottom": "40px"
                 }
             }
         },
