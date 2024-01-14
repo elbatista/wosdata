@@ -3,7 +3,13 @@
     "headerReverse": false,
     "button": {
         "text": "Download pictures",
-        "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/pics.zip"
+        "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/pics.zip",
+        "analyticsEvent": {
+            "event": "download_data",
+            "params": {
+                "episode": "EL4YYc87uOQ"
+            }
+        }
     },
     "sections": [
         {

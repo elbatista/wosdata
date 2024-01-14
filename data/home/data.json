@@ -32,7 +32,10 @@
                 "text":"Go to our channel",
                 "url": "https://www.youtube.com/@wondersofswitzerland",
                 "target": "_blank",
-                "analyticsEvent": "go_to_channel"
+                "analyticsEvent": {
+                    "event": "go_to_channel",
+                    "params": {}
+                }
             }
         }
     ],
