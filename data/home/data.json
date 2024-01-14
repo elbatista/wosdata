@@ -31,7 +31,8 @@
             "button": {
                 "text":"Go to our channel",
                 "url": "https://www.youtube.com/@wondersofswitzerland",
-                "target": "_blank"
+                "target": "_blank",
+                "analyticsEvent": "go_to_channel"
             }
         }
     ],
