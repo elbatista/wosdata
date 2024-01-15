@@ -124,36 +124,39 @@
             ]
         }
     ],
-    "gallery": [
-        {
-            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpeg",
-            "width": 1280,
-            "height": 960
-        },
-        {
-            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpg",
-            "width": 2928,
-            "height": 2534
-        },
-        {
-            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/chapel.jpeg",
-            "width": 1280,
-            "height": 960
-        },
-        {
-            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/prison.jpeg",
-            "width": 1280,
-            "height": 960
-        },
-        {
-            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/towerpassages.jpeg",
-            "width": 1280,
-            "height": 960
-        },
-        {
-            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/winecellar.jpeg",
-            "width": 640,
-            "height": 480
-        }
-    ]
+    "gallery": {
+        "title": "MORE PHOTOS HERE",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpeg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpg",
+                "width": 2928,
+                "height": 2534
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/chapel.jpeg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/prison.jpeg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/towerpassages.jpeg",
+                "width": 1280,
+                "height": 960
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/winecellar.jpeg",
+                "width": 640,
+                "height": 480
+            }
+        ]
+    }
 }
