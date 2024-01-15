@@ -123,5 +123,37 @@
                 "In conclusion, Chillon Castle is definitely a must-visit attraction in Montreux, Switzerland. Its well-preserved medieval architecture, fascinating history, and stunning setting make it a captivating destination for tourists and locals alike. Visitors to Chillon Castle can explore its numerous rooms, including the grand halls, the chapel, the bedrooms, and the underground dungeons. The castle's interior is adorned with awesome old furniture, artwork, and historical artifacts, providing a glimpse into the daily life of its former inhabitants. In addition to its historical and architectural significance, Chillon Castle offers breathtaking views of Lake Geneva and the surrounding Alps."
             ]
         }
+    ],
+    "gallery": [
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpeg",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpg",
+            "width": 2928,
+            "height": 2534
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/chapel.jpeg",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/prison.jpeg",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/towerpassages.jpeg",
+            "width": 1280,
+            "height": 960
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/winecellar.jpeg",
+            "width": 640,
+            "height": 480
+        }
     ]
 }
