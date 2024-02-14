@@ -1,7 +1,7 @@
 {
-    "title": "Exploring Chillon Castle in Montreux",
+    "title": "Exploring the amazing Chillon Castle in Montreux",
     "headerReverse": false,
-    "button": {
+    "button-notused": {
         "text": "Download pictures",
         "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/pics.zip",
         "analyticsEvent": {
@@ -14,7 +14,7 @@
     "sections": [
         {
             "type": "text",
-            "title": "intro",
+            "title": "A MEDIEVAL FORTRESS",
             "text": [
                 "Visiting the magnificent Chillon Castle in Montreux is a captivating journey through time and history where you immerse yourself in the enchanting tales and architectural marvels of this renowned Swiss fortress. Our exploration begins with a visit to Chillon's wine cellars, where ancient barrels and vaulted chambers hold the secrets of the Castle's vinicultural heritage. From there, we venture deep into the Castle's heart: the infamous prison. We step into the dimly lit dungeons where prisoners were once held captive. Emerging into the open air, we find ourselves in the captivating Courtyards, surrounded by towering walls. Then we step into the grandeur of the Great Halls, marvel at the soaring ceilings, intricate frescoes, and majestic columns.",
                 "As we venture deeper into the castle, we will explore the interior and bedrooms. Discover the opulent living spaces of the castle's inhabitants and gain insight into their daily lives. Our final stops take us to The Chapel, where stunning murals adorn the sacred space. And don't miss the weapons room, filled with an array of ancient armaments that tell tales of battles fought and victories won."
@@ -125,7 +125,7 @@
         }
     ],
     "gallery": {
-        "title": "MORE PHOTOS HERE",
+        "title": "MORE PHOTOS",
         "photos": [
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpeg",
