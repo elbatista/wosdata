@@ -153,13 +153,21 @@
             }
         },
         {
-            "type": "text",
+            "type": "textimg",
             "title": "#8 Stäuben Falls",
             "titlelevel": 2,
             "text": [
                 "The awe-inspiring Stäubifall can be found in the Uri region, close to the village of Unterschächen. This waterfall is counted among the larger ones in Switzerland, boasting a height of nearly 180 meters. The picturesque surroundings, with green wooden huts and lush greenery, make it a truly captivating destination. In our view, it is a destination worth visiting.",
                 "There are multiple routes to reach Stäubifall. If you're traveling by car, head towards the village of Altdorf. Once there, follow the signs leading to Klausenpass. As you continue, you'll reach Unterschächen, where you'll find various parking spots to leave your car. From this point, you'll embark on a hike, which, in our perspective, is more of an enjoyable and relatively easy stroll. It's worth mentioning that the \"walk\" covers a distance of approximately 6-7 kilometers."
-            ]
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/staubifall.jpeg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                }
+            }
         },
         {
             "type": "text",
