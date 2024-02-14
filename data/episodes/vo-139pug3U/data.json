@@ -135,8 +135,22 @@
             "title": "#7 Foroglio: Hidden Gem in the Maggia Valley",
             "titlelevel": 2,
             "text": [
-                "Foroglio, nestled in the Maggia Valley, is a hidden gem surrounded by lush greenery and waterfalls. The charming village exudes tranquility, offering a serene escape for those seeking a peaceful retreat."
+                "Deep in the scenic Maggia Valley in the canton of Ticino, Foroglio is a hidden gem that captivates visitors with its tranquil beauty, traditional charm, and breathtaking natural surroundings. This picturesque Swiss village, surrounded by lush greenery and dramatic mountain landscapes, offers a serene escape for those seeking an authentic and off-the-beaten-path experience.",
+                "Foroglio is characterized by its charming architecture, featuring traditional stone houses with slate roofs. The village exudes an authentic, timeless atmosphere, allowing visitors to step back in time and appreciate the simplicity and beauty of rural Swiss life.",
+                "The centerpiece of Foroglio is the stunning Cascata di Foroglio, a majestic waterfall that plunges from a towering cliff into a crystal-clear pool below. The sight of the cascading water, especially during the spring and early summer when the snowmelt is abundant, is truly mesmerizing. A short walk from the village leads to viewpoints that provide spectacular vantage points of the waterfall."
             ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/foroglio.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "500px",
+                    "marginBottom": "40px"
+                }
+            }
         },
         {
             "type": "text",
