@@ -74,7 +74,11 @@
             "title": "#4 Lausanne: Culture, History, and Lakeside Beauty",
             "titlelevel": 2,
             "text": [
-                "Nestled on the northern shore of Lake Geneva, Lausanne is a vibrant city that effortlessly combines rich history, cultural diversity, and stunning lakeside beauty. As the fourth-largest city in Switzerland, Lausanne captivates visitors with its picturesque setting, impressive architecture, and a dynamic atmosphere."
+                "Nestled on the northern shore of Lake Geneva, Lausanne is a vibrant city that effortlessly combines rich history, cultural diversity, and stunning lakeside beauty. As the fourth-largest city in Switzerland, Lausanne captivates visitors with its picturesque setting, impressive architecture, and a dynamic atmosphere.",
+                "Dominating the city skyline, the Lausanne Cathedral, or Cathédrale Notre Dame, is a masterpiece of Gothic architecture. Dating back to the 12th century, this majestic cathedral boasts stunning stained glass windows and intricate sculptures. Visitors can climb the tower for panoramic views of the city and Lake Geneva.",
+                "The city's lakeside promenade is a picturesque setting for leisurely strolls and relaxing afternoons. With the Alps in the background and the serene waters of Lake Geneva at your feet, the promenade offers a perfect escape from the urban hustle. Quays, parks, and charming cafes line the lakeshore, creating a tranquil ambiance.",
+
+                "Lausanne's unique blend of history, culture, and natural beauty makes it a captivating destination. Whether you're exploring its historic sites, strolling along the lakeside, or immersing yourself in artistic expressions, Lausanne offers a diverse and enriching experience for you."
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lausanne.jpeg",
