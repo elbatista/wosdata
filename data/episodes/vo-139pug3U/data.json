@@ -58,6 +58,18 @@
             ]
         },
         {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/chapelbridge.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "400px",
+                    "marginBottom": "40px"
+                }
+            }
+        },
+        {
             "type": "text",
             "title": "#4 Lausanne: Culture, History, and Lakeside Beauty",
             "titlelevel": 2,
