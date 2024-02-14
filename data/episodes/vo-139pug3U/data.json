@@ -1,53 +1,22 @@
 {
-    "title": "Exploring the amazing Chillon Castle in Montreux",
+    "title": "Top 10 Most Beautiful Places in Switzerland",
     "headerReverse": false,
-    "button": {
-        "text": "Download guide",
-        "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/chillon_guide.pdf",
-        "analyticsEvent": {
-            "event": "download_data",
-            "params": {
-                "episode": "EL4YYc87uOQ"
-            }
-        }
-    },
     "sections": [
         {
             "type": "text",
-            "title": "A MEDIEVAL FORTRESS",
+            "title": "A Swiss Odyssey: Exploring 10 Enchanting Cities",
             "text": [
-                "Visiting the magnificent Chillon Castle in Montreux is a captivating journey through time and history where you immerse yourself in the enchanting tales and architectural marvels of this renowned Swiss fortress. Our exploration begins with a visit to Chillon's wine cellars, where ancient barrels and vaulted chambers hold the secrets of the Castle's vinicultural heritage. From there, we venture deep into the Castle's heart: the infamous prison. We step into the dimly lit dungeons where prisoners were once held captive. Emerging into the open air, we find ourselves in the captivating Courtyards, surrounded by towering walls. Then we step into the grandeur of the Great Halls, marvel at the soaring ceilings, intricate frescoes, and majestic columns.",
-                "As we venture deeper into the castle, we will explore the interior and bedrooms. Discover the opulent living spaces of the castle's inhabitants and gain insight into their daily lives. Our final stops take us to The Chapel, where stunning murals adorn the sacred space. And don't miss the weapons room, filled with an array of ancient armaments that tell tales of battles fought and victories won."
-            ]
-        },
-        {
-            "type": "img",
-            "title": "",
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/castle.jpg",
-                "style": {
-                    "width": "100%",
-                    "height": "900px"
-                }
-            }
-        },
-        {
-            "type": "text",
-            "title": "The History of Chillon Castle",
-            "text": [
-                "The Chillon Castle, also known as Chateau de Chillon, is a medieval fortress located on the shores of Lake Geneva, in Montreux. It is one of the most visited castles in Switzerland and is known for its picturesque setting and rich history.",
-                "The castle dates back to the 12th century and was originally built to control the strategic route along the lake. Over the centuries, it served as a fortress, a residence for the counts of Savoy, and even as a prison."
+                "Switzerland, with its breathtaking landscapes and picturesque cities, is a traveler's paradise. Each city unfolds a unique tapestry of culture, history, and natural beauty. Join us on a journey as we explore the main attractions in ten Swiss cities, each offering a distinctive experience."
             ]
         },
         {
             "type": "textimg",
-            "title": "The Chillon Wine Cellars",
+            "title": "Lauterbrunnen: The Valley of 72 Waterfalls",
             "text": [
-                "One of the castle's most famous features is its four vaulted cellars, known as the Chillon Wine Cellars. These cellars were used to store goods during the castle's active years and are located in the lower levels of the castle. The cellars are composed of four interconnected vaulted chambers. The architecture is characterized by the use of sturdy stone construction and ribbed vaults, which are typical of medieval architecture. They were primarily used for storing wine, which was a valuable commodity back then, and the sellers provided a cool and dark environment, ideal for preserving the wine's quality.",
-                "Today, the Chillon Wine Cellars have been transformed into a wine tasting area, allowing visitors to sample a variety of regional wines. The cellars offer a unique atmosphere with their vaulted ceiling and stone walls, creating a memorable setting for wine enthusiasts to enjoy a tasting experience."
+                "Nestled in the Bernese Oberland, Lauterbrunnen is a haven for nature lovers. The valley is adorned with 72 cascading waterfalls, creating a mesmerizing spectacle. Trümmelbach Falls, accessible by a tunnel lift, allows visitors to witness the powerful force of water cutting through the mountain."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/winecellar.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
                 "style": {
                     "width": "100%",
                     "minWidth": "400px",
@@ -58,105 +27,10 @@
         },
         {
             "type": "text",
-            "title": "The Prison of Chillon Castle",
+            "title": "Interlaken: Gateway to Adventure",
             "text": [
-                "Another important attraction of the Chillon Castle is its prison. The prison holds a significant place in its history and has captured the imagination of visitors, thanks in part to Lord Byron's poem: \"The Prisoner of Chillon\". It served as a place of confinement, primarily used to hold political prisoners, enemies of the state, and individuals who were considered threats to the ruling authorities."
-            ]
-        },
-        {
-            "type": "img",
-            "title": "",
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/prison.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "500px"
-                }
-            }
-        },
-        {
-            "type": "text",
-            "title": "The Courtyards of Chillon Castle",
-            "text": ["The castle features several courtyards that played different roles throughout its history. The most notable ones are the Forecourt and the Courtyard of Honor. The Forecourt is the outermost courtyard and serves as the entrance to the castle. It is accessible through a drawbridge and features a fortified gatehouse with defensive elements such as arrow slits. The Forecourt served as the first line of defense for the castle in the past. Beyond the Forecourt lies the Courtyard of Honor, also known as the Great Courtyard. This spacious area is surrounded by the castle's main buildings and was the heart of the fortress. It was used for various functions, including military operations, ceremonies, and gatherings of the castle's inhabitants."]
-        },
-        {
-            "type": "textimg",
-            "title": "Tower Passages and Great Halls",
-            "text": [
-                "Also very interesting are the Tower Passages. Several towers within the castle are interconnected by high passages and narrow corridors. These passages, built at different levels, allow visitors to explore the castle's architectural intricacies and experience the sense of verticality. From these elevated walkways, one can appreciate the castle's layout and admire the surrounding views from different heights.",
-                "The castle features also three formal great halls. The ones of greater significance are the Grand Hall and the council chamber. The Grand Hall, also referred to as the Great Hall, is one of the most impressive chambers in Chillon Castle. This vast room was used for official ceremonies, banquets, and receptions."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/towerpassages.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "400px",
-                    "height": "300px"
-                }
-            },
-            "reverse": true 
-        },
-        {
-            "type": "text",
-            "title": "The Chapel and Weapons Room",
-            "text": [
-                "Another important attraction in Chillon Castle is its Chapel. The Chapel is the jewel of Chillon's architectural crown. The 14th-century paintings make it one of the rare religious buildings in the canton to have escaped the dissident zeal of the Reformation.",
-                "Lastly, but not least important, is the weapons room. Situated almost at the exact center of Chillon's rocky island, the weapons room in the keep probably dates back to the 11th century. As both a refugee tower and a symbol of power, the keep was also used as a guard tower, provisional residence, storage, and more recently as a prison."
-            ]
-        },
-        {
-            "type": "img",
-            "title": "",
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/chapel.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "600px",
-                    "marginBottom": "40px"
-                }
-            }
-        },
-        {
-            "type": "text",
-            "title": "",
-            "text": [
-                "In conclusion, Chillon Castle is definitely a must-visit attraction in Montreux, Switzerland. Its well-preserved medieval architecture, fascinating history, and stunning setting make it a captivating destination for tourists and locals alike. Visitors to Chillon Castle can explore its numerous rooms, including the grand halls, the chapel, the bedrooms, and the underground dungeons. The castle's interior is adorned with awesome old furniture, artwork, and historical artifacts, providing a glimpse into the daily life of its former inhabitants. In addition to its historical and architectural significance, Chillon Castle offers breathtaking views of Lake Geneva and the surrounding Alps."
+                "Situated between Lake Thun and Lake Brienz, Interlaken is a paradise for adventure seekers. With its stunning alpine scenery, the city is a base for activities like paragliding, hiking, and boat rides. Take a leisurely stroll along Höheweg promenade for panoramic views of the surrounding mountains."
             ]
         }
-    ],
-    "gallery": {
-        "title": "MORE PHOTOS",
-        "photos": [
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpeg",
-                "width": 1280,
-                "height": 960
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpg",
-                "width": 2928,
-                "height": 2534
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/chapel.jpeg",
-                "width": 1280,
-                "height": 960
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/prison.jpeg",
-                "width": 1280,
-                "height": 960
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/towerpassages.jpeg",
-                "width": 1280,
-                "height": 960
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/winecellar.jpeg",
-                "width": 640,
-                "height": 480
-            }
-        ]
-    }
+    ]
 }
