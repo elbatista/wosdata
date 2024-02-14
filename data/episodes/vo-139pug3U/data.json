@@ -170,12 +170,22 @@
             }
         },
         {
-            "type": "text",
+            "type": "textimg",
             "title": "#9 Bern: The UNESCO World Heritage Old Town",
             "titlelevel": 2,
             "text": [
-                "Switzerland's capital, Bern, boasts a well-preserved medieval Old Town designated as a UNESCO World Heritage site. The Zytglogge clock tower, Federal Palace, and the Bear Park are must-visit attractions, offering a blend of history and modernity."
-            ]
+                "Nestled along the Aare River, surrounded by the Bernese Alps, the medieval city of Bern, Switzerland's capital, is a captivating blend of history, culture, and modernity. Rich in UNESCO-listed Old Town charm, Bern offers a wealth of attractions, from its iconic clock tower to world-class museums.",
+                "The heart of Bern is its Old Town, a UNESCO World Heritage Site. Wandering through its cobbled streets, visitors encounter well-preserved medieval architecture, including the iconic Zytglogge clock tower, the Federal Palace, and the charming Bern Munster. The medieval arcades, known as \"Lauben,\" are perfect for a leisurely stroll and some retail therapy."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/bern.jpeg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                }
+            },
+            "reverse": true
         },
         {
             "type": "text",
