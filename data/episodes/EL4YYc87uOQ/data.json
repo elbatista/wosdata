@@ -1,9 +1,9 @@
 {
     "title": "Exploring the amazing Chillon Castle in Montreux",
     "headerReverse": false,
-    "button-notused": {
-        "text": "Download pictures",
-        "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/pics.zip",
+    "button": {
+        "text": "Download guide",
+        "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/chillon_guide.pdf",
         "analyticsEvent": {
             "event": "download_data",
             "params": {
