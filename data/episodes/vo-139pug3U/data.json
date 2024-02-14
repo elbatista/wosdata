@@ -94,8 +94,22 @@
             "title": "#5 Montreux and Chillon Castle",
             "titlelevel": 2,
             "text": [
-                "Montreux, famous for its annual Jazz Festival, is a charming town on the shores of Lake Geneva. Visit Chillon Castle, a medieval fortress located on a small island, offering a glimpse into Swiss history and breathtaking views of the lake and mountains."
+                "Nestled on the shores of Lake Geneva against the backdrop of the majestic Swiss Alps, Montreux is a charming town renowned for its scenic beauty, cultural richness, and an atmosphere that has inspired artists and musicians for generations. Known as the host of the famous Montreux Jazz Festival, this lakeside gem offers a delightful blend of natural wonders, historical charm, and a vibrant cultural scene.",
+                "Montreux's lakeside promenade is a picturesque stretch lined with flowers, palm trees, and Belle Époque-style buildings. It's an ideal place for leisurely strolls, with breathtaking views of Lake Geneva and the surrounding mountains. Numerous cafes and restaurants along the promenade provide a perfect setting to relax and savor the scenery.",
+                "One of Switzerland's most iconic landmarks, Chillon Castle, lies just a short distance from Montreux. Situated on a small island on Lake Geneva's shores, this medieval fortress offers a glimpse into the region's history. Visitors can explore the well-preserved chambers, dungeons, and ramparts, all while enjoying panoramic views of the lake and mountains."
             ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/chillon.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "400px",
+                    "marginBottom": "40px"
+                }
+            }
         },
         {
             "type": "text",
