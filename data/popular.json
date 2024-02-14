@@ -4,20 +4,23 @@
 		"publishedAt": "2024-01-01T11:11:32Z",
 		"title": "Switzerland Top 10: Most Beautiful Places in Switzerland",
 		"description": "Welcome to a visual odyssey through the breathtaking landscapes of Switzerland! In this immersive video, we unveil the Top 10 ...",
-		"thumb": "https://img.youtube.com/vi/vo-139pug3U/maxresdefault.jpg"
+		"thumb": "https://img.youtube.com/vi/vo-139pug3U/maxresdefault.jpg",
+		"cover": null
 	},
 	{
 		"videoid": "KLclTW2NH2g",
 		"publishedAt": "2023-11-25T09:00:23Z",
 		"title": "Interlaken Switzerland | Beautiful Swiss Alps | Main Attractions to Visit | A Cinematic Short Film",
 		"description": "Embark on a breathtaking visual odyssey as we explore the mesmerizing city of Interlaken, in the beautiful swiss alps. Nestled ...",
-		"thumb": "https://img.youtube.com/vi/KLclTW2NH2g/maxresdefault.jpg"
+		"thumb": "https://img.youtube.com/vi/KLclTW2NH2g/maxresdefault.jpg",
+		"cover": null
 	},
 	{
 		"videoid": "EL4YYc87uOQ",
 		"publishedAt": "2023-07-22T08:00:06Z",
 		"title": "Unraveling Chillon Castle: A Full Guided Tour of Switzerland&#39;s Most Visited Historical Building - 4K",
 		"description": "Welcome to our captivating adventure through the centuries-old Chillon Castle, nestled gracefully on the shores of Lake Geneva ...",
-		"thumb": "https://img.youtube.com/vi/EL4YYc87uOQ/maxresdefault.jpg"
+		"thumb": "https://img.youtube.com/vi/EL4YYc87uOQ/maxresdefault.jpg",
+		"cover": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/cover.jpg"
 	}
 ]
