@@ -18,16 +18,19 @@
                 "Nestled in the heart of the Bernese Oberland, Lauterbrunnen is a captivating Swiss village that seems to have sprung from the pages of a fairytale. Renowned for its stunning alpine scenery, the town is set in a deep valley surrounded by towering cliffs and snow-capped peaks. Lauterbrunnen is not only a gateway to some of Switzerland's most iconic attractions but also a destination brimming with natural wonders and outdoor adventures.",
                 "Lauterbrunnen is often referred to as the \"Valley of 72 Waterfalls,\" and for good reason. As you explore the surroundings, you'll encounter an array of waterfalls cascading down the cliffs. Trümmelbach Falls, inside a mountain accessible by a tunnel lift, is a must-visit, offering a unique experience as visitors witness the power of glacial meltwater carving through the rock.",
                 "The village itself exudes a tranquil and idyllic atmosphere. Traditional Swiss chalets dot the landscape, and the gentle flow of the Weisse Lütschine River adds to the serene ambiance. Visitors can take leisurely strolls through the village, savoring the alpine air and enjoying the charming surroundings."
-            ],
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
                 "style": {
                     "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
+                    "height": "500px",
+                    "marginBottom": "40px"
                 }
-            },
-            "reverse": false 
+            }
         },
         {
             "type": "textimg",
