@@ -5,7 +5,7 @@
         {
             "type": "text",
             "title": null,
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Switzerland, with its breathtaking landscapes and picturesque cities, is a traveler's paradise. Each city unfolds a unique tapestry of culture, history, and natural beauty. Join us on a journey as we explore the main attractions in ten Swiss cities, each offering a distinctive experience."
             ]
@@ -13,7 +13,7 @@
         {
             "type": "textimg",
             "title": "#1 Lauterbrunnen: The Valley of 72 Waterfalls",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Nestled in the heart of the Bernese Oberland, Lauterbrunnen is a captivating Swiss village that seems to have sprung from the pages of a fairytale. Renowned for its stunning alpine scenery, the town is set in a deep valley surrounded by towering cliffs and snow-capped peaks. Lauterbrunnen is not only a gateway to some of Switzerland's most iconic attractions but also a destination brimming with natural wonders and outdoor adventures.",
                 "Lauterbrunnen is often referred to as the \"Valley of 72 Waterfalls,\" and for good reason. As you explore the surroundings, you'll encounter an array of waterfalls cascading down the cliffs. Trümmelbach Falls, inside a mountain accessible by a tunnel lift, is a must-visit, offering a unique experience as visitors witness the power of glacial meltwater carving through the rock.",
@@ -32,7 +32,7 @@
         {
             "type": "textimg",
             "title": "#2 Interlaken: Gateway to Adventure",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Situated between Lake Thun and Lake Brienz, Interlaken is a paradise for adventure seekers. With its stunning alpine scenery, the city is a base for activities like paragliding, hiking, and boat rides. Take a leisurely stroll along Höheweg promenade for panoramic views of the surrounding mountains.",
                 "Perched majestically above the picturesque town of Interlaken, Harder Kulm stands as a panoramic crown jewel, offering visitors an unparalleled vantage point to behold the stunning beauty of the Swiss Alps. Accessible by a historic funicular, this mountain viewpoint is a must-visit destination for those seeking breathtaking landscapes and a truly immersive Swiss experience.",
@@ -52,7 +52,7 @@
         {
             "type": "text",
             "title": "#3 Lucerne: A Tale of Two Bridges",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Lucerne, located on the shores of Lake Lucerne, boasts medieval architecture and charming cobblestone streets. The Chapel Bridge and Water Tower are iconic landmarks, while the wooden Kapellbrücke (Chapel Bridge) is the oldest covered wooden bridge in Europe. Don't miss the Lion Monument, a poignant sculpture carved into a sandstone rock face."
             ]
@@ -60,7 +60,7 @@
         {
             "type": "text",
             "title": "#4 Lausanne: Culture, History, and Lakeside Beauty",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Nestled on the northern shore of Lake Geneva, Lausanne is a vibrant city that effortlessly combines rich history, cultural diversity, and stunning lakeside beauty. As the fourth-largest city in Switzerland, Lausanne captivates visitors with its picturesque setting, impressive architecture, and a dynamic atmosphere."
             ]
@@ -68,7 +68,7 @@
         {
             "type": "text",
             "title": "#5 Montreux and Chillon Castle",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Montreux, famous for its annual Jazz Festival, is a charming town on the shores of Lake Geneva. Visit Chillon Castle, a medieval fortress located on a small island, offering a glimpse into Swiss history and breathtaking views of the lake and mountains."
             ]
@@ -76,7 +76,7 @@
         {
             "type": "text",
             "title": "#6 Top of Europe: Jungfraujoch",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Ascend to the \"Top of Europe\" with a visit to Jungfraujoch, a high-altitude mountain pass accessible by a scenic train journey. Marvel at the Aletsch Glacier, the longest in the Alps, and enjoy panoramic views from the Sphinx Observatory."
             ]
@@ -84,7 +84,7 @@
         {
             "type": "text",
             "title": "#7 Foroglio: Hidden Gem in the Maggia Valley",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Foroglio, nestled in the Maggia Valley, is a hidden gem surrounded by lush greenery and waterfalls. The charming village exudes tranquility, offering a serene escape for those seeking a peaceful retreat."
             ]
@@ -92,7 +92,7 @@
         {
             "type": "text",
             "title": "#8 Stäuben Falls",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "The awe-inspiring Stäubifall can be found in the Uri region, close to the village of Unterschächen. This waterfall is counted among the larger ones in Switzerland, boasting a height of nearly 180 meters. The picturesque surroundings, with green wooden huts and lush greenery, make it a truly captivating destination. In our view, it is a destination worth visiting.",
                 "There are multiple routes to reach Stäubifall. If you're traveling by car, head towards the village of Altdorf. Once there, follow the signs leading to Klausenpass. As you continue, you'll reach Unterschächen, where you'll find various parking spots to leave your car. From this point, you'll embark on a hike, which, in our perspective, is more of an enjoyable and relatively easy stroll. It's worth mentioning that the \"walk\" covers a distance of approximately 6-7 kilometers."
@@ -101,7 +101,7 @@
         {
             "type": "text",
             "title": "#9 Bern: The UNESCO World Heritage Old Town",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Switzerland's capital, Bern, boasts a well-preserved medieval Old Town designated as a UNESCO World Heritage site. The Zytglogge clock tower, Federal Palace, and the Bear Park are must-visit attractions, offering a blend of history and modernity."
             ]
@@ -109,7 +109,7 @@
         {
             "type": "text",
             "title": "#10 Lugano: Mediterranean Flair in the Heart of Switzerland",
-            "title-level": 2,
+            "titlelevel": 2,
             "text": [
                 "Nestled in the Italian-speaking region of Ticino, Lugano exudes a Mediterranean charm. Stroll along the lakeside promenade, explore Parco Ciani's lush gardens, and take a funicular ride to Monte Brè for panoramic views of the city and Lake Lugano."
             ]
