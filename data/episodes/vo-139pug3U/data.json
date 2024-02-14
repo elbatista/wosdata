@@ -11,9 +11,11 @@
         },
         {
             "type": "textimg",
-            "title": "Lauterbrunnen: The Valley of 72 Waterfalls",
+            "title": "#1 Lauterbrunnen: The Valley of 72 Waterfalls",
             "text": [
-                "Nestled in the Bernese Oberland, Lauterbrunnen is a haven for nature lovers. The valley is adorned with 72 cascading waterfalls, creating a mesmerizing spectacle. Trümmelbach Falls, accessible by a tunnel lift, allows visitors to witness the powerful force of water cutting through the mountain."
+                "Nestled in the heart of the Bernese Oberland, Lauterbrunnen is a captivating Swiss village that seems to have sprung from the pages of a fairytale. Renowned for its stunning alpine scenery, the town is set in a deep valley surrounded by towering cliffs and snow-capped peaks. Lauterbrunnen is not only a gateway to some of Switzerland's most iconic attractions but also a destination brimming with natural wonders and outdoor adventures.",
+                "Lauterbrunnen is often referred to as the \"Valley of 72 Waterfalls,\" and for good reason. As you explore the surroundings, you'll encounter an array of waterfalls cascading down the cliffs. Trümmelbach Falls, inside a mountain accessible by a tunnel lift, is a must-visit, offering a unique experience as visitors witness the power of glacial meltwater carving through the rock.",
+                "The village itself exudes a tranquil and idyllic atmosphere. Traditional Swiss chalets dot the landscape, and the gentle flow of the Weisse Lütschine River adds to the serene ambiance. Visitors can take leisurely strolls through the village, savoring the alpine air and enjoying the charming surroundings."
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
@@ -27,7 +29,7 @@
         },
         {
             "type": "text",
-            "title": "Interlaken: Gateway to Adventure",
+            "title": "#2 Interlaken: Gateway to Adventure",
             "text": [
                 "Situated between Lake Thun and Lake Brienz, Interlaken is a paradise for adventure seekers. With its stunning alpine scenery, the city is a base for activities like paragliding, hiking, and boat rides. Take a leisurely stroll along Höheweg promenade for panoramic views of the surrounding mountains."
             ]
