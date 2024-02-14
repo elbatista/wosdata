@@ -70,12 +70,20 @@
             }
         },
         {
-            "type": "text",
+            "type": "textimg",
             "title": "#4 Lausanne: Culture, History, and Lakeside Beauty",
             "titlelevel": 2,
             "text": [
                 "Nestled on the northern shore of Lake Geneva, Lausanne is a vibrant city that effortlessly combines rich history, cultural diversity, and stunning lakeside beauty. As the fourth-largest city in Switzerland, Lausanne captivates visitors with its picturesque setting, impressive architecture, and a dynamic atmosphere."
-            ]
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lausanne.jpeg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                }
+            }
         },
         {
             "type": "text",
