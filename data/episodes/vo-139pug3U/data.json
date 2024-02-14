@@ -21,8 +21,8 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
                 "style": {
                     "width": "100%",
-                    "minWidth": "400px",
-                    "height": "300px"
+                    "minWidth": "600px",
+                    "height": "400px"
                 }
             },
             "reverse": false 
