@@ -36,7 +36,7 @@
                 "Upon reaching the summit, a sweeping panorama of the Jungfrau Region unfolds before your eyes. The 360-degree views encompass the iconic trio of Eiger, Mönch, and Jungfrau, as well as the glittering waters of Lake Thun and Lake Brienz. The visual feast is particularly magical during sunrise and sunset, when the changing hues of the sky paint the landscape in warm and vibrant tones."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/episodes/vo-139pug3U/assets/harderkulm.jpg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/harderkulm.jpg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
@@ -95,14 +95,21 @@
             "text": [
                 "Switzerland's capital, Bern, boasts a well-preserved medieval Old Town designated as a UNESCO World Heritage site. The Zytglogge clock tower, Federal Palace, and the Bear Park are must-visit attractions, offering a blend of history and modernity."
             ]
-        }
-        ,
+        },
         {
             "type": "text",
             "title": "#10 Lugano: Mediterranean Flair in the Heart of Switzerland",
             "text": [
                 "Nestled in the Italian-speaking region of Ticino, Lugano exudes a Mediterranean charm. Stroll along the lakeside promenade, explore Parco Ciani's lush gardens, and take a funicular ride to Monte Brè for panoramic views of the city and Lake Lugano."
             ]
+        },
+        {
+            "type": "text",
+            "title": null,
+            "text": [
+                "Switzerland's cities offer a diverse array of experiences, from the tranquility of Foroglio to the adventure hub of Interlaken. Whether you seek cultural richness, natural wonders, or adrenaline-pumping activities, Switzerland has something for every traveler."
+            ]
         }
+        
     ]
 }
