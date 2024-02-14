@@ -112,12 +112,23 @@
             }
         },
         {
-            "type": "text",
+            "type": "textimg",
             "title": "#6 Top of Europe: Jungfraujoch",
             "titlelevel": 2,
             "text": [
-                "Ascend to the \"Top of Europe\" with a visit to Jungfraujoch, a high-altitude mountain pass accessible by a scenic train journey. Marvel at the Aletsch Glacier, the longest in the Alps, and enjoy panoramic views from the Sphinx Observatory."
-            ]
+                "Jungfraujoch, often referred to as the \"Top of Europe,\" is a majestic mountain pass situated in the Bernese Alps of Switzerland. Renowned for its breathtaking alpine scenery, this high-altitude destination offers visitors a unique blend of natural wonders, awe-inspiring views, and thrilling adventures.",
+                "The journey to Jungfraujoch is an adventure in itself. The Jungfrau Railway, a marvel of Swiss engineering, takes visitors on a scenic ride through tunnels and up steep slopes. The train passes through picturesque villages, tunnels, and over stunning bridges, providing panoramic views of the surrounding mountains.",
+                "Jungfraujoch is a playground for high-alpine adventure enthusiasts. In addition to guided glacier walks and ice climbing experiences, visitors can enjoy snow sports such as skiing and snowboarding in the Snow Fun Park. The pristine snowfields and crisp mountain air create an ideal setting for winter activities."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/jungfraujoch.jpeg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                }
+            },
+            "reverse": true
         },
         {
             "type": "text",
