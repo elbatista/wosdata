@@ -137,96 +137,125 @@
     "gallery": {
         "title": "More photos",
         "photos": [
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7246.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7257.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7259.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7275.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7279.jpeg",
-                        "width": 960,
-                        "height": 1280
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7287.jpeg",
-                        "width": 960,
-                        "height": 1280
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7290.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7298.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7302.jpeg",
-                        "width": 960,
-                        "height": 1280
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7307.jpeg",
-                        "width": 960,
-                        "height": 1280
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7312.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7315.jpeg",
-                        "width": 960,
-                        "height": 1280
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7326.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7353.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7356.jpeg",
-                        "width": 960,
-                        "height": 1280
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7360.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7383.jpeg",
-                        "width": 1280,
-                        "height": 960
-                },
-                {
-                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7394.jpeg",
-                        "width": 1280,
-                        "height": 960
-                }
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7246.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "A panel telling the history of the prisoner of Chillon."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7259.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Chillon's underground dungeons."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7275.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "One of the halls in Chillon Castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7279.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description":  "Massive wooden columns in Chillon Castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7287.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "Museum inside de castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7290.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Bedroom inside de castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7298.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "A fireplace inside de castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7302.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "Paintings of coats of arms adorning the halls inside the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7307.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "A kind of old wooden bathtub where the inhabitants used to take baths."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7312.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Windows overlooking Lake Geneva."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7315.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "The chapel."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7326.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Wooden passageways connecting areas of the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7353.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Aerial wooden passageways connecting areas of the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7356.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "Aerial wooden passageways connecting areas of the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7360.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Views of the walls from inside the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7383.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "The castle as seen from its highest tower."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7394.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "The castle seen from the outside."
+            }
         ]
     }
 }

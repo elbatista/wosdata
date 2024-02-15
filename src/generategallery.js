@@ -18,8 +18,10 @@ const getGalleryItem = async filePath => {
                 resolve({
                     src: `https://raw.githubusercontent.com/elbatista/wosdata/master/${filePath}`,
                     width: size.width,
-                    height: size.height
-                })
+                    height: size.height,
+                    title: null,
+                    description: null
+                });
             }
         });
     });
@@ -38,5 +40,5 @@ fs.readdir(dir, async (err, files) => {
             gallery.photos.push(item);
         }
     }
-    console.log("\"gallery\":", JSON.stringify(gallery, null, '\t'));
+    console.log("\"gallery\":", JSON.stringify(gallery, null, '    '));
 });
