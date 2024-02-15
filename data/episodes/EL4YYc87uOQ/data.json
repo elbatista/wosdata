@@ -135,38 +135,98 @@
         }
     ],
     "gallery": {
-        "title": "MORE PHOTOS",
+        "title": "More photos",
         "photos": [
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpeg",
-                "width": 1280,
-                "height": 960
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/castle.jpg",
-                "width": 2928,
-                "height": 2534
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/chapel.jpeg",
-                "width": 1280,
-                "height": 960
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/prison.jpeg",
-                "width": 1280,
-                "height": 960
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/towerpassages.jpeg",
-                "width": 1280,
-                "height": 960
-            },
-            {
-                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/winecellar.jpeg",
-                "width": 640,
-                "height": 480
-            }
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7246.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7257.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7259.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7275.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7279.jpeg",
+                        "width": 960,
+                        "height": 1280
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7287.jpeg",
+                        "width": 960,
+                        "height": 1280
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7290.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7298.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7302.jpeg",
+                        "width": 960,
+                        "height": 1280
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7307.jpeg",
+                        "width": 960,
+                        "height": 1280
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7312.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7315.jpeg",
+                        "width": 960,
+                        "height": 1280
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7326.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7353.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7356.jpeg",
+                        "width": 960,
+                        "height": 1280
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7360.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7383.jpeg",
+                        "width": 1280,
+                        "height": 960
+                },
+                {
+                        "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7394.jpeg",
+                        "width": 1280,
+                        "height": 960
+                }
         ]
     }
 }
