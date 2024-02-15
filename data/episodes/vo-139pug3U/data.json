@@ -188,7 +188,7 @@
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
-                    "height": "400px"
+                    "height": "600px"
                 }
             },
             "reverse": true
