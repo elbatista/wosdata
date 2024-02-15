@@ -22,7 +22,7 @@
             "type": "img",
             "title": "",
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/interlaken.jpeg",
                 "style": {
                     "width": "100%",
                     "height": "700px",
@@ -65,7 +65,7 @@
             "type": "img",
             "title": "",
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/chapelbridge.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/20190422_170504.jpeg",
                 "style": {
                     "width": "100%",
                     "height": "400px",
@@ -83,7 +83,7 @@
                 "Take a romantic cruise on Lake Thun or Lake Brienz, surrounded by the stunning Alpine scenery. These boat rides provide a serene way to appreciate the beauty of the lakes and the mountains."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lausanne.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/IMG_3351.jpeg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
@@ -100,5 +100,143 @@
             ]
         }
         
-    ]
+    ],
+    "gallery": {
+        "title": "MORE PHOTOS OF INTERLAKEN",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/20190422_173033.jpeg",
+                "width": 1280,
+                "height": 113,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/20190422_175446.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/20190422_180313.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_3275.jpeg",
+                "width": 1280,
+                "height": 573,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_3276.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_3286.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_3333.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_3363.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_3938.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_6290.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_6308.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_9813.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/IMG_9863.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/jairph-ANUxLKxurUI-unsplash.jpg",
+                "width": 2677,
+                "height": 4015,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/prakarsh-saxena-k4AoLA76NRc-unsplash.jpg",
+                "width": 5184,
+                "height": 2920,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/raphael-schaller-3MFfKkEoRfE-unsplash.jpg",
+                "width": 5400,
+                "height": 3600,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/rat-ski-SMj2DY7QUfw-unsplash.jpg",
+                "width": 3992,
+                "height": 2242,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/rodrigo-curi-qbFcoczcsyg-unsplash.jpg",
+                "width": 6000,
+                "height": 4000,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/gallery/tucker-monticelli-ORS4Y-et7xg-unsplash.jpg",
+                "width": 3648,
+                "height": 3648,
+                "title": null,
+                "description": null
+            }
+        ]
+    }
 }
