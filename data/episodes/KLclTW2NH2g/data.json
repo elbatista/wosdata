@@ -1,0 +1,104 @@
+{
+    "title": "Interlaken: Where Adventure Meets Alpine Splendor",
+    "headerReverse": false,
+    "sections": [
+        {
+            "type": "text",
+            "title": null,
+            "text": [
+                "Nestled in the Bernese Oberland between Lake Thun and Lake Brienz, Interlaken is a mesmerizing town that serves as the gateway to the stunning Jungfrau region in the Swiss Alps. Known for its breathtaking landscapes, thrilling outdoor activities, and charming atmosphere, Interlaken is a haven for nature lovers and adventure enthusiasts. Here's a closer look at what makes Interlaken a captivating destination"
+            ]
+        },
+        {
+            "type": "text",
+            "title": "Scenic Beauty and Adventure",
+            "titlelevel": 2,
+            "text": [
+                "Surrounded by the Eiger, Mönch, and Jungfrau mountain peaks, Interlaken is a visual feast. The town is strategically located between two pristine lakes, Lake Thun and Lake Brienz, providing a backdrop of turquoise waters against the snow-capped mountains.",
+                "Interlaken has rightfully earned the title of the \"Adventure Capital of Switzerland.\" With its proximity to the Jungfrau region, it offers a plethora of outdoor activities, including hiking, paragliding, skiing, snowboarding, and more. The surrounding mountains provide a playground for thrill-seekers."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "700px",
+                    "marginBottom": "40px"
+                }
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "Harder Kulm: A Panoramic Vista Above Interlaken",
+            "titlelevel": 2,
+            "text": [
+                "Harder Kulm, often referred to as the \"Top of Interlaken,\" is a spectacular mountain viewpoint that offers unparalleled panoramic views of Interlaken, the Thun and Brienz lakes, and the surrounding Bernese Alps. Perched at an elevation of 1,322 meters (4,337 feet) above sea level, this vantage point provides an awe-inspiring backdrop for a memorable Alpine experience. ",
+
+                "Accessing Harder Kulm is an adventure in itself. Visitors embark on a scenic journey aboard the Harderbahn funicular, one of the steepest cogwheel railways in the world. The funicular ascends from Interlaken to the summit, passing through lush forests and providing glimpses of the surrounding landscapes.",
+
+                "Upon reaching the summit, a sweeping panorama of the Jungfrau Region unfolds before your eyes. The 360-degree views encompass the iconic trio of Eiger, Mönch, and Jungfrau, as well as the glittering waters of Lake Thun and Lake Brienz. The visual feast is particularly magical during sunrise and sunset, when the changing hues of the sky paint the landscape in warm and vibrant tones."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/harderkulm.jpg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                }
+            },
+            "reverse": true 
+        },
+
+        {
+            "type": "text",
+            "title": "Parks in Interlaken",
+            "titlelevel": 2,
+            "text": [
+                "Aventura Park, located in the forest near Interlaken, is an adventure park with ropes courses, zip lines, and other challenges. It's a fantastic place for families and those seeking a thrilling outdoor experience.",
+                "Höhematte Park, in the heart of Interlaken, is a vast green space perfect for a leisurely stroll or a relaxing afternoon. Enjoy picnics with a view of the surrounding mountains or participate in outdoor activities."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/chapelbridge.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "400px",
+                    "marginBottom": "40px"
+                }
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "Traditional Cuisine and Romantic Cruises",
+            "titlelevel": 2,
+            "text": [
+                "Interlaken offers a diverse culinary scene, with traditional Swiss restaurants serving fondue, raclette, and other Alpine specialties. Enjoy authentic mountain cuisine while taking in the charming ambiance of the town.",
+
+                "Take a romantic cruise on Lake Thun or Lake Brienz, surrounded by the stunning Alpine scenery. These boat rides provide a serene way to appreciate the beauty of the lakes and the mountains."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lausanne.jpeg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                }
+            }
+        },
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "Interlaken's unique combination of natural beauty and adrenaline-pumping activities makes it a sought-after destination. Whether you're an adventure seeker, a nature lover, or someone looking to unwind in a picturesque setting, Interlaken has something magical to offer."
+            ]
+        }
+        
+    ]
+}
