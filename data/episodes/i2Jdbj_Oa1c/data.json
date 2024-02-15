@@ -12,24 +12,20 @@
             ]
         },
         {
-            "type": "text",
+            "type": "textimg",
             "title": "Verzasca Valley",
             "titlelevel": 2,
             "text": [
                 "Our first stop takes us to the mesmerizing Verzasca Valley, a haven for nature lovers and adventure seekers alike. Known for its crystal-clear turquoise river and picturesque stone bridges, the Verzasca Valley offers a serene escape from the hustle and bustle of modern life.",
 
                 "The iconic Ponte dei Salti, a double-arched Roman bridge, spans the river and provides a perfect spot for a leisurely stroll or a refreshing swim in the clear waters. Hiking trails wind through the valley, offering panoramic views of the surrounding mountains and lush greenery."
-            ]
-        },
-        {
-            "type": "img",
-            "title": "",
+            ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/verzasca.jpeg",
                 "style": {
                     "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
+                    "minWidth": "600px",
+                    "height": "800px"
                 }
             }
         },
