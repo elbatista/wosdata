@@ -25,7 +25,7 @@
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
-                    "height": "800px"
+                    "height": "600px"
                 }
             }
         },
@@ -59,7 +59,7 @@
                 "The quaint villages along the way provide a glimpse into the local way of life, with charming stone houses and welcoming locals. Maggia Valley is a paradise for outdoor enthusiasts, offering activities such as hiking, rock climbing, and canyoning."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/maggia.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/maggia2.jpeg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
