@@ -68,19 +68,25 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/20190422_170504.jpeg",
                 "style": {
                     "width": "100%",
-                    "height": "400px",
+                    "height": "600px",
                     "marginBottom": "40px"
                 }
             }
         },
         {
             "type": "textimg",
-            "title": "Traditional Cuisine and Romantic Cruises",
+            "title": "Enjoying the two lakes",
             "titlelevel": 2,
             "text": [
-                "Interlaken offers a diverse culinary scene, with traditional Swiss restaurants serving fondue, raclette, and other Alpine specialties. Enjoy authentic mountain cuisine while taking in the charming ambiance of the town.",
+                "Interlaken, with its enchanting location nestled between Lake Thun and Lake Brienz, offers an aquatic spectacle that complements its mountainous grandeur. ",
 
-                "Take a romantic cruise on Lake Thun or Lake Brienz, surrounded by the stunning Alpine scenery. These boat rides provide a serene way to appreciate the beauty of the lakes and the mountains."
+                "Lake Thun, also known as Thunersee, is the larger of the two lakes and lies to the west of Interlaken. Its clear blue waters are surrounded by rolling hills and picturesque villages. A cruise on Lake Thun provides stunning views of the surrounding Alps, including the iconic Eiger, Mönch, and Jungfrau peaks.",
+
+                "Lake Brienz, or Brienzersee, is the second lake situated to the east of Interlaken. Known for its tranquil turquoise waters, Lake Brienz is bordered by dense forests and charming lakeside towns. The Aare River flows into Lake Brienz, adding to its scenic beauty.",
+
+                "Both Lake Thun and Lake Brienz offer delightful boat cruises that allow visitors to relax while taking in the breathtaking landscapes. The cruises operate year-round, and each season brings its own unique charm. In summer, the lakes are a playground for water activities, while winter cruises offer a serene escape amidst snow-dusted scenery.",
+
+                "Experience a touch of nostalgia aboard the vintage paddle steamers that ply the waters of Lake Thun and Lake Brienz. These historic vessels, adorned with polished brass and wooden decks, offer a classic and leisurely way to explore the lakes."
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/IMG_3351.jpeg",
@@ -96,7 +102,7 @@
             "title": null,
             "titlelevel": 2,
             "text": [
-                "Interlaken's unique combination of natural beauty and adrenaline-pumping activities makes it a sought-after destination. Whether you're an adventure seeker, a nature lover, or someone looking to unwind in a picturesque setting, Interlaken has something magical to offer."
+                "In conclusion, Interlaken's unique combination of natural beauty and adrenaline-pumping activities makes it a sought-after destination. Whether you're an adventure seeker, a nature lover, or someone looking to unwind in a picturesque setting, Interlaken has something magical to offer."
             ]
         }
         
