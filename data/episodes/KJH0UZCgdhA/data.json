@@ -64,7 +64,7 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/assets/lauter3.jpeg",
                 "style": {
                     "width": "100%",
-                    "height": "400px",
+                    "height": "500px",
                     "marginBottom": "40px"
                 }
             }
@@ -88,5 +88,164 @@
             },
             "reverse": false 
         }
-    ]
+    ],
+    "gallery": {
+        "title": "More photos of Lauterbrunnen",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/17h10m45s363.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/17h11m11s772.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/17h11m41s013.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/17h18m25s468.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/17h18m37s763.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/17h19m14s401.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/18353597.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/5210121.jpeg",
+                "width": 951,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3442.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3461.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3508.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3520.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3541.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3547.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3655.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3660.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3720.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3735.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3818.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3829.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3857.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3877.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            }
+        ]
+    }
 }
