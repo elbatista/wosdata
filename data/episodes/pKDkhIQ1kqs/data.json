@@ -1,0 +1,90 @@
+{
+    "title": "Flying over Lugano in Switzerland",
+    "headerReverse": false,
+    "sections": [
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "Located in the Italian-speaking canton of Ticino, Lugano is a captivating city that effortlessly combines Swiss efficiency with a distinct Mediterranean flair. Situated on the shores of Lake Lugano and surrounded by the mountains of the Lugano Prealps, this city offers a delightful blend of natural beauty, cultural richness, and modern amenities.",
+                "The azure waters of Lake Lugano set the stage for the city's enchanting atmosphere. The lake, surrounded by hills and mountains, provides a stunning backdrop for various recreational activities. Visitors can enjoy boat cruises, lakeside promenades, and water sports while taking in the picturesque scenery.",
+                "In this captivating video, we offer a unique perspective on the beauty of Lugano by taking to the skies with a drone. Experience the enchanting allure of Lugano like never before as we soar above, capturing breathtaking aerial views that unveil the city's stunning landscapes. Join us on this mesmerizing journey as we showcase Lugano from a vantage point that adds a new dimension to its splendor."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano1.jpg",
+                "style": {
+                    "width": "100%",
+                    "height": "700px",
+                    "marginBottom": "40px"
+                }
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "Lugano's Charm from the Sky",
+            "titlelevel": 2,
+            "text": [
+                "As we elevate our viewpoint to the skies, the charm of Lugano takes on a whole new dimension. The drone gracefully glides over the city, providing viewers with a unique bird's-eye view of Lugano's picturesque landscapes, architectural marvels, and the shimmering waters of Lake Lugano. The melding of modernity and natural beauty becomes apparent as we showcase the city's skyline, nestled amid the Swiss-Italian Alps.",
+                "As we soar through the sky, Lugano's vibrant colors come alive. The changing hues of the city, the surrounding hills, and the azure lake create a symphony of colors that evolve with the passing moments. Whether it's the warm glow of sunrise or the soft hues of sunset, Lugano's beauty is accentuated from this elevated perspective."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano2.jpg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                }
+            },
+            "reverse": true 
+        },
+        {
+            "type": "text",
+            "title": "Commanding Peaks and Alpine Vistas",
+            "titlelevel": 2,
+            "text": [
+                "As our drone gracefully glides above the city, the commanding presence of Lugano's surrounding peaks comes into focus. The towering Alps, draped in snow-capped splendor, create a dramatic backdrop that frames the cityscape. Watch as the drone captures the Alpine vistas, showcasing the rugged grandeur that defines Lugano's natural surroundings.",
+                
+                "Lugano's charm reaches new heights as we showcase the city nestled beneath the snow-capped peaks. The contrast between the urban sophistication and the untamed beauty of the mountains creates a breathtaking tableau. Watch the video and join us in witnessing the seamless fusion of city life with the pristine allure of the alpine wonderland."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano3.jpg",
+                "style": {
+                    "width": "100%",
+                    "height": "400px",
+                    "marginBottom": "40px"
+                }
+            }
+        },
+        {
+            "type": "text",
+            "title": "Dramatic Silhouettes at Sunset",
+            "titlelevel": 2,
+            "text": [
+                "As the sun begins its descent, our drone captures the mountains and peaks casting elongated shadows over Lugano. The dramatic silhouettes against the evening sky paint a mesmerizing picture, epitomizing the symbiotic relationship between the city and its formidable mountainous neighbors. Experience the magic of Lugano's skyline as it transforms under the warm hues of a mountain-framed sunset.",
+
+                "Our drone's-eye journey reveals Lugano as a city that harmonizes with the grandeur of its mountainous surroundings, celebrating the summit serenity and alpine majesty that define Lugano's character, capturing a perspective that elevates the appreciation of this Swiss gem to new heights."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano4.jpg",
+                "style": {
+                    "width": "100%",
+                    "height": "400px",
+                    "marginBottom": "40px"
+                }
+            }
+        }
+    ]
+}
