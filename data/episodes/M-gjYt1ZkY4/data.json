@@ -7,7 +7,7 @@
             "title": null,
             "titlelevel": 2,
             "text": [
-                "Nestled in the heart of the Fribourg region of Switzerland, Gruyères stands as a testament to the country's rich history, medieval charm, and delectable culinary traditions. This picturesque village, with its cobblestone streets and well-preserved medieval architecture, is a haven for those seeking an authentic Swiss experience. In this blog post, we'll take you on a virtual journey through Gruyères, exploring its captivating landscapes, iconic castle, and the world-renowned Gruyère cheese that has made this village famous."
+                "Nestled in the heart of the Fribourg region of Switzerland, Gruyères stands as a testament to the country's rich history, medieval charm, and delectable culinary traditions. This picturesque village, with its cobblestone streets and well-preserved medieval architecture, is a haven for those seeking an authentic Swiss experience. In this post, we'll take you on a virtual journey through Gruyères, exploring its captivating landscapes, iconic castle, and the world-renowned Gruyère cheese that has made this village famous. Watch our video above for even more details!"
             ]
         },
         {
@@ -24,17 +24,15 @@
         },
         {
             "type": "textimg",
-            "title": "Natural Beauty",
+            "title": "Gruyère Castle: A Step Back in Time",
             "titlelevel": 2,
             "text": [
-                "Lauterbrunnen is renowned for its 72 waterfalls, with Staubbach Falls being the most famous. Staubbach Falls, plunging almost 300 meters, is an iconic landmark that adds to the village's enchanting atmosphere.",
-
-                "The valley is characterized by its sheer rock walls, covered in lush greenery, and the meandering Lütschine River. The combination of the valley's depth and the surrounding mountains creates a breathtaking and dramatic landscape.",
-
-                "Situated nearby, Trümmelbach Falls is a series of impressive waterfalls inside a mountain. Visitors can explore the caves and tunnels to witness the power of glacial meltwater."
+                "At the heart of Gruyères, perched majestically on a hill, is the Château de Gruyères. Dating back to the 13th century, this medieval castle offers not only a glimpse into the past but also breathtaking panoramic views of the Sarine River valley and the surrounding Swiss Alps. Our video captures the essence of this historic landmark, showcasing its well-preserved halls, courtyards, and the fascinating museum within, which unravels the tales of Gruyères' rich history.",
+                "Within the castle's walls lies a treasure trove of history waiting to be unveiled. Our video tour takes you through the museum housed within the Château de Gruyères, where artifacts, tapestries, and exhibits chronicle the village's evolution through the centuries. Learn about the noble families that once called the castle home and the pivotal moments that shaped Gruyères' destiny.",
+                "One of the highlights of visiting Château de Gruyères is the breathtaking panoramic view it offers. Our video captures the sweeping vistas of the Sarine River valley and the majestic Swiss Alps that stretch beyond the horizon. Explore the castle's towers and ramparts, where each vantage point provides a different perspective of the stunning landscape surrounding Gruyères."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/assets/lauter2.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/M-gjYt1ZkY4/assets/castle.jpeg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
