@@ -62,7 +62,7 @@
 
                 "The quaint villages along the way provide a glimpse into the local way of life, with charming stone houses and welcoming locals. Maggia Valley is a paradise for outdoor enthusiasts, offering activities such as hiking and rock climbing",
 
-                "Some of the highlights include the enchanting villages of Foroglio, Cevio, Sonlerto, and Sabbione. Maggia Valley, situated in the canton of Ticino, Switzerland, captivates visitors with its breathtaking landscapes, crystal-clear rivers, and charming settlements. Foroglio, with its iconic waterfall backdrop, adds a touch of natural beauty to the valley, while Cevio boasts historical charm and cultural significance. Sonlerto, surrounded by lush greenery, offers a tranquil escape, and Sabbione, with its traditional architecture, provides a glimpse into the region's rich heritage. Each village in the Maggia Valley contributes to the overall allure of this picturesque area, making it a must-visit destination for those seeking a harmonious blend of nature, culture, and Swiss-Italian charm."
+                "Some of the highlights include the enchanting villages of Foroglio, Cevio, Sonlerto, and Sabbione. Foroglio, with its iconic waterfall backdrop, adds a touch of natural beauty to the valley, while Cevio boasts historical charm and cultural significance. Sonlerto, surrounded by lush greenery, offers a tranquil escape, and Sabbione, with its unique architecture, provides a glimpse into the region's rich heritage. Each village in the Maggia Valley contributes to the overall allure of this picturesque area, making it a must-visit destination for those seeking a harmonious blend of nature, culture, and Swiss-Italian charm."
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/foroglio.jpeg",
@@ -78,10 +78,14 @@
             "title": "Locarno/Ascona",
             "titlelevel": 2,
             "text": [
-                "Our journey concludes in the dynamic duo of Locarno and Ascona, situated on the shores of Lake Maggiore. These two towns are known for their Mediterranean flair, with palm-lined promenades, vibrant piazzas, and historic architecture. Locarno, host to the renowned Locarno Film Festival, offers a mix of cultural events and recreational activities. Meanwhile, Ascona boasts a more laid-back atmosphere, with its lakeside cafes, art galleries, and the charming Old Town. The blend of Swiss efficiency and Mediterranean charm makes Locarno and Ascona must-visit destinations in Ticino."
+                "Our journey concludes in the dynamic duo of Locarno and Ascona, situated on the shores of Lake Maggiore. These two towns are known for their Mediterranean flair, with palm-lined promenades, vibrant piazzas, and historic architecture.",
+                
+                "Locarno's main square, Piazza Grande, is known for its charming cobblestone streets, historic buildings, and a vibrant atmosphere. The square hosts various events, including the Locarno Film Festival, one of the most renowned film festivals in the world. Perched on a hill above Locarno, the Sanctuary of Madonna del Sasso offers panoramic views of the town and Lake Maggiore. The sanctuary is a significant pilgrimage site and features a beautiful church with frescoes and religious artifacts.",
+                
+                "Meanwhile, Ascona boasts a more laid-back atmosphere, with its lakeside cafes, art galleries, and the Old Town. Ascona's Old Town is a charming area with narrow streets, colorful houses, and quaint shops. The lakeside promenade is perfect for a leisurely stroll, offering views of the surrounding mountains and Lake Maggiore. The blend of Swiss efficiency and Mediterranean charm makes Locarno and Ascona must-visit destinations in Ticino."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/locarno.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/ascona.jpg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
