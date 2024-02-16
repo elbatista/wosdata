@@ -9,14 +9,14 @@
             "text": [
                 "Located in the Italian-speaking canton of Ticino, Lugano is a captivating city that effortlessly combines Swiss efficiency with a distinct Mediterranean flair. Situated on the shores of Lake Lugano and surrounded by the mountains of the Lugano Prealps, this city offers a delightful blend of natural beauty, cultural richness, and modern amenities.",
                 "The azure waters of Lake Lugano set the stage for the city's enchanting atmosphere. The lake, surrounded by hills and mountains, provides a stunning backdrop for various recreational activities. Visitors can enjoy boat cruises, lakeside promenades, and water sports while taking in the picturesque scenery.",
-                "In this captivating video, we offer a unique perspective on the beauty of Lugano by taking to the skies with a drone. Experience the enchanting allure of Lugano like never before as we soar above, capturing breathtaking aerial views that unveil the city's stunning landscapes. Join us on this mesmerizing journey as we showcase Lugano from a vantage point that adds a new dimension to its splendor."
+                "In this captivating video, we offer a unique perspective on the beauty of Lugano by taking to the skies with a drone. Experience the enchanting allure of Lugano like never before as we soar above, capturing breathtaking aerial views that unveil the city's stunning landscapes. Watch the video and join us on this mesmerizing journey as we showcase Lugano from a vantage point that adds a new dimension to its splendor."
             ]
         },
         {
             "type": "img",
             "title": "",
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano1.jpg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano2.jpg",
                 "style": {
                     "width": "100%",
                     "height": "700px",
@@ -33,7 +33,7 @@
                 "As we soar through the sky, Lugano's vibrant colors come alive. The changing hues of the city, the surrounding hills, and the azure lake create a symphony of colors that evolve with the passing moments. Whether it's the warm glow of sunrise or the soft hues of sunset, Lugano's beauty is accentuated from this elevated perspective."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano2.jpg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano1.jpg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
@@ -81,7 +81,7 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano4.jpg",
                 "style": {
                     "width": "100%",
-                    "height": "400px",
+                    "height": "700px",
                     "marginBottom": "40px"
                 }
             }
