@@ -67,8 +67,24 @@
             "title": null,
             "titlelevel": 2,
             "text": [
-                "Lauterbrunnen's unparalleled natural beauty, coupled with its outdoor activities and charming village atmosphere, makes it a must-visit destination for nature lovers, adventure enthusiasts, and those seeking a quintessential Swiss Alpine experience."
+                "Gruyères is not just a destination; it's an experience. Our video captures the enchanting landscapes surrounding the village, from rolling hills to meadows adorned with alpine flowers. Immerse yourself in the festive atmosphere as we showcase the various events and traditional Swiss festivals that bring the village to life throughout the year",
+
+                "Whether you're a history buff, an art lover, or a food enthusiast, Gruyères offers a perfect blend of experiences. Our video serves as an enticing preview, inviting you to plan your visit and explore the magic of Gruyères in person.",
+                
+                "Gruyères stands as a testament to Switzerland's timeless allure, seamlessly blending medieval charm with contemporary delights. Join us on this virtual journey through our video, and let Gruyères captivate your senses, leaving you yearning for the enchanting landscapes, the echoes of history, and the irresistible flavors that define this Swiss gem."
             ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/M-gjYt1ZkY4/assets/gru2.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "700px",
+                    "marginBottom": "40px"
+                }
+            }
         }
     ]
 }
