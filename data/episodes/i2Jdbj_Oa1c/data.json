@@ -60,10 +60,12 @@
             "text": [
                 "Moving on, Maggia Valley beckons with its rugged landscapes and pristine beauty. The Maggia River, meandering through the valley, adds to the region's allure. Adventurous souls can explore the numerous hiking trails that lead to hidden waterfalls, ancient hamlets, and breathtaking viewpoints.",
 
-                "The quaint villages along the way provide a glimpse into the local way of life, with charming stone houses and welcoming locals. Maggia Valley is a paradise for outdoor enthusiasts, offering activities such as hiking, rock climbing, and canyoning."
+                "The quaint villages along the way provide a glimpse into the local way of life, with charming stone houses and welcoming locals. Maggia Valley is a paradise for outdoor enthusiasts, offering activities such as hiking and rock climbing",
+
+                "Some of the highlights include the enchanting villages of Foroglio, Cevio, Sonlerto, and Sabbione. Maggia Valley, situated in the canton of Ticino, Switzerland, captivates visitors with its breathtaking landscapes, crystal-clear rivers, and charming settlements. Foroglio, with its iconic waterfall backdrop, adds a touch of natural beauty to the valley, while Cevio boasts historical charm and cultural significance. Sonlerto, surrounded by lush greenery, offers a tranquil escape, and Sabbione, with its traditional architecture, provides a glimpse into the region's rich heritage. Each village in the Maggia Valley contributes to the overall allure of this picturesque area, making it a must-visit destination for those seeking a harmonious blend of nature, culture, and Swiss-Italian charm."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/maggia2.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/foroglio.jpeg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
