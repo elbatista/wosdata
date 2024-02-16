@@ -70,26 +70,23 @@
             }
         },
         {
-            "type": "text",
-            "title": "Dramatic Silhouettes at Sunset",
+            "type": "textimg",
+            "title": "Charming Village Atmosphere",
             "titlelevel": 2,
             "text": [
-                "As the sun begins its descent, our drone captures the mountains and peaks casting elongated shadows over Lugano. The dramatic silhouettes against the evening sky paint a mesmerizing picture, epitomizing the symbiotic relationship between the city and its formidable mountainous neighbors. Experience the magic of Lugano's skyline as it transforms under the warm hues of a mountain-framed sunset.",
+                "Lauterbrunnen features traditional Swiss chalets and Alpine architecture, adding to the village's charm and authenticity. Visitors can savor local Swiss dishes in the village's restaurants and cafes, providing a taste of traditional mountain cuisine and is easily accessible by train, making it a convenient destination for those exploring the Bernese Oberland region.",
 
-                "Our drone's-eye journey reveals Lugano as a city that harmonizes with the grandeur of its mountainous surroundings, celebrating the summit serenity and alpine majesty that define Lugano's character, capturing a perspective that elevates the appreciation of this Swiss gem to new heights."
-            ]
-        },
-        {
-            "type": "img",
-            "title": "",
+                "Lauterbrunnen's unparalleled natural beauty, coupled with its outdoor activities and charming village atmosphere, makes it a must-visit destination for nature lovers, adventure enthusiasts, and those seeking a quintessential Swiss Alpine experience."
+            ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano4.jpg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/assets/lauter4.jpeg",
                 "style": {
                     "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
+                    "minWidth": "600px",
+                    "height": "400px"
                 }
-            }
+            },
+            "reverse": false 
         }
     ]
 }
