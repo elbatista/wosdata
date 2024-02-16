@@ -24,14 +24,17 @@
         },
         {
             "type": "textimg",
-            "title": "Lugano's Charm from the Sky",
+            "title": "Natural Beauty",
             "titlelevel": 2,
             "text": [
-                "As we elevate our viewpoint to the skies, the charm of Lugano takes on a whole new dimension. The drone gracefully glides over the city, providing viewers with a unique bird's-eye view of Lugano's picturesque landscapes, architectural marvels, and the shimmering waters of Lake Lugano. The melding of modernity and natural beauty becomes apparent as we showcase the city's skyline, nestled amid the Swiss-Italian Alps.",
-                "As we soar through the sky, Lugano's vibrant colors come alive. The changing hues of the city, the surrounding hills, and the azure lake create a symphony of colors that evolve with the passing moments. Whether it's the warm glow of sunrise or the soft hues of sunset, Lugano's beauty is accentuated from this elevated perspective."
+                "Lauterbrunnen is renowned for its 72 waterfalls, with Staubbach Falls being the most famous. Staubbach Falls, plunging almost 300 meters, is an iconic landmark that adds to the village's enchanting atmosphere.",
+
+                "The valley is characterized by its sheer rock walls, covered in lush greenery, and the meandering Lütschine River. The combination of the valley's depth and the surrounding mountains creates a breathtaking and dramatic landscape.",
+
+                "Situated nearby, Trümmelbach Falls is a series of impressive waterfalls inside a mountain. Visitors can explore the caves and tunnels to witness the power of glacial meltwater."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/pKDkhIQ1kqs/assets/lugano1.jpg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/assets/lauter1.jpeg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
