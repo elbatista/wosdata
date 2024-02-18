@@ -69,6 +69,32 @@
                 }
             },
             "reverse": false 
+        },
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "The Bern Bridge, also known as the Pont de Berne, is a historic covered bridge in Fribourg, Switzerland. It is the oldest bridge in the city and the only remaining covered bridge in Fribourg's Old Town.",
+
+                "The bridge was originally built in the mid-13th century, around 100 years after the city of Fribourg was founded. It was initially supported by timber trestles, but the current structure dates back to 1653. The central stone pillar and deck were replaced in 1853-54, and the roof was added in 1885.",
+
+                "The bridge is 142 meters long and 5 meters wide. It is made of wood and covered with a gabled roof. The bridge is decorated with paintings of various saints and historical figures. The Bern Bridge is a popular tourist destination and a symbol of Fribourg. It is also a UNESCO World Heritage Site."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/bridge.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "500px",
+                    "marginBottom": "40px"
+                }
+            }
         }
+        
+
     ]
 }
