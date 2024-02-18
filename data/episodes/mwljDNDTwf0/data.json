@@ -93,6 +93,30 @@
                     "marginBottom": "40px"
                 }
             }
+        },
+        {
+            "type": "text",
+            "title": "The city's Fortifications",
+            "titlelevel": 2,
+            "text": [
+                "Fribourg's impressive fortifications are a series of walls, towers, and gates built between the 13th and 15th centuries to protect the city. They form the most significant piece of medieval military architecture in Switzerland and are open to the public for exploration.",
+
+                "Construction began in the 13th century and continued throughout the 15th century. The city's strategic location on a rocky plateau surrounded by the River Sarine made it a prime target for attacks, prompting the need for strong defenses. The fortifications played a crucial role in Fribourg's history, protecting the city from attacks and contributing to its prosperity. Today, they stand as a testament to the city's rich heritage and offer a unique glimpse into medieval defensive architecture.",
+
+                "The fortifications are open to the public year-round, with extended access during the summer months (May to October) for guided tours. You can walk along the ramparts, explore the towers, and soak in the breathtaking views of the city and surrounding countryside."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/fort.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "700px",
+                    "marginBottom": "40px"
+                }
+            }
         }
         
 
