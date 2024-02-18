@@ -1,0 +1,28 @@
+{
+    "title": "Fribourg: Timeless Beauty and History in Switzerland",
+    "headerReverse": false,
+    "sections": [
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "Located in the heart of Switzerland, the picturesque city of Fribourg beckons travelers with its captivating blend of medieval charm, cultural richness, and linguistic diversity. As you traverse its cobbled streets and immerse yourself in the ambiance of this enchanting locale, you'll discover a city that seamlessly weaves together the threads of history, architecture, and a unique bilingual heritage.",
+
+                "As you explore the nooks and crannies of Fribourg, you'll find a city that seamlessly blends the old with the new, the traditional with the modern. It's a place where history is not confined to textbooks but is woven into the very fabric of daily life. Fribourg is an invitation to step into a world where time seems to slow down, allowing you to savor every moment in this enchanting tapestry of culture and history."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/fri1.jpg",
+                "style": {
+                    "width": "100%",
+                    "height": "700px",
+                    "marginBottom": "40px"
+                }
+            }
+        }
+    ]
+}
