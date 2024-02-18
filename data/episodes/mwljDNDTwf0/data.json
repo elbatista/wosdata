@@ -31,12 +31,10 @@
             "text": [
                 "Fribourg's Old Town serves as a living testament to its rich history. Cobblestone streets wind their way through a meticulously preserved medieval landscape, revealing architectural gems that date back centuries. The Cathedral of Saint Nicholas, standing tall since the 13th century, dominates the city with its majestic spire. Wander through the narrow alleys, and you'll encounter centuries-old buildings, each whispering tales of times gone by.",
 
-                "The Cathedral, locally known as \"Cathédrale Saint-Nicolas,\" stands as an architectural masterpiece that dominates Fribourg's skyline. Its construction dates back to the 13th century, and the cathedral has undergone various renovations and additions over the centuries, showcasing a captivating blend of Gothic and Romanesque architectural styles. The imposing spire, soaring into the sky, is a symbol of the city's religious and historical significance.",
-
-                "For those willing to climb the cathedral's tower, a rewarding experience awaits. The ascent provides panoramic views of Fribourg and its surroundings. The cityscape unfolds beneath you, offering a unique perspective on the urban landscape, the Sarine River, and the charming rooftops of the Old Town."
+                "The Cathedral, locally known as \"Cathédrale Saint-Nicolas,\" stands as an architectural masterpiece that dominates Fribourg's skyline. Its construction dates back to the 13th century, and the cathedral has undergone various renovations and additions over the centuries, showcasing a captivating blend of Gothic and Romanesque architectural styles. The imposing spire, soaring into the sky, is a symbol of the city's religious and historical significance."
             ],
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/fri2.jpg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/fri2.jpeg",
                 "style": {
                     "width": "100%",
                     "minWidth": "600px",
@@ -44,6 +42,14 @@
                 }
             },
             "reverse": true 
+        },
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "For those willing to climb the cathedral's tower, a rewarding experience awaits. The ascent provides panoramic views of Fribourg and its surroundings. The cityscape unfolds beneath you, offering a unique perspective on the urban landscape, the Sarine River, and the charming rooftops of the Old Town."
+            ]
         }
     ]
 }
