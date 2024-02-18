@@ -50,6 +50,23 @@
             "text": [
                 "For those willing to climb the cathedral's tower, a rewarding experience awaits. The ascent provides panoramic views of Fribourg and its surroundings. The cityscape unfolds beneath you, offering a unique perspective on the urban landscape, the Sarine River, and the charming rooftops of the Old Town."
             ]
+        },
+        {
+            "type": "textimg",
+            "title": "The Loreto Chapel",
+            "titlelevel": 2,
+            "text": [
+                "The belvedere of this baroque-style sanctuary built by Jean-François Reyff in 1648 offers the most beautiful view of Fribourg's old town. This baroque chapel is one of the most successful creations of Jean-François Reyff, the versatile artist from Fribourg who was a sculptor, architect and fortifications engineer. His Virgin Marys are recognisable by their pensive, gentle faces. The baroque chapel (1647-1689), a down-to-size replica of the Santa Casa de Loreto, Italy, towers over the old part ot town."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/loreto.jpeg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                }
+            },
+            "reverse": false 
         }
     ]
 }
