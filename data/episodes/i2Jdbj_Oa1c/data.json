@@ -30,7 +30,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "600px"
-                }
+                },
+                "caption": "The Verzasca River, with the iconic \"Ponte dei Salti\" (Italian for \"Bridge of Jumps\") gracefully spanning the waters, creating a timeless scene of natural splendor and architectural charm."
             }
         },
         {
@@ -50,7 +51,8 @@
                     "width": "100%",
                     "height": "700px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "A breathtaking aerial view of the picturesque village of Corippo, nestled harmoniously amidst the Swiss landscape, in the canton of Ticino."
             }
         },
         {
@@ -70,7 +72,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "Foroglio village, at the foot of the cascading Foroglio waterfall, epitomizing the raw beauty of nature in the heart of Switzerland."
             }
         },
         {
@@ -90,7 +93,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "Aerial view capturing the scenic charm of Ascona village, gracefully embracing the shores of Lake Maggiore."
             },
             "reverse": true
         },
@@ -111,42 +115,42 @@
                 "width": 1280,
                 "height": 720,
                 "title": null,
-                "description": null
+                "description": "The village of Corippo from a new vantage point, revealing its timeless beauty and tranquil charm."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/11h11m02s185.jpg",
                 "width": 1280,
                 "height": 720,
                 "title": null,
-                "description": null
+                "description": "The village of Corippo from another vantage point."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/11h12m00s405.jpg",
                 "width": 1280,
                 "height": 720,
                 "title": null,
-                "description": null
+                "description": "The church bell tower rises proudly, a timeless symbol against the backdrop of the village landscape."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/11h12m28s560.jpg",
                 "width": 1280,
                 "height": 720,
                 "title": null,
-                "description": null
+                "description": "The church bell tower from another perspective."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/11h23m17s740.jpeg",
                 "width": 1280,
                 "height": 720,
                 "title": null,
-                "description": null
+                "description": "Lake Maggiore."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/11h23m53s289.jpeg",
                 "width": 1280,
                 "height": 720,
                 "title": null,
-                "description": null
+                "description": "The valley near Locarno."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/21h23m23s292.jpg",
@@ -160,133 +164,133 @@
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Corippo village from another perspective."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_1119.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Verzasca River."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_1162.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "The colossal rocks along the Verzasca River sculpting a breathtaking landscape blending rugged beauty with the gentle flow of the water."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_1194.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Verzasca River and surrounding mountains."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_2743.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "A Swiss village in the Verzasca Valley."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_2778.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Clear waters of the Verzasca River."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_2803.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "The Verzasca River and the iconic \"Ponte dei Salti\"."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_2835.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Chasing tranquility at the Instagram-famous spot in Foroglio. A picture-perfect scene where the village charm meets the cascading waterfall, creating a visual symphony of nature's wonders."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_2902.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Foroglio, surrounded by verdant landscapes and the soothing sounds of cascading water, it's a slice of paradise waiting to be explored."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_2913.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Foroglio waterfall."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_2930.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Swinging into bliss by the river: The iconic \"Swing the World\" offers a thrilling adventure with a breathtaking view."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_3004.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Foroglio, surrounded by verdant landscapes and the soothing sounds of cascading water, it's a slice of paradise waiting to be explored."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_3010.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Enchanting charm in Sabbione: Discover the whimsical allure of the iconic Hobbit-hut-like stone house. Nestled in Sabbione, this fairy-tale dwelling captures the essence of fantasy and architectural wonder in the heart of the Swiss landscape."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_4452.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Locarno region."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_4455.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Embracing serenity as the sun bids farewell: Lake Maggiore bathed in the warm hues of a breathtaking sunset."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_4460.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Embracing serenity as the sun bids farewell: Lake Maggiore bathed in the warm hues of a breathtaking sunset."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_4463.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Embracing serenity as the sun bids farewell: Lake Maggiore bathed in the warm hues of a breathtaking sunset."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_4465.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Locarno region in the warm hues of a breathtaking sunset."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_4469.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Embracing serenity as the sun bids farewell: Lake Maggiore bathed in the warm hues of a breathtaking sunset."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_4536.jpeg",
@@ -300,91 +304,91 @@
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Nature's mystique unfolds in the fog-kissed valley near Locarno and Ascona. A dreamy, atmospheric scene where rolling mists weave through the landscape, creating an ethereal ambiance that enchants the soul."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_4584.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Foggy valley near Locarno and Ascona. A dreamy, atmospheric scene where rolling mists weave through the landscape, creating an ethereal ambiance that enchants the soul."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_7100.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "The narrow alleys of Foroglio village. Quaint and charming, these cobblestone pathways wind through the heart of the village, revealing a picturesque blend of rustic architecture and timeless beauty."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9657.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Stepping into a bygone era in the stone-housed village of Sabbione. Each cobblestone street and charming dwelling narrate a story of history and heritage."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9675.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Tranquil beauty in Sonlerto: Stone houses stand gracefully against the serene backdrop of snow-capped peaks."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9695.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Sonlerto's enchanting landscape unfolds with captivating beauty, where quaint stone houses dot the picturesque terrain."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9697.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Majestic peaks stand sentinel, creating a breathtaking backdrop that adds a sense of awe to the serene beauty of this Swiss village."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9733.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "The architectural splendor of Sonlerto's stone houses is nothing short of exquisite. Each structure tells a tale of craftsmanship, blending seamlessly with the natural surroundings."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9751.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Tranquil beauty in Sonlerto: Stone houses stand gracefully against the serene backdrop of snow-capped peaks."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9765.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "Gazing into the distance reveals the enchanting village of Sabbione, a tranquil haven framed by nature's beauty."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9766.jpeg",
                 "width": 960,
                 "height": 1280,
                 "title": null,
-                "description": null
+                "description": "A beautiful stone pathway winds its way to the heart of the village, inviting wanderers to follow its enchanting trail."
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9773.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Discovering the mysterious caves beneath colossal rocks, a hidden world veiled in intrigue. "
             },
             {
                 "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/gallery/IMG_9791.jpeg",
                 "width": 1280,
                 "height": 960,
                 "title": null,
-                "description": null
+                "description": "Gazing into the distance reveals the enchanting village of Sabbione, a tranquil haven framed by nature's beauty."
             }
         ]
     }
