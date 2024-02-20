@@ -21,7 +21,8 @@
                     "width": "100%",
                     "height": "700px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "The panoramic beauty of Lugano, where the city nestles in the valley, and the glistening lake extends into the distance."
             }
         },
         {
@@ -38,7 +39,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "Soaring above Lugano, a bird's-eye perspective unveils the city nestled in the valley, framed by the sparkling Lake Lugano and the surrounding mountains in the distance."
             },
             "reverse": true 
         },
@@ -61,7 +63,8 @@
                     "width": "100%",
                     "height": "400px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "Majestic peaks frame the landscape, creating a stunning backdrop that accentuates the natural beauty of this Swiss gem."
             }
         },
         {
@@ -83,7 +86,8 @@
                     "width": "100%",
                     "height": "700px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "As the sun sets over Lugano, the cityscape transforms into a canvas of warm hues, casting a golden glow on the buildings and the tranquil lake."
             }
         }
     ]
