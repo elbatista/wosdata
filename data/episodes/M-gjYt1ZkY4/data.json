@@ -72,9 +72,7 @@
             "title": "Scenic Surroundings and Relaxing Atmosphere",
             "titlelevel": 2,
             "text": [
-                "Gruyères is not just a destination; it's an experience. Our video captures the enchanting landscapes surrounding the village, from rolling hills to meadows adorned with alpine flowers. Whether you're a history buff, an art lover, or a food enthusiast, Gruyères offers a perfect blend of experiences. Our video serves as an enticing preview, inviting you to plan your visit and explore the magic of Gruyères in person.",
-                
-                "Gruyères stands as a testament to Switzerland's timeless allure, seamlessly blending medieval charm with contemporary delights. Join us on this virtual journey through our video, and let Gruyères captivate your senses, leaving you yearning for the enchanting landscapes, the echoes of history, and the irresistible flavors that define this Swiss gem."
+                "Gruyères is not just a destination; it's an experience. Our video captures the enchanting landscapes surrounding the village, from rolling hills to meadows adorned with alpine flowers. Whether you're a history buff, an art lover, or a food enthusiast, Gruyères offers a perfect blend of experiences. Our video serves as an enticing preview, inviting you to plan your visit and explore the magic of Gruyères in person."
             ]
         },
         {
@@ -89,6 +87,14 @@
                 },
                 "caption": "Under the enchanting veil of night, Gruyères village transforms into a magical wonderland. Cobblestone streets glow with the warm embrace of streetlights, revealing the medieval charm that makes this Swiss village truly timeless."
             }
+        },
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "Gruyères stands as a testament to Switzerland's timeless allure, seamlessly blending medieval charm with contemporary delights. Join us on this virtual journey through our video, and let Gruyères captivate your senses, leaving you yearning for the enchanting landscapes, the echoes of history, and the irresistible flavors that define this Swiss gem."
+            ]
         }
     ]
 }

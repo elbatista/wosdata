@@ -21,7 +21,8 @@
                     "width": "100%",
                     "height": "700px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "The captivating panorama of Fribourg's Old Town from the Loreto Chapel viewpoint. A scenic vantage point that unveils the historic charm, red-roofed houses, and meandering streets, creating a picturesque scene in the heart of Fribourg."
             }
         },
         {
@@ -39,7 +40,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "The cathedral of Fribourg, a majestic symbol of Gothic architecture, rises proudly against the sky (photo by Alin Andersen, Unsplash)."
             },
             "reverse": true 
         },
@@ -66,7 +68,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "The Loreto Chapel in Fribourg, a hidden gem of tranquility and architectural grace."
             },
             "reverse": false 
         },
@@ -91,7 +94,8 @@
                     "width": "100%",
                     "height": "500px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "The charming Pont de Berne in Fribourg, where history and modernity converge over the tranquil waters of the Sarine River."
             }
         },
         {
@@ -115,7 +119,8 @@
                     "width": "100%",
                     "height": "700px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "The medieval fortifications of Fribourg, where ancient city walls and towering bastions stand as silent guardians of history (photo by Alin Andersen, Unsplash)."
             }
         }
         
