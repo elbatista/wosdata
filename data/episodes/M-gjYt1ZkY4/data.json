@@ -19,7 +19,8 @@
                     "width": "100%",
                     "height": "700px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "Gruyères village, where cobblestone streets wind through medieval architecture, creating a captivating atmosphere."
             }
         },
         {
@@ -39,7 +40,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "Imposing and timeless, Gruyères Castle stands atop the village, a medieval masterpiece that echoes with centuries of history."
             },
             "reverse": true 
         },
@@ -60,7 +62,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "The art of cheese-making at the Gruyères Cheese Factory."
             },
             "reverse": false 
         },
@@ -83,7 +86,8 @@
                     "width": "100%",
                     "height": "700px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "Under the enchanting veil of night, Gruyères village transforms into a magical wonderland. Cobblestone streets glow with the warm embrace of streetlights, revealing the medieval charm that makes this Swiss village truly timeless."
             }
         }
     ]
