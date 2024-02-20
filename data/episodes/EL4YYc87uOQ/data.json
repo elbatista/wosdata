@@ -29,7 +29,8 @@
                 "style": {
                     "width": "100%",
                     "height": "900px"
-                }
+                },
+                "caption": "The Chillon Castle (Shootcase Chronicles, Pexels)."
             }
         },
         {
@@ -55,9 +56,10 @@
                     "width": "100%",
                     "minWidth": "400px",
                     "height": "300px"
-                }
+                },
+                "caption": "The Chillon Castle's Wine Cellars."
             },
-            "reverse": false 
+            "reverse": false
         },
         {
             "type": "text",
@@ -76,7 +78,8 @@
                 "style": {
                     "width": "100%",
                     "height": "500px"
-                }
+                },
+                "caption": "The Prison of Chillon Castle. A huge underground dungeon with vaulted ceilings and pillars."
             }
         },
         {
@@ -99,7 +102,8 @@
                     "width": "100%",
                     "minWidth": "400px",
                     "height": "300px"
-                }
+                },
+                "caption": "Wooden passages connecting several areas inside Chillon Castle."
             },
             "reverse": true 
         },
@@ -121,7 +125,8 @@
                     "width": "100%",
                     "height": "600px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "The magnificent chapel within Chillon Castle showcases exquisitely adorned walls, adding to its grandeur and charm."
             }
         },
         {
