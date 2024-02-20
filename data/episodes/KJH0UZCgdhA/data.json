@@ -19,7 +19,8 @@
                     "width": "100%",
                     "height": "700px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "Breathtaking aerial view of Lauterbrunnen Valley: a spectacle of waterfalls, green landscapes, and charming villages below."
             }
         },
         {
@@ -39,7 +40,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "Lauterbrunnen's famous Instagram spot, where the valley unfolds in all its glory, with the majestic waterfall as a breathtaking backdrop."
             },
             "reverse": true 
         },
@@ -61,12 +63,13 @@
             "type": "img",
             "title": "",
             "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/assets/lauter3.jpeg",
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KJH0UZCgdhA/gallery/IMG_3877.jpeg",
                 "style": {
                     "width": "100%",
                     "height": "500px",
                     "marginBottom": "40px"
-                }
+                },
+                "caption": "Sweeping views of the picturesque valley seen from Wengen, where nature's beauty unfolds with lush greenery and distant peaks."
             }
         },
         {
@@ -86,7 +89,8 @@
                     "width": "100%",
                     "minWidth": "600px",
                     "height": "400px"
-                }
+                },
+                "caption": "The village exudes charm with its collection of quaint wooden chalets. A picturesque scene where traditional architecture meets cozy elegance."
             },
             "reverse": false 
         },
