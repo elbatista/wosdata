@@ -1,5 +1,6 @@
 const axios = require('axios')
-const writeFile = require('./util');
+const {writeFile, stripEmojis} = require('./util');
+const { kebabCase } = require('lodash');
 
 const YOUTUBE_API_PLAYLISTS = `https://www.googleapis.com/youtube/v3/playlists?part=snippet&maxResults=50&channelId=${process.env.CHANNELID}&key=${process.env.YOUTUBE_API_KEY}`;
 const YOUTUBE_API_PLAYLIST  = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&key=${process.env.YOUTUBE_API_KEY}`;
@@ -19,6 +20,7 @@ const updatePlaylists = () => {
             playlist.items = result.data.items.filter(i=>!i.snippet.title.toLowerCase().includes("private video")).map(item =>({
                 videoid: item.snippet.resourceId.videoId,
                 title: item.snippet.title,
+                url: kebabCase(stripEmojis(item.snippet.title)),
                 publishedAt: item.snippet.publishedAt,
                 description: item.snippet.description,
                 thumb: `https://img.youtube.com/vi/${item.snippet.resourceId.videoId}/maxresdefault.jpg`//item.snippet.thumbnails.maxres?.url || item.snippet.thumbnails.default?.url || ""

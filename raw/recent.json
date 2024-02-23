@@ -1,13 +1,47 @@
 {
 	"kind": "youtube#searchListResponse",
-	"etag": "8EuBwst898XJMUMzYMTxfZRMYyI",
+	"etag": "S5AbJakhzY-FJnEMtjAqhkhSFE8",
 	"nextPageToken": "CAoQAA",
 	"regionCode": "CH",
 	"pageInfo": {
-		"totalResults": 38,
+		"totalResults": 39,
 		"resultsPerPage": 10
 	},
 	"items": [
+		{
+			"kind": "youtube#searchResult",
+			"etag": "2MdocJdBgOIj8bAhtrcvbpaOIuc",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "NiZV7Xrlux8"
+			},
+			"snippet": {
+				"publishedAt": "2024-02-17T09:00:13Z",
+				"channelId": "UCp84mSQtZSdduaVONDiCLlQ",
+				"title": "Top 25 Places To Visit in Switzerland - Travel Guide",
+				"description": "Switzerland holds a special place in our hearts, as it is a country we adore above all others for traveling. Its unparalleled beauty ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/NiZV7Xrlux8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/NiZV7Xrlux8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/NiZV7Xrlux8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Wonders of Switzerland",
+				"liveBroadcastContent": "none",
+				"publishTime": "2024-02-17T09:00:13Z"
+			}
+		},
 		{
 			"kind": "youtube#searchResult",
 			"etag": "U8Klk2kqSSyE5eqaqMCgmRp6t9A",
@@ -112,7 +146,7 @@
 		},
 		{
 			"kind": "youtube#searchResult",
-			"etag": "4sPpDejIxQQfpF2UdIf5nywNt1g",
+			"etag": "-9wyTzoow_t4YdX5BMiuYAinOdE",
 			"id": {
 				"kind": "youtube#video",
 				"videoId": "KJH0UZCgdhA"
