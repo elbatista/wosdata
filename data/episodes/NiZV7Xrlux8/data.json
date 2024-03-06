@@ -81,6 +81,20 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/foroglio.jpg",
                 "caption": "Foroglio village, at the foot of the cascading Foroglio waterfall, epitomizing the raw beauty of nature in the heart of Switzerland."
             }
+        },
+        {
+            "type": "textimg",
+            "title": "#5 Wengen",
+            "titlelevel": 2,
+            "text": [
+                "Wengen is a charming alpine village located in the Bernese Oberland region of Switzerland. Nestled high in the Swiss Alps, Wengen is renowned for its stunning mountain scenery, traditional chalet-style architecture, and its popularity as a gateway to the Jungfrau region. Situated in the canton of Bern, perched on a sunny plateau at an elevation of approximately 1,274 meters (4,180 feet) above sea level, it is part of the Jungfrau region, which includes famous peaks such as the Eiger, Mönch, and Jungfrau.",
+                "Wengen is a car-free village, accessible by train from Lauterbrunnen. Visitors typically take a scenic train ride to Wengen, enjoying breathtaking views along the way. The train journey provides a unique experience, with Wengen's picturesque setting becoming visible as the train ascends through the mountains. A popular destination for winter sports enthusiasts, the village is part of the Jungfrau Ski Region, offering a range of skiing and snowboarding opportunities. In the summer, Wengen becomes a hub for hiking and mountain biking. The surrounding trails provide stunning views of the Alps and access to high-altitude vantage points.",
+                "The village is characterized by its traditional Swiss chalet-style architecture. Wooden buildings adorned with flower-filled balconies contribute to the idyllic and cozy atmosphere. Wengen offers a peaceful and relaxed atmosphere, making it a popular choice for those seeking a quiet mountain retreat. Visitors can explore the pedestrianized village center, lined with shops, restaurants, and cafes. The absence of cars enhances the tranquility of the surroundings. Wengen is a year-round destination, with each season offering its own set of activities and attractions. Whether it's winter sports, spring blooms, summer hiking, or autumn foliage, Wengen has something to offer throughout the year."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/wengen.jpg",
+                "caption": "The village of Wengen: a combination of alpine beauty, outdoor recreation, and traditional charm (photo by Yura Lytkin, Unsplash)."
+            }
         }
     ]
 }
