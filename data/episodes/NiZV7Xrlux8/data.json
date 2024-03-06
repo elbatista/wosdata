@@ -67,6 +67,20 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/pilatus.jpg",
                 "caption": "Mount Pilatus: a natural wonder, cultural and historical gem in the heart of Switzerland (photo by Ilia Bronskiy, Unsplash)."
             }
+        },
+        {
+            "type": "textimg",
+            "title": "#4 Bavona Valley",
+            "titlelevel": 2,
+            "text": [
+                "The Bavona Valley, situated in the canton of Ticino in southern Switzerland, is known for its stunning natural beauty, traditional stone-built villages, and picturesque landscapes. Located in the Maggia Valley region, it is characterized by steep cliffs, lush green meadows, and dense forests, creating a picturesque and tranquil atmosphere.",
+                "Foroglio is a charming mountain village nestled in the Bavona Valley. It is renowned for its waterfall, \"Cascata di Foroglio\", which is one of the highest free-falling waterfalls in Switzerland. The village features traditional stone houses with slate roofs, giving it a rustic and authentic charm. Foroglio is a popular starting point for hiking trails leading to scenic viewpoints and natural attractions",
+                "Sabbione is another village in the Bavona Valley, known for its traditional architecture and its location amidst the stunning alpine scenery. Visitors to Sabbione can explore narrow cobblestone streets, admire the stone-built houses, and enjoy the peaceful ambiance of this alpine village. Sonlerto is yet another picturesque village in the Bavona Valley. It is known for its well-preserved traditional architecture, including stone houses and charming squares. The village is surrounded by mountains and forests, providing a tranquil setting for those seeking a peaceful escape in the Swiss Alps."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/foroglio.jpg",
+                "caption": "Foroglio village, at the foot of the cascading Foroglio waterfall, epitomizing the raw beauty of nature in the heart of Switzerland."
+            }
         }
     ]
 }
