@@ -47,12 +47,26 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/harderkulm.jpg",
-                "style": {
-                    "heigth": "300px"
-                },
                 "caption": "Harder Kulm: A summit above Interlaken offering breathtaking views of the Swiss Alps and Lakes Thun and Brienz. A must-visit for panoramic beauty and alpine charm."
             }
+        },
+        {
+            "type": "text",
+            "title": "#3 Mount Pilatus",
+            "titlelevel": 2,
+            "text": [
+                "Mount Pilatus is a mountain massif located in the Swiss Alps, near the city of Lucerne in central Switzerland. It is a popular tourist destination, known for its stunning panoramic views, diverse outdoor activities, and a rich history.",
+                "The mountain overlooks Lake Lucerne and the surrounding region, offering breathtaking views of the Swiss landscape. Visitors can reach the summit of Mount Pilatus by taking a combination of cogwheel railway, cable cars, and a gondola. The cogwheel railway, known as the Pilatus Railway, is one of the steepest cogwheel railways in the world and has been in operation since 1889.",
+                "Mount Pilatus provides a variety of recreational activities throughout the year, including hiking, mountain biking, and paragliding in the summer. In the winter, the area becomes a popular destination for snow sports, such as skiing and snowboarding. The summit of Mount Pilatus is known as Pilatus Kulm. It offers a revolving restaurant, a hotel, and a visitor center where tourists can enjoy the stunning views and learn about the mountain's history and geology. Mount Pilatus has a rich history and is associated with various legends. One legend tells of a dragon that once lived on the mountain, giving rise to its name. The mountain has been a subject of inspiration for writers, artists, and travelers over the centuries."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/pilatus.jpg",
+                "caption": "Mount Pilatus: a natural wonder, cultural and historical gem in the heart of Switzerland (photo by Ilia Bronskiy, Unsplash)."
+            }
         }
-        
     ]
 }
