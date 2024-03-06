@@ -13,7 +13,7 @@
         },
         {
             "type": "text",
-            "title": "#1 Lauterbrunnen: The Valley of 72 Waterfalls",
+            "title": "#1 Lauterbrunnen Valley",
             "titlelevel": 2,
             "text": [
                 "Nestled in the heart of the Bernese Oberland, Lauterbrunnen is a captivating Swiss village that seems to have sprung from the pages of a fairytale. Renowned for its stunning alpine scenery, the town is set in a deep valley surrounded by towering cliffs and snow-capped peaks. Lauterbrunnen is not only a gateway to some of Switzerland's most iconic attractions but also a destination brimming with natural wonders and outdoor adventures.",
@@ -26,8 +26,31 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/lauter.jpeg",
-                "style": "h-[400px]",
+                "style": {
+                    "heigth": "300px"
+                },
                 "caption": "Lauterbrunnen: A Swiss alpine gem surrounded by cliffs and cascading waterfalls. The gateway to the Jungfrau region, offering stunning landscapes and natural beauty."
+            }
+        },
+        {
+            "type": "text",
+            "title": "#2 Interlaken",
+            "titlelevel": 2,
+            "text": [
+                "Situated between Lake Thun and Lake Brienz, Interlaken is a paradise for adventure seekers. With its stunning alpine scenery, the city is a base for activities like paragliding, hiking, and boat rides. Take a leisurely stroll along Höheweg promenade for panoramic views of the surrounding mountains.",
+                "Perched majestically above the picturesque town of Interlaken, Harder Kulm stands as a panoramic crown jewel, offering visitors an unparalleled vantage point to behold the stunning beauty of the Swiss Alps. Accessible by a historic funicular, this mountain viewpoint is a must-visit destination for those seeking breathtaking landscapes and a truly immersive Swiss experience.",
+                "Upon reaching the summit, a sweeping panorama of the Jungfrau Region unfolds before your eyes. The 360-degree views encompass the iconic trio of Eiger, Mönch, and Jungfrau, as well as the glittering waters of Lake Thun and Lake Brienz. The visual feast is particularly magical during sunrise and sunset, when the changing hues of the sky paint the landscape in warm and vibrant tones."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/harderkulm.jpg",
+                "style": {
+                    "heigth": "300px"
+                },
+                "caption": "Harder Kulm: A summit above Interlaken offering breathtaking views of the Swiss Alps and Lakes Thun and Brienz. A must-visit for panoramic beauty and alpine charm."
             }
         }
         
