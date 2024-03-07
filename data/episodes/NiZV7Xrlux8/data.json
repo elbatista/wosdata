@@ -127,7 +127,20 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lausanne.jpeg",
-                "caption": "."
+                "caption": "The city of Lausanne - a blend of history, culture, and natural beauty."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "#8 Lucerne",
+            "titlelevel": 2,
+            "text": [
+                "Lucerne (or Luzern in German) is a picturesque city located in the heart of Switzerland, situated on the shores of Lake Lucerne and surrounded by the stunning Swiss Alps. Known for its well-preserved medieval architecture, charming Old Town, and proximity to various natural attractions, Lucerne is a popular destination for tourists. The Chapel Bridge, with its Water Tower, is one of Lucerne's most iconic landmarks. The bridge dates back to the 14th century and is the oldest wooden bridge in Europe. The Water Tower served as a prison, and both structures offer scenic views of the city.",
+                "The city is situated on the shores of Lake Lucerne, surrounded by mountains. Visitors can enjoy boat cruises on the lake, offering breathtaking views of the landscape.Lucerne's Old Town is a well-preserved medieval district with narrow cobblestone streets, colorful buildings, and charming squares. The Weinmarkt and Hirschenplatz are particularly noteworthy.The Lion Monument is a poignant sculpture carved into a sandstone rock face. It commemorates Swiss Guards who were killed during the French Revolution. The monument depicts a dying lion and is a symbol of courage and sacrifice. Lucerne's combination of historical charm, natural beauty, and cultural richness makes it a captivating destination for travelers exploring Switzerland."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/lucerne.jpg",
+                "caption": "Lucerne: where medieval charm meets alpine grandeur, creating a picturesque scene on the shores of Lake Lucerne (photo by Simon Infanger, Unsplash)."
             }
         }
     ]
