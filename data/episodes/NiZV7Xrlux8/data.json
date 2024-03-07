@@ -156,6 +156,19 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/jung.jpg",
                 "caption": "Jungfraujoch - an unforgettable experience, offering a combination of natural beauty and high-altitude adventure (photo by Markus Spiske, Unsplash)."
             }
+        },
+        {
+            "type": "textimg",
+            "title": "#10 St. Moritz",
+            "titlelevel": 2,
+            "text": [
+                "St. Moritz is a world-renowned resort town located in the Engadin valley, in Switzerland. Famous for its luxurious lifestyle, winter sports, and hosting prestigious events, St. Moritz has been a sought-after destination for the elite and travelers seeking alpine charm. St. Moritz is often considered the birthplace of winter tourism, and it has twice hosted the Winter Olympics (in 1928 and 1948). It is a premier destination for skiing, snowboarding, and other winter sports. Situated in the Engadin Valley at an elevation of about 1,856 meters (6,089 feet), St. Moritz boasts stunning alpine scenery. The surrounding lakes and mountains create a picturesque backdrop for the town.",
+                "St. Moritz Lake is frozen during the winter months, providing a unique setting for outdoor activities such as ice skating, snow polo, and horse racing on ice. St. Moritz is synonymous with luxury and sophistication. The town is home to high-end hotels, upscale boutiques, and gourmet restaurants, catering to a discerning international clientele. The historic Badrutt's Palace Hotel is an iconic landmark in St. Moritz, known for its grandeur and elegance. It has been a symbol of luxury since its opening in 1896. The Corviglia ski area is a popular destination for skiers and snowboarders. It offers a variety of slopes with breathtaking views of the surrounding mountains. St. Moritz, with its blend of natural beauty, winter sports excellence, and a luxurious lifestyle, continues to be a destination of choice for those seeking an alpine escape with a touch of sophistication. Whether it's winter sports, cultural events, or enjoying the pristine surroundings, St. Moritz offers a unique and unforgettable experience."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/stmoritz.jpg",
+                "caption": "St. Moritz - an awesome destination for the elite and travelers seeking alpine charm."
+            }
         }
     ]
 }
