@@ -96,6 +96,24 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/wengen.jpg",
                 "caption": "The village of Wengen: a combination of alpine beauty, outdoor recreation, and traditional charm (photo by Yura Lytkin, Unsplash)."
             }
+        },
+        {
+            "type": "text",
+            "title": "#6 Zermatt",
+            "titlelevel": 2,
+            "text": [
+                "Zermatt is a world-renowned resort town situated in the canton of Valais in Switzerland. It is nestled at the base of the iconic Matterhorn, one of the most famous and recognizable peaks in the Alps. Zermatt is a paradise for outdoor enthusiasts. In the winter, it offers world-class skiing and snowboarding opportunities with extensive ski areas, including Gornergrat and Schwarzsee. In the summer, Zermatt becomes a haven for hikers and mountaineers, with a network of trails leading to alpine lakes, viewpoints, and mountain huts.",
+                "The Matterhorn, with its distinctive pyramid shape, is the centerpiece of Zermatt's landscape. It is one of the most photographed mountains in the world and a symbol of the Swiss Alps. Visitors can enjoy breathtaking views of the Matterhorn from various vantage points in and around Zermatt. The Gornergrat Bahn, a cogwheel railway, takes visitors to the Gornergrat, a ridge with panoramic views of the Matterhorn and surrounding peaks. It's a popular spot for sunrise and sunset photography. The Klein Matterhorn, or Little Matterhorn, is home to the highest cable car station in Europe, known as the Matterhorn Glacier Paradise. Visitors can enjoy panoramic views and access the Glacier Palace, an ice cave within the glacier",
+                "Zermatt is a car-free town, meaning that motorized vehicles are not allowed within the village. Electric taxis and horse-drawn carriages provide transportation, contributing to a peaceful and clean environment. Zermatt features charming, traditional Swiss chalet architecture. The village is lined with cobbled streets, boutique shops, restaurants, and cafes, creating a cozy and alpine atmosphere. Zermatt's combination of breathtaking scenery, outdoor adventures, and the allure of the Matterhorn makes it a must-visit destination for nature lovers, skiers, hikers, and those seeking an authentic alpine experience."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/zermatt.jpg",
+                "caption": "Zermatt: a world-renowned resort town nestled at the base of the iconic Matterhorn, one of the most famous and recognizable peaks in the Alps (photo by Michael Portmann, Unsplash)."
+            }
         }
     ]
 }
