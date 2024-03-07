@@ -114,6 +114,21 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/zermatt.jpg",
                 "caption": "Zermatt: a world-renowned resort town nestled at the base of the iconic Matterhorn, one of the most famous and recognizable peaks in the Alps (photo by Michael Portmann, Unsplash)."
             }
+        },
+        {
+            "type": "textimg",
+            "title": "#7 Lausanne",
+            "titlelevel": 2,
+            "reverse": true,
+            "text": [
+                "Lausanne is a vibrant city located on the northern shore of Lake Geneva in the French-speaking region of Switzerland. It serves as the capital of the canton of Vaud and is known for its picturesque lakeside setting, cultural richness, and historical significance. Lausanne is often regarded as a cultural hub, with a wealth of museums, galleries, theaters, and cultural events. The city's cultural scene is dynamic, hosting numerous festivals, concerts, and exhibitions throughout the year. Lausanne is recognized as the Olympic Capital, as it is the headquarters of the International Olympic Committee (IOC). The Olympic Museum, located in the city, showcases the history and spirit of the Olympic Games.",
+                "Situated on the shores of Lake Geneva, Lausanne offers stunning views of the lake and the French Alps in the distance. The Ouchy waterfront district is particularly popular for lakeside strolls, boat rides, and outdoor relaxation. The Lausanne Cathedral, dating back to the 12th century, is a prominent landmark in the city. Its impressive Gothic architecture and panoramic views from the tower attract visitors and history enthusiasts. Lausanne is known for hosting the EPFL, one of the top technical universities in Europe. The campus is a center for cutting-edge research and innovation in science and technology. The Old Town of Lausanne is a charming area with narrow cobblestone streets, historic buildings, and lively squares. It's an ideal place for leisurely walks, exploring boutiques, and enjoying local cafes.",
+                "Parc de Mon Repos is a beautiful park in Lausanne, offering a peaceful retreat with gardens, a rose garden, and walking paths. It provides a serene escape from the city's hustle and bustle. Lausanne has an efficient public transportation system, including buses, trains, and the M2 metro line. The city is well-connected to other Swiss cities and regions. The Lausanne International Film Festival is an annual event that attracts film enthusiasts and industry professionals, showcasing a diverse range of films from around the world. Lausanne's blend of history, culture, and natural beauty, coupled with its status as an Olympic hub and educational center, makes it an appealing destination for both residents and visitors alike."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lausanne.jpeg",
+                "caption": "."
+            }
         }
     ]
 }
