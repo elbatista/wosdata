@@ -277,7 +277,6 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/verzasca.jpeg",
-
                 "caption": "The Verzasca River, with the iconic \"Ponte dei Salti\" (Italian for \"Bridge of Jumps\") gracefully spanning the waters, creating a timeless scene of natural splendor and architectural charm."
             },
             "reverse": true
@@ -294,6 +293,20 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/naye.jpg",
                 "caption": "Rochers-de-Naye: a popular destination known for its stunning panoramic views and a unique cogwheel train journey to the summit."
             }
+        },
+        {
+            "type": "textimg",
+            "title": "#18 Geneva",
+            "titlelevel": 2,
+            "text": [
+                "Geneva is a cosmopolitan city located in the French-speaking part of Switzerland, situated at the western tip of Lake Geneva. As a global city, Geneva is known for its international organizations, diplomatic presence, cultural richness, and beautiful lakeside setting. Geneva is often referred to as the \"Capital of Peace\" due to its status as a major hub for international organizations. The city hosts the headquarters of numerous international entities, including the United Nations (UN), the World Health Organization (WHO), the International Red Cross, and many others.",
+                "Geneva is situated on the shores of Lake Geneva, one of the largest lakes in Europe. The city's lakeside promenades, parks, and the iconic Jet d'Eau fountain create a scenic and relaxing environment. The Jet d'Eau is one of Geneva's most famous landmarks. This water fountain, located in Lake Geneva, shoots water 140 meters into the air. It is beautifully illuminated at night and is a symbol of the city. Geneva's Old Town is a charming area with narrow streets, historic buildings, and landmarks such as St. Peter's Cathedral. The Old Town offers a glimpse into Geneva's medieval past. Geneva's status as an international city, its commitment to humanitarian efforts, and its blend of cultural attractions make it a unique destination."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/geneva.jpg",
+                "caption": "The Jet d'Eau in Geneva. This water fountain shoots water 140 meters into the air (photo by visualsoflukas, Unsplash)."
+            },
+            "reverse": true
         }
     ]
 }
