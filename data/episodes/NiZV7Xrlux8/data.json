@@ -318,7 +318,28 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/zurich.jpg",
-                "caption": " (photo by Henrique Ferreira, Unsplash)."
+                "caption": "Zurich: the largest city in Switzerland (photo by Henrique Ferreira, Unsplash)."
+            }
+        },
+        {
+            "type": "text",
+            "title": "Corippo Village",
+            "titlelevel": 2,
+            "text": [
+                "As we venture deeper into Ticino, we arrive at Corippo, a village frozen in time. Tucked away in the mountains, Corippo is one of the smallest and most charming villages in Switzerland. Its cobblestone streets, stone houses adorned with vibrant flowers, and the sound of church bells create a fairytale-like atmosphere. Corippo offers a glimpse into traditional Swiss village life, allowing visitors to immerse themselves in the rich history and cultural heritage of the region."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/corippo.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "700px",
+                    "marginBottom": "40px"
+                },
+                "caption": "A breathtaking aerial view of the picturesque village of Corippo, nestled harmoniously amidst the Swiss landscape, in the canton of Ticino."
             }
         }
     ]
