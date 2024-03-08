@@ -169,6 +169,61 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/stmoritz.jpg",
                 "caption": "St. Moritz - an awesome destination for the elite and travelers seeking alpine charm."
             }
+        },
+        {
+            "type": "textimg",
+            "title": "#11 Stäuben Falls",
+            "titlelevel": 2,
+            "text": [
+                "The awe-inspiring Stäubifall can be found in the Uri region, close to the village of Unterschächen. This waterfall is counted among the larger ones in Switzerland, boasting a height of nearly 180 meters. The picturesque surroundings, with green wooden huts and lush greenery, make it a truly captivating destination. In our view, it is a destination worth visiting.",
+                "There are multiple routes to reach Stäubifall. If you're traveling by car, head towards the village of Altdorf. Once there, follow the signs leading to Klausenpass. As you continue, you'll reach Unterschächen, where you'll find various parking spots to leave your car. From this point, you'll embark on a hike, which, in our perspective, is more of an enjoyable and relatively easy stroll. It's worth mentioning that the \"walk\" covers a distance of approximately 6-7 kilometers."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/staubifall.jpeg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "400px"
+                },
+                "caption": "The enchanting beauty of Stauben Falls - a hidden cascade tucked away in the Swiss landscape. Nature's serene spectacle, surrounded by alpine tranquility."
+            }
+        },
+        {
+            "type": "text",
+            "title": "#12 Lugano",
+            "titlelevel": 2,
+            "text": [
+                "Located in the Italian-speaking canton of Ticino, Lugano is a captivating city that effortlessly combines Swiss efficiency with a distinct Mediterranean flair. Situated on the shores of Lake Lugano and surrounded by the mountains of the Lugano Prealps, this city offers a delightful blend of natural beauty, cultural richness, and modern amenities.",
+                "The azure waters of Lake Lugano set the stage for the city's enchanting atmosphere. The lake, surrounded by hills and mountains, provides a stunning backdrop for various recreational activities. Visitors can enjoy boat cruises, lakeside promenades, and water sports while taking in the picturesque scenery.",
+                "Parco Ciani is a beautifully landscaped park along the shores of Lake Lugano. With manicured gardens, sculptures, and centuries-old trees, it offers a tranquil escape from the urban hustle. The Old Town of Lugano boasts charming cobblestone streets, colorful buildings, and lively squares. Explore the Piazza della Riforma, the city's main square, surrounded by cafes, shops, and historic buildings. The Cathedral of Saint Lawrence is a notable landmark in the Old Town.",
+                "Lugano's Mediterranean atmosphere, cultural offerings, and stunning natural surroundings make it a delightful destination. Whether you're exploring its lakeside promenades, enjoying cultural performances, or savoring the flavors of Swiss-Italian cuisine, Lugano invites visitors to experience the best of both worlds - the charm of Switzerland and the warmth of the Mediterranean."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lugano.jpeg",
+                "style": {
+                    "width": "100%",
+                    "height": "500px",
+                    "marginBottom": "40px"
+                },
+                "caption": "Lugano: A blend of Swiss precision and Italian charm on the shores of Lake Lugano. Mediterranean-style beauty, cultural richness, and stunning landscapes make it a perfect Swiss gateway (photo by Antonio Sessa, Unsplash)."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "#13 Montreux",
+            "titlelevel": 2,
+            "text": [
+                "Montreux is a picturesque town located on the shores of Lake Geneva in the French-speaking part of Switzerland. Nestled between the lake and the mountains, Montreux is known for its mild climate, scenic beauty, and vibrant cultural scene. Montreux enjoys a stunning setting along the shores of Lake Geneva, with the backdrop of the Swiss Alps. The town offers panoramic views of the lake and mountains, creating a picturesque atmosphere.",
+                "Located on a small island on Lake Geneva, Chillon Castle is a medieval fortress and one of Switzerland's most-visited historic sites. The castle offers a glimpse into the region's rich history and provides stunning views of the lake and mountains. Montreux boasts a beautiful lakeside promenade lined with flowers, palm trees, and sculptures. It's a perfect place for leisurely strolls, enjoying the views, and relaxing in the lakeside parks. The nearby town of Vevey is just a short distance from Montreux and offers additional cultural attractions, including the Alimentarium Museum dedicated to food and nutrition. Montreux's combination of cultural richness, natural beauty, and a mild climate makes it an appealing destination for those seeking a relaxed lakeside experience with access to the Swiss Alps."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/montreux.jpg",
+                "caption": "Montreux - often referred to as the \"Swiss Riviera\" due to its Mediterranean-like climate."
+            }
         }
     ]
 }
