@@ -307,6 +307,19 @@
                 "caption": "The Jet d'Eau in Geneva. This water fountain shoots water 140 meters into the air (photo by visualsoflukas, Unsplash)."
             },
             "reverse": true
+        },
+        {
+            "type": "textimg",
+            "title": "#19 Zurich",
+            "titlelevel": 2,
+            "text": [
+                "Zurich is the largest city in Switzerland and serves as the country's financial, cultural, and economic hub. Located in the German-speaking part of Switzerland, Zurich is situated along the banks of the Limmat River, near the northern end of Lake Zurich. The city seamlessly combines modern urbanity with a rich historical heritage. Zurich is a major global financial center, home to numerous banks, financial institutions, and multinational corporations. The city's well-developed financial infrastructure contributes significantly to Switzerland's economic strength. Lake Zurich, a picturesque body of water, adds to the city's charm. The lakeside promenade offers stunning views, and visitors can enjoy boat trips, lakeside walks, and various water activities.",
+                "Zurich boasts a vibrant cultural scene, with numerous museums, galleries, theaters, and concert halls. The Kunsthaus Zurich is a prominent art museum, while the Zurich Opera House hosts world-class performances. Zurich's Old Town is a historic district with narrow cobblestone streets, medieval buildings, and charming squares. Landmarks in the Old Town include Grossmünster, Fraumünster, and St. Peter's Church, each with its unique historical significance. Zurich's dynamic blend of modernity, historical charm, cultural richness, and natural beauty make it a multifaceted city that caters to a diverse range of interests. Whether exploring the Old Town, indulging in shopping on Bahnhofstrasse, or enjoying the cultural offerings, Zurich offers a vibrant and welcoming urban experience."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/zurich.jpg",
+                "caption": " (photo by Henrique Ferreira, Unsplash)."
+            }
         }
     ]
 }
