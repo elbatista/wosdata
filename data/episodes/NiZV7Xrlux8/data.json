@@ -224,6 +224,28 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/montreux.jpg",
                 "caption": "Montreux - often referred to as the \"Swiss Riviera\" due to its Mediterranean-like climate."
             }
+        },
+        {
+            "type": "textimg",
+            "title": "#14 Bern",
+            "titlelevel": 2,
+            "text": [
+                "Nestled along the Aare River, surrounded by the Bernese Alps, the medieval city of Bern, Switzerland's capital, is a captivating blend of history, culture, and modernity. Rich in UNESCO-listed Old Town charm, Bern offers a wealth of attractions, from its iconic clock tower to world-class museums.",
+                "The heart of Bern is its Old Town, a UNESCO World Heritage Site. Wandering through its cobbled streets, visitors encounter well-preserved medieval architecture, including the iconic Zytglogge clock tower, the Federal Palace, and the charming Bern Munster. The medieval arcades, known as \"Lauben,\" are perfect for a leisurely stroll and some retail therapy.",
+                "Dominating the Old Town, the Zytglogge clock tower is a medieval marvel. The clock mechanism, dating back to the 16th century, comes to life every hour as animated figurines perform a charming spectacle. The tower offers panoramic views of the city and the surrounding mountains.",
+                "The Federal Palace is the seat of the Swiss Federal Assembly and Federal Council. Its grand architecture and picturesque setting on the Bundesplatz make it a significant landmark. Visitors can take guided tours to learn about Switzerland's political system and history",
+                "With its blend of history, culture, and natural beauty, Bern is a city that invites exploration at every turn. From its UNESCO-listed Old Town to its world-class museums and scenic viewpoints, the capital of Switzerland is a destination that seamlessly intertwines tradition and modernity."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/bern.jpeg",
+                "style": {
+                    "width": "100%",
+                    "minWidth": "600px",
+                    "height": "600px"
+                },
+                "caption": "Bern's Old Town from a distance, where historic spires and red-roofed buildings create a timeless silhouette against the Swiss skyline."
+            },
+            "reverse": true
         }
     ]
 }
