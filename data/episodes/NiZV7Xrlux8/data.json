@@ -281,6 +281,19 @@
                 "caption": "The Verzasca River, with the iconic \"Ponte dei Salti\" (Italian for \"Bridge of Jumps\") gracefully spanning the waters, creating a timeless scene of natural splendor and architectural charm."
             },
             "reverse": true
+        },
+        {
+            "type": "textimg",
+            "title": "#17 Rochers-de-Naye",
+            "titlelevel": 2,
+            "text": [
+                "Rochers-de-Naye is a mountain in the Swiss Alps, overlooking Lake Geneva and located near Montreux in the canton of Vaud. It's a popular destination known for its stunning panoramic views, a unique cogwheel train journey, and attractions at the summit. One of the highlights of Rochers-de-Naye is the scenic cogwheel train journey that takes visitors from Montreux to the mountain summit. The train climbs through picturesque landscapes, offering breathtaking views of Lake Geneva, the Swiss Riviera, and the surrounding Alps.",
+                "The summit of Rochers-de-Naye stands at an elevation of 2,042 meters (6,699 feet) above sea level. Once at the top, visitors are treated to panoramic views of the Swiss and French Alps, as well as the shimmering waters of Lake Geneva. In the winter, Rochers-de-Naye becomes a snowy wonderland. Visitors can engage in snow activities such as snowshoeing and sledding, providing a different experience depending on the season. Rochers-de-Naye provides a perfect blend of natural beauty, outdoor activities, and educational experiences. It's a destination that offers a refreshing escape into the Swiss Alps, providing both relaxation and adventure for visitors of all ages."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/naye.jpg",
+                "caption": "Rochers-de-Naye: a popular destination known for its stunning panoramic views and a unique cogwheel train journey to the summit."
+            }
         }
     ]
 }
