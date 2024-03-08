@@ -354,6 +354,21 @@
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/gandria.jpg",
                 "caption": "Gandria: charming village with narrow streets, historic architecture, and idyllic setting on Lake Lugano (photo by Marcus Ganahl, Unsplash)."
             }
+        },
+        {
+            "type": "textimg",
+            "title": "#22 Fribourg",
+            "titlelevel": 2,
+            "text": [
+                "Fribourg, also known as Freiburg in German and Friburgo in Italian, is a bilingual city located in the canton of Fribourg in Switzerland. Positioned on the cultural and linguistic border between the French and German-speaking regions of the country, Fribourg is known for its medieval Old Town, rich history, and vibrant cultural scene.",
+                "Fribourg's Old Town is a well-preserved medieval district characterized by narrow cobblestone streets, medieval architecture, and charming squares. Notable landmarks include the Cathedral of Saint Nicholas and the Town Hall. The Cathedral of Saint Nicholas is a Gothic masterpiece and a symbol of Fribourg. Its construction began in the 13th century, and visitors can appreciate its stunning architecture and climb the tower for panoramic views of the city.",
+                "Fribourg's blend of medieval charm, cultural richness, and linguistic diversity makes it a captivating destination for history enthusiasts, cultural explorers, and those seeking a unique experience at the crossroads of Switzerland's language regions."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/fribourg.jpg",
+                "caption": "Fribourg: known for its medieval Old Town, rich history, and vibrant cultural scene."
+            },
+            "reverse": true
         }
     ]
 }
