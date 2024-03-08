@@ -323,7 +323,7 @@
         },
         {
             "type": "text",
-            "title": "Corippo Village",
+            "title": "#20 Corippo Village",
             "titlelevel": 2,
             "text": [
                 "As we venture deeper into Ticino, we arrive at Corippo, a village frozen in time. Tucked away in the mountains, Corippo is one of the smallest and most charming villages in Switzerland. Its cobblestone streets, stone houses adorned with vibrant flowers, and the sound of church bells create a fairytale-like atmosphere. Corippo offers a glimpse into traditional Swiss village life, allowing visitors to immerse themselves in the rich history and cultural heritage of the region."
@@ -340,6 +340,19 @@
                     "marginBottom": "40px"
                 },
                 "caption": "A breathtaking aerial view of the picturesque village of Corippo, nestled harmoniously amidst the Swiss landscape, in the canton of Ticino."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "#21 Gandria",
+            "titlelevel": 2,
+            "text": [
+                "Gandria is a picturesque village located on the shores of Lake Lugano in the Italian-speaking canton of Ticino, Switzerland. This charming village is known for its narrow streets, historic architecture, and its idyllic setting on the lake. Gandria is situated on the northeastern shore of Lake Lugano, nestled between the water and the steep hillsides. The village is part of the district of Lugano and is easily accessible by boat, bus, or a scenic walk along the lakeside promenade.",
+                "The village has retained much of its historical charm with narrow cobblestone streets, rustic houses adorned with colorful flowers, and a relaxed atmosphere. Gandria's architecture reflects its Italian influence and adds to its timeless appeal. Gandria offers several lakeside restaurants and cafes where visitors can enjoy a meal while taking in the scenic views of Lake Lugano. The local cuisine often features Mediterranean influences. Gandria's tranquil and scenic setting, combined with its historical and cultural attractions, makes it a delightful destination for those seeking a peaceful retreat along the shores of Lake Lugano."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/gandria.jpg",
+                "caption": "Gandria: charming village with narrow streets, historic architecture, and idyllic setting on Lake Lugano (photo by Marcus Ganahl, Unsplash)."
             }
         }
     ]
