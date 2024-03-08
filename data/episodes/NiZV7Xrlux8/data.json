@@ -174,6 +174,7 @@
             "type": "textimg",
             "title": "#11 Stäuben Falls",
             "titlelevel": 2,
+            "reverse": true,
             "text": [
                 "The awe-inspiring Stäubifall can be found in the Uri region, close to the village of Unterschächen. This waterfall is counted among the larger ones in Switzerland, boasting a height of nearly 180 meters. The picturesque surroundings, with green wooden huts and lush greenery, make it a truly captivating destination. In our view, it is a destination worth visiting.",
                 "There are multiple routes to reach Stäubifall. If you're traveling by car, head towards the village of Altdorf. Once there, follow the signs leading to Klausenpass. As you continue, you'll reach Unterschächen, where you'll find various parking spots to leave your car. From this point, you'll embark on a hike, which, in our perspective, is more of an enjoyable and relatively easy stroll. It's worth mentioning that the \"walk\" covers a distance of approximately 6-7 kilometers."
@@ -244,6 +245,40 @@
                     "height": "600px"
                 },
                 "caption": "Bern's Old Town from a distance, where historic spires and red-roofed buildings create a timeless silhouette against the Swiss skyline."
+            },
+            "reverse": true
+        },
+        {
+            "type": "textimg",
+            "title": "#15 Gruyères",
+            "titlelevel": 2,
+            "text": [
+                "Gruyères is a charming medieval village nestled in the Fribourg region of Switzerland. Famous for its picturesque setting, well-preserved medieval architecture, and its connection to the world-renowned Gruyère cheese, the village offers a delightful blend of history, culture, and culinary delights. The village of Gruyères is characterized by its well-preserved medieval architecture. Narrow cobblestone streets, medieval houses, and charming squares create a timeless atmosphere, transporting visitors back in time.",
+                "Gruyères is home to the Gruyères Castle, a medieval fortress that dates back to the 13th century. The castle is perched on a hill, offering panoramic views of the surrounding countryside. Gruyères features well-maintained gardens with flowers and greenery, providing a tranquil environment for leisurely walks. The elevated location of the village also offers scenic views of the surrounding hills and valleys. Gruyères is internationally known for its namesake cheese, Gruyère. The village is surrounded by lush green pastures where cows graze, producing the milk used to make this famous Swiss cheese. Visitors can explore the Maison du Gruyère to learn about the cheese-making process.",
+                "Gruyères is surrounded by the scenic Swiss Alps, making it a convenient starting point for excursions to nearby mountain regions, offering opportunities for hiking, skiing, and other outdoor activities. Gruyères village, with its historic charm, culinary delights, and cultural attractions, provides visitors with a unique and memorable Swiss experience."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/M-gjYt1ZkY4/assets/gru2.jpeg",
+                "caption": "Gruyères village under the enchanting veil of night. Cobblestone streets glow with the warm embrace of streetlights, revealing the medieval charm that makes this Swiss village truly timeless."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "#16 Verzasca Valley",
+            "titlelevel": 2,
+            "text": [
+                "The Verzasca Valley, a haven for nature lovers and adventure seekers alike, known for its crystal-clear turquoise river and picturesque stone bridges, the valley offers a serene escape from the hustle and bustle of modern life.",
+
+                "The iconic Ponte dei Salti, a double-arched Roman bridge, spans the river and provides a perfect spot for a leisurely stroll or a refreshing swim in the clear waters. Hiking trails wind through the valley, offering panoramic views of the surrounding mountains and lush greenery.",
+
+                "The Verzasca River flows through the valley, and its waters are renowned for their mesmerizing turquoise hue. The riverbed is visible even in the deepest sections, creating a surreal visual experience. The clarity of the water allows visitors to see the smooth stones beneath the surface, adding to the valley's enchanting appeal.",
+
+                "Nestled in the heart of Verzasca Valley, Lavertezzo is a charming village with stone houses, narrow alleys, and a captivating atmosphere. The village is famous for its iconic stone bridge and is a great place to explore on foot. Many visitors also enjoy picnics along the riverbanks in Lavertezzo."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/verzasca.jpeg",
+
+                "caption": "The Verzasca River, with the iconic \"Ponte dei Salti\" (Italian for \"Bridge of Jumps\") gracefully spanning the waters, creating a timeless scene of natural splendor and architectural charm."
             },
             "reverse": true
         }
