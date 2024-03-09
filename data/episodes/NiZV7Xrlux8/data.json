@@ -369,6 +369,46 @@
                 "caption": "Fribourg: known for its medieval Old Town, rich history, and vibrant cultural scene."
             },
             "reverse": true
+        },
+        {
+            "type": "textimg",
+            "title": "#23 Sonogno",
+            "titlelevel": 2,
+            "text": [
+                "Sonogno is a charming and picturesque village located in the Verzasca Valley in the Italian-speaking canton of Ticino, Switzerland. Nestled in the heart of the Swiss Alps, Sonogno is known for its traditional stone houses, natural beauty, and a tranquil atmosphere.",
+                "Situated in the Verzasca Valley, renowned for its stunning landscapes, clear mountain streams, and the turquoise waters of the Verzasca River. The valley is part of the larger canton of Ticino, in the southern region of Switzerland. The village of Sonogno is characterized by its well-preserved stone houses with slate roofs, typical of the traditional architecture in the Alpine region. The village retains a rustic charm, offering visitors a glimpse into Swiss mountain village life."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/sonogno.jpg",
+                "caption": "Sonogno: a combination of traditional architecture, natural beauty, and a relaxed atmosphere."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "#24 Brissago",
+            "titlelevel": 2,
+            "text": [
+                "Brissago is a small town located on the northern shore of Lake Maggiore in the canton of Ticino, Switzerland. Known for its scenic beauty, subtropical climate, and the presence of the botanical paradise known as the Brissago Islands, Brissago attracts visitors seeking tranquility and natural splendor. Lake Maggiore, one of the largest lakes in Europe, offers stunning views of the surrounding mountains, providing a picturesque setting for the town.",
+                "The Brissago Islands are a pair of islands in Lake Maggiore, accessible by boat from Brissago. The islands are renowned for the botanical garden, Giardino Botanico di Brissago, which features a diverse collection of subtropical and Mediterranean plants. The islands, particularly Isola Grande, are a popular destination for nature lovers and horticulture enthusiasts. Brissago, with its botanical wonders, lakeside charm, and natural beauty, provides a tranquil escape for those seeking a peaceful retreat in the scenic surroundings of Lake Maggiore."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/brissago.jpg",
+                "caption": "Brissago Islands in Lake Maggiore, renowned for the botanical garden featuring a diverse collection of subtropical and Mediterranean plants."
+            },
+            "reverse": true
+        },
+        {
+            "type": "textimg",
+            "title": "#25 Bellinzona",
+            "titlelevel": 2,
+            "text": [
+                "Bellinzona is the capital of the canton of Ticino in southern Switzerland. Nestled in the Swiss Alps, Bellinzona is known for its medieval castles, historic Old Town, and strategic position along the Gotthard Pass. Bellinzona is home to three medieval castles: Castelgrande, Montebello, and Sasso Corbaro. These castles, along with the city walls and ramparts, have been collectively recognized as a UNESCO World Heritage Site. They were strategically built to guard the Alpine passes and routes during medieval times.",
+                "Castelgrande is the oldest and most prominent of the three castles. Its origins date back to Roman times, and it offers panoramic views of the city and surrounding areas. The castle houses museums, exhibitions, and historical artifacts. Montebello is located on a hill to the east of Castelgrande. It is known for its well-preserved structure and offers insights into medieval architecture and defense systems. Sasso Corbaro is situated on a rocky hill to the north of Castelgrande. It is the highest of the three castles and played a strategic role in the defense system. The castle features a tower with a commanding view of the region."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/bellinzona.jpg",
+                "caption": "Bellinzona: a combination of medieval charm, historical significance, and natural beauty (photo by Patrizia Berta, Unsplash)."
+            }
         }
     ]
 }
