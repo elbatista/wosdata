@@ -47,6 +47,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/harderkulm.jpg",
+                "style":{},
                 "caption": "Harder Kulm: A summit above Interlaken offering breathtaking views of the Swiss Alps and Lakes Thun and Brienz. A must-visit for panoramic beauty and alpine charm."
             }
         },
@@ -65,6 +66,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/pilatus.jpg",
+                "style":{},
                 "caption": "Mount Pilatus: a natural wonder, cultural and historical gem in the heart of Switzerland (photo by Ilia Bronskiy, Unsplash)."
             }
         },
@@ -78,6 +80,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/foroglio.jpg",
+                "style":{},
                 "caption": "Foroglio village, at the foot of the cascading Foroglio waterfall, epitomizing the raw beauty of nature in the heart of Switzerland."
             }
         },
@@ -96,14 +99,14 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/zermatt.jpg",
+                "style":{},
                 "caption": "Zermatt: a world-renowned resort town nestled at the base of the iconic Matterhorn, one of the most famous and recognizable peaks in the Alps (photo by Michael Portmann, Unsplash)."
             }
         },
         {
-            "type": "textimg",
+            "type": "text",
             "title": "20 more to go ...",
             "titlelevel": 2,
-            "reverse": true,
             "text": [
                 "In this captivating journey through Switzerland, we've only just scratched the surface of this stunning country's wonders. There's a whole lot more to explore, but going into all of it here would make this post way too long. So, checkout the video, where we take you on a visual odyssey to over 20 additional breathtaking places that showcase Switzerland's diverse landscapes, cultural treasures, and hidden gems. From the iconic Jungfraujoch and the vibrant city of Lausanne to the pristine beauty of Lucerne and the artistic charm of Montreux, the video unfolds a tapestry of experiences that will leave you in awe.",
                 "To witness the full spectrum of Switzerland's beauty, we invite you to watch the video, where each frame is a portal to a new adventure. These enchanting destinations offer a glimpse into the soul of Switzerland, inviting you to embark on a virtual journey that goes beyond the boundaries of a written post. And for an even closer look, don't forget to check out the captivating photos below, capturing moments that convey the essence of each place. Let the visuals inspire your wanderlust and beckon you to explore the myriad wonders that make Switzerland a true masterpiece. So, join us on this visual expedition, and let the beauty of Switzerland unfold before your eyes!"
