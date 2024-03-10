@@ -39,7 +39,7 @@
             "text": [
                 "Situated between Lake Thun and Lake Brienz, Interlaken is a paradise for adventure seekers. With its stunning alpine scenery, the city is a base for activities like paragliding, hiking, and boat rides. Take a leisurely stroll along Höheweg promenade for panoramic views of the surrounding mountains.",
                 "Perched majestically above the picturesque town of Interlaken, Harder Kulm stands as a panoramic crown jewel, offering visitors an unparalleled vantage point to behold the stunning beauty of the Swiss Alps. Accessible by a historic funicular, this mountain viewpoint is a must-visit destination for those seeking breathtaking landscapes and a truly immersive Swiss experience.",
-                "Upon reaching the summit, a sweeping panorama of the Jungfrau Region unfolds before your eyes. The 360-degree views encompass the iconic trio of Eiger, Mönch, and Jungfrau, as well as the glittering waters of Lake Thun and Lake Brienz. The visual feast is particularly magical during sunrise and sunset, when the changing hues of the sky paint the landscape in warm and vibrant tones."
+                "Upon reaching the summit, a sweeping panorama of the Jungfrau Region unfolds before your eyes. The 360-degree views encompass the iconic trio of Eiger, Mönch, and Jungfrau, as well as the glittering waters of Lake Thun and Lake Brienz."
             ]
         },
         {
@@ -74,8 +74,7 @@
             "titlelevel": 2,
             "text": [
                 "The Bavona Valley, situated in the canton of Ticino in southern Switzerland, is known for its stunning natural beauty, traditional stone-built villages, and picturesque landscapes. Located in the Maggia Valley region, it is characterized by steep cliffs, lush green meadows, and dense forests, creating a picturesque and tranquil atmosphere.",
-                "Foroglio is a charming mountain village nestled in the Bavona Valley. It is renowned for its waterfall, \"Cascata di Foroglio\", which is one of the highest free-falling waterfalls in Switzerland. The village features traditional stone houses with slate roofs, giving it a rustic and authentic charm. Foroglio is a popular starting point for hiking trails leading to scenic viewpoints and natural attractions",
-                "Sabbione is another village in the Bavona Valley, known for its traditional architecture and its location amidst the stunning alpine scenery. Visitors to Sabbione can explore narrow cobblestone streets, admire the stone-built houses, and enjoy the peaceful ambiance of this alpine village. Sonlerto is yet another picturesque village in the Bavona Valley. It is known for its well-preserved traditional architecture, including stone houses and charming squares. The village is surrounded by mountains and forests, providing a tranquil setting for those seeking a peaceful escape in the Swiss Alps."
+                "Foroglio is a charming mountain village nestled in the Bavona Valley. It is renowned for its waterfall, \"Cascata di Foroglio\", which is one of the highest free-falling waterfalls in Switzerland. The village features traditional stone houses with slate roofs, giving it a rustic and authentic charm. Foroglio is a popular starting point for hiking trails leading to scenic viewpoints and natural attractions."
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/foroglio.jpg",
@@ -83,27 +82,12 @@
             }
         },
         {
-            "type": "textimg",
-            "title": "#5 Wengen",
-            "titlelevel": 2,
-            "reverse": true,
-            "text": [
-                "Wengen is a charming alpine village located in the Bernese Oberland region of Switzerland. Nestled high in the Swiss Alps, Wengen is renowned for its stunning mountain scenery, traditional chalet-style architecture, and its popularity as a gateway to the Jungfrau region. Situated in the canton of Bern, perched on a sunny plateau at an elevation of approximately 1,274 meters (4,180 feet) above sea level, it is part of the Jungfrau region, which includes famous peaks such as the Eiger, Mönch, and Jungfrau.",
-                "Wengen is a car-free village, accessible by train from Lauterbrunnen. Visitors typically take a scenic train ride to Wengen, enjoying breathtaking views along the way. The train journey provides a unique experience, with Wengen's picturesque setting becoming visible as the train ascends through the mountains. A popular destination for winter sports enthusiasts, the village is part of the Jungfrau Ski Region, offering a range of skiing and snowboarding opportunities. In the summer, Wengen becomes a hub for hiking and mountain biking. The surrounding trails provide stunning views of the Alps and access to high-altitude vantage points.",
-                "The village is characterized by its traditional Swiss chalet-style architecture. Wooden buildings adorned with flower-filled balconies contribute to the idyllic and cozy atmosphere. Wengen offers a peaceful and relaxed atmosphere, making it a popular choice for those seeking a quiet mountain retreat. Visitors can explore the pedestrianized village center, lined with shops, restaurants, and cafes. The absence of cars enhances the tranquility of the surroundings. Wengen is a year-round destination, with each season offering its own set of activities and attractions. Whether it's winter sports, spring blooms, summer hiking, or autumn foliage, Wengen has something to offer throughout the year."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/wengen.jpg",
-                "caption": "The village of Wengen: a combination of alpine beauty, outdoor recreation, and traditional charm (photo by Yura Lytkin, Unsplash)."
-            }
-        },
-        {
             "type": "text",
-            "title": "#6 Zermatt",
+            "title": "#5 Zermatt",
             "titlelevel": 2,
             "text": [
                 "Zermatt is a world-renowned resort town situated in the canton of Valais in Switzerland. It is nestled at the base of the iconic Matterhorn, one of the most famous and recognizable peaks in the Alps. Zermatt is a paradise for outdoor enthusiasts. In the winter, it offers world-class skiing and snowboarding opportunities with extensive ski areas, including Gornergrat and Schwarzsee. In the summer, Zermatt becomes a haven for hikers and mountaineers, with a network of trails leading to alpine lakes, viewpoints, and mountain huts.",
-                "The Matterhorn, with its distinctive pyramid shape, is the centerpiece of Zermatt's landscape. It is one of the most photographed mountains in the world and a symbol of the Swiss Alps. Visitors can enjoy breathtaking views of the Matterhorn from various vantage points in and around Zermatt. The Gornergrat Bahn, a cogwheel railway, takes visitors to the Gornergrat, a ridge with panoramic views of the Matterhorn and surrounding peaks. It's a popular spot for sunrise and sunset photography. The Klein Matterhorn, or Little Matterhorn, is home to the highest cable car station in Europe, known as the Matterhorn Glacier Paradise. Visitors can enjoy panoramic views and access the Glacier Palace, an ice cave within the glacier",
+                "The Matterhorn, with its distinctive pyramid shape, is the centerpiece of Zermatt's landscape. It is one of the most photographed mountains in the world and a symbol of the Swiss Alps. Visitors can enjoy breathtaking views of the Matterhorn from various vantage points in and around Zermatt. The Gornergrat Bahn, a cogwheel railway, takes visitors to the Gornergrat, a ridge with panoramic views of the Matterhorn and surrounding peaks. It's a popular spot for sunrise and sunset photography. The Klein Matterhorn, or Little Matterhorn, is home to the highest cable car station in Europe, known as the Matterhorn Glacier Paradise. Visitors can enjoy panoramic views and access the Glacier Palace, an ice cave within the glacier.",
                 "Zermatt is a car-free town, meaning that motorized vehicles are not allowed within the village. Electric taxis and horse-drawn carriages provide transportation, contributing to a peaceful and clean environment. Zermatt features charming, traditional Swiss chalet architecture. The village is lined with cobbled streets, boutique shops, restaurants, and cafes, creating a cozy and alpine atmosphere. Zermatt's combination of breathtaking scenery, outdoor adventures, and the allure of the Matterhorn makes it a must-visit destination for nature lovers, skiers, hikers, and those seeking an authentic alpine experience."
             ]
         },
@@ -117,308 +101,109 @@
         },
         {
             "type": "textimg",
-            "title": "#7 Lausanne",
+            "title": "20 more to go ...",
             "titlelevel": 2,
             "reverse": true,
             "text": [
-                "Lausanne is a vibrant city located on the northern shore of Lake Geneva in the French-speaking region of Switzerland. It serves as the capital of the canton of Vaud and is known for its picturesque lakeside setting, cultural richness, and historical significance. Lausanne is often regarded as a cultural hub, with a wealth of museums, galleries, theaters, and cultural events. The city's cultural scene is dynamic, hosting numerous festivals, concerts, and exhibitions throughout the year. Lausanne is recognized as the Olympic Capital, as it is the headquarters of the International Olympic Committee (IOC). The Olympic Museum, located in the city, showcases the history and spirit of the Olympic Games.",
-                "Situated on the shores of Lake Geneva, Lausanne offers stunning views of the lake and the French Alps in the distance. The Ouchy waterfront district is particularly popular for lakeside strolls, boat rides, and outdoor relaxation. The Lausanne Cathedral, dating back to the 12th century, is a prominent landmark in the city. Its impressive Gothic architecture and panoramic views from the tower attract visitors and history enthusiasts. Lausanne is known for hosting the EPFL, one of the top technical universities in Europe. The campus is a center for cutting-edge research and innovation in science and technology. The Old Town of Lausanne is a charming area with narrow cobblestone streets, historic buildings, and lively squares. It's an ideal place for leisurely walks, exploring boutiques, and enjoying local cafes.",
-                "Parc de Mon Repos is a beautiful park in Lausanne, offering a peaceful retreat with gardens, a rose garden, and walking paths. It provides a serene escape from the city's hustle and bustle. Lausanne has an efficient public transportation system, including buses, trains, and the M2 metro line. The city is well-connected to other Swiss cities and regions. The Lausanne International Film Festival is an annual event that attracts film enthusiasts and industry professionals, showcasing a diverse range of films from around the world. Lausanne's blend of history, culture, and natural beauty, coupled with its status as an Olympic hub and educational center, makes it an appealing destination for both residents and visitors alike."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lausanne.jpeg",
-                "caption": "The city of Lausanne - a blend of history, culture, and natural beauty."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#8 Lucerne",
-            "titlelevel": 2,
-            "text": [
-                "Lucerne (or Luzern in German) is a picturesque city located in the heart of Switzerland, situated on the shores of Lake Lucerne and surrounded by the stunning Swiss Alps. Known for its well-preserved medieval architecture, charming Old Town, and proximity to various natural attractions, Lucerne is a popular destination for tourists. The Chapel Bridge, with its Water Tower, is one of Lucerne's most iconic landmarks. The bridge dates back to the 14th century and is the oldest wooden bridge in Europe. The Water Tower served as a prison, and both structures offer scenic views of the city.",
-                "The city is situated on the shores of Lake Lucerne, surrounded by mountains. Visitors can enjoy boat cruises on the lake, offering breathtaking views of the landscape.Lucerne's Old Town is a well-preserved medieval district with narrow cobblestone streets, colorful buildings, and charming squares. The Weinmarkt and Hirschenplatz are particularly noteworthy.The Lion Monument is a poignant sculpture carved into a sandstone rock face. It commemorates Swiss Guards who were killed during the French Revolution. The monument depicts a dying lion and is a symbol of courage and sacrifice. Lucerne's combination of historical charm, natural beauty, and cultural richness makes it a captivating destination for travelers exploring Switzerland."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/lucerne.jpg",
-                "caption": "Lucerne: where medieval charm meets alpine grandeur, creating a picturesque scene on the shores of Lake Lucerne (photo by Simon Infanger, Unsplash)."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#9 Jungfraujoch",
-            "titlelevel": 2,
-            "reverse": true,
-            "text": [
-                "Jungfraujoch, often referred to as the \"Top of Europe\", is a high-altitude mountain pass in the Bernese Alps of Switzerland. Renowned for its breathtaking views, it sits at an elevation of 3,466 meters (11,371 feet) above sea level. Jungfraujoch is accessible by a cogwheel railway, known as the Jungfrau Railway, which departs from Kleine Scheidegg. Kleine Scheidegg is a mountain pass situated between the Eiger and Lauberhorn peaks. The Jungfrau Railway is an engineering marvel, ascending through tunnels within the Eiger and Mönch mountains. The railway journey provides passengers with stunning views of the surrounding peaks.",
-                "At Jungfraujoch, visitors are treated to panoramic views of the Aletsch Glacier, the longest glacier in the Alps, as well as the surrounding snow-capped peaks, including the Eiger, Mönch, and Jungfrau. The Sphinx Observatory, located on the Jungfraujoch, serves as a research station and an observation deck. From here, visitors can enjoy 360-degree views of the Alps, including the Vosges Mountains in France and the Black Forest in Germany. The Ice Palace, carved into the glacier at Jungfraujoch, offers a unique experience. Visitors can explore tunnels and chambers adorned with ice sculptures, providing an immersive encounter with the glacial environment."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/jung.jpg",
-                "caption": "Jungfraujoch - an unforgettable experience, offering a combination of natural beauty and high-altitude adventure (photo by Markus Spiske, Unsplash)."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#10 St. Moritz",
-            "titlelevel": 2,
-            "text": [
-                "St. Moritz is a world-renowned resort town located in the Engadin valley, in Switzerland. Famous for its luxurious lifestyle, winter sports, and hosting prestigious events, St. Moritz has been a sought-after destination for the elite and travelers seeking alpine charm. St. Moritz is often considered the birthplace of winter tourism, and it has twice hosted the Winter Olympics (in 1928 and 1948). It is a premier destination for skiing, snowboarding, and other winter sports. Situated in the Engadin Valley at an elevation of about 1,856 meters (6,089 feet), St. Moritz boasts stunning alpine scenery. The surrounding lakes and mountains create a picturesque backdrop for the town.",
-                "St. Moritz Lake is frozen during the winter months, providing a unique setting for outdoor activities such as ice skating, snow polo, and horse racing on ice. St. Moritz is synonymous with luxury and sophistication. The town is home to high-end hotels, upscale boutiques, and gourmet restaurants, catering to a discerning international clientele. The historic Badrutt's Palace Hotel is an iconic landmark in St. Moritz, known for its grandeur and elegance. It has been a symbol of luxury since its opening in 1896. The Corviglia ski area is a popular destination for skiers and snowboarders. It offers a variety of slopes with breathtaking views of the surrounding mountains. St. Moritz, with its blend of natural beauty, winter sports excellence, and a luxurious lifestyle, continues to be a destination of choice for those seeking an alpine escape with a touch of sophistication. Whether it's winter sports, cultural events, or enjoying the pristine surroundings, St. Moritz offers a unique and unforgettable experience."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/stmoritz.jpg",
-                "caption": "St. Moritz - an awesome destination for the elite and travelers seeking alpine charm."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#11 Stäuben Falls",
-            "titlelevel": 2,
-            "reverse": true,
-            "text": [
-                "The awe-inspiring Stäubifall can be found in the Uri region, close to the village of Unterschächen. This waterfall is counted among the larger ones in Switzerland, boasting a height of nearly 180 meters. The picturesque surroundings, with green wooden huts and lush greenery, make it a truly captivating destination. In our view, it is a destination worth visiting.",
-                "There are multiple routes to reach Stäubifall. If you're traveling by car, head towards the village of Altdorf. Once there, follow the signs leading to Klausenpass. As you continue, you'll reach Unterschächen, where you'll find various parking spots to leave your car. From this point, you'll embark on a hike, which, in our perspective, is more of an enjoyable and relatively easy stroll. It's worth mentioning that the \"walk\" covers a distance of approximately 6-7 kilometers."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/staubifall.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
-                "caption": "The enchanting beauty of Stauben Falls - a hidden cascade tucked away in the Swiss landscape. Nature's serene spectacle, surrounded by alpine tranquility."
-            }
-        },
-        {
-            "type": "text",
-            "title": "#12 Lugano",
-            "titlelevel": 2,
-            "text": [
-                "Located in the Italian-speaking canton of Ticino, Lugano is a captivating city that effortlessly combines Swiss efficiency with a distinct Mediterranean flair. Situated on the shores of Lake Lugano and surrounded by the mountains of the Lugano Prealps, this city offers a delightful blend of natural beauty, cultural richness, and modern amenities.",
-                "The azure waters of Lake Lugano set the stage for the city's enchanting atmosphere. The lake, surrounded by hills and mountains, provides a stunning backdrop for various recreational activities. Visitors can enjoy boat cruises, lakeside promenades, and water sports while taking in the picturesque scenery.",
-                "Parco Ciani is a beautifully landscaped park along the shores of Lake Lugano. With manicured gardens, sculptures, and centuries-old trees, it offers a tranquil escape from the urban hustle. The Old Town of Lugano boasts charming cobblestone streets, colorful buildings, and lively squares. Explore the Piazza della Riforma, the city's main square, surrounded by cafes, shops, and historic buildings. The Cathedral of Saint Lawrence is a notable landmark in the Old Town.",
-                "Lugano's Mediterranean atmosphere, cultural offerings, and stunning natural surroundings make it a delightful destination. Whether you're exploring its lakeside promenades, enjoying cultural performances, or savoring the flavors of Swiss-Italian cuisine, Lugano invites visitors to experience the best of both worlds - the charm of Switzerland and the warmth of the Mediterranean."
-            ]
-        },
-        {
-            "type": "img",
-            "title": "",
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lugano.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "500px",
-                    "marginBottom": "40px"
-                },
-                "caption": "Lugano: A blend of Swiss precision and Italian charm on the shores of Lake Lugano. Mediterranean-style beauty, cultural richness, and stunning landscapes make it a perfect Swiss gateway (photo by Antonio Sessa, Unsplash)."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#13 Montreux",
-            "titlelevel": 2,
-            "text": [
-                "Montreux is a picturesque town located on the shores of Lake Geneva in the French-speaking part of Switzerland. Nestled between the lake and the mountains, Montreux is known for its mild climate, scenic beauty, and vibrant cultural scene. Montreux enjoys a stunning setting along the shores of Lake Geneva, with the backdrop of the Swiss Alps. The town offers panoramic views of the lake and mountains, creating a picturesque atmosphere.",
-                "Located on a small island on Lake Geneva, Chillon Castle is a medieval fortress and one of Switzerland's most-visited historic sites. The castle offers a glimpse into the region's rich history and provides stunning views of the lake and mountains. Montreux boasts a beautiful lakeside promenade lined with flowers, palm trees, and sculptures. It's a perfect place for leisurely strolls, enjoying the views, and relaxing in the lakeside parks. The nearby town of Vevey is just a short distance from Montreux and offers additional cultural attractions, including the Alimentarium Museum dedicated to food and nutrition. Montreux's combination of cultural richness, natural beauty, and a mild climate makes it an appealing destination for those seeking a relaxed lakeside experience with access to the Swiss Alps."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/montreux.jpg",
-                "caption": "Montreux - often referred to as the \"Swiss Riviera\" due to its Mediterranean-like climate."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#14 Bern",
-            "titlelevel": 2,
-            "text": [
-                "Nestled along the Aare River, surrounded by the Bernese Alps, the medieval city of Bern, Switzerland's capital, is a captivating blend of history, culture, and modernity. Rich in UNESCO-listed Old Town charm, Bern offers a wealth of attractions, from its iconic clock tower to world-class museums.",
-                "The heart of Bern is its Old Town, a UNESCO World Heritage Site. Wandering through its cobbled streets, visitors encounter well-preserved medieval architecture, including the iconic Zytglogge clock tower, the Federal Palace, and the charming Bern Munster. The medieval arcades, known as \"Lauben,\" are perfect for a leisurely stroll and some retail therapy.",
-                "Dominating the Old Town, the Zytglogge clock tower is a medieval marvel. The clock mechanism, dating back to the 16th century, comes to life every hour as animated figurines perform a charming spectacle. The tower offers panoramic views of the city and the surrounding mountains.",
-                "The Federal Palace is the seat of the Swiss Federal Assembly and Federal Council. Its grand architecture and picturesque setting on the Bundesplatz make it a significant landmark. Visitors can take guided tours to learn about Switzerland's political system and history",
-                "With its blend of history, culture, and natural beauty, Bern is a city that invites exploration at every turn. From its UNESCO-listed Old Town to its world-class museums and scenic viewpoints, the capital of Switzerland is a destination that seamlessly intertwines tradition and modernity."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/bern.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "600px"
-                },
-                "caption": "Bern's Old Town from a distance, where historic spires and red-roofed buildings create a timeless silhouette against the Swiss skyline."
-            },
-            "reverse": true
-        },
-        {
-            "type": "textimg",
-            "title": "#15 Gruyères",
-            "titlelevel": 2,
-            "text": [
-                "Gruyères is a charming medieval village nestled in the Fribourg region of Switzerland. Famous for its picturesque setting, well-preserved medieval architecture, and its connection to the world-renowned Gruyère cheese, the village offers a delightful blend of history, culture, and culinary delights. The village of Gruyères is characterized by its well-preserved medieval architecture. Narrow cobblestone streets, medieval houses, and charming squares create a timeless atmosphere, transporting visitors back in time.",
-                "Gruyères is home to the Gruyères Castle, a medieval fortress that dates back to the 13th century. The castle is perched on a hill, offering panoramic views of the surrounding countryside. Gruyères features well-maintained gardens with flowers and greenery, providing a tranquil environment for leisurely walks. The elevated location of the village also offers scenic views of the surrounding hills and valleys. Gruyères is internationally known for its namesake cheese, Gruyère. The village is surrounded by lush green pastures where cows graze, producing the milk used to make this famous Swiss cheese. Visitors can explore the Maison du Gruyère to learn about the cheese-making process.",
-                "Gruyères is surrounded by the scenic Swiss Alps, making it a convenient starting point for excursions to nearby mountain regions, offering opportunities for hiking, skiing, and other outdoor activities. Gruyères village, with its historic charm, culinary delights, and cultural attractions, provides visitors with a unique and memorable Swiss experience."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/M-gjYt1ZkY4/assets/gru2.jpeg",
-                "caption": "Gruyères village under the enchanting veil of night. Cobblestone streets glow with the warm embrace of streetlights, revealing the medieval charm that makes this Swiss village truly timeless."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#16 Verzasca Valley",
-            "titlelevel": 2,
-            "text": [
-                "The Verzasca Valley, a haven for nature lovers and adventure seekers alike, known for its crystal-clear turquoise river and picturesque stone bridges, the valley offers a serene escape from the hustle and bustle of modern life.",
-
-                "The iconic Ponte dei Salti, a double-arched Roman bridge, spans the river and provides a perfect spot for a leisurely stroll or a refreshing swim in the clear waters. Hiking trails wind through the valley, offering panoramic views of the surrounding mountains and lush greenery.",
-
-                "The Verzasca River flows through the valley, and its waters are renowned for their mesmerizing turquoise hue. The riverbed is visible even in the deepest sections, creating a surreal visual experience. The clarity of the water allows visitors to see the smooth stones beneath the surface, adding to the valley's enchanting appeal.",
-
-                "Nestled in the heart of Verzasca Valley, Lavertezzo is a charming village with stone houses, narrow alleys, and a captivating atmosphere. The village is famous for its iconic stone bridge and is a great place to explore on foot. Many visitors also enjoy picnics along the riverbanks in Lavertezzo."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/verzasca.jpeg",
-                "caption": "The Verzasca River, with the iconic \"Ponte dei Salti\" (Italian for \"Bridge of Jumps\") gracefully spanning the waters, creating a timeless scene of natural splendor and architectural charm."
-            },
-            "reverse": true
-        },
-        {
-            "type": "textimg",
-            "title": "#17 Rochers-de-Naye",
-            "titlelevel": 2,
-            "text": [
-                "Rochers-de-Naye is a mountain in the Swiss Alps, overlooking Lake Geneva and located near Montreux in the canton of Vaud. It's a popular destination known for its stunning panoramic views, a unique cogwheel train journey, and attractions at the summit. One of the highlights of Rochers-de-Naye is the scenic cogwheel train journey that takes visitors from Montreux to the mountain summit. The train climbs through picturesque landscapes, offering breathtaking views of Lake Geneva, the Swiss Riviera, and the surrounding Alps.",
-                "The summit of Rochers-de-Naye stands at an elevation of 2,042 meters (6,699 feet) above sea level. Once at the top, visitors are treated to panoramic views of the Swiss and French Alps, as well as the shimmering waters of Lake Geneva. In the winter, Rochers-de-Naye becomes a snowy wonderland. Visitors can engage in snow activities such as snowshoeing and sledding, providing a different experience depending on the season. Rochers-de-Naye provides a perfect blend of natural beauty, outdoor activities, and educational experiences. It's a destination that offers a refreshing escape into the Swiss Alps, providing both relaxation and adventure for visitors of all ages."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/naye.jpg",
-                "caption": "Rochers-de-Naye: a popular destination known for its stunning panoramic views and a unique cogwheel train journey to the summit."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#18 Geneva",
-            "titlelevel": 2,
-            "text": [
-                "Geneva is a cosmopolitan city located in the French-speaking part of Switzerland, situated at the western tip of Lake Geneva. As a global city, Geneva is known for its international organizations, diplomatic presence, cultural richness, and beautiful lakeside setting. Geneva is often referred to as the \"Capital of Peace\" due to its status as a major hub for international organizations. The city hosts the headquarters of numerous international entities, including the United Nations (UN), the World Health Organization (WHO), the International Red Cross, and many others.",
-                "Geneva is situated on the shores of Lake Geneva, one of the largest lakes in Europe. The city's lakeside promenades, parks, and the iconic Jet d'Eau fountain create a scenic and relaxing environment. The Jet d'Eau is one of Geneva's most famous landmarks. This water fountain, located in Lake Geneva, shoots water 140 meters into the air. It is beautifully illuminated at night and is a symbol of the city. Geneva's Old Town is a charming area with narrow streets, historic buildings, and landmarks such as St. Peter's Cathedral. The Old Town offers a glimpse into Geneva's medieval past. Geneva's status as an international city, its commitment to humanitarian efforts, and its blend of cultural attractions make it a unique destination."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/geneva.jpg",
-                "caption": "The Jet d'Eau in Geneva. This water fountain shoots water 140 meters into the air (photo by visualsoflukas, Unsplash)."
-            },
-            "reverse": true
-        },
-        {
-            "type": "textimg",
-            "title": "#19 Zurich",
-            "titlelevel": 2,
-            "text": [
-                "Zurich is the largest city in Switzerland and serves as the country's financial, cultural, and economic hub. Located in the German-speaking part of Switzerland, Zurich is situated along the banks of the Limmat River, near the northern end of Lake Zurich. The city seamlessly combines modern urbanity with a rich historical heritage. Zurich is a major global financial center, home to numerous banks, financial institutions, and multinational corporations. The city's well-developed financial infrastructure contributes significantly to Switzerland's economic strength. Lake Zurich, a picturesque body of water, adds to the city's charm. The lakeside promenade offers stunning views, and visitors can enjoy boat trips, lakeside walks, and various water activities.",
-                "Zurich boasts a vibrant cultural scene, with numerous museums, galleries, theaters, and concert halls. The Kunsthaus Zurich is a prominent art museum, while the Zurich Opera House hosts world-class performances. Zurich's Old Town is a historic district with narrow cobblestone streets, medieval buildings, and charming squares. Landmarks in the Old Town include Grossmünster, Fraumünster, and St. Peter's Church, each with its unique historical significance. Zurich's dynamic blend of modernity, historical charm, cultural richness, and natural beauty make it a multifaceted city that caters to a diverse range of interests. Whether exploring the Old Town, indulging in shopping on Bahnhofstrasse, or enjoying the cultural offerings, Zurich offers a vibrant and welcoming urban experience."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/zurich.jpg",
-                "caption": "Zurich: the largest city in Switzerland (photo by Henrique Ferreira, Unsplash)."
-            }
-        },
-        {
-            "type": "text",
-            "title": "#20 Corippo Village",
-            "titlelevel": 2,
-            "text": [
-                "As we venture deeper into Ticino, we arrive at Corippo, a village frozen in time. Tucked away in the mountains, Corippo is one of the smallest and most charming villages in Switzerland. Its cobblestone streets, stone houses adorned with vibrant flowers, and the sound of church bells create a fairytale-like atmosphere. Corippo offers a glimpse into traditional Swiss village life, allowing visitors to immerse themselves in the rich history and cultural heritage of the region."
-            ]
-        },
-        {
-            "type": "img",
-            "title": "",
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/corippo.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
-                },
-                "caption": "A breathtaking aerial view of the picturesque village of Corippo, nestled harmoniously amidst the Swiss landscape, in the canton of Ticino."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#21 Gandria",
-            "titlelevel": 2,
-            "text": [
-                "Gandria is a picturesque village located on the shores of Lake Lugano in the Italian-speaking canton of Ticino, Switzerland. This charming village is known for its narrow streets, historic architecture, and its idyllic setting on the lake. Gandria is situated on the northeastern shore of Lake Lugano, nestled between the water and the steep hillsides. The village is part of the district of Lugano and is easily accessible by boat, bus, or a scenic walk along the lakeside promenade.",
-                "The village has retained much of its historical charm with narrow cobblestone streets, rustic houses adorned with colorful flowers, and a relaxed atmosphere. Gandria's architecture reflects its Italian influence and adds to its timeless appeal. Gandria offers several lakeside restaurants and cafes where visitors can enjoy a meal while taking in the scenic views of Lake Lugano. The local cuisine often features Mediterranean influences. Gandria's tranquil and scenic setting, combined with its historical and cultural attractions, makes it a delightful destination for those seeking a peaceful retreat along the shores of Lake Lugano."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/gandria.jpg",
-                "caption": "Gandria: charming village with narrow streets, historic architecture, and idyllic setting on Lake Lugano (photo by Marcus Ganahl, Unsplash)."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#22 Fribourg",
-            "titlelevel": 2,
-            "text": [
-                "Fribourg, also known as Freiburg in German and Friburgo in Italian, is a bilingual city located in the canton of Fribourg in Switzerland. Positioned on the cultural and linguistic border between the French and German-speaking regions of the country, Fribourg is known for its medieval Old Town, rich history, and vibrant cultural scene.",
-                "Fribourg's Old Town is a well-preserved medieval district characterized by narrow cobblestone streets, medieval architecture, and charming squares. Notable landmarks include the Cathedral of Saint Nicholas and the Town Hall. The Cathedral of Saint Nicholas is a Gothic masterpiece and a symbol of Fribourg. Its construction began in the 13th century, and visitors can appreciate its stunning architecture and climb the tower for panoramic views of the city.",
-                "Fribourg's blend of medieval charm, cultural richness, and linguistic diversity makes it a captivating destination for history enthusiasts, cultural explorers, and those seeking a unique experience at the crossroads of Switzerland's language regions."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/fribourg.jpg",
-                "caption": "Fribourg: known for its medieval Old Town, rich history, and vibrant cultural scene."
-            },
-            "reverse": true
-        },
-        {
-            "type": "textimg",
-            "title": "#23 Sonogno",
-            "titlelevel": 2,
-            "text": [
-                "Sonogno is a charming and picturesque village located in the Verzasca Valley in the Italian-speaking canton of Ticino, Switzerland. Nestled in the heart of the Swiss Alps, Sonogno is known for its traditional stone houses, natural beauty, and a tranquil atmosphere.",
-                "Situated in the Verzasca Valley, renowned for its stunning landscapes, clear mountain streams, and the turquoise waters of the Verzasca River. The valley is part of the larger canton of Ticino, in the southern region of Switzerland. The village of Sonogno is characterized by its well-preserved stone houses with slate roofs, typical of the traditional architecture in the Alpine region. The village retains a rustic charm, offering visitors a glimpse into Swiss mountain village life."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/sonogno.jpg",
-                "caption": "Sonogno: a combination of traditional architecture, natural beauty, and a relaxed atmosphere."
-            }
-        },
-        {
-            "type": "textimg",
-            "title": "#24 Brissago",
-            "titlelevel": 2,
-            "text": [
-                "Brissago is a small town located on the northern shore of Lake Maggiore in the canton of Ticino, Switzerland. Known for its scenic beauty, subtropical climate, and the presence of the botanical paradise known as the Brissago Islands, Brissago attracts visitors seeking tranquility and natural splendor. Lake Maggiore, one of the largest lakes in Europe, offers stunning views of the surrounding mountains, providing a picturesque setting for the town.",
-                "The Brissago Islands are a pair of islands in Lake Maggiore, accessible by boat from Brissago. The islands are renowned for the botanical garden, Giardino Botanico di Brissago, which features a diverse collection of subtropical and Mediterranean plants. The islands, particularly Isola Grande, are a popular destination for nature lovers and horticulture enthusiasts. Brissago, with its botanical wonders, lakeside charm, and natural beauty, provides a tranquil escape for those seeking a peaceful retreat in the scenic surroundings of Lake Maggiore."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/brissago.jpg",
-                "caption": "Brissago Islands in Lake Maggiore, renowned for the botanical garden featuring a diverse collection of subtropical and Mediterranean plants."
-            },
-            "reverse": true
-        },
-        {
-            "type": "textimg",
-            "title": "#25 Bellinzona",
-            "titlelevel": 2,
-            "text": [
-                "Bellinzona is the capital of the canton of Ticino in southern Switzerland. Nestled in the Swiss Alps, Bellinzona is known for its medieval castles, historic Old Town, and strategic position along the Gotthard Pass. Bellinzona is home to three medieval castles: Castelgrande, Montebello, and Sasso Corbaro. These castles, along with the city walls and ramparts, have been collectively recognized as a UNESCO World Heritage Site. They were strategically built to guard the Alpine passes and routes during medieval times.",
-                "Castelgrande is the oldest and most prominent of the three castles. Its origins date back to Roman times, and it offers panoramic views of the city and surrounding areas. The castle houses museums, exhibitions, and historical artifacts. Montebello is located on a hill to the east of Castelgrande. It is known for its well-preserved structure and offers insights into medieval architecture and defense systems. Sasso Corbaro is situated on a rocky hill to the north of Castelgrande. It is the highest of the three castles and played a strategic role in the defense system. The castle features a tower with a commanding view of the region."
-            ],
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/bellinzona.jpg",
-                "caption": "Bellinzona: a combination of medieval charm, historical significance, and natural beauty (photo by Patrizia Berta, Unsplash)."
-            }
-        },
-        {
-            "type": "text",
-            "title": "Conclusion",
-            "titlelevel": 2,
-            "text": [
-                "In conclusion, Switzerland's diverse and enchanting landscapes offer a tapestry of experiences, from the alpine villages and lakeside tranquility to historic fortresses and the cosmopolitan cities. Each destination unfolds a unique chapter in Switzerland's rich story, inviting travelers to explore its landscapes, medieval heritage, botanical wonders, and cultural treasures.",
-                "Whether wandering through the narrow streets of famous Old Towns, immersing oneself in the alpine beauty of swiss villages, or embarking on a scenic journey to beautiful mountains, Switzerland weaves a tale of history, nature, and cultural richness.",
-                "As we traverse the charming villages or embrace the modernity of huge cities, Switzerland's allure lies not only in its postcard-perfect landscapes but also in the harmony of its contrasting elements. The pristine lakes, snow-capped peaks, and the echo of history within medieval walls come together to create a destination that captures the hearts of every traveler. From the heights of the Swiss Alps to the serene lakeshores, Switzerland stands as a testament to nature's grandeur, history's resilience, and the seamless integration of tradition and modernity. It's a destination where every village, town, and city narrates a story, and every vista is a canvas painted with the strokes of timeless beauty. Switzerland, with its kaleidoscope of experiences, is not just a destination; it's an immersive journey into the heart of Europe's mesmerizing landscapes and cultural heritage."
+                "In this captivating journey through Switzerland, we've only just scratched the surface of this stunning country's wonders. There's a whole lot more to explore, but going into all of it here would make this post way too long. So, checkout the video, where we take you on a visual odyssey to over 20 additional breathtaking places that showcase Switzerland's diverse landscapes, cultural treasures, and hidden gems. From the iconic Jungfraujoch and the vibrant city of Lausanne to the pristine beauty of Lucerne and the artistic charm of Montreux, the video unfolds a tapestry of experiences that will leave you in awe.",
+                "To witness the full spectrum of Switzerland's beauty, we invite you to watch the video, where each frame is a portal to a new adventure. These enchanting destinations offer a glimpse into the soul of Switzerland, inviting you to embark on a virtual journey that goes beyond the boundaries of a written post. And for an even closer look, don't forget to check out the captivating photos below, capturing moments that convey the essence of each place. Let the visuals inspire your wanderlust and beckon you to explore the myriad wonders that make Switzerland a true masterpiece. So, join us on this visual expedition, and let the beauty of Switzerland unfold before your eyes!"
             ]
         }
-    ]
+    ],
+    "gallery": {
+        "title": "more photos",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/bellinzona.jpg",
+                "width": 1020,
+                "height": 610,
+                "title": null,
+                "description": "Bellinzona: a combination of medieval charm, historical significance, and natural beauty (photo by Patrizia Berta, Unsplash)."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/brissago.jpg",
+                "width": 2683,
+                "height": 1717,
+                "title": null,
+                "description": "Brissago Islands in Lake Maggiore, renowned for the botanical garden featuring a diverse collection of subtropical and Mediterranean plants."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/fribourg.jpg",
+                "width": 1209,
+                "height": 803,
+                "title": null,
+                "description": "Fribourg: known for its medieval Old Town, rich history, and vibrant cultural scene."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/gandria.jpg",
+                "width": 933,
+                "height": 667,
+                "title": null,
+                "description": "Gandria: charming village with narrow streets, historic architecture, and idyllic setting on Lake Lugano (photo by Marcus Ganahl, Unsplash)."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/geneva.jpg",
+                "width": 976,
+                "height": 675,
+                "title": null,
+                "description": "The Jet d'Eau in Geneva. This water fountain shoots water 140 meters into the air (photo by visualsoflukas, Unsplash)."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/jung.jpg",
+                "width": 1279,
+                "height": 705,
+                "title": null,
+                "description": "Jungfraujoch - an unforgettable experience, offering a combination of natural beauty and high-altitude adventure (photo by Markus Spiske, Unsplash)."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/lucerne.jpg",
+                "width": 1280,
+                "height": 872,
+                "title": null,
+                "description": "Lucerne: where medieval charm meets alpine grandeur, creating a picturesque scene on the shores of Lake Lucerne (photo by Simon Infanger, Unsplash)."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/montreux.jpg",
+                "width": 1091,
+                "height": 784,
+                "title": null,
+                "description": "Montreux - often referred to as the \"Swiss Riviera\" due to its Mediterranean-like climate."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/naye.jpg",
+                "width": 1034,
+                "height": 740,
+                "title": null,
+                "description":  "Rochers-de-Naye: a popular destination known for its stunning panoramic views and a unique cogwheel train journey to the summit."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/sonogno.jpg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": "Sonogno: a combination of traditional architecture, natural beauty, and a relaxed atmosphere."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/stmoritz.jpg",
+                "width": 1278,
+                "height": 740,
+                "title": null,
+                "description": "St. Moritz - an awesome destination for the elite and travelers seeking alpine charm."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/wengen.jpg",
+                "width": 1280,
+                "height": 673,
+                "title": null,
+                "description": "The village of Wengen: a combination of alpine beauty, outdoor recreation, and traditional charm (photo by Yura Lytkin, Unsplash)."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/gallery/zurich.jpg",
+                "width": 1051,
+                "height": 670,
+                "title": null,
+                "description": "Zurich: the largest city in Switzerland (photo by Henrique Ferreira, Unsplash)."
+            }
+        ]
+    }
 }
