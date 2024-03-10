@@ -10,7 +10,7 @@
             "text": [
                 {
                     "type": "link",
-                    "url": "https://wondersofswitzerland.com/episodes/NiZV7Xrlux8/top-25-places-to-visit-in-switzerland-travel-guide",
+                    "url": "/episodes/NiZV7Xrlux8/top-25-places-to-visit-in-switzerland-travel-guide",
                     "target": "_blank",
                     "value" :"Switzerland"
                 },
@@ -59,7 +59,28 @@
                     "height": "700px",
                     "marginBottom": "40px"
                 },
-                "caption": "Foroglio."
+                "caption": "Foroglio waterfall cascading down a sheer rock face - a spectacle that seems straight out of a fairytale."
+            }
+        },
+        {
+            "type": "text",
+            "title": "Cultural Heritage and Local Delights",
+            "titlelevel": 2,
+            "text": [
+                "Beyond its natural wonders, Foroglio boasts a rich cultural heritage. The village is home to traditional stone houses, some of which date back several centuries, providing a glimpse into the region's history. The local community takes pride in preserving their customs and traditions, creating a warm and welcoming atmosphere for visitors. Be sure to explore the local cuisine, with charming restaurants offering a taste of Ticino's culinary delights, including hearty mountain dishes and delectable cheeses."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/YoBiyFkxcB4/assets/foroglio2.jpg",
+                "style": {
+                    "width": "100%",
+                    "height": "700px",
+                    "marginBottom": "40px"
+                },
+                "caption": "Foroglio - natural wonders and rich cultural heritage."
             }
         }
     ]
