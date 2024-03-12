@@ -24,11 +24,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/interlaken.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "The spectacular panorama of Interlaken, where the town is cradled between the serene lakes of Thun and Brienz, with majestic mountains standing guard in the backdrop (photo by Henry Becker, Unsplash)."
             }
         },
@@ -45,11 +41,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/harderkulm.jpg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "Harder Kulm in Interlaken, where panoramic vistas unfold, revealing the breathtaking tapestry of Lake Thun, Lake Brienz, and the surrounding Swiss Alps."
             },
             "reverse": true 
@@ -69,11 +61,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/20190422_170504.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "600px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "Savoring the sweet moments in Interlaken's main park, indulging in delightful gelato amidst the picturesque surroundings."
             }
         },
@@ -94,11 +82,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/KLclTW2NH2g/assets/IMG_3351.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "Boat ride in Interlaken, where crystal-clear waters mirror the surrounding Alps."
             }
         },

@@ -27,11 +27,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/verzasca.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "600px"
-                },
+                "style": {},
                 "caption": "The Verzasca River, with the iconic \"Ponte dei Salti\" (Italian for \"Bridge of Jumps\") gracefully spanning the waters, creating a timeless scene of natural splendor and architectural charm."
             }
         },
@@ -48,11 +44,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/corippo.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "A breathtaking aerial view of the picturesque village of Corippo, nestled harmoniously amidst the Swiss landscape, in the canton of Ticino."
             }
         },
@@ -69,11 +61,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/foroglio.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "Foroglio village, at the foot of the cascading Foroglio waterfall, epitomizing the raw beauty of nature in the heart of Switzerland."
             }
         },
@@ -90,11 +78,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/ascona.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "Aerial view capturing the scenic charm of Ascona village, gracefully embracing the shores of Lake Maggiore."
             },
             "reverse": true

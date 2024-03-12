@@ -26,11 +26,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "Lauterbrunnen: A Swiss alpine gem surrounded by cliffs and cascading waterfalls. The gateway to the Jungfrau region, offering stunning landscapes and natural beauty."
             }
         },
@@ -45,11 +41,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/harderkulm.jpg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "Harder Kulm: A summit above Interlaken offering breathtaking views of the Swiss Alps and Lakes Thun and Brienz. A must-visit for panoramic beauty and alpine charm."
             },
             "reverse": true 
@@ -68,11 +60,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/chapelbridge.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "400px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "Lucerne's Chapel Bridge, a historic marvel that gracefully spans the Reuss River. Adorned with a medieval tower and offering enchanting views of the city and mountains, it stands as an iconic symbol of Lucerne's charm."
             }
         },
@@ -87,11 +75,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lausanne.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "Lausanne: A vibrant Swiss city on Lake Geneva's shores, blending history, culture, and stunning views of the Alps."
             }
         },
@@ -109,11 +93,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/chillon.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "400px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "Chillon Castle: A captivating medieval fortress on the shores of Lake Geneva. With its stunning lakeside location and rich history, Chillon is a must-visit Swiss landmark (photo by Andrea Caramello, Unsplash)."
             }
         },
@@ -127,11 +107,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/jungfraujoch.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "Journey of a lifetime: A scenic train ascent to Jungfraujoch, the 'Top of Europe' (photo by Patrick Robert Doyle, Unsplash)."
             },
             "reverse": true
@@ -150,11 +126,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/foroglio.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "500px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "The picturesque beauty of Foroglio, a hidden gem with a captivating waterfall, charming village, and stunning alpine landscapes. "
             }
         },
@@ -168,11 +140,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/staubifall.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "The enchanting beauty of Stauben Falls - a hidden cascade tucked away in the Swiss landscape. Nature's serene spectacle, surrounded by alpine tranquility."
             }
         },
@@ -188,11 +156,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/bern.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "600px"
-                },
+                "style": {},
                 "caption": "Bern's Old Town from a distance, where historic spires and red-roofed buildings create a timeless silhouette against the Swiss skyline."
             },
             "reverse": true
@@ -211,11 +175,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lugano.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "500px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "Lugano: A blend of Swiss precision and Italian charm on the shores of Lake Lugano. Mediterranean-style beauty, cultural richness, and stunning landscapes make it a perfect Swiss gateway (photo by Antonio Sessa, Unsplash)."
             }
         },

@@ -4,9 +4,7 @@
         {
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home1.jpeg",
-                "style": {
-
-                }
+                "style": {}
             },
             "text": [
                 "We take great pleasure in sharing itineraries and travel tips with you!",
@@ -20,9 +18,7 @@
         {
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/home/assets/home2.jpeg",
-                "style": {
-                    
-                }
+                "style": {}
             },
             "text": [
                 "Discover the captivating beauty, rich culture, and hidden gems of Switzerland!",

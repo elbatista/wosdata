@@ -73,11 +73,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/YoBiyFkxcB4/assets/foroglio.jpg",
-                "style": {
-                    "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "Foroglio waterfall cascading down a sheer rock face - a spectacle that seems straight out of a fairytale."
             }
         },
@@ -107,11 +103,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/YoBiyFkxcB4/assets/foroglio2.jpg",
-                "style": {
-                    "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "Foroglio - natural wonders and rich cultural heritage."
             }
         },
@@ -129,8 +121,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/YoBiyFkxcB4/assets/foroglio3.jpg",
-                "style": {
-                },
+                "style": {},
                 "caption": "As the vibrant hues of summer begin to fade, Foroglio transforms into a mesmerizing tapestry of autumn colors, casting a spell on visitors with its serene beauty."
             }
         },

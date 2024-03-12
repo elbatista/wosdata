@@ -26,9 +26,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/lauter.jpeg",
-                "style": {
-                    "heigth": "300px"
-                },
+                "style": {},
                 "caption": "Lauterbrunnen: A Swiss alpine gem surrounded by cliffs and cascading waterfalls. The gateway to the Jungfrau region, offering stunning landscapes and natural beauty."
             }
         },

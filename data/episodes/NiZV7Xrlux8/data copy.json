@@ -26,9 +26,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/NiZV7Xrlux8/assets/lauter.jpeg",
-                "style": {
-                    "heigth": "300px"
-                },
+                "style": {},
                 "caption": "Lauterbrunnen: A Swiss alpine gem surrounded by cliffs and cascading waterfalls. The gateway to the Jungfrau region, offering stunning landscapes and natural beauty."
             }
         },
@@ -180,11 +178,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/staubifall.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "400px"
-                },
+                "style": {},
                 "caption": "The enchanting beauty of Stauben Falls - a hidden cascade tucked away in the Swiss landscape. Nature's serene spectacle, surrounded by alpine tranquility."
             }
         },
@@ -204,11 +198,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/lugano.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "500px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "Lugano: A blend of Swiss precision and Italian charm on the shores of Lake Lugano. Mediterranean-style beauty, cultural richness, and stunning landscapes make it a perfect Swiss gateway (photo by Antonio Sessa, Unsplash)."
             }
         },
@@ -238,11 +228,7 @@
             ],
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vo-139pug3U/assets/bern.jpeg",
-                "style": {
-                    "width": "100%",
-                    "minWidth": "600px",
-                    "height": "600px"
-                },
+                "style": {},
                 "caption": "Bern's Old Town from a distance, where historic spires and red-roofed buildings create a timeless silhouette against the Swiss skyline."
             },
             "reverse": true
@@ -333,11 +319,7 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/corippo.jpeg",
-                "style": {
-                    "width": "100%",
-                    "height": "700px",
-                    "marginBottom": "40px"
-                },
+                "style": {},
                 "caption": "A breathtaking aerial view of the picturesque village of Corippo, nestled harmoniously amidst the Swiss landscape, in the canton of Ticino."
             }
         },
