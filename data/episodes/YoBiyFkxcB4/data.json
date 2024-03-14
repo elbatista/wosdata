@@ -3,6 +3,11 @@
     "description": "Nestled amidst the breathtaking landscapes of Ticino, Switzerland, Foroglio stands as a true testament to the natural beauty that defines this enchanting region. Tucked away in the heart of the Bavona Valley, Foroglio is a picturesque village that captivates visitors with its idyllic charm, stunning waterfalls, and rich cultural heritage.",
     "headerReverse": false,
     "publishedAt": "2024-3-10",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": "Foroglio, Ticino",
     "sections": [
         {
             "type": "text-links",
