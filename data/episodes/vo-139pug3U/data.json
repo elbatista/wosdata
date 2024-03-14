@@ -1,7 +1,12 @@
 {
     "title": "Top 10 Most Beautiful Places in Switzerland",
     "headerReverse": false,
-    "publishedAt": "2024-3-1",
+    "publishedAt": "2024-3-14",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": "Switzerland",
     "sections": [
         {
             "type": "text",
