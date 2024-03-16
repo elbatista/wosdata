@@ -10,7 +10,7 @@
     "location": "Foroglio, Ticino",
     "sections": [
         {
-            "type": "text-links",
+            "type": "richtext",
             "title": null,
             "text": [
                 {
@@ -22,11 +22,27 @@
                 {
                     "type": "text",
                     "value" : ", with its awe-inspiring landscapes and enchanting cities, stands as an unparalleled haven for travelers. In every corner of this picturesque country, a captivating story unfolds - a narrative woven with threads of culture, history, and the unparalleled beauty of nature."
+                },
+                {
+                    "type": "map",
+                    "float": "right",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4790.320861201189!2d8.547100657536662!3d46.37306619219777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4785999344465ff1%3A0x1557b60aa4c642b!2sForoglio%20waterfall!5e1!3m2!1sen!2sch!4v1710591762186!5m2!1sen!2sch", 
+                        "width": "50%", 
+                        "height": "400px",
+                        "style": {
+                            "float": "right",
+                            "marginTop": "20px",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
                 }
             ]
         },
         {
-            "type": "text-links",
+            "type": "richtext",
             "title": null,
             "text": [
                 {
@@ -54,7 +70,7 @@
             ]
         },
         {
-            "type": "text-links",
+            "type": "richtext",
             "title": null,
             "text": [
                 {
@@ -83,7 +99,7 @@
             }
         },
         {
-            "type": "text-links",
+            "type": "richtext",
             "title": "Cultural Heritage and Local Delights",
             "titlelevel": 2,
             "text": [
@@ -131,7 +147,7 @@
             }
         },
         {
-            "type": "text-links",
+            "type": "richtext",
             "title": "A true gem in the heart of Ticino",
             "titlelevel": 2,
             "text": [
