@@ -58,6 +58,72 @@
                 "style": {},
                 "caption": "The view from the top of Mount Brè. From this perspective you can see Lake Lugano, Mount San Salvatore, and the villages of Melide and Carona."
             }
+        },
+        {
+            "type": "text",
+            "title": "How to get there",
+            "titlelevel": 2,
+            "text": ["There are several options to access Mount Brè, choose below the one that best suits your needs and enjoy yourself!"]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/K0ax5F61D2g/assets/bre2.jpeg",
+                "style": {},
+                "caption": "The top of Mount Brè, with the city of Lugano, Lake Lugano, and surrounding mountains in the background."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "By funicular",
+            "titlelevel": 3,
+            "text": [],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/K0ax5F61D2g/assets/funi.jpeg",
+                "style": {},
+                "caption": "The funicular arriving at Suvigliana station."
+            },
+            "reverse": true
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "The initial station where you can embark on the funicular journey to Mount Brè is situated in Cassarate, just 850 meters away from the Campo Marzio Parking area ("
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.montebre.ch/en/free-parking-at-campo-marzio/",
+                    "value" :"included in the ticket"
+                },
+                {
+                    "type": "text",
+                    "value" : "). For detailed information on schedules, pricing, as well as regulations regarding the transportation of bicycles and pets, please visit the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.montebre.ch/en/fares-timetables/",
+                    "value" :"official website"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "text": [
+                "In the video, we explain the boarding process for the funicular ride to Monte Brè. We were directed to embark at the intermediate station, called Suvigliana, as it offers more convenience for passengers with a baby stroller. This recommendation stems from the fact that the Cassarate station, while accessible, is fully automated and lacks personnel on-site to assist with boarding.",
+                "For those opting to board at Cassarate, it's essential to note that the station's automated nature means there won't be any staff available to aid passengers. If you choose this station, you'll need to be prepared to navigate the process independently. This includes folding the baby stroller and passing through a narrow turnstile with it, ensuring it can be maneuvered smoothly through the station.",
+                "While Cassarate remains a viable option for boarding, especially for those with specific preferences or logistical considerations, we advise passengers to consider the ease of boarding at Suvigliana, where assistance and a more accommodating boarding process are available."
+            ]
         }
     ]
 }
