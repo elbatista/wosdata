@@ -9,5 +9,23 @@
         "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
     },
     "location": "Lucerne, Lake Lucerne Region",
-    "sections": []
+    "sections": [
+        {
+            "type": "text",
+            "title": "",
+            "text": [
+                "In the year 1420, there's a tale of a dragon rock descending from the heavens. Lake Pilatus might hold the resting place of the Roman governor Pontius Pilatus. According to legend, a petrified sentinel stands watch by a cave's entrance. Rising majestically to 2,128 meters, the Pilatus mountain massif captivates the mind without doubt.",
+                "Even in contemporary times, Pilatus remains a realm of mystique, boasting natural wonders steeped in myth and legend. Accessible from Lucerne via gondola lift and aerial cable car, or from Alpnachstad via the world's steepest rack-railroad, Pilatus offers a journey ripe with enchantment."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/pilatus.jpeg",
+                "style": {},
+                "caption": "The majestic Mount Pilatus."
+            }
+        }
+    ]
 }
