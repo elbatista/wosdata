@@ -1,0 +1,62 @@
+{
+    "title": "Mount Brè: Adventure for your Family in Switzerland",
+    "description": "",
+    "headerReverse": false,
+    "publishedAt": "2024-3-25",
+    "author": {
+        "name": "Larissa Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/lari.jpeg"
+    },
+    "location": "Lugano, Ticino",
+    "sections": [
+        {
+            "type": "richtext",
+            "title": "Intro",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "Monte Brè is one of the most important mountains in the city of Lugano, Southern Switzerland. Also known as the sunniest mountain in the country, it is the starting point for several trails: Brè-Lake Lugano; Brè-Cureggia; Presences of art: cultural itinerary; Brè-Mount Boglia; Landscapes and Culture: Discovering the thousand Faces of the Brè; among other options that you can find on the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.montebre.ch/en/hiking-mountain-biking/",
+                    "value" :"official website"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "The splendor of nature and the views offered at its peak were the motivators for the construction of a funicular that facilitated the connection between the city and the mountain over 115 years ago. In addition to the city of Lugano, you can appreciate the Monte Rosa, the Bernese, and Vallese Alps. To learn more about the history of this funicular, watch the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.montebre.ch/en/115-years",
+                    "value" :"official video"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/K0ax5F61D2g/assets/bre1.jpeg",
+                "style": {},
+                "caption": "The view from the top of Mount Brè. From this perspective you can see Lake Lugano, Mount San Salvatore, and the villages of Melide and Carona."
+            }
+        }
+    ]
+}
