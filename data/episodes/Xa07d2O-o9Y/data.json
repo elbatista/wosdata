@@ -505,5 +505,262 @@
                 "In conclusion, a journey to Mount Pilatus offers an unforgettable adventure amidst the stunning natural beauty of the Swiss Alps. From the exhilarating cable car and cogwheel train rides to the adrenaline-pumping activities at Fraumünster and Pilatus Seilpark, there's something for every outdoor enthusiast to enjoy. Whether you're marveling at the 360-degree views from the summit or exploring the scenic trails to Tomlishorn and beyond, the experience is bound to leave a lasting impression. So, pack your bags, lace up your hiking boots, and embark on an unforgettable pilgrimage to Mount Pilatus, where adventure and wonder await at every turn."
             ]
         }
-    ]
+    ],
+    "gallery": {
+        "title": "Gallery",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/36m34s046.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/37m26s505.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/37m57s629.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/38m55s898.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/39m57s344.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/40m33s000.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/41m23s436.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/41m33s289.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/41m50s167.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/42m28s528.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/42m58s240.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/43m24s212.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/46m12s341.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/47m30s214.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/48m10s026.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/48m51s027.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/49m15s226.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3240.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3251.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3262.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3286.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3289.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3292.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3305.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3334.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3345.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3350.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3356.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3364.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3385.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3393.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3414.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3415.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3418.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3433.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3441.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            }
+        ]
+    }
 }
