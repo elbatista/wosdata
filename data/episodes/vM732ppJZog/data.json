@@ -1,0 +1,537 @@
+{
+    "title": "Wengen: One of the Most Beautiful Villages in the Heart of Switzerland",
+    "description": "Wengen is a holiday resort located on a wind-protected sun terrace at the foot of the Jungfrau, 400 metres above the Lauterbrunnen valley at an altitude of 1274 m. With the Jungfrau in the background, flanked by the immense panorama of the Bernese Alps, at the foot of the spectacular Lauterbrunnen valley: Wengen offers a pure mountain experience.",
+    "slug": "wengen",
+    "publishedAt": "2024-4-1",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Wengen",
+        "municipality": "Lauterbrunnen",
+        "region": "Jungfrau Region",
+        "canton": "Bern"
+    },
+    "sections": [
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Characterized by its charming timber houses, scattered holiday chalets, and hotels originating from the "
+                },
+                {
+                    "type": "italic",
+                    "value": "belle époque"
+                },
+                {
+                    "type": "text",
+                    "value": " era, this holiday retreat in the Bernese Oberland region preserves the quintessential essence of a picturesque mountain village. Facing southwest, its expansive terrace ensures an abundance of sunshine hours. Accessible since 1893 exclusively by the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.jungfrau.ch/en-gb/corporate/jungfrau-railways/jungfraubahn-holding-ag/wengernalpbahn-ag/",
+                    "value": "Wengernalp railway"
+                },
+                {
+                    "type": "text",
+                    "value": " (the world's longest cog railway) from "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "class": "font-bold",
+                    "url": "/episodes/KJH0UZCgdhA/lauterbrunnen-switzerland-most-beautiful-place-in-switzerland",
+                    "value": "Lauterbrunnen"
+                },
+                {
+                    "type": "text",
+                    "value": ", Wengen has maintained its car-free status, with vehicles remaining parked in Lauterbrunnen."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Wengen serves as a convenient hub for accessing prominent excursion spots within the Jungfrau region. Observation of climbers tackling the formidable Eiger north face, renowned as one of the world's most challenging climbing terrains, is possible through telescopes at "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://grindelwald.swiss/en/map/detail/kleine-scheidegg-9466bb35-976f-4a0d-a24a-5e22d9406816.html",
+                    "value": "Kleine Scheidegg"
+                },
+                {
+                    "type": "text",
+                    "value": ". With a train transfer at Kleine Scheidegg, the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "class": "font-bold",
+                    "url": "/episodes/sQXi2iA0d_Q/jungfraujoch-the-top-of-europe-full-guide-unveiling-switzerlands-alpine-gem-4-k-uhd",
+                    "value": "Jungfraujoch"
+                },
+                {
+                    "type": "text",
+                    "value": " can also be accessed via railway. Furthermore, from the valley floor resort of Lauterbrunnen, one can ascend to the summit of "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://schilthorn.swiss/",
+                    "value": "Schilthorn"
+                },
+                {
+                    "type": "text",
+                    "value": " either through Mürren or Stechelberg."
+                }
+                
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/wengen.jpeg",
+                "style": {},
+                "caption": "Wengen: the Jungfrau in the background, flanked by the immense panorama of the Bernese Alps, at the foot of the spectacular Lauterbrunnen valley (photo by Yura Lytkin, Unsplash)."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "How to Get There",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d87669.73491896068!2d7.863288547458311!3d46.63309917223217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x478fa36078f1ff17%3A0x1599efc68eb9c0e9!2sInterlaken%20Ost%2C%203800%20Interlaken!3m2!1d46.6904314!2d7.869051!4m5!1s0x478fa1c61e6dd461%3A0xb1a996face2f0381!2sWengen%2C%20Lauterbrunnen!3m2!1d46.6054335!2d7.9215399!5e0!3m2!1sen!2sch!4v1711922198701!5m2!1sen!2sch", 
+                        "width": "50%", 
+                        "height": "400px",
+                        "style": {
+                            "float": "right",
+                            "marginTop": "20px",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "bold",
+                    "value": "By rail: "
+                },
+                {
+                    "type": "text",
+                    "value": "Traveling from either "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "class": "font-bold",
+                    "url": "/episodes/f9U041kJbcY/bern-city-tour-discovering-the-amazing-swiss-capital",
+                    "value": "Bern"
+                },
+                {
+                    "type": "text",
+                    "value": " or "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "class": "font-bold",
+                    "url": "/episodes/oD-_4wJAw-s/top-10-must-see-places-in-lucerne-switzerland-4-k-guided-tour",
+                    "value": "Lucerne"
+                },
+                {
+                    "type": "text",
+                    "value": ", visitors can journey to "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://maps.app.goo.gl/THNVqfX3ZLnaPzhY6",
+                    "value": "Interlaken-Ost"
+                },
+                {
+                    "type": "text",
+                    "value": ". Upon arrival, transitioning to the Bernese Oberland Railway facilitates the continuation of the journey to Lauterbrunnen. Subsequently, transferring to the Wengernalp Railway completes the final leg of the trip, allowing travelers to reach the charming village of Wengen."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                
+                {
+                    "type": "bold",
+                    "value": "By car (Wengen is car-free): "
+                },
+                {
+                    "type": "text",
+                    "value": "Travelers have multiple routes to reach "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "class": "font-bold",
+                    "url": "/episodes/KLclTW2NH2g/interlaken-switzerland-beautiful-swiss-alps-main-attractions-to-visit-a-cinematic-short-film",
+                    "value": "Interlaken"
+                },
+                {
+                    "type": "text",
+                    "value": ", whether from Bern or Lucerne, or alternatively from the south via the Grimsel Pass (accessible in summer) or the Simplon Pass, followed by the Lötschberg car-transport train to Interlaken. Upon reaching Interlaken, signage directs travelers towards Grindelwald and Lauterbrunnen. Parking facilities are provided at the railway station. From there, taking the Wengernalp Railway enables access to the car-free village of Wengen."
+                }
+            ]
+        },
+        {
+            "type": "textimg",
+            "title": "",
+            "reverse": true,
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/arenas.jpeg",
+                "style": {},
+                "caption": "Arenas Resort Victoria-Lauberhorn: very nice option for staying in Wengen."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "WHERE TO STAY",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "If you plan to stay in Wengen for a couple of days, you will fin warm hospitality of the village's charming hotels, offering comfortable accommodations with unparalleled views of the surrounding peaks. We personally recommend the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "class": "italic",
+                    "url": "https://www.arenasresorts.com/en/wengen/",
+                    "value": "Arenas Resort Victoria-Lauberhorn"
+                },
+                {
+                    "type":"text",
+                    "value": ", where we have already stayed once, in 2022, when we paid approximately "
+                },
+                {
+                    "type":"bold",
+                    "value": "CHF 150 for a Double Room with 2 single beds (90-130 cm wide), balcony, and mountain view (Jungfrau)."
+                },
+                {
+                    "type":"text",
+                    "value": " This resort offers unparalleled hospitality, very nice accommodations, and impeccable service, ensuring a truly memorable experience. Nestled amidst the captivating alpine scenery, with panoramic views of the majestic peaks, the resort provides the perfect retreat after a day of exploration and adventure."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "What to Do In Wengen",
+            "titlelevel": 2,
+            "text":[
+                {
+                    "type": "text",
+                    "value": "As you explore this picturesque Swiss gem, specialy during winter, you'll discover a "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://www.jungfrau.ch/en-gb/jungfrau-ski-region/",
+                    "value": "plethora of activities"
+                },
+                {
+                    "type": "text",
+                    "value": " to indulge in, ensuring an unforgettable experience for every visitor. You can start your exploration with leisurely walks through the village's quaint streets, discover the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://www.jungfrau.ch/en-gb/food-drink/",
+                    "value": "local cuisine"
+                },
+                {
+                    "type": "text",
+                    "value": ", or embark on amazing hiking trails featuring breathtaking mountain views:"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Hiking Trails",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "For an unforgettable alpine adventure that seamlessly combines scenic beauty with exploration, we highly recommend embarking on a hiking such as the ones bellow. Each route not only offers a leisurely hike, but also presents unparalleled vistas of the majestic Eiger, Mönch, and Jungfrau peaks."
+                }
+            ]
+        },
+        {
+            "type": "textimg",
+            "title": "",
+            "reverse":true,
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/man-to-wengen.jpg",
+                "style": {},
+                "caption": "The amazing views of the trail from Männlichen to Wengen (photo by Alison Pang, Unsplash)."
+            }
+        },
+        {
+            "type":"richtext",
+            "text":[
+                {
+                    "type": "link",
+                    "class": "font-bold uppercase tracking-wide",
+                    "target": "_blank",
+                    "url":"https://wengen.swiss/en/map/detail/mannlichen-03097adf-7871-48a1-a13b-ad7132922767.html",
+                    "value": "Männlichen to Wengen:"
+                },
+                {
+                    "type": "text",
+                    "value": " this trail offers a gradual descent, providing a gentle experience while granting a remarkable perspective of the surrounding peaks. Despite the captivating views, the broad pathway ensures safety, minimizing the risk of missteps. Upon reaching Kleine Scheidegg, though it's challenging to part ways with the breathtaking vista of the summit trio of Eiger, Mönch, and Jungfrau, the journey towards Wengen beckons. Following the railway track and the Lauberhornpiste, travelers descend effortlessly, relishing the enjoyable downward slope."
+                }
+            ]
+        },
+        {
+            "type":"richtext",
+            "text":[
+                {
+                    "type": "text",
+                    "class":"font-bold uppercase tracking-wide text-xs md:text-sm",
+                    "value": "Trail facts: "
+                },
+                {
+                    "type": "text",
+                    "class":"uppercase font-extralight text-xs md:text-sm",
+                    "value": "Distance: 17.3 km | Duration: 3 h | Descent: 945 m | Difficulty: moderate"
+                }
+            ]
+        },
+        {
+            "type":"richtext",
+            "text":[
+                {
+                    "type":"button",
+                    "value":"video_camera_back",
+                    "target": "_blank",
+                    "url":"https://maennlichen.roundshot.com/",
+                    "text":"See live webcam"
+                }
+            ]
+        },
+        {
+            "type": "textimg",
+            "title": "",
+            "reverse":true,
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/lauber.jpg",
+                "style": {},
+                "caption": "The amazing views of the Lauberhorn Trail to Wengen (photo by Marco Meyer, Unsplash)."
+            }
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "class": "font-bold uppercase tracking-wide",
+                    "target": "_blank",
+                    "url":"https://www.jungfrau.ch/en-gb/summer-sport/hiking/hiking-trail/lauberhorn-trail-23429704",
+                    "value": "Lauberhorn Trail: "
+                },
+                {
+                    "type":"text",
+                    "value": "In the winter months, the Lauberhorn descent witnesses the thrilling spectacle of the fastest skiers hurtling down its slopes, completing the run in a mere two and a half minutes, reaching staggering speeds of 110 km/h on average. However, during the summer season, this iconic alpine ski racing route transforms into a serene landscape, inviting leisurely exploration on foot. It offers ample opportunity to soak in the breathtaking panorama of the Eiger, Mönch, and Jungfrau peaks, as well as to appreciate the sheer steepness of the slopes and the strategic highlights of the "
+                },
+                {
+                    "type": "link",
+                    "class": "italic",
+                    "target": "_blank",
+                    "url":"https://wengen.swiss/en/events/highlights/detail/international-lauberhorn-race.html",
+                    "value": "World Cup course"
+                },
+                {
+                    "type":"text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Traversing from the starting house, passing through the challenging Hundschopf and Brüggli-S sections, and descending to Wengen via the exhilarating Hanneggschuss, one can truly appreciate the intricacies of this daredevil slope. Information boards strategically placed along the route offer insights into the terrain and the challenges faced by the skiers. Only those who have embarked on this journey on foot can truly comprehend the courage required to tackle it on skis."
+                }
+            ]
+        },
+        {
+            "type":"richtext",
+            "text":[
+                {
+                    "type": "text",
+                    "class":"font-bold uppercase tracking-wide text-xs md:text-sm",
+                    "value": "Trail facts: "
+                },
+                {
+                    "type": "text",
+                    "class":"uppercase font-extralight text-xs md:text-sm",
+                    "value": "Distance: 9.9 KM | Duration: 3.25 h | Descent: 1098 m | Difficulty: moderate."
+                }
+            ]
+        },
+        {
+            "type":"richtext",
+            "text":[
+                {
+                    "type":"button",
+                    "value":"video_camera_back",
+                    "target": "_blank",
+                    "url":"https://jungfrau.roundshot.com/lauberhorn/",
+                    "text":"See live webcam"
+                }
+            ]
+        },
+        {
+            "type":"richtext",
+            "text":[
+                {
+                    "type":"text",
+                    "value":"There are "
+                },
+                {
+                    "type":"link",
+                    "target": "_blank",
+                    "url":"https://www.jungfrau.ch/en-gb/summer-sport/hiking/",
+                    "value":"many other trails"
+                },
+                {
+                    "type":"text",
+                    "value":" in the area. When it comes to hiking in the Jungfrau region, you're spoilt for choice. Nature enthusiasts will encounter meticulously marked paths in every direction: leading to summits or serene mountain lakes, winding through valleys or tracing the course of streams. Whether seeking leisurely strolls or aiming for challenging ascents, following the guidance of the yellow arrows ensures you'll navigate your way with ease."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/slopes.jpeg",
+                "style": {},
+                "richcaption": [
+                    "The exhilarating ski slopes and picturesque hiking trails amidst the breathtaking scenery of the Jungfrau Region (source: ",
+                    {
+                        "type": "link",
+                        "target":"_blank",
+                        "url": "https://www.jungfrau.ch/en-gb/live/slope-data/#jungfrau_ski_region",
+                        "text": "jungfrau.ch"
+                    },
+                    ")"
+                ]
+            }
+        },
+
+        {
+            "type": "textimg",
+            "title": "",
+            "reverse":true,
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/kids.jpg",
+                "style": {},
+                "caption": "Wengen it's also a haven for families with children (photo by Kajetan Sumila, Unsplash)."
+            }
+        },
+
+        {
+            "type": "richtext",
+            "title": "Activities for Children",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Wengen isn't just a paradise for hiking enthusiasts; it's also a haven for families with children, offering an array of engaging activities to keep the little ones entertained. From thrilling outdoor adventures to captivating indoor experiences, there's something for every child to enjoy. Next, we'll showcase some of the exciting activities tailored for kids, ensuring that families can create unforgettable memories together in this enchanting alpine destination."
+                }
+            ]
+        },
+
+
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "class": "font-bold uppercase tracking-wide",
+                    "target": "_blank",
+                    "url":"https://wengen.swiss/en/map/detail/figeler-wengen-c3268848-e134-4396-a122-e957e8e105d5.html",
+                    "value": "Figeler Wengen: "
+                },
+                {
+                    "type":"text",
+                    "value": "At the Snowgarden, with the lovable mascot \"Snowli\", children are introduced to skiing in a safe and enjoyable environment. With several carpet conveyor belts and an abundance of playful aids, youngsters can navigate the snow with ease and excitement during their initial days on the slopes."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "class": "font-bold uppercase tracking-wide",
+                    "target": "_blank",
+                    "url":"https://wengen.swiss/en/map/detail/wendy-s-winter-mystery-trail-242d0446-11e4-45a6-9c6c-0570de6d9608.html",
+                    "value": "Wendy's Winter Mystery Trail: "
+                },
+                {
+                    "type":"text",
+                    "value": "To participate, all you require is a smartphone with internet connectivity. You'll be directed to different locations using a virtual map. Once you reach the designated coordinates, the digital content will be displayed on your mobile phone screen."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "class": "font-bold uppercase tracking-wide",
+                    "target": "_blank",
+                    "url":"https://wengen.swiss/en/map/detail/playhouse-day-nursery-d582cedd-a2f4-4a1e-9342-07e0c28131e6.html",
+                    "value": "Playhouse day nursery: "
+                },
+                {
+                    "type": "text",
+                    "value": "Located conveniently next to the Tourist Centre, the Playhouse nursery buzzes with activity, providing a vibrant environment for children. As parents indulge in winter sports amidst the stunning Jungfrau Region, we ensure the well-being of their little ones. Engaging in playful activities, such as games, coloring, crafts, and snowy adventures, the children are kept entertained. Once exhausted from the day's excitement, a cozy sleeping area with cots awaits, inviting them to drift off into sweet dreams."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "class": "font-bold uppercase tracking-wide",
+                    "target": "_blank",
+                    "url":"https://wengen.swiss/en/discover/routes-and-tours/articles/.html#area=60825264&cat=Hiking-main,Hiking%20Trail,25143811,Nature%20Trail,Biking%20and%20Cycling-main,Cycling,Mountain%20Bike,Road%20Bike,Running%20and%20Skating-main,Jogging,Trail%20Running,Mountaineering-main,Via%20Ferrata,Mountain%20Hike,Winter%20Activities-main,Winter%20Hiking,Sledding,Snowshoeing,Cross-Country%20Skiing,City%20Walking,Promenade%20Route&dmdtab=oax-tab1&filter=r-fullyTranslatedLangus-,r-onlyOpened-,sb-sortedBy-0&ipd=44216349&wt=Wengen%20(Switzerland)%0A60825264&zc=12,7.95743,46.57857",
+                    "value": "Fox Run Wengen: "
+                },
+                {
+                    "type":"text",
+                    "value": "Experience exhilarating sledging adventures alongside and above the iconic Lauberhorn downhill course."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "class": "mt-10",
+            "text": [
+                "In conclusion, Wengen stands as a gateway to unparalleled hiking adventures within the majestic Jungfrau region. With a plethora of activities catering to every preference, from leisurely walks to challenging summits, Wengen beckons nature lovers to embark on unforgettable journeys amidst breathtaking landscapes. We invite you to share your Wengen hiking experiences in the comments below and spread the word by sharing this post with fellow explorers. Let's inspire each other to discover the wonders of Wengen together!"
+            ]
+        }
+    ]
+}
