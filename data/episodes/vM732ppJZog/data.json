@@ -258,9 +258,16 @@
                 },
                 {
                     "type": "text",
-                    "value": ", or embark on amazing hiking trails featuring breathtaking mountain views:"
+                    "value": ", or embark on amazing hiking trails featuring breathtaking mountain views."
                 }
             ]
+        },
+        {
+            "type":"textimg",
+            "img": {
+                "url":"https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/cousine.jpeg",
+                "caption": "The amazing views of the trail from Männlichen to Wengen (photo by Alison Pang, Unsplash)."
+            }
         },
         {
             "type": "richtext",
@@ -326,16 +333,7 @@
                 }
             ]
         },
-        {
-            "type": "textimg",
-            "title": "",
-            "reverse":true,
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/lauber.jpg",
-                "style": {},
-                "caption": "The amazing views of the Lauberhorn Trail to Wengen (photo by Marco Meyer, Unsplash)."
-            }
-        },
+        
         {
             "type": "richtext",
             "text": [
@@ -401,6 +399,13 @@
             ]
         },
         {
+            "type": "img",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/lauber.jpg",
+                "caption": "The amazing views of the Lauberhorn Trail to Wengen (photo by Marco Meyer, Unsplash)."
+            }
+        },
+        {
             "type":"richtext",
             "text":[
                 {
@@ -424,7 +429,6 @@
             "title": "",
             "img": {
                 "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/assets/slopes.jpeg",
-                "style": {},
                 "richcaption": [
                     "The exhilarating ski slopes and picturesque hiking trails amidst the breathtaking scenery of the Jungfrau Region (source: ",
                     {
