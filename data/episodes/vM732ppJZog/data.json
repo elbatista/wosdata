@@ -537,5 +537,115 @@
                 "In conclusion, Wengen stands as a gateway to unparalleled hiking adventures within the majestic Jungfrau region. With a plethora of activities catering to every preference, from leisurely walks to challenging summits, Wengen beckons nature lovers to embark on unforgettable journeys amidst breathtaking landscapes. We invite you to share your Wengen hiking experiences in the comments below and spread the word by sharing this post with fellow explorers. Let's inspire each other to discover the wonders of Wengen together!"
             ]
         }
-    ]
+    ],
+    "gallery": {
+        "title": "Gallery",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/21m38s033.jpeg",
+                "width": 1180,
+                "height": 633,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/22m13s334.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/22m39s638.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3818.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3819.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3824.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3829.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3835.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3856.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3869.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3874.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3877.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3882.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3892.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/vM732ppJZog/gallery/IMG_3902.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            }
+        ]
+    }
 }
