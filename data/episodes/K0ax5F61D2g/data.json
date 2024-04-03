@@ -310,14 +310,24 @@
                     "value" : "If you want to ensure that the weather is favorable for this excursion, you can access the "
                 },
                 {
-                    "type": "link",
-                    "target": "_blank",
-                    "url": "https://www.montebre.ch/en/#single/0",
-                    "value" :"webcam"
+                    "type": "bold",
+                    "value" :"live webcam"
                 },
                 {
                     "type": "text",
                     "value" : " and check in real-time the visibility of the landscape from the top."
+                }
+            ]
+        },
+        {
+            "type":"richtext",
+            "text":[
+                {
+                    "type":"button",
+                    "value":"video_camera_back",
+                    "target": "_blank",
+                    "url":"https://www.montebre.ch/en/#single/0",
+                    "text":"See live webcam"
                 }
             ]
         },
