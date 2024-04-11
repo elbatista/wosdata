@@ -134,9 +134,9 @@
                     "float": "left",
                     "attributes": {
                         "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3261.957820906569!2d8.963304076782649!3d46.00678497108802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47842df489084531%3A0x9112ab7c68f7e9aa!2sCampo%20Marzio%2C%20Via%20Campo%20Marzio%203%2C%206900%20Lugano!3m2!1d46.006972999999995!2d8.961568!4m5!1s0x47842df75e94c2ef%3A0x472334e3d9081311!2sCassarate%2C%206900%20Lugano!3m2!1d46.006423999999996!2d8.970189999999999!5e1!3m2!1sen!2sch!4v1711634770216!5m2!1sen!2sch", 
-                        "width": "50%", 
-                        "height": "400px",
                         "style": {
+                            "width": "50%", 
+                            "height": "20em",
                             "float": "left",
                             "marginTop": "20px",
                             "marginRight": "20px",
@@ -172,9 +172,9 @@
                     "float": "right",
                     "attributes": {
                         "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11084.561311652118!2d8.967122076398013!3d46.008391337406636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47842df329d00fd7%3A0xfe9f58bbcf856a84!2sParco%20Ciani%2C%206900%20Lugano!3m2!1d46.0048531!2d8.9585636!4m5!1s0x47842e0024aea87f%3A0x5e7692d193a8c14c!2sRistorante%20panoramico%20Vetta%20Monte%20Br%C3%A8%2C%20Via%20alla%20Vetta%2C%20Br%C3%A8%20Paese!3m2!1d46.0084817!2d8.984635899999999!5e0!3m2!1sen!2sch!4v1711635472121!5m2!1sen!2sch", 
-                        "width": "50%", 
-                        "height": "400px",
                         "style": {
+                            "width": "50%", 
+                            "height": "20em",
                             "float": "right",
                             "marginTop": "20px",
                             "marginLeft": "20px",

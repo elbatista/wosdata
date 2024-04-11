@@ -1,0 +1,692 @@
+{
+    "title": "Bern: Discovering the amazing swiss capital",
+    "description": "Discover the charm of Bern, Switzerland, through our comprehensive guide! From its medieval Old Town to the iconic Zytglogge clock tower, delve into the rich history and cultural tapestry of this picturesque city. Explore top activities like strolling along the Aare River, visiting the Bear Park, or ascending the Gurten for panoramic views. Uncover hidden gems, dining delights, and insider tips to make the most of your Bern experience. Let us be your ultimate resource for an unforgettable Swiss adventure!",
+    "slug": "bern",
+    "publishedAt": "2024-4-6",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Bern",
+        "region": "Central Switzerland",
+        "canton": "Bern"
+    },
+    "sections": [
+        {
+            "type": "text",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase",
+            "style": {
+                "lineHeight":"1.8em",
+                "padding": "1em 3em"
+            },
+            "text": [
+                "Few cities have preserved their historic essence as effectively as Bern, Switzerland's capital. Designated as a UNESCO World Heritage Site, Bern's Old Town is renowned for its 6km of arcades, locally known as 'Lauben', forming one of Europe's longest weather-sheltered shopping promenades."
+            ]
+        },
+        {
+            "type": "richtext",
+            
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "value": "From the grandeur of "
+                },
+                {
+                    "type": "link",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "target": "_blank",
+                    "url": "https://www.bern.com/en/detail/the-bern-minster",
+                    "value": "Bern Cathedral"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "value": " (Bern Munster) to the iconic "
+                },
+                {
+                    "type": "link",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "target": "_blank",
+                    "url": "https://www.bern.com/en/detail/clock-tower-zytglogge",
+                    "value": "Zytglogge"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "value": " clock tower, delve into the rich history and cultural tapestry of this picturesque city. Explore top activities like strolling along the "
+                },
+                {
+                    "type": "link",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "target": "_blank",
+                    "url": "https://www.bern.com/en/aare-river",
+                    "value": "Aare River"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "value": ", visiting the "
+                },
+                {
+                    "type": "link",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "target": "_blank",
+                    "url": "https://tierpark-bern.ch/en/bearpark/",
+                    "value": "Bear Park"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "value": ", or ascending the "
+                },
+                {
+                    "type": "link",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "target": "_blank",
+                    "url": "https://www.gurtenpark.ch/en/",
+                    "value": "Gurten"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-extralight",
+                    "value": " for panoramic views. Uncover hidden gems, dining delights, and insider tips to make the most of your Bern experience. Let us be your ultimate guide for this unforgettable Swiss adventure!"
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/assets/bern.jpg",
+                "style": {},
+                "caption": "The enchanting embrace of Bern's Old Town, where history meets the tranquil waters of the Aare River."
+            }
+        },
+        {
+            "type": "text",
+            "title": "How to Get There",
+            "titlelevel": 2,
+            "text": [
+                "Situated in the heart of Europe and at the focal point of Switzerland, the federal city serves as a vital intersection for all major Swiss transportation routes. Linked to international railway lines and the European highway network, Bern offers seamless connectivity to travelers from near and far."
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "By Car",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "caption": "Parking spots near the Old Town.",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5447.363840076148!2d7.448003794333467!3d46.9482903496664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sparking!5e0!3m2!1sen!2sch!4v1712689830488!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "40%",
+                            "minWidth":"200px", 
+                            "float": "right",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "Reaching Bern by car is easy, with direct access to highways from "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://maps.app.goo.gl/chZXkehgRidPeHjKA",
+                    "value": "Geneva/Valais (A12)"
+                },
+                {
+                    "type": "text",
+                    "value": ", "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://maps.app.goo.gl/Tm36DgMCFuungGvJA",
+                    "value": "Zurich/Basel (A1)"
+                },
+                {
+                    "type": "text",
+                    "value": ", and the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://maps.app.goo.gl/Gc8BFQmspeioEjx48",
+                    "value": "Bernese Oberland (A6)"
+                },
+                {
+                    "type": "text",
+                    "value": ", ensuring swift arrival to the federal city. Upon arrival, we suggest parking your car in one of the city's convenient parking garages, with many hotels offering excellent parking options as well. It's worth noting that driving through the lower part of the Old City is "
+                },
+                {
+                    "type": "bold",
+                    "value": "restricted to residents and suppliers only."
+                }
+
+
+                
+                
+
+                
+
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Looking to recharge your electric car in a hurry? Energie Wasser Bern manages car parks equipped with charging stations for electric vehicles across Bern, with ongoing expansion of the recharging network. Explore the "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url":"https://www.ewb.ch/angebot/mobilitaet/elektromobilitaet/index.php",
+                    "value": "available stations here"
+                },
+                {
+                    "type":"text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "By Train",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Bern is a fantastic transportation hub, with frequent direct trains to and from major Swiss cities and even European destinations. Imagine relaxing on a comfortable train journey - Zurich, Basel, "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "/episodes/KLclTW2NH2g/interlaken-switzerland-beautiful-swiss-alps-main-attractions-to-visit-a-cinematic-short-film",
+                    "value": "Interlaken"
+                },
+                {
+                    "type": "text",
+                    "value": ", or "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "/episodes/oD-_4wJAw-s/top-10-must-see-places-in-lucerne-switzerland-4-k-guided-tour",
+                    "value": "Lucerne"
+                },
+                {
+                    "type": "text",
+                    "value": " are all just an easy one-hour ride away! Switzerland's public transport system is renowned for its punctuality and reliability, so you can be confident you'll arrive at your chosen Swiss city quickly and conveniently."
+                }
+            ]
+        },
+        {
+            "type": "textimg",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/assets/touristinfo.png",
+                "richcaption":[ 
+                    "Tourist information at the main train station - map (source: ",
+                    {
+                        "type": "link",
+                        "target":"_blank",
+                        "url": "https://www.bern.com/en/getting-here-around",
+                        "text": "bern.com"
+                    },
+                    ")."
+                ]
+            },
+            "reverse": true
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "font-bold italic",
+                    "value": "Need help navigating Bern?"
+                },
+                {
+                    "type": "text",
+                    "value": " The Tourist Information center is conveniently located on the ground floor of the main station building. You'll find it by the east entrance, near the bus stop for bus number 21 heading towards Bremgarten (check the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://www.bern.com/tl_files/content/files/Karte_TI_Bahnhof.pdf",
+                    "value": "station map"
+                },
+                {
+                    "type": "text",
+                    "value": " for details).  This is your one-stop shop for everything you need to know about Bern, and they can even sell you national train tickets right at the counter!"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "font-bold italic",
+                    "value": "Swiss Travel Pass - "
+                },
+                {
+                    "type": "text",
+                    "value": "If you plan an extended adventure in Switzerland, consider the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://www.swiss-pass.ch/",
+                    "value": "Swiss Travel Pass"
+                },
+                {
+                    "type": "text",
+                    "value": ", your ticket to exploring the country's stunning sights using their amazing public transportation network. The Swiss Travel System offers this pass, along with the Swiss Travel Pass Flex, both great options for affordable travel by train, bus, and even boat!"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Flying to Bern?",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "If you arrive via an international flight at "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.flughafen-zuerich.ch/en/passengers",
+                    "value": "Zurich"
+                },
+                {
+                    "type":"text",
+                    "value": ", "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.gva.ch/en/",
+                    "value": "Geneva"
+                },
+                {
+                    "type":"text",
+                    "value": ", or "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.euroairport.com/en/",
+                    "value": "Basel"
+                },
+                {
+                    "type":"text",
+                    "value": " airports, convenient train options await to seamlessly continue your journey. Both Zurich and Geneva airports feature integrated rail terminals. Trains depart every half hour, with the following approximate travel times to Bern:"
+                },
+                {
+                    "type":"list",
+                    "value": [
+                        "Zurich Airport to Bern station: 1 hour 15 minutes",
+                        "EuroAirport Basel Mulhouse Fribourg to Bern station: 1 hour 15 minutes",
+                        "Geneva Airport to Bern station: just under 2 hours"
+                    ]
+                },
+                {
+                    "type":"text",
+                    "class":"font-bold",
+                    "value": "Since 2020, "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "class":"font-bold",
+                    "url": "https://www.bernairport.ch/en",
+                    "value": "Bern Airport"
+                },
+                {
+                    "type":"text",
+                    "class":"font-bold",
+                    "value": " has primarily served a limited number of flights to holiday destinations, subject to demand."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "WHERE TO STAY",
+            "titlelevel": 2,
+            "text": [
+                "Whether you're seeking backpacker hostels or luxurious hotels, accommodations in Bern cater to every preference. Choose from suites nestled in the heart of the Old City, riverside rooms along the tranquil Aare, or trendy apartments in vibrant neighborhoods. With a myriad of options available, finding the perfect place to stay in Bern is a delightful dilemma."
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text":[
+                {
+                    "type":"text",
+                    "value": "Bern's "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.bern.com",
+                    "value": "official website"
+                },
+                {
+                    "type":"text",
+                    "value": " provides many accommodation options, offering a comprehensive array of choices to suit every traveler's needs. Whether you're in search of elegant "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.bern.com/en/where-to-stay/hotels",
+                    "value": "hotels"
+                },
+                {
+                    "type":"text",
+                    "value": ", inviting "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.bern.com/en/where-to-stay/hostels",
+                    "value": "hostels"
+                },
+                {
+                    "type":"text",
+                    "value": ", picturesque "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.bern.com/en/where-to-stay/camping",
+                    "value": "campgrounds"
+                },
+                {
+                    "type":"text",
+                    "value": ", or other "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.bern.com/en/where-to-stay",
+                    "value": "lodging alternatives"
+                },
+                {
+                    "type":"text",
+                    "value": ", they offer a nice selection waiting to be explored."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "What to Do In Bern",
+            "titlelevel": 2,
+            "text":[
+                "On your journey of discovery in and around Bern, you cant miss the iconic landmarks like the Zytglogge (Clock Tower), the Parliament Building, the BearPark, and Bern's Munster. These captivating attractions are some of indispensable stops on any itinerary, offering a glimpse into the rich history, culture, and natural wonders of the Swiss capital."
+            ]
+        },
+        {
+            "type": "textimg",
+            "title": "Old town",
+            "titlelevel": 3,
+            "img" : {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/assets/oldtown.jpeg",
+                "richcaption": [
+                    "Bern's Old Town as seen from the ",
+                    {
+                        "type":"link",
+                        "target":"_blank",
+                        "url":"https://www.bern.com/en/detail/the-rose-garden",
+                        "text":"Rose Garden"
+                    },
+                    " (one of the most beautiful parks in Bern)."
+                ]
+            }
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Bern's Old Town is a captivating labyrinth of medieval streets, charming squares, and historical landmarks that beckon visitors to step back in time. As a "
+                },
+                {
+                    "type":"text",
+                    "class": "font-bold italic tracking-wider",
+                    "value": "UNESCO World Heritage Site"
+                },
+                {
+                    "type":"text",
+                    "value": ", it's a testament to the city's rich heritage and architectural beauty. Wandering through the cobblestone streets, you'll encounter iconic sights like the Zytglogge (see below), a stunning clock tower adorned with intricate astronomical mechanisms, and the majestic Bern Cathedral (see below), with its towering spire dominating the skyline."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "The medieval arcades, known as "
+                },
+                {
+                    "type":"text",
+                    "class": "italic font-extralight",
+                    "value": "\"Lauben\""
+                },
+                {
+                    "type":"text",
+                    "value": ", provide sheltered walkways where you can explore boutique shops, cozy cafes, and traditional Swiss eateries. One of the Old Town's highlights is the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://tierpark-bern.ch/en/bearpark/",
+                    "value": "Bear Park"
+                },
+                {
+                    "type":"text",
+                    "value": ", home to Bern's beloved bears, where you can observe these majestic creatures in a naturalistic environment along the banks of the Aare River. The Nydegg Bridge offers panoramic views of the Old Town and the river below, perfect for capturing memorable photos."
+                }
+            ]
+        },
+        {
+            "type": "textimg",
+            "titlelevel": 3,
+            "reverse": true,
+            "img" : {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/assets/clock.jpeg",
+                "caption": "The Zytglogge Clock Tower.",
+                "style": {
+                    "maxHeight":"800px"
+                }
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "Zytglogge",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "The "
+                },{
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.myswitzerland.com/en-ch/experiences/clock-tower/",
+                    "value": "Zytglogge"
+                },{
+                    "type":"text",
+                    "value": ", or Clock Tower, stands as one of Bern's most iconic landmarks and a symbol of the city's rich history and architectural prowess. Dating back to the early 13th century, the Zytglogge has undergone several transformations over the centuries, evolving from a simple tower to a complex astronomical clock and a civic monument."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Perched in the heart of Bern's Old Town, the Zytglogge commands attention with its ornate facade adorned with colorful medieval paintings, intricate carvings, and a distinctive astronomical clock dial. Visitors are often mesmerized by the clock's intricate mechanisms, which not only display the time but also track the movements of the planets and the phases of the moon."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "The Zytglogge also boasts a captivating show every hour, where a procession of mechanical figures, including bears, knights, and jesters, come to life to perform a whimsical dance. This spectacle delights visitors of all ages and adds to the allure of this historic timepiece."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Munster",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "The "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.bernermuenster.ch/",
+                    "value": "Bern Münster"
+                },
+                {
+                    "type":"text",
+                    "value": ", often referred to simply as the Munster, is an awe-inspiring Gothic cathedral that dominates the skyline of Bern's Old Town. With its "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.bernermuenster.ch/bauwerk/turm",
+                    "value": "towering spire"
+                },
+                {
+                    "type":"text",
+                    "value": " reaching a height of over 100 meters, the Munster is not only a religious landmark but also an architectural masterpiece and a symbol of the city's heritage."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Construction of the Munster began in the 15th century, and its construction spanned several generations, resulting in a blend of architectural styles, including Late Gothic and Renaissance influences. The cathedral's intricate facade is adorned with ornate sculptures, elaborate tracery, and majestic rose windows, showcasing the craftsmanship of the artisans who built it."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Inside, visitors are greeted by a cavernous nave supported by imposing columns and vaulted ceilings adorned with colorful frescoes and intricate wooden carvings. The Munster's interior is filled with an atmosphere of reverence and tranquility, offering a peaceful retreat from the bustling streets outside. "
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "One of the Munster's most notable features is its impressive medieval stained glass windows, which illuminate the interior with a kaleidoscope of colors and tell stories from the Bible and Bern's history. The most famous of these windows is the \""
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://en.wikipedia.org/wiki/Bern_Minster#/media/File:Bern_Dance_of_Death_Stained_Glass.JPG",
+                    "value": "Dance of Death"
+                },
+                {
+                    "type":"text",
+                    "value": "\", a macabre depiction of mortality that serves as a reminder of the transience of life. Today, the Bern Munster continues to serve as a place of worship for the local community and a cherished landmark for visitors to explore. Climbing to the top of the spire offers panoramic views of Bern and the surrounding Swiss countryside, providing a breathtaking vantage point to appreciate the beauty and history of this remarkable city."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/assets/munster.jpg",
+                "style": {},
+                "caption": "Guardian of Bern: The majestic Munster Cathedral stands tall against the backdrop of the awe-inspiring Swiss Alps (photo by Fabian Schneider, Unsplash)."
+            }
+        },
+        {
+            "type": "text",
+            "text": [
+                "In conclusion, Bern's allure extends far beyond its iconic landmarks like the Zytglogge and Munster Cathedral. While these architectural wonders stand as testament to the city's rich history, there's so much more to discover. Lose yourself in the enchanting BearPark, where Bern's emblematic bears roam freely against the backdrop of the tranquil Aare River. Dive into the vibrant atmosphere of the Old Town's markets, where local artisans and vendors offer a treasure trove of delights."
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "For those intrigued by political history, the "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.parlament.ch/en/%C3%BCber-das-parlament/parliament-building",
+                    "value": "Parliament Building"
+                },
+                {
+                    "type":"text",
+                    "value": " provides insight into Switzerland's governance, while the "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.bhm.ch/en/exhibitions/einstein-museum",
+                    "value": "Einstein Museum"
+                },
+                {
+                    "type":"text",
+                    "value": " offers a glimpse into the life and work of one of history's greatest minds, Albert Einstein, who developed his theory of relativity while residing in Bern. Nature enthusiasts can escape to the verdant landscapes of the nearby "
+                },
+                {
+                    "type":"link",
+                    "target":"_blank",
+                    "url": "https://www.myswitzerland.com/en-gb/destinations/bernese-oberland/",
+                    "value": "Bernese Oberland"
+                },
+                {
+                    "type":"text",
+                    "value": ", where majestic peaks, pristine lakes, and charming villages await exploration. And for those seeking panoramic views, a journey to the summit of the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.gurtenpark.ch/en/",
+                    "value": "Gurten"
+                },
+                {
+                    "type":"text",
+                    "value": ", Bern's local mountain, rewards with breathtaking vistas of the cityscape and the distant Alps. With its wealth of offerings, Bern promises a multifaceted journey filled with history, culture, and natural beauty at every turn, ensuring an unforgettable experience for all who visit."
+                }
+            ]
+        }
+
+
+    ]
+}

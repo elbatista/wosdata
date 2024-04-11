@@ -112,11 +112,10 @@
                     "float": "right",
                     "attributes": {
                         "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d87669.73491896068!2d7.863288547458311!3d46.63309917223217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x478fa36078f1ff17%3A0x1599efc68eb9c0e9!2sInterlaken%20Ost%2C%203800%20Interlaken!3m2!1d46.6904314!2d7.869051!4m5!1s0x478fa1c61e6dd461%3A0xb1a996face2f0381!2sWengen%2C%20Lauterbrunnen!3m2!1d46.6054335!2d7.9215399!5e0!3m2!1sen!2sch!4v1711922198701!5m2!1sen!2sch", 
-                        "width": "50%", 
-                        "height": "400px",
                         "style": {
+                            "width": "50%", 
+                            "height": "20em",
                             "float": "right",
-                            "marginTop": "20px",
                             "marginLeft": "20px",
                             "marginBottom": "20px" 
                         } ,

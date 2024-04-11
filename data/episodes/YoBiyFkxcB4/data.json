@@ -28,12 +28,12 @@
                     "float": "right",
                     "attributes": {
                         "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4790.320861201189!2d8.547100657536662!3d46.37306619219777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4785999344465ff1%3A0x1557b60aa4c642b!2sForoglio%20waterfall!5e1!3m2!1sen!2sch!4v1710591762186!5m2!1sen!2sch", 
-                        "width": "50%", 
-                        "height": "400px",
                         "style": {
-                            "float": "right",
+                            "width": "50%", 
+                            "height": "20em",
+                            "float": "left",
                             "marginTop": "20px",
-                            "marginLeft": "20px",
+                            "marginRight": "20px",
                             "marginBottom": "20px" 
                         } ,
                         "allowFullScreen": ""
