@@ -688,5 +688,150 @@
         }
 
 
-    ]
+    ],
+    "gallery": {
+        "title": "gallery",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/00m08s262.jpeg",
+                "width": 3840,
+                "height": 2160,
+                "title": null,
+                "description": "Bern Munster facade."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1599.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "Bern Munster."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1600.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "Bern Munster."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/03m06s683.jpeg",
+                "width": 3840,
+                "height": 2160,
+                "title": null,
+                "description": "Main portal contains one of the most complete Late Gothic sculpture collections in Europe. This collection represents the Christian belief in a Last Judgment where the wicked will be separated from the righteous."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/01m36s509.jpeg",
+                "width": 3840,
+                "height": 2160,
+                "title": null,
+                "description": "Decoration adorning the main portal in detail."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/02m17s607.jpeg",
+                "width": 3840,
+                "height": 2160,
+                "title": null,
+                "description": "The grandeur of Bern Munster's interior: the majestic nave complemented by the vibrant hues of stained glass windows."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1474.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "A selfie from the top of the Nydegg bridge."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1475.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "The Aare river."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1553.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "The Nydegg bridge."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1506.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "Water fountain in the Rose Garden."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1517.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description":  "The Rose Garden."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/56m36s042.jpeg",
+                "width": 3840,
+                "height": 2160,
+                "title": null,
+                "description": "The Rose Garden."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/57m45s625.jpeg",
+                "width": 3840,
+                "height": 2160,
+                "title": null,
+                "description": "Views of the old town from the Rose Garden."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1538.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "Views of the old town from the Rose Garden."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1540.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "Views of the old town from the Rose Garden."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1548.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "Views of the old town from the Rose Garden."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1578.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "Main street in the old town, with the Zytglogge in the background."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1623.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "The Zytglogge clock tower."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1643.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "The federal palace."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/f9U041kJbcY/gallery/IMG_1560.jpeg",
+                "width": 4032,
+                "height": 3024,
+                "title": null,
+                "description": "Church of St. Peter and St. Paul."
+            }
+        ]
+    }
 }
