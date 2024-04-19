@@ -1,12 +1,12 @@
 const gm = require('gm');
 const fs = require('fs');
 const path = require('path');
-const episode = process.argv[2];
-const dir = `data/episodes/${episode}/gallery`;
+// const episode = 
+const dir = process.argv[2];
 const title = process.argv[3];
 
 if(process.argv.length < 4) {
-    console.log("\nUsage:\n\t\$ node", process.argv[1].split("/")[ process.argv[1].split("/").length-1], "<EPISODE ID>", "<GALLERY TITLE>\n")
+    console.log("\nUsage:\n\t\$ node", process.argv[1].split("/")[ process.argv[1].split("/").length-1], "<PATH>", "<GALLERY TITLE>\n")
     return;
 }
 
