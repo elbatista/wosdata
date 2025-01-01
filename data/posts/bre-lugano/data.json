@@ -1,0 +1,356 @@
+{
+    "title": "Mount Brè: Adventure for your Family in Switzerland",
+    "description": "Join us as we explore the breathtaking beauty of Mount Brè in Lugano, Switzerland!",
+    "videoid": "K0ax5F61D2g",
+    "headerReverse": false,
+    "publishedAt": "2024-3-25",
+    "author": {
+        "name": "Larissa Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/lari.jpeg"
+    },
+    "location": "Lugano, Ticino",
+    "sections": [
+        {
+            "type": "richtext",
+            "title": "Intro",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "Mount Brè is one of the most important mountains in the city of Lugano, Southern Switzerland. Also known as the sunniest mountain in the country, it is the starting point for several trails: Brè-Lake Lugano; Brè-Cureggia; Presences of art: cultural itinerary; Brè-Mount Boglia; Landscapes and Culture: Discovering the thousand Faces of the Brè; among other options that you can find on the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.montebre.ch/en/hiking-mountain-biking/",
+                    "value" :"official website"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "The splendor of nature and the views offered at its peak were the motivators for the construction of a funicular that facilitated the connection between the city and the mountain over 115 years ago. In addition to the city of Lugano, you can appreciate the Mount Rosa, the Bernese, and Vallese Alps. To learn more about the history of this funicular, watch the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.montebre.ch/en/115-years",
+                    "value" :"official video"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/K0ax5F61D2g/assets/bre1.jpeg",
+                "style": {},
+                "caption": "The view from the top of Mount Brè. From this perspective you can see Lake Lugano, Mount San Salvatore, and the villages of Melide and Carona."
+            }
+        },
+        {
+            "type": "text",
+            "title": "How to get there",
+            "titlelevel": 2,
+            "text": ["There are several options to access Mount Brè, choose below the one that best suits your needs and enjoy yourself!"]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/K0ax5F61D2g/assets/bre2.jpeg",
+                "style": {},
+                "caption": "The top of Mount Brè, with the city of Lugano, Lake Lugano, and surrounding mountains in the background."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "By funicular",
+            "titlelevel": 3,
+            "text": [],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/K0ax5F61D2g/assets/funi.jpeg",
+                "style": {},
+                "caption": "The funicular arriving at Suvigliana station."
+            },
+            "reverse": true
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "The initial station where you can embark on the funicular journey to Mount Brè is situated in Cassarate, just 850 meters away from the Campo Marzio Parking area ("
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.montebre.ch/en/free-parking-at-campo-marzio/",
+                    "value" :"included in the ticket"
+                },
+                {
+                    "type": "text",
+                    "value" : "). For detailed information on schedules, pricing, as well as regulations regarding the transportation of bicycles and pets, please visit the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.montebre.ch/en/fares-timetables/",
+                    "value" :"official website"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "text": [
+                "In the video, we explain the boarding process for the funicular ride to Mount Brè. We were directed to embark at the intermediate station, called Suvigliana, as it offers more convenience for passengers with a baby stroller. This recommendation stems from the fact that the Cassarate station, while accessible, is fully automated and lacks personnel on-site to assist with boarding.",
+                "For those opting to board at Cassarate, it's essential to note that the station's automated nature means there won't be any staff available to aid passengers. If you choose this station, you'll need to be prepared to navigate the process independently. This includes folding the baby stroller and passing through a narrow turnstile with it, ensuring it can be maneuvered smoothly through the station.",
+                "While Cassarate remains a viable option for boarding, especially for those with specific preferences or logistical considerations, we advise passengers to consider the ease of boarding at Suvigliana, where assistance and a more accommodating boarding process are available."
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": null,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "left",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3261.957820906569!2d8.963304076782649!3d46.00678497108802!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47842df489084531%3A0x9112ab7c68f7e9aa!2sCampo%20Marzio%2C%20Via%20Campo%20Marzio%203%2C%206900%20Lugano!3m2!1d46.006972999999995!2d8.961568!4m5!1s0x47842df75e94c2ef%3A0x472334e3d9081311!2sCassarate%2C%206900%20Lugano!3m2!1d46.006423999999996!2d8.970189999999999!5e1!3m2!1sen!2sch!4v1711634770216!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "50%", 
+                            "height": "20em",
+                            "float": "left",
+                            "marginTop": "20px",
+                            "marginRight": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value" : "At Suvigliana, there are a limited number of parking spaces available, which can be used for up to 4 hours free of charge with the use of a "
+                },
+                {
+                    "type": "link",
+                    "url": "https://www.galaxus.ch/it/s4/product/hama-disco-di-parcheggio-multifunzione-raschiaghiaccio-sbrinatore-10986356?supplier=406802&utm_source=google&utm_medium=cpc&utm_campaign=PMax:+PROD_CH_SSC_Cluster_7&campaignid=20448036879&adgroupid=&adid=&dgCidg=Cj0KCQjwwYSwBhDcARIsAOyL0fhyJUckK5ZPYwrFXTpPNhuz2WOGSScux-VkVjtL4K4-RbW7k_dkHgkaAprKEALw_wcB&gad_source=4&gclid=Cj0KCQjwwYSwBhDcARIsAOyL0fhyJUckK5ZPYwrFXTpPNhuz2WOGSScux-VkVjtL4K4-RbW7k_dkHgkaAprKEALw_wcB&gclsrc=aw.ds",
+                    "target": "_blank",
+                    "value" :"parking disc"
+                },
+                {
+                    "type": "text",
+                    "value" : ". Visitors are required to indicate their arrival time on the parking disc upon parking. It's worth noting that the parking disc is commonly provided when renting a car in the area, facilitating the parking process for visitors."
+                }
+                
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "By Car",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11084.561311652118!2d8.967122076398013!3d46.008391337406636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47842df329d00fd7%3A0xfe9f58bbcf856a84!2sParco%20Ciani%2C%206900%20Lugano!3m2!1d46.0048531!2d8.9585636!4m5!1s0x47842e0024aea87f%3A0x5e7692d193a8c14c!2sRistorante%20panoramico%20Vetta%20Monte%20Br%C3%A8%2C%20Via%20alla%20Vetta%2C%20Br%C3%A8%20Paese!3m2!1d46.0084817!2d8.984635899999999!5e0!3m2!1sen!2sch!4v1711635472121!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "50%", 
+                            "height": "20em",
+                            "float": "right",
+                            "marginTop": "20px",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value" : "Accessing Mount Brè by car is also feasible, albeit the route entails navigating through winding and narrow roads. While we've personally traversed this path multiple times and found it manageable. Opting for the funicular ride presents a more comprehensive and enjoyable excursion. For those still inclined towards the car journey, we recommend a specific route, beginning, for example, from the renowned Parco Ciani in Lugano, serving as a convenient reference point. This starting point not only offers scenic vistas but also sets the tone for a picturesque drive ahead, winding your way through the charming Lugano, with captivating panoramas unfolding at every turn."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "text": [
+                "Upon reaching the Parking Lot Vetta Mount Brè, approximately a 15-minute walk from the summit awaits. This short trek rewards you with mesmerizing views along the way, gradually building anticipation for the breathtaking panorama awaiting you at the mountain's peak. While both modes of transportation offer their unique charm, opting for the car journey promises a scenic drive through captivating landscapes, culminating in a memorable ascent to Mount Brè's summit."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "By Bus",
+            "titlelevel": 3,
+            "text": [
+                "Boarding bus 12 Brè Paese from platform C at Lugano Centro provides a convenient and scenic journey to the Parking Lot Vetta Mount Brè, offering a hassle-free way to reach your destination. The bus ride typically takes around 30 minutes, during which you'll enjoy views of Lugano and its surrounding landscapes."
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "To purchase tickets, passengers have multiple options at their disposal. They can conveniently use the dedicated "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://apps.apple.com/ch/app/mobile-ffs/id294855237?l=it",
+                    "value" :"mobile application"
+                },
+                {
+                    "type": "text",
+                    "value" : ", access the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.sbb.ch/it?date=%222024-03-25%22&moment=%22DEPARTURE%22&stops=%5B%7B%22value%22%3A%228591603%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Lugano%2C%20Centro%22%7D%2C%7B%22value%22%3A%228591587%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Br%C3%A8%2C%20Paese%22%7D%5D&time=%2218%3A30%22",
+                    "value" :"website"
+                },
+                {
+                    "type": "text",
+                    "value" : ", or utilize ticket vending machines available at the platform. It's worth noting that in Switzerland, it's uncommon to purchase tickets directly from the driver, so it's advisable to opt for one of the aforementioned methods to ensure a smooth and efficient boarding process."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "At the summit",
+            "titlelevel": 2,
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/K0ax5F61D2g/assets/bre3.jpeg",
+                "style": {},
+                "caption": "View from the top of Mount Brè, with Lake Lugano and the italian city of Porlezza in the background."
+            }
+        },
+        {
+            "type": "text",
+            "title": "",
+            "text": [
+                "In addition to serving as the starting point for various hiking or biking excursions, at the top of Mount Brè you'll find numerous areas for activities such as:"
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Vetta Restaurant",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "At the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.vetta.ch/",
+                    "value" :"Vetta Restaurant"
+                },
+                {
+                    "type": "text",
+                    "value" : ", you can enjoy a 180° view of the Gulf of Lugano from a panoramic terrace, the symbol of this restaurant. A wide range of culinary options with dishes suitable for all palates will enrich and complete your visit. Always prefer to make your reservation and keep in mind that in case of bad weather, the restaurant may be closed."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Osteria Funicolare",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "With its view of the Gulf of Lugano, the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.osteriafunicolare.ch/",
+                    "value" :"Osteria Funicolare"
+                },
+                {
+                    "type": "text",
+                    "value" : " is the ideal place to relax after exploring Mount Brè. Here you can enjoy delicious dishes of the Ticinese culinary tradition from the lovely terrace. Again, make your reservation and keep in mind that in case of bad weather it may be closed."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "Before you go",
+            "titlelevel": 2,
+            "text": [
+                "We highly recommend watching our informative video in the beginning of this post for a comprehensive understanding of what to expect."
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "If you want to ensure that the weather is favorable for this excursion, you can access the "
+                },
+                {
+                    "type": "bold",
+                    "value" :"live webcam"
+                },
+                {
+                    "type": "text",
+                    "value" : " and check in real-time the visibility of the landscape from the top."
+                }
+            ]
+        },
+        {
+            "type":"richtext",
+            "text":[
+                {
+                    "type":"button",
+                    "value":"video_camera_back",
+                    "target": "_blank",
+                    "url":"https://www.montebre.ch/en/#single/0",
+                    "text":"See live webcam"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "Please don't hesitate to "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "/contact",
+                    "value" :"reach out to us"
+                },
+                {
+                    "type": "text",
+                    "value" : " if you still have any lingering questions or uncertainties regarding this excursion. We are here to provide assistance and ensure your experience is as enjoyable as possible. If you found the tips provided helpful, we would greatly appreciate it if you could share this post with others who may benefit from them. Additionally, if you have any other relevant information or insights to contribute, we encourage you to leave a comment below for the benefit of our community. Your input is valuable and helps enrich the experience for everyone."
+                }
+            ]
+        }
+    ]
+}

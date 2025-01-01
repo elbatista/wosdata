@@ -1,0 +1,112 @@
+{
+    "title": "Fribourg: Timeless Beauty and History in Switzerland",
+    "description": "Located in the heart of Switzerland, the picturesque city of Fribourg beckons travelers with its captivating blend of medieval charm, cultural richness, and linguistic diversity. As you explore the nooks and crannies of Fribourg, you'll find a city that seamlessly blends the old with the new, the traditional with the modern.",
+    "videoid": "mwljDNDTwf0",
+    "headerReverse": false,
+    "publishedAt": "2024-2-3",
+    "sections": [
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "Located in the heart of Switzerland, the picturesque city of Fribourg beckons travelers with its captivating blend of medieval charm, cultural richness, and linguistic diversity. As you traverse its cobbled streets and immerse yourself in the ambiance of this enchanting locale, you'll discover a city that seamlessly weaves together the threads of history, architecture, and a unique bilingual heritage.",
+
+                "As you explore the nooks and crannies of Fribourg, you'll find a city that seamlessly blends the old with the new, the traditional with the modern. It's a place where history is not confined to textbooks but is woven into the very fabric of daily life. Fribourg is an invitation to step into a world where time seems to slow down, allowing you to savor every moment in this enchanting tapestry of culture and history."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/fri1.jpg",
+                "style": {},
+                "caption": "The captivating panorama of Fribourg's Old Town from the Loreto Chapel viewpoint. A scenic vantage point that unveils the historic charm, red-roofed houses, and meandering streets, creating a picturesque scene in the heart of Fribourg."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "Architectural Marvel",
+            "titlelevel": 2,
+            "text": [
+                "Fribourg's Old Town serves as a living testament to its rich history. Cobblestone streets wind their way through a meticulously preserved medieval landscape, revealing architectural gems that date back centuries. The Cathedral of Saint Nicholas, standing tall since the 13th century, dominates the city with its majestic spire. Wander through the narrow alleys, and you'll encounter centuries-old buildings, each whispering tales of times gone by.",
+
+                "The Cathedral, locally known as \"Cathédrale Saint-Nicolas,\" stands as an architectural masterpiece that dominates Fribourg's skyline. Its construction dates back to the 13th century, and the cathedral has undergone various renovations and additions over the centuries, showcasing a captivating blend of Gothic and Romanesque architectural styles. The imposing spire, soaring into the sky, is a symbol of the city's religious and historical significance."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/fri2.jpeg",
+                "style": {},
+                "caption": "The cathedral of Fribourg, a majestic symbol of Gothic architecture, rises proudly against the sky (photo by Alin Andersen, Unsplash)."
+            },
+            "reverse": true 
+        },
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "For those willing to climb the cathedral's tower, a rewarding experience awaits. The ascent provides panoramic views of Fribourg and its surroundings. The cityscape unfolds beneath you, offering a unique perspective on the urban landscape, the Sarine River, and the charming rooftops of the Old Town."
+            ]
+        },
+        {
+            "type": "textimg",
+            "title": "The Loreto Chapel",
+            "titlelevel": 2,
+            "text": [
+                "The belvedere of this baroque-style sanctuary built by Jean-François Reyff in 1648 offers the most beautiful view of Fribourg's old town.",
+                
+                "This baroque chapel is one of the most successful creations of Jean-François Reyff, the versatile artist from Fribourg who was a sculptor, architect and fortifications engineer. His Virgin Marys are recognisable by their pensive, gentle faces. The baroque chapel (1647-1689), a down-to-size replica of the Santa Casa de Loreto, Italy, towers over the old part ot town."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/loreto.jpeg",
+                "style": {},
+                "caption": "The Loreto Chapel in Fribourg, a hidden gem of tranquility and architectural grace."
+            },
+            "reverse": false 
+        },
+        {
+            "type": "text",
+            "title": "THE BERN BRIDGE",
+            "titlelevel": 2,
+            "text": [
+                "The Bern Bridge, also known as the Pont de Berne, is a historic covered bridge in Fribourg, Switzerland. It is the oldest bridge in the city and the only remaining covered bridge in Fribourg's Old Town.",
+
+                "The bridge was originally built in the mid-13th century, around 100 years after the city of Fribourg was founded. It was initially supported by timber trestles, but the current structure dates back to 1653. The central stone pillar and deck were replaced in 1853-54, and the roof was added in 1885.",
+
+                "The bridge is 142 meters long and 5 meters wide. It is made of wood and covered with a gabled roof. The bridge is decorated with paintings of various saints and historical figures. The Bern Bridge is a popular tourist destination and a symbol of Fribourg. It is also a UNESCO World Heritage Site."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/bridge.jpeg",
+                "style": {},
+                "caption": "The charming Pont de Berne in Fribourg, where history and modernity converge over the tranquil waters of the Sarine River."
+            }
+        },
+        {
+            "type": "text",
+            "title": "The city's Fortifications",
+            "titlelevel": 2,
+            "text": [
+                "Fribourg's impressive fortifications are a series of walls, towers, and gates built between the 13th and 15th centuries to protect the city. They form the most significant piece of medieval military architecture in Switzerland and are open to the public for exploration.",
+
+                "Construction began in the 13th century and continued throughout the 15th century. The city's strategic location on a rocky plateau surrounded by the River Sarine made it a prime target for attacks, prompting the need for strong defenses. The fortifications played a crucial role in Fribourg's history, protecting the city from attacks and contributing to its prosperity. Today, they stand as a testament to the city's rich heritage and offer a unique glimpse into medieval defensive architecture.",
+
+                "The fortifications are open to the public year-round, with extended access during the summer months (May to October) for guided tours. You can walk along the ramparts, explore the towers, and soak in the breathtaking views of the city and surrounding countryside."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/mwljDNDTwf0/assets/fort.jpg",
+                "style": {},
+                "caption": "The medieval fortifications of Fribourg, where ancient city walls and towering bastions stand as silent guardians of history (photo by Alin Andersen, Unsplash)."
+            }
+        }
+        
+
+    ]
+}

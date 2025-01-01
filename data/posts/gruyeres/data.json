@@ -1,0 +1,87 @@
+{
+    "title": "Discovering Gruyères: A Journey Through Swiss Charm",
+    "description": "Nestled in the heart of the Fribourg region of Switzerland, Gruyères stands as a testament to the country's rich history, medieval charm, and delectable culinary traditions. At the heart of Gruyères, perched majestically on a hill, is the ancient Gruyères Castle, a medieval fortress dating back to the 13th century.",
+    "videoid": "M-gjYt1ZkY4",
+    "headerReverse": false,
+    "publishedAt": "2024-2-4",
+    "sections": [
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "Nestled in the heart of the Fribourg region of Switzerland, Gruyères stands as a testament to the country's rich history, medieval charm, and delectable culinary traditions. This picturesque village, with its cobblestone streets and well-preserved medieval architecture, is a haven for those seeking an authentic Swiss experience. In this post, we'll take you on a virtual journey through Gruyères, exploring its captivating landscapes, iconic castle, and the world-renowned Gruyère cheese that has made this village famous. Watch our video above for even more details!"
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/M-gjYt1ZkY4/assets/gru1.jpeg",
+                "style": {},
+                "caption": "Gruyères village, where cobblestone streets wind through medieval architecture, creating a captivating atmosphere."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "Gruyère Castle: A Step Back in Time",
+            "titlelevel": 2,
+            "text": [
+                "At the heart of Gruyères, perched majestically on a hill, is the Château de Gruyères. Dating back to the 13th century, this medieval castle offers not only a glimpse into the past but also breathtaking panoramic views of the Sarine River valley and the surrounding Swiss Alps. Our video captures the essence of this historic landmark, showcasing its well-preserved halls, courtyards, and the fascinating museum within, which unravels the tales of Gruyères' rich history.",
+
+                "Within the castle's walls lies a treasure trove of history waiting to be unveiled. Our video tour takes you through the museum housed within the Château de Gruyères, where artifacts, tapestries, and exhibits chronicle the village's evolution through the centuries. Learn about the noble families that once called the castle home and the pivotal moments that shaped Gruyères' destiny.",
+
+                "One of the highlights of visiting Château de Gruyères is the breathtaking panoramic view it offers. Our video captures the sweeping vistas of the Sarine River valley and the majestic Swiss Alps that stretch beyond the horizon. Explore the castle's towers and ramparts, where each vantage point provides a different perspective of the stunning landscape surrounding Gruyères."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/M-gjYt1ZkY4/assets/castle.jpeg",
+                "style": {},
+                "caption": "Imposing and timeless, Gruyères Castle stands atop the village, a medieval masterpiece that echoes with centuries of history."
+            },
+            "reverse": true 
+        },
+        {
+            "type": "textimg",
+            "title": "Gruyère Cheese: A Culinary Delight",
+            "titlelevel": 2,
+            "text": [
+                "No visit to Gruyères is complete without indulging in its most famous export - Gruyère cheese. Our video takes you on a sensory journey through the cheese-making process, from the dairy farms to the aging cellars. Discover the art and science behind this Swiss delicacy, known for its nutty and slightly sweet flavor. Watch the video and join us as we explore a local cheese factory and savor the essence of Gruyères through its culinary offerings.",
+
+                "Gruyère cheese owes much of its character to the Alpine cellars where it matures. Follow us into the cool, dimly lit chambers, where wheels of Gruyère are carefully aged on wooden shelves. Our video captures the unique environment that imparts the cheese with its distinctive nutty and slightly sweet flavor. Learn about the crucial role played by time and tradition in creating the perfect Gruyère.",
+
+                "Gruyère cheese is not just an accompaniment; it's the star of many Swiss culinary delights. Our video explores the art of eating traditional fondue, where Gruyère takes center stage, melting into a luscious, gooey concoction that epitomizes Swiss comfort food."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/M-gjYt1ZkY4/assets/cheese.jpeg",
+                "style": {},
+                "caption": "The art of cheese-making at the Gruyères Cheese Factory."
+            },
+            "reverse": false 
+        },
+        {
+            "type": "text",
+            "title": "Scenic Surroundings and Relaxing Atmosphere",
+            "titlelevel": 2,
+            "text": [
+                "Gruyères is not just a destination; it's an experience. Our video captures the enchanting landscapes surrounding the village, from rolling hills to meadows adorned with alpine flowers. Whether you're a history buff, an art lover, or a food enthusiast, Gruyères offers a perfect blend of experiences. Our video serves as an enticing preview, inviting you to plan your visit and explore the magic of Gruyères in person."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/M-gjYt1ZkY4/assets/gru2.jpeg",
+                "style": {},
+                "caption": "Under the enchanting veil of night, Gruyères village transforms into a magical wonderland. Cobblestone streets glow with the warm embrace of streetlights, revealing the medieval charm that makes this Swiss village truly timeless."
+            }
+        },
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "Gruyères stands as a testament to Switzerland's timeless allure, seamlessly blending medieval charm with contemporary delights. Join us on this virtual journey through our video, and let Gruyères captivate your senses, leaving you yearning for the enchanting landscapes, the echoes of history, and the irresistible flavors that define this Swiss gem."
+            ]
+        }
+    ]
+}

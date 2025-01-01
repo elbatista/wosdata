@@ -1,0 +1,251 @@
+{
+    "title": "Exploring the amazing Chillon Castle in Montreux",
+    "description": "Nestled on the shores of Lake Geneva near Montreux, Chillon Castle (Château de Chillon) is a timeless symbol of medieval grandeur and historic significance.",
+    "videoid": "EL4YYc87uOQ",
+    "headerReverse": false,
+    "publishedAt": "2024-2-7",
+    "button": {
+        "text": "Download guide",
+        "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/chillon_guide.pdf",
+        "analyticsEvent": {
+            "event": "download_data",
+            "params": {
+                "episode": "EL4YYc87uOQ"
+            }
+        }
+    },
+    "sections": [
+        {
+            "type": "text",
+            "title": null,
+            "titlelevel": 2,
+            "text": [
+                "Nestled on the shores of Lake Geneva near Montreux, Chillon Castle (Château de Chillon) is a timeless symbol of medieval grandeur and historic significance. This breathtaking castle, surrounded by water and backed by the soaring Alps, boasts a rich tapestry of stories that span over a thousand years.",
+                "Chillon Castle has roots dating back to the Roman times, with evidence suggesting a fortress on the site as early as the 11th century. Over the centuries, it served various purposes, from a strategic defensive stronghold to a summer residence for the Counts of Savoy."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/castle.jpg",
+                "style": {},
+                "caption": "The Chillon Castle (Photo by Shootcase Chronicles, Pexels)."
+            }
+        },
+        {
+            "type": "text",
+            "title": "Lake Geneva Setting",
+            "titlelevel": 2,
+            "text": [
+                "The castle is perched on a small rocky island, connected to the lakeshore by a wooden bridge. Surrounded by the crystal-clear waters of Lake Geneva, Chillon's setting is nothing short of mesmerizing. The views of the lake and the Alps from the castle ramparts add to its allure.",
+                "Chillon Castle is a stunning example of medieval architecture. Its well-preserved structures include dungeons, courtyards, ramparts, and the iconic \"Keep\" tower. The castle's design is a harmonious blend of function and aesthetic appeal, with features reflecting different historical periods."
+            ]
+        },
+        {
+            "type": "textimg",
+            "title": "The Chillon Wine Cellars",
+            "titlelevel": 2,
+            "text": [
+                "One of the castle's most famous features is its four vaulted cellars, known as the Chillon Wine Cellars. These cellars were used to store goods during the castle's active years and are located in the lower levels of the castle. The cellars are composed of four interconnected vaulted chambers. The architecture is characterized by the use of sturdy stone construction and ribbed vaults, which are typical of medieval architecture. They were primarily used for storing wine, which was a valuable commodity back then, and the sellers provided a cool and dark environment, ideal for preserving the wine's quality.",
+                "Today, the Chillon Wine Cellars have been transformed into a wine tasting area, allowing visitors to sample a variety of regional wines. The cellars offer a unique atmosphere with their vaulted ceiling and stone walls, creating a memorable setting for wine enthusiasts to enjoy a tasting experience."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/winecellar.jpeg",
+                "style": {},
+                "caption": "The Chillon Castle's Wine Cellars."
+            },
+            "reverse": false
+        },
+        {
+            "type": "text",
+            "title": "The Prison of Chillon Castle",
+            "titlelevel": 2,
+            "text": [
+                "Another important attraction of the Chillon Castle is its prison. The prison holds a significant place in its history and has captured the imagination of visitors, thanks in part to Lord Byron's poem: \"The Prisoner of Chillon\". It served as a place of confinement, primarily used to hold political prisoners, enemies of the state, and individuals who were considered threats to the ruling authorities.",
+                "Chillon Castle has inspired numerous artists, writers, and poets, most notably Lord Byron. His poem immortalizes the story of François de Bonivard, a Genevois monk who was held captive in the castle's dungeons. The famous \"Prisoner's Room\" still bears the etchings of captive hands and drawings on its walls."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/prison.jpeg",
+                "style": {},
+                "caption": "The Prison of Chillon Castle. A huge underground dungeon with vaulted ceilings and pillars."
+            }
+        },
+        {
+            "type": "text",
+            "title": "The Courtyards of Chillon Castle",
+            "titlelevel": 2,
+            "text": ["The castle features several courtyards that played different roles throughout its history. The most notable ones are the Forecourt and the Courtyard of Honor. The Forecourt is the outermost courtyard and serves as the entrance to the castle. It is accessible through a drawbridge and features a fortified gatehouse with defensive elements such as arrow slits. The Forecourt served as the first line of defense for the castle in the past. Beyond the Forecourt lies the Courtyard of Honor, also known as the Great Courtyard. This spacious area is surrounded by the castle's main buildings and was the heart of the fortress. It was used for various functions, including military operations, ceremonies, and gatherings of the castle's inhabitants."]
+        },
+        {
+            "type": "textimg",
+            "title": "Tower Passages and Great Halls",
+            "titlelevel": 2,
+            "text": [
+                "Also very interesting are the Tower Passages. Several towers within the castle are interconnected by high passages and narrow corridors. These passages, built at different levels, allow visitors to explore the castle's architectural intricacies and experience the sense of verticality. From these elevated walkways, one can appreciate the castle's layout and admire the surrounding views from different heights.",
+                "The castle features also three formal great halls. The ones of greater significance are the Grand Hall and the council chamber. The Grand Hall, also referred to as the Great Hall, is one of the most impressive chambers in Chillon Castle. This vast room was used for official ceremonies, banquets, and receptions."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/towerpassages.jpeg",
+                "style": {},
+                "caption": "Wooden passages connecting several areas inside Chillon Castle."
+            },
+            "reverse": true 
+        },
+        {
+            "type": "text",
+            "title": "The Chapel and Weapons Room",
+            "titlelevel": 2,
+            "text": [
+                "Another important attraction in Chillon Castle is its Chapel. The Chapel is the jewel of Chillon's architectural crown. The 14th-century paintings make it one of the rare religious buildings in the canton to have escaped the dissident zeal of the Reformation. The chapel's simple beauty adds a touch of serenity to the overall grandeur.",
+                "Lastly, but not least important, is the weapons room. Situated almost at the exact center of Chillon's rocky island, the weapons room in the keep probably dates back to the 11th century. As both a refugee tower and a symbol of power, the keep was also used as a guard tower, provisional residence, storage, and more recently as a prison."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/chapel.jpeg",
+                "style": {},
+                "caption": "The magnificent chapel within Chillon Castle showcases exquisitely adorned walls, adding to its grandeur and charm."
+            }
+        },
+        {
+            "type": "text",
+            "title": "",
+            "text": [
+                "Chillon Castle hosts various events and exhibitions throughout the year. From medieval reenactments to art installations, these activities breathe life into the historical walls and offer visitors a dynamic and engaging experience.",
+                "The Castle is definitely a must-visit attraction in Montreux, Switzerland. Its well-preserved medieval architecture, fascinating history, and stunning setting make it a captivating destination for tourists and locals alike. Visitors to Chillon Castle can explore its numerous rooms, including the grand halls, the chapel, the bedrooms, and the underground dungeons. The castle's interior is adorned with awesome old furniture, artwork, and historical artifacts, providing a glimpse into the daily life of its former inhabitants. In addition to its historical and architectural significance, Chillon Castle offers breathtaking views of Lake Geneva and the surrounding Alps.",
+                "Chillon, with its captivating history, architectural splendor, and idyllic lakeside location, is a testament to Switzerland's rich cultural heritage. A visit to this fairytale fortress allows you to immerse yourself in the stories of the past while enjoying the breathtaking beauty that surrounds Lake Geneva."
+            ]
+        }
+    ],
+    "gallery": {
+        "title": "More photos",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7246.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "A panel telling the history of the prisoner of Chillon."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7259.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Chillon's underground dungeons."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7275.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "One of the halls in Chillon Castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7279.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description":  "Massive wooden columns in Chillon Castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7287.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "Museum inside the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7290.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Bedroom inside the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7298.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "A fireplace inside the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7302.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "Paintings of coats of arms adorning the halls inside the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7307.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "A kind of old wooden bathtub where the inhabitants used to take baths."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7312.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Windows overlooking Lake Geneva."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7315.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "The chapel."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7326.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Wooden passageways connecting areas of the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7353.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Aerial wooden passageways connecting areas of the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7356.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": "Aerial wooden passageways connecting areas of the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7360.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "Views of the walls from inside the castle."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7383.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "The castle as seen from its highest tower."
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/gallery/IMG_7394.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": "The castle seen from the outside."
+            }
+        ]
+    }
+}

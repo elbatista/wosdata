@@ -1,0 +1,761 @@
+{
+    "title": "Pilatus: Legendary Mountain in Central Switzerland",
+    "description": "Creator of weather, dwelling place of dragons, habitat for giants, and resting ground for rulers: Pilatus, Lucerne's distinctive mountain, stands as one of Central Switzerland's most mythical locales.",
+    "slug": "mount-pilatus-legendary-mountain-in-switzerland",
+    "videoid": "Xa07d2O-o9Y",
+    "headerReverse": false,
+    "publishedAt": "2024-3-28",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": "Lucerne, Lake Lucerne Region",
+    "sections": [
+        {
+            "type": "text",
+            "title": "",
+            "text": [
+                "In the year 1420, there's a tale of a dragon rock descending from the heavens. Lake Pilatus might hold the resting place of the Roman governor Pontius Pilatus. According to legend, a petrified sentinel stands watch by a cave's entrance. Rising majestically to 2,128 meters, the Pilatus mountain massif captivates the mind without doubt.",
+                ""
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "Even in contemporary times, Pilatus remains a realm of mystique, boasting natural wonders steeped in myth and legend. Accessible from  "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "/lucerne",
+                    "value" :"Lucerne"
+                },
+                {
+                    "type": "text",
+                    "value" : " via gondola lift and aerial cable car, or from Alpnachstad via the world's steepest rack-railroad, Pilatus offers a journey ripe with enchantment. Here are some of the best ways for you to explore this majestic mountain."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/pilatus.jpeg",
+                "style": {},
+                "caption": "The Majestic Mount Pilatus in Winter (photo by Mario von Rotz, Unsplash)."
+            }
+        },
+        {
+            "type": "text",
+            "title": "How to get there",
+            "titlelevel": 2,
+            "text": [
+                "There are two primary routes to ascend to the summit of Pilatus: either via the gondola and cable car from Kriens or aboard the cogwheel mountain train departing from Alpnachstad. During our visit, we opted for the ascent from Kriens due to its proximity to Lucerne and the more frequent schedule (with the gondola operating continuously and the cable car departing every 15 minutes), whereas the Alpnachstad train runs only about once an hour. Choosing Kriens may be advantageous, especially if you have children, as the intermediate stations boast attractions such as a summer toboggan run, a ropes climbing park, and a large playground."
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "bold",
+                    "value" : "Arriving by car to Kriens: "
+                },
+                {
+                    "type": "text",
+                    "value" : "Head towards Kriens ("
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://maps.app.goo.gl/AGsk4H3VRjd4Mmzd7",
+                    "value" :"Schlossweg 1, 6010 Kriens"
+                },
+                {
+                    "type": "text",
+                    "value" : ") and follow the directions guiding you to Pilatusbahn. You'll find three compact metered parking lots located near the cable car station. However, these lots tend to fill up rapidly, particularly on busy days, as we experienced during our previous visit. Alternatively, there's an additional parking area just a brief 5-minute stroll away down the street: Parkhaus Hofmatt at "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://goo.gl/maps/P966v7bjhkHexgPe7",
+                    "value" :"Horwerstrasse 13, 6010 Kriens"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+                
+
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "bold",
+                    "value": "Public transport to Kriens: "
+                },
+                {
+                    "type": "text",
+                    "value" : "Board Bus 1 from Luzern train station and ride it until you reach the Kriens, "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://goo.gl/maps/GHFuLHMFicLWzJNLA",
+                    "value" :"Busschleife"
+                },
+                {
+                    "type": "text",
+                    "value" : " stop. Switch to Bus 15, heading towards Kriens, Pilatus-Bahnen. Disembark at the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://goo.gl/maps/gNv8nrfn1iwkEM4XA",
+                    "value" :"Kriens Pilatus Bahnen"
+                },
+                {
+                    "type": "text",
+                    "value" : " stop. This transfer operates once every hour."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "bold",
+                    "value" : "Arriving by car to Alpnachstad:"
+                },
+                {
+                    "type": "text",
+                    "value" : " Head towards "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://goo.gl/maps/XLWchjv5mvp",
+                    "value" :"Brünigstrasse in Alpnach"
+                },
+                {
+                    "type": "text",
+                    "value" : " and conveniently park in the designated train station parking area along the roadside. From there, it's just a brief stroll to reach the cogwheel train station. Enjoy the ease of access and embark on your journey with ease."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "bold",
+                    "value" : "Public transport to Alpnachstad:"
+                },
+                {
+                    "type": "text",
+                    "value" : " Hop on the S5 train bound for the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://goo.gl/maps/aa5zSMB8zargC8Sj9",
+                    "value" :"Alpnachstad train station"
+                },
+                {
+                    "type": "text",
+                    "value" : ", conveniently located next to the Pilatus cogwheel train station. This service operates every 30 minutes, with the journey lasting around 20 minutes. For the most up-to-date public transportation schedule, please refer to the Swiss Federal Railways (SBB) "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.sbb.ch/",
+                    "value" :"website"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Tickets and opening hours",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "In 2024, the cost of a round-trip cable car ticket to Pilatus is "
+                },
+                {
+                    "type": "bold",
+                    "value" : "CHF 62.40"
+                },
+                {
+                    "type": "text",
+                    "value" : " for adults, "
+                },
+                {
+                    "type": "bold",
+                    "value" : "CHF 35.10"
+                },
+                {
+                    "type": "text",
+                    "value" : " for children aged 6-15, and free for children under 6. Opting for the Pilatus Golden Round Trip, which includes a boat ride, is priced at CHF 113.80. A 50% discount is available for holders of the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.sbb.ch/en/tickets-offers/tickets/guests-abroad/swiss-travel-pass.html",
+                    "value" :"Swiss Travel Pass"
+                },
+                {
+                    "type": "text",
+                    "value" : ", SBB Half-fare & GA travel cards, SBB Saver Day Pass, Interrail, and Eurail Pass. Those with a "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.tellpass.ch/en",
+                    "value" :"Tell Pass"
+                },
+                {
+                    "type": "text",
+                    "value" : " and children using an SBB Junior Card can enjoy the entire journey for free. During the winter season, discounted fares are offered for the cable car. For current prices, "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.pilatus.ch/en/booking/prices",
+                    "value" :"check here"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "The cable car and gondola operate throughout the year, except for a brief maintenance hiatus typically occurring at the end of October or early November. Operating hours are from approximately "
+                },
+                {
+                    "type": "bold",
+                    "value" : "8:00 to 17:00 daily"
+                },
+                {
+                    "type": "text",
+                    "value" : ". The cogwheel train operates from the end of "
+                },
+                {
+                    "type": "bold",
+                    "value" : "May to mid-November"
+                },
+                {
+                    "type": "text",
+                    "value" : ". The first ascent typically "
+                },
+                {
+                    "type": "bold",
+                    "value" : "commences at 8:10, with the final descent at 5:45"
+                },
+                {
+                    "type": "text",
+                    "value" : ". Please note that schedules may vary depending on the season. For the most up-to-date timetable, "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.pilatus.ch/en/inform/timetable/",
+                    "value" :"check here"
+                },
+                {
+                    "type": "text",
+                    "value" : "."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The Golden Round trip Adventure",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "For enthusiasts of both boating and mountain adventures, the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.pilatus.ch/en/discover/golden-round-trip",
+                    "value" :"Golden Round Trip"
+                },
+                {
+                    "type": "text",
+                    "value" : " presents an exquisite journey. It takes you to the most spectacular spots on Mount Pilatus and to the summit by boat, cogwheel railway, aerial cableway and Panorama Gondolas. Experience the variety of Lucerne's local mountain from "
+                },
+                {
+                    "type": "bold",
+                    "value" : "May to October."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/goldentrip.png",
+                "style": {
+                    "width": "80%"
+                },
+                "caption": "The Golden Round Trip Brochure (source: pilatus.ch)."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "The starting point for the renowned \"Golden Round Trip\" lies in the heart of Switzerland, in Lucerne"
+                },
+                {
+                    "type": "text",
+                    "value" : ". Your journey kicks off with a delightful boat excursion on the serene waters of Lake Lucerne, treating you to picturesque vistas of the surrounding mountains. But the marvel doesn't end there. Upon reaching Alpnachstad, you'll embark on an exhilarating ride aboard the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.pilatus.ch/en/discover/cogwheel-railway",
+                    "value" :"world's steepest cogwheel railway"
+                },
+                {
+                    "type": "text",
+                    "value" : ", ascending to the summit at 2,132 meters above sea level. Here, amidst the unmatched warmth of Pilatus, you'll find yourself welcomed with open arms. Indulge in culinary delights at one of our fine restaurants, where our dedicated gastronomy team is eager to cater to your every desire. As you dine, soak in the breathtaking panorama of the Alpine massif and its sprawling mountain range, ensuring that your visit remains etched in your memory forever. Let Pilatus work its magic on you, leaving you spellbound by its beauty and allure."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "You will glide down to Kriens on the aerial cableway «Dragon Ride» and on the Panorama gondolas. From the valley station it is a five-minute walk to the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://maps.app.goo.gl/StvQzewXy6D8nd4v7",
+                    "value" :"stop for Bus no. 1"
+                },
+                {
+                    "type": "text",
+                    "value" : " and a convenient ride to Lucerne. The Golden round trip can easily be done in the opposite direction. Kriens or Alpnachstad are also possible as starting points."
+                }
+            ]
+        },
+        {
+            "type": "textimg",
+            "title": "Departing from Kriens",
+            "titlelevel": 2,
+            "text": [
+                "Departing from Kriens via the cable car is an experience that combines anticipation with awe-inspiring vistas from the moment you board. As the cable car ascends, leaving the vibrant town below, a sense of excitement builds. The journey offers a gradual introduction to the mountain's grandeur, with glimpses of lush greenery and the surrounding landscape unfolding beneath you.",
+                "As you rise higher, the panoramic views become more expansive, revealing the stunning Swiss Alps in all their glory. The rugged peaks, tranquil valleys, and shimmering lakes stretch out before you, painting a picture of natural splendor that seems almost surreal."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/cablecar.jpeg",
+                "style": {},
+                "caption": "The breathtaking views from the cable car as it ascends from Kriens are simply stunning."
+            },
+            "reverse": true
+        },
+        {
+            "type": "textimg",
+            "title": "Playground at Krienseregg",
+            "titlelevel": 3,
+            "text": [
+                "At the initial stop at Krienseregg, a delightful surprise awaits: an expansive children's playground alongside a cozy restaurant. Make sure to factor this into your itinerary, especially if you're traveling with kids. It's worth allocating some time to explore this area, as many families, likely locals, opt to ascend solely to enjoy the playground before leisurely strolling back down to Kriens. It's a testament to the playground's appeal and the picturesque surroundings that draw both locals and visitors alike."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/playground.jpeg",
+                "style": {},
+                "caption": "The amazing views from the cable car riding up from Kriens."
+            },
+            "reverse": false
+        },
+        {
+            "type": "text",
+            "title": "Adventure sports at Fraumüntegg",
+            "titlelevel": 3,
+            "text": [
+                "The Pilatus Seilpark, located in the Fraumüntegg stop, is an exhilarating adventure park nestled amidst the scenic surroundings of Mount Pilatus. One of the main highlights of Pilatus Seilpark is its high rope courses, which offer a series of challenging obstacles suspended among the trees. Visitors can navigate their way through swinging bridges, rope ladders, zip lines, and other thrilling elements, all while safely harnessed to overhead cables. The courses are designed to cater to various skill levels, from beginners to experienced climbers, ensuring there's something for everyone to enjoy.",
+                "Pilatus Seilpark also features an exciting toboggan run that winds its way through the forested slopes of Mount Pilatus. Visitors can hop on specially designed toboggans and zoom down the winding track, experiencing twists, turns, and thrilling descents along the way. It's a fun-filled activity that appeals to visitors of all ages, providing an exhilarating downhill ride amidst the scenic surroundings of the Swiss Alps."
+            ]
+        },
+        {
+            "type": "richtext",
+            "text":[
+                {
+                    "type": "text",
+                    "value": "The toboggan run spans "
+                },
+                {
+                    "type": "bold",
+                    "value": "1350 meters"
+                },
+                {
+                    "type": "text",
+                    "value": " in length and is priced at "
+                },
+                {
+                    "type": "bold",
+                    "value": "CHF 8 for adults and CHF 6 for children"
+                },
+                {
+                    "type": "text",
+                    "value": ". Children between the ages of 2 and 6 must ride with an adult, though they still require their own ticket. Operating hours during the summer season are typically "
+                },
+                {
+                    "type": "bold",
+                    "value": "from 10:00 to 17:30"
+                },
+                {
+                    "type": "text",
+                    "value": ", with the last ticket sale at 17:00; however, it's advisable to verify the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.rodelbahn.ch/",
+                    "value": "current operating times"
+                },
+                {
+                    "type": "text",
+                    "value": " for accuracy. Please note that the toboggan run may close in bad weather conditions. Additionally, on sunny weekends, anticipate potentially lengthy queues."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "At the top",
+            "titlelevel": 2,
+            "text": [
+                "Arriving at the summit of Mount Pilatus is a momentous occasion, marked by a sense of anticipation and wonder. As you step off the cable car or cogwheel train and onto the open expanse of the summit, you're immediately greeted by an overwhelming panorama of breathtaking beauty.",
+                "The first thing that strikes you is the sheer vastness of the landscape spread out before you. Stretching in every direction, as far as the eye can see, are towering peaks, verdant valleys, and glistening lakes, all framed by an endless expanse of sky. It's a scene of unparalleled natural grandeur that leaves you in awe of the sheer majesty of the Swiss Alps."
+            ]
+        },
+        {
+            "type": "img",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/top.jpeg",
+                "style": {},
+                "caption": "A mesmerizing 360-degree view from the summit of Mount Pilatus. Majestic peaks, tranquil lakes, and endless skies converge in a breathtaking panorama."
+            }
+        },
+        {
+            "type": "textimg",
+            "title": "Oberhaupt and Esel viewpoints",
+            "titlelevel": 3,
+            "text": [
+                "Perched just beyond the Pilatus observation deck lie two elevated vantage points: Oberhaupt and Esel. Accessible via sturdy staircases equipped with supportive side rails, reaching these peaks entails a modest exertion of effort. The ascent typically takes a mere 5 to 10 minutes, guiding you to the pinnacle of either summit. Once atop, enclosed areas with protective fencing ensure safe enjoyment of the breathtaking vistas. However, during off-peak seasons, such as winter, these paths may be inaccessible due to snow and ice, rendering them hazardous for hiking."
+            ],
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/top2.jpeg",
+                "style": {},
+                "caption": "Atop Esel Peak: breathtaking vistas, revealing the pristine beauty of the Swiss Alps from a bird's-eye perspective."
+            },
+            "reverse": true
+        },
+        {
+            "type": "text",
+            "title": "Hike to Tomlishorn peak",
+            "titlelevel": 3,
+            "text": [
+                "For those interested in hiking, we suggest taking the trail to Tomlishorn, the highest point on Pilatus at 2129m. This well-kept path spans approximately 3 km round trip and features side rails for added safety. While the initial stretch is relatively smooth and straightforward, the latter portion becomes considerably rocky and uneven, with some sections featuring stairs. Therefore, it's advisable to wear sturdy footwear and maintain steady footing throughout the hike. This \"there and back\" trail follows a path cut into the cliffs to the Tomlishorn peak, the highest point of the Pilatus. The trail signs indicate walking time of about 50 mins each way."
+            ]
+        },
+        {
+            "type": "img",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/hike.jpeg",
+                "style": {
+                    "height": "500px"
+                },
+                "caption": "Embarking on the ascent to Tomlishorn: a rugged yet rewarding journey awaits, winding through the breathtaking Swiss Alps."
+            }
+        },
+        {
+            "type":"text",
+            "text":[
+                "In conclusion, a journey to Mount Pilatus offers an unforgettable adventure amidst the stunning natural beauty of the Swiss Alps. From the exhilarating cable car and cogwheel train rides to the adrenaline-pumping activities at Fraumünster and Pilatus Seilpark, there's something for every outdoor enthusiast to enjoy. Whether you're marveling at the 360-degree views from the summit or exploring the scenic trails to Tomlishorn and beyond, the experience is bound to leave a lasting impression. So, pack your bags, lace up your hiking boots, and embark on an unforgettable pilgrimage to Mount Pilatus, where adventure and wonder await at every turn."
+            ]
+        }
+    ],
+    "gallery": {
+        "title": "Gallery",
+        "photos": [
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/36m34s046.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/37m26s505.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/37m57s629.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/38m55s898.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/39m57s344.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/40m33s000.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/41m23s436.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/41m33s289.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/41m50s167.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/42m28s528.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/42m58s240.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/43m24s212.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/46m12s341.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/47m30s214.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/48m10s026.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/48m51s027.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/49m15s226.jpeg",
+                "width": 1280,
+                "height": 720,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3240.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3251.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3262.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3286.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3289.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3292.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3305.jpeg",
+                "width": 960,
+                "height": 1280,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3334.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3345.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3350.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3356.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3364.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3385.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3393.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3414.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3415.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3418.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3433.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            },
+            {
+                "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/gallery/IMG_3441.jpeg",
+                "width": 1280,
+                "height": 960,
+                "title": null,
+                "description": null
+            }
+        ]
+    }
+}

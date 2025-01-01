@@ -1,0 +1,754 @@
+{
+    "title": "FIVE Zurich Hotel: Luxury Amidst Tranquil Surroundings",
+    "description": "Dive into a world of luxury and sophistication at the FIVE Zurich, a premier destination in the heart of Switzerland's vibrant cityscape. Indulge in exquisite dining, vibrant nightlife, and blissful relaxation amidst breathtaking views of the city skyline and the serene Uetliberg forest. Experience the epitome of urban chic at the FIVE Zurich, where every moment is a celebration of luxury living.",
+    "desc": "Check out our review of the amazing 5-star FIVE Zurich Hotel and discover our unforgettable experience! From luxurious rooms to exquisite dining and vibrant nightlife, all with breathtaking views of the city and Uetliberg forest — it was the perfect mix of relaxation and excitement.",
+    "videoid": "x0FnTkEbe7s",
+    "publishedAt": "2024-4-20",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Döltschiweg 234, 8055",
+        "region": "Uetliberg Region, Zurich",
+        "canton": "Zurich",
+        "airport": "Zurich Airport (ZRH) - about 14 km away",
+        "maps": "https://maps.app.goo.gl/qzd9zfZbQazE2ZEW9"
+    },
+    "sections": [
+        {
+            "type": "text",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase",
+            "style": {
+                "lineHeight":"1.8em",
+                "padding": "1em 3em"
+            },
+            "text": [
+                "Experience luxury like never before at FIVE Zurich. From our own stay, we can attest to the unforgettable moments awaiting you. Indulge in culinary delights, soak in the vibrant nightlife, and find tranquility in our serene spa. Trust us, every moment at FIVE Zurich is an experience worth cherishing, redefining luxury with every step."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/assets/five3.jpeg",
+                "style": {},
+                "caption": "FIVE Zurich Hotel - Where luxury meets nature's beauty. 🌿✨."
+            }
+        },
+        {
+            "type": "text",
+            "title": "How to Get There",
+            "titlelevel": 2,
+            "text": [
+                "Situated in the heart of Europe, the biggest city in Switzerland serves as a vital intersection for all major Swiss transportation routes. Linked to international railway lines and the European highway network, Zurich offers seamless connectivity to travelers from near and far."
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "By Car",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "caption": "Reaching Five Hotel by car from the city center.",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d15377.702656987862!2d8.504252025047187!3d47.36941645454135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47900b9749bea219%3A0xe66e8df1e71fdc03!2zWsO8cmljaA!3m2!1d47.3768866!2d8.541694!4m5!1s0x479009cec9df541f%3A0xb66a0c04aae7cda4!2sFIVE%20Zurich%20Hotel%2C%20D%C3%B6ltschiweg%20234%2C%208055%20Z%C3%BCrich!3m2!1d47.3630017!2d8.4955179!5e0!3m2!1sen!2sch!4v1713454471849!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "40%",
+                            "height": "400px",
+                            "minWidth":"200px", 
+                            "float": "right",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "Reaching Zurich by car is easy, the city connects directly to highways from "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://maps.app.goo.gl/tddfcohfQ2t8vWFSA",
+                    "value": "Lucerne/South (A4)"
+                },
+                {
+                    "type": "text",
+                    "value": ", and "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://maps.app.goo.gl/NxmZTiW698G33koz9",
+                    "value": "Bern/Basel (A1)"
+                },
+                {
+                    "type": "text",
+                    "value": ", for example, ensuring swift arrival to the city center. Upon arriving in Zurich, particularly in the city center, you can utilize the map to navigate your way to Five Hotel. The journey typically takes around 25 minutes, though this duration may vary depending on traffic conditions. "
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "By Train",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Zurich is a fantastic transportation hub, with frequent direct trains to and from major Swiss cities and even European destinations. Imagine relaxing on a comfortable train journey - Bern, Basel, "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "/posts/interlaken",
+                    "value": "Interlaken"
+                },
+                {
+                    "type": "text",
+                    "value": ", or "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "/lucerne",
+                    "value": "Lucerne"
+                },
+                {
+                    "type": "text",
+                    "value": " are all just an easy one-hour ride away! Switzerland's public transport system is renowned for its punctuality and reliability, so you can be confident you'll arrive at your chosen Swiss city quickly and conveniently."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "font-bold italic",
+                    "value": "Swiss Travel Pass - "
+                },
+                {
+                    "type": "text",
+                    "value": "If you plan an extended adventure in Switzerland, consider the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://www.swiss-pass.ch/",
+                    "value": "Swiss Travel Pass"
+                },
+                {
+                    "type": "text",
+                    "value": ", your ticket to exploring the country's stunning sights using their amazing public transportation network. The Swiss Travel System offers this pass, along with the Swiss Travel Pass Flex, both great options for affordable travel by train, bus, and even boat!"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The Five Zurich Hotel",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "The FIVE Zurich is a luxurious lifestyle hotel with "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "87 suites and 62 modern hotel rooms"
+                },
+                {
+                    "type": "text",
+                    "value": " overlooking the glittering skyline of the city or the forest around the Uetliberg, which is considered a new hotspot for experiential gastronomy and nightlife in Switzerland. For this purpose, the FIVE Zurich has seven internationally acclaimed restaurants as well as a "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://thepenthouse.co/zurich/",
+                    "value": "rooftop nightclub"
+                },
+                {
+                    "type": "text",
+                    "value": ". Detoxing and then retoxing is perfectly possible both in the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://zurich.fivehotelsandresorts.com/spa-wellbeing",
+                    "value": "spacious wellness spa"
+                },
+                {
+                    "type": "text",
+                    "value": " with indoor pool and in the outdoor swimming pool. It proudly holds the esteemed recognition of a "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "5-star superior design and lifestyle destination"
+                },
+                {
+                    "type": "text",
+                    "value": " by "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://www.hotelleriesuisse.ch/de/verband-und-geschaeftsstelle/mitglieder/mitgliederverzeichnis/hotel-hotel-five-atlantis",
+                    "value": "HotellerieSuisse"
+                },
+                {
+                    "type": "text",
+                    "value": ", solidifying its status as a distinguished haven for those seeking unparalleled luxury and refinement."
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 mt-5",
+            "caption": "More photos of our Luxe Suite room.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/14m43s686.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/15m05s057.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/15m27s766.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/15m55s306.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/16m10s598.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/16m19s773.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/17m00s127.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/17m22s139.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/room/17m38s844.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The rooms",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "In the FIVE Zurich Hotel you will find "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://zurich.fivehotelsandresorts.com/accommodation",
+                    "value": "many room options"
+                },
+                {
+                    "type": "text",
+                    "value": ". During our stay there, we opted for the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "class":"font-bold italic",
+                    "url": "https://zurich.fivehotelsandresorts.com/accommodation/luxe-suite",
+                    "value": "Luxe Suite with balcony"
+                },
+                {
+                    "type": "text",
+                    "value": ". Nestled amidst the captivating scenery of Zurich, our Luxe Suite offered an unparalleled holiday escape that seamlessly blends luxury with tranquility. You will be greeted by the twinkling lights of the city skyline or the serene majesty of the Uetliberg forest, depending on which side of the building your room is located."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "In October 2022, we spent approximately "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold italic text-[var(--red)] md:text-lg",
+                    "value": " CHF 405.00 "
+                },
+                {
+                    "type": "text",
+                    "value": " for a one-night stay in this room. The spacious comfort of our suite, featuring not one but "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "two balconies"
+                },
+                {
+                    "type": "text",
+                    "value": " where you can savor panoramic vistas of Zurich's iconic landmarks. Whether you're basking in the morning sunlight or soaking in the city's vibrant nightlife, these balconies offer the perfect vantage point to immerse yourself in the beauty of your surroundings. With a generous internal area of "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "44 square meters"
+                },
+                {
+                    "type": "text",
+                    "value": " and an additional 51 square meters including the balconies, our Luxe Suite provides ample space to unwind and relax. And when it's time to retire for the night, sink into the plush comfort of our "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "king-size bed"
+                },
+                {
+                    "type": "text",
+                    "value": ", measuring a luxurious 200 cm by 210 cm, ensuring a restful night's sleep."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class":" italic",
+                    "value": "All amenities in this room:"
+                },
+                {
+                    "type": "text",
+                    "class": "font-thin text-sm",
+                    "value": " Balcony • Mountain view • City view • Free toiletries • Bathrobe • Air conditioning • Safety deposit box • Toilet • Sofa • Bath or shower • Towels • Linen • Socket near the bed • Seating Area • Soundproofing • TV • Refrigerator • Telephone • Ironing facilities • Satellite channels • Coffee machine • Tea/Coffee maker • Iron • Heating • Flat-screen TV • Hairdryer • Minibar • Electric kettle • Outdoor furniture • Wake-up service • Wardrobe or closet."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The SPA and Facilities",
+            "titlelevel": 3,
+            "text":[
+                {
+                    "type": "text",
+                    "value":"Entering the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://zurich.fivehotelsandresorts.com/spa-wellbeing/refive",
+                    "value":"hotel spa"
+                },
+                {
+                    "type": "text",
+                    "value":" felt like stepping into a peaceful oasis. The indoor pool was so inviting, and we couldn't resist taking a dip. It was pure relaxation, and we felt all our stress just melt away. Next, we tried out the sauna. The warmth was so comforting, like a big hug. We left feeling totally chill and refreshed. Outside, the pool area was like a little piece of paradise. Surrounded by greenery and sunshine, it was the perfect spot to kick back and soak up the good vibes. And for those who like to stay active, the gym had everything we needed. We got our workout in and felt great about it. Overall, the spa experience was amazing. It was all about kicking back, unwinding, and treating ourselves. We left feeling totally zen and ready to take on the world. "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://zurich.fivehotelsandresorts.com/media/9692/spa-refive-zurich-en-digital.pdf",
+                    "value":"Here"
+                },
+                {
+                    "type": "text",
+                    "value":" you can find more information on all services they provide in the SPA."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "text":[
+                "The hotel's interior and decor were just as impressive as the spa. Everywhere we looked, there were sleek, modern touches that gave the place a really chic vibe. From the stylish furniture to the eye-catching artwork, every detail was on point. It was like walking into a design magazine come to life. We loved how the space felt both luxurious and cozy at the same time, making us feel right at home. It was the perfect backdrop for our stay, and we couldn't get enough of it."
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "w-full mt-5",
+            "caption": "ReFIVE SPA at Five Zurich, the hotel interior and common areas.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/24m01s844.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/24m53s280.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/24m28s920.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/24m38s493.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/IMG_5396.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/25m04s520.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/22m28s323.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/22m38s614.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/22m59s263.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/23m22s967.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/26m47s269.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/IMG_5305.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/IMG_5307.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/IMG_5331.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/IMG_5358.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/spa/IMG_5530.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The Restaurants and Breakfast",
+            "titlelevel": 3,
+            "text":[
+                {
+                    "type": "text",
+                    "value": "Let's talk about the food! The hotel's restaurants were seriously next-level, but "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url":"https://soul.st/zurich/",
+                    "value": "Soul St."
+                },
+                {
+                    "type": "text",
+                    "value": " was a standout. It's all about street food from around the world, and let me tell you, it was a taste sensation. From mouthwatering tacos to flavorful curries, every dish was like a culinary adventure. We couldn't get enough of the vibrant flavors and creative twists on classic street eats."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text":[
+                {
+                    "type": "text",
+                    "value": "And let's not forget about breakfast. It was seriously the highlight of our mornings. The spread was out of this world, with everything from fluffy pancakes to fresh fruit and pastries galore. We loved how they offered a mix of local specialties and international favorites, giving us the chance to start our day off right with a delicious meal. It was the perfect fuel for our adventures in Zurich!"
+                }
+            ]
+        },
+
+        {
+            "type": "gallery",
+            "class": "w-full mt-5",
+            "caption": "From global flavors at SoulStreet to breakfast bliss, our culinary journey at the hotel was a feast for the senses! 🍴✨",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/21m15s370.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/22m14s310.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/25m28s185.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/25m36s180.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/26m03s475.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/26m37s541.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/27m11s468.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/27m19s726.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/restaurants/27m48s204.jpeg",
+                    "width": 3840,
+                    "height": 2160,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "title": "The Surroundings",
+            "titlelevel": 3,
+            "text":[]
+        },
+        {
+            "type": "gallery",
+            "class": "float-left w-1/2 mr-5",
+            "caption": "Nature's Playground: Exploring the Enchanting Forest Trails and Scenic Bike Rides right outside our hotel's doorstep. 🌳🚲",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5463.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5481.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5493.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5500.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5506.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5509.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5510.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5522.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/x0FnTkEbe7s/gallery/surroundings/IMG_5526.jpeg",
+                    "width": 4032,
+                    "height": 3024,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text":[
+                {
+                    "type": "text",
+                    "value": "When it came to exploring the hotel surroundings, we were in for a treat. Just steps away from the hustle and bustle of the city, we found ourselves surrounded by lush forests and picturesque walking trails. As we ventured through the hotel's surrounding trails, we were treated to more than just natural beauty. Along the way, we stumbled upon breathtaking viewpoints offering "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://www.myswitzerland.com/en-ch/experiences/route/the-panorama-trail-above-zurich/",
+                    "value": "panoramic vistas"
+                },
+                {
+                    "type": "text",
+                    "value": " of Zurich city below. From these elevated vantage points, we were able to take in the iconic skyline, with its towering spires and bustling streets, stretching out before us. It was a mesmerizing sight, and one that truly encapsulated the magic of our Swiss getaway."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text":[
+                {
+                    "type": "text",
+                    "value": "But if walking wasn't your thing, no worries - the hotel had us covered. They offered "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "free bikes for guests"
+                },
+                {
+                    "type": "text",
+                    "value": " to borrow, making it easy to explore the surrounding area at our own pace. We pedaled through the forest, feeling the wind in our hair and the sun on our faces as we soaked up the beauty of our surroundings. It was the perfect way to spend an afternoon, and we couldn't believe it was all right at our doorstep."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "Conclusion",
+            "titlelevel": 3,
+            "class":"clear-left clear-right",
+            "text":[
+                "From the moment we stepped into the luxurious sanctuary of the hotel, our experience was nothing short of extraordinary. From unwinding in the serene spa to indulging in culinary delights at Soul St. and savoring the incredible breakfast spread, every moment was a celebration of luxury and relaxation. With its modern interior, impeccable service, and world-class amenities, the hotel exceeded all expectations, leaving us feeling pampered, rejuvenated, and utterly enchanted. It was more than just a stay - it was an unforgettable experience that we'll cherish for years to come. Until next time, Zurich! "
+                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,750 @@
+{
+    "title": "Airbnb House Tour and Review - Our staying in Appenzell",
+    "description": "Check out our incredible Airbnb house tour set in the heart of Switzerland!",
+    "videoid": "YTp2zDeqcYA",
+    "publishedAt": "2024-12-29",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Steinerstrasse 7/c",
+        "region": "9052 Niederteufen, Appenzell",
+        "canton": "Appenzell Innerrhoden",
+        "airport": "Zurich Airport (ZRH) - about 87 km away",
+        "maps": "https://maps.app.goo.gl/32Dfc3zmXGE3kogs5"
+    },
+    "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "padding": "1em 3em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Discover the charm of Appenzell with our Airbnb"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold text-base md:text-xl tracking-wider  uppercase",
+                    "value": " review and house tour"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase",
+                    "value": ". Nestled in the heart of"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider uppercase font-bold",
+                    "value": " Switzerland"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase",
+                    "value": ", this cozy retreat offers a perfect blend of"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold text-base md:text-xl tracking-wider  uppercase ",
+
+                    "value": " comfort and tradition"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase",
+                    "value": ". Enjoy the serene surroundings, explore the"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider uppercase font-bold",
+                    "value": " picturesque landscapes"
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase",
+                    "value": ", and immerse yourself in the local culture."
+                }
+            ]
+            
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/capa.jpg",
+                "style": {},
+                "caption": "The landscape in which the house is situated. 🌿✨."
+            }
+        },
+        {
+            "type": "text",
+            "title": "How to Get There",
+            "titlelevel": 2,
+            "text": [
+                "Situated in the picturesque region of Appenzell, Niederteufen is easily accessible by various modes of transportation. See below for details on how to get there by car or train. The journey offers scenic views of the Swiss countryside, making the trip as enjoyable as the destination itself."
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "By Car",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "caption": "Reaching Niederteufen by car from Zurich.",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d345320.216029401!2d8.623693586732845!3d47.45456138216578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x47900b9749bea219%3A0xe66e8df1e71fdc03!2sZurich!3m2!1d47.3768866!2d8.541694!4m5!1s0x479b1f924526265b%3A0xbac3903a9a34a6ff!2sNiederteufen%2C%20Teufen!3m2!1d47.391908099999995!2d9.3670412!5e0!3m2!1sen!2sch!4v1735502729964!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "40%",
+                            "height": "400px",
+                            "minWidth":"200px", 
+                            "float": "right",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "Reaching Niederteufen by car from Zurich is straightforward. Start by taking the A1 highway from Zurich, following the signs towards St. Gallen. After approximately 70 kilometers, take the exit towards Gossau and continue on the main road towards Appenzell. Follow the signs to Teufen, and from there, Niederteufen is just a short drive away. The entire journey offers scenic views of the Swiss countryside, making the drive as enjoyable as the destination itself. If you're coming from Lucerne, take the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://maps.app.goo.gl/mUxNA1tJyAz3j61z6",
+                    "value": "A2 highway"
+                },
+                {
+                    "type": "text",
+                    "value": " towards Zurich and then switch to the A1 towards St. Gallen. From Bern, take the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://maps.app.goo.gl/jYDRb4YxbB6dzGw9A",
+                    "value": "A1 highway"
+                },
+                {
+                    "type": "text",
+                    "value": " directly towards Zurich and continue as described. For those traveling from Lugano/South, take the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url":"https://maps.app.goo.gl/gdksWWvnkk2TxcTn9",
+                    "value": "A2 highway towards Zurich"
+                },
+                {
+                    "type": "text",
+                    "value": ", then switch to the A1 towards St. Gallen. Each route provides beautiful views of Switzerland's diverse landscapes."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "By Train",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Traveling to Niederteufen by train is a convenient option for those looking to enjoy the scenic Swiss countryside without the hassle of driving. From Zurich, take the train to St. Gallen, then transfer to the Appenzeller Bahnen (AB) towards Appenzell. Disembark at Teufen, and Niederteufen is just a short bus ride away. For those coming from Lucerne, take the train to St. Gallen and follow the same route. From Bern, travel to St. Gallen via Zurich, then switch to the AB towards Appenzell. And for those coming from Lugano/South, take the train to Zurich, then transfer to St. Gallen and continue as described. The train journey is a relaxing and scenic way to reach Niederteufen, allowing you to sit back, relax, and enjoy the beauty of Switzerland."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "font-bold italic",
+                    "value": "Swiss Travel Pass - "
+                },
+                {
+                    "type": "text",
+                    "value": "If you plan an extended adventure in Switzerland, consider the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://www.getyourguide.com/central-switzerland-l82/swiss-travel-pass-unlimited-travel-on-train-bus-boat-t403218/?partner_id=6OBOJRK&utm_medium=online_publisher&cmp=Swiss-Travel-Pass",
+                    "value": "Swiss Travel Pass"
+                },
+                {
+                    "type": "text",
+                    "value": ", your ticket to exploring the country's stunning sights using their amazing public transportation network. The Swiss Travel System offers this pass, along with the Swiss Travel Pass Flex, both great options for affordable travel by train, bus, and even boat!"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The Acomodation",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "This Airbnb can accommodate up to "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "6 guests with 2 bedrooms, 3 beds, and 2.5 baths"
+                },
+                {
+                    "type": "text",
+                    "value": ". The property was rated "
+                },
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "4.79 out of 5 stars"
+                },
+                {
+                    "type": "text",
+                    "value": " based on 19 reviews. Our host, with 5 years of hosting experience, ensured a pleasant stay. Highlights of the listing included "
+                },
+                
+                {
+                    "type": "text",
+                    "class":"font-bold",
+                    "value": "self check-in with a lockbox"
+                },
+                {
+                    "type": "text",
+                    "value": ", stunning mountain and valley views, and excellent host communication. See the listing "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "url": "https://www.airbnb.com/rooms/1109149519297072950?guests=1&adults=1&s=67&unique_share_id=d60fb73c-8e00-4924-99cc-404466670b9c",
+                    "value": "here"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 mt-5",
+            "caption": "Photos of the bedrooms and baths.",
+            "photos": [
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/127e02f7-ca10-4ed3-8656-504fedfb3807.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/2cef4a3c-3a19-49f7-be3f-b2c8412cb913.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        },
+        
+        
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/f02223b0-03a3-4272-98b8-ad03dfade9a7.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/fe96c2d2-fae7-4d62-8faa-868aba696192.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/6d1961fd-97e5-4431-878c-9fde29426a9a.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        },{
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/2573d7a2-7724-443f-92f3-d70ea0b035b8.jpeg",
+            "width": 480,
+            "height": 640,
+            "title": null,
+            "description": null
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/b4747a6d-3e29-465d-a224-6bca927fe222.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/2e48f13e-112a-4e0c-855c-297bff300120.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/db89035e-a277-4df6-a7d4-b1b8b053f423.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        },
+        {
+            "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/rooms/5f25f00c-9497-4dbf-84f0-fe573b5954d0.jpeg",
+            "width": 640,
+            "height": 480,
+            "title": null,
+            "description": null
+        }
+    ]
+        },
+        {
+            "type": "richtext",
+            "title": "The bedrooms and baths",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": "The house features"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " two large bedrooms"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ", each furnished with a comfortable 160cm bed and an open wardrobe. Additionally, the"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " office space"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " can accommodate two more guests on the sofa bed, providing a dedicated workspace with a desk and wifi. For your convenience, there is a"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " washer room"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " equipped with both washing and drying machines. The house includes all the essentials such as towels, bed sheets, hangers, bed linens, extra pillows and blankets, room-darkening shades, an iron, a drying rack for clothing, portable fans, and heating."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": "The bathrooms are well-appointed with everything you need for a comfortable stay. They include a"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " bathroom with a bathtub"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ", a hair dryer, cleaning products, body soap, and hot water. Whether you are preparing for a day out or winding down in the evening, these amenities ensure you have a pleasant and relaxing experience."
+                }
+            ]
+            
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class":" italic",
+                    "value": "All amenities in the listing:"
+                },
+                {
+                    "type": "text",
+                    "class": "font-thin text-sm",
+                    "value": " Mountain view • Valley view • Garden view • Bathtub • Hair dryer • Cleaning products • Body soap • Hot water • Washer • Towels, bed sheets, soap, and toilet paper • Hangers • Bed linens • Extra pillows and blankets • Room-darkening shades • Iron • Drying rack for clothing • Entertainment • TV • Arcade games • Portable fans • Heating • Smoke alarm • Carbon monoxide alarm • Fire extinguisher • First aid kit • Internet and office • Wifi • Dedicated workspace • Kitchen and dining • Refrigerator • Microwave • Cooking basics • Pots and pans, oil, salt, and pepper • Dishes and silverware • Bowls, chopsticks, plates, cups, etc. • Freezer • Dishwasher • Stove • Oven • Hot water kettle • Coffee maker • Wine glasses • Toaster • Baking sheet • Dining table • Coffee • Location features • Private entrance • Separate street or building entrance • Outdoor • Patio or balcony • Backyard • An open space on the property usually covered in grass • Outdoor furniture • Outdoor dining area • Sun loungers • Parking and facilities • Free parking on premises • Pets allowed • Assistance animals are always allowed • Luggage dropoff allowed • Smoking allowed • Long term stays allowed • Allow stay for 28 days or more • Self check-in • Lockbox • Cleaning available during stay"
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 mt-5",
+            "caption": "Photos of the living room, kitchen, balcony and garden.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/6fb3ded4-79f4-490c-a5f3-6b646a76a38a.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/6c735bcf-db5a-4360-8ed7-472f2cbfb1c7.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/3a8cba2b-cf06-4d95-902f-f9b3a6f7d7f2.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/a837caaf-aa28-4c6e-a583-fa9a4007d193.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/40f7baed-b387-4411-8534-102ccb6a9562.avif",
+                    "width": 1200,
+                    "height": 900,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/60b858b6-ef0f-4605-be05-5e76a35c88bb.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/bd8f9276-1549-43ee-a6f3-00def7cbba65.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/227cebc9-868d-4c8a-a1d2-36196dcc5425.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/285531df-ff46-4afe-91b9-ec601e9a0ffb.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/living-kitchen/838b302f-14e4-4533-988d-f05a67eec43f.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The Kitchen and Livingroom",
+            "titlelevel": 3,
+            "text":[
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": "Upon entering the space, you'll be greeted by a bright and inviting living area featuring"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " large windows"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " that offer stunning mountain views, allowing natural light to fill the room. The cozy living room is perfect for unwinding after a day of exploring, with a comfortable sofa where you can relax while enjoying your favorite shows on the"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " TV with Netflix access"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ". Adjacent to the living area is a charming"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " dining space"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ", ideal for sharing meals with family or friends."
+                }
+            ]
+            
+        },
+        {
+            "type": "richtext",
+            "text":[
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": "The"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " fully equipped kitchen"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " is designed to make cooking a pleasure, offering everything you need to prepare your own meals, from a refrigerator and microwave to a stove, oven, and dishwasher. For your convenience, you'll find cooking essentials such as pots and pans, oil, salt, and pepper, along with dishes, silverware, and wine glasses. The kitchen also features a coffee maker, kettle, toaster, and a baking sheet."
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " Step out from the kitchen onto the"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " balcony"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ", where you can enjoy a cup of coffee or simply take in the fresh air. From the kitchen, you also have access to the "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " garden"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ", a peaceful space with seating, perfect for lingering outdoors and enjoying the surroundings."
+                }
+            ]
+            
+            
+        },
+
+
+
+
+
+
+        {
+            "type": "richtext",
+            "title": "Nearby Attractions",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Nestled in the heart of Appenzell, this Airbnb offers more than just a cozy stay. Explore the charming city of Appenzell with its colorful houses and rich traditions. Take a cable car to Hoher Kasten for panoramic views. Hike to Säntis, the highest peak in the Alpstein massif, or embark on a hiking adventure to the amazing Saxer Lücke."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The City of Appenzell",
+            "titlelevel": 3,
+            "text":[
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": "Appenzell is a picturesque town known for its well-preserved traditions and vibrant culture. The town is famous for its colorful houses, intricate frescoes, and charming streets. Visitors can explore the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "Appenzell Museum",
+                    "url": "https://www.myswitzerland.com/en-ch/experiences/museum-appenzell"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " to learn about the region's history and culture, or take a stroll through the town center to admire the unique architecture. For outdoor enthusiasts, Appenzell offers numerous hiking trails, including routes to the "
+                },
+                {
+                    "type": "link",
+                    "class": "",
+                    "value": "Ebenalp",
+                    "url": "https://www.myswitzerland.com/en-ch/experiences/ebenalp"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " and the Wildkirchli caves. The town is also known for its local cheese, "
+                },
+                {
+                    "type": "link",
+                    "class": "",
+                    "value": "Appenzeller",
+                    "url": "https://www.appenzeller.com/"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ", which can be sampled at various local shops and restaurants. Additionally, visitors can experience traditional Swiss customs, such as the annual "
+                },
+                {
+                    "type": "link",
+                    "class": "",
+                    "value": "Landsgemeinde",
+                    "url": "https://en.wikipedia.org/wiki/Landsgemeinde"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ", a public assembly held in the open air, where local citizens vote on regional matters."
+                }
+            ]
+            
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/appenzell.jpeg",
+                "style": {"height":"500px"},
+                "caption": "The colorful houses in Appenzell."
+            }
+        },
+
+
+        {
+            "type": "richtext",
+            "title": "The Hoher Kasten",
+            "titlelevel": 3,
+            "text":[
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": "The "
+                },
+                {
+                    "type": "link",
+                    "class": "",
+                    "value": "Hoher Kasten",
+                    "url": "https://www.hoherkasten.ch/en/"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " is a mountain in the Appenzell Alps, offering breathtaking views of the surrounding landscape. Visitors can take a cable car to the summit, where a "
+                },
+                {
+                    "type": "link",
+                    "class": "",
+                    "value": "revolving restaurant",
+                    "url": "https://www.hoherkasten.ch/en/explore/gastronomy/revolving-restaurant/"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": " awaits, providing panoramic views of the Rhine Valley, Lake Constance, and the Swiss and Austrian Alps. The mountain is a popular destination for hikers, with numerous trails leading to the summit. Whether you're looking for a leisurely stroll or a challenging hike, the Hoher Kasten offers something for everyone."
+                }
+            ]
+            
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/hoher.jpeg",
+                "style": {},
+                "caption": "Views from the top of the Hoher Kasten."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "The Saxer Lücke",
+            "titlelevel": 3,
+            "text":[
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": "Saxer Lücke is a mountain pass in the "
+                },
+                {
+                    "type": "link",
+                    "class": "",
+                    "value": "Alpstein massif",
+                    "url": "https://en.wikipedia.org/wiki/Alpstein"
+                },
+                {
+                    "type": "text",
+                    "class": "",
+                    "value": ", offering stunning views of the surrounding peaks and valleys. The hike to Saxer Lücke is a challenging but rewarding adventure, with steep ascents and rocky terrain. Along the way, hikers can enjoy panoramic views of the Alpstein range, including the iconic Säntis peak. The pass itself offers a unique vantage point, with views of both the Appenzell and St. Gallen regions. Whether you're an experienced hiker or looking for a new challenge, the hike to Saxer Lücke is a must-do activity for outdoor enthusiasts."
+                }
+            ]
+            
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/saxer.jpeg",
+                "style": {},
+                "caption": "The hike to Saxer Lücke."
+            }
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/saxer.jpeg",
+                "style": {},
+                "caption": "The hike to Saxer Lücke."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "Final Thoughts",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Our stay in this charming Airbnb in Appenzell was nothing short of magical. From the cozy interiors to the stunning mountain views, every aspect of our experience was delightful. The house provided all the comforts of home, with thoughtful touches that made our stay truly special. The surrounding region offered a wealth of outdoor activities, from hiking to sightseeing, ensuring that there was never a dull moment. Whether you're looking for a relaxing retreat or an adventure-filled getaway, this Airbnb in Appenzell is the perfect choice. We can't wait to return and explore more of this beautiful region!"
+                }
+            ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us create more content and continue our adventures. Thank you for your support! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
+        }
+        
+        
+    ]
+}

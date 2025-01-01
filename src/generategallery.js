@@ -23,6 +23,10 @@ const getGalleryItem = async filePath => {
                     description: null
                 });
             }
+            else {
+                console.error(err); 
+                reject(err);
+            }
         });
     });
 }
@@ -36,7 +40,9 @@ fs.readdir(dir, async (err, files) => {
     for(i=0; i < files.length; i++){
         const filePath = path.join(dir, files[i]);
         if(!filePath.includes("DS_Store")){
+            console.log("Processing", filePath);
             const item = await getGalleryItem(filePath);
+            console.log(item);
             gallery.photos.push(item);
         }
     }
