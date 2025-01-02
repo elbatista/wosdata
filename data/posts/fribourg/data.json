@@ -3,7 +3,7 @@
     "description": "Located in the heart of Switzerland, the picturesque city of Fribourg beckons travelers with its captivating blend of medieval charm, cultural richness, and linguistic diversity. As you explore the nooks and crannies of Fribourg, you'll find a city that seamlessly blends the old with the new, the traditional with the modern.",
     "videoid": "mwljDNDTwf0",
     "headerReverse": false,
-    "publishedAt": "2024-2-3",
+    "publishedAt": "2024-02-03",
     "sections": [
         {
             "type": "text",
@@ -105,6 +105,13 @@
                 "style": {},
                 "caption": "The medieval fortifications of Fribourg, where ancient city walls and towering bastions stand as silent guardians of history (photo by Alin Andersen, Unsplash)."
             }
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
         
 

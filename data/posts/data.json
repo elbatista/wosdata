@@ -2,7 +2,7 @@
     "items": [
         {
             "title": "Chillon Castle",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "desc": "Exploring the amazing Chillon Castle in Montreux, nestled on the shores of Lake Geneva, a timeless symbol of medieval grandeur and historic significance.",
             "location":"Montreux, Vaud",
             "videoid": "EL4YYc87uOQ",
@@ -12,7 +12,7 @@
           {
             "title": "The city of Bern",
             "desc": "Discover the charm of Bern, Switzerland, through our comprehensive guide! From its medieval Old Town to the iconic Zytglogge clock tower, delve into the rich history and cultural tapestry of this picturesque city.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Bern, Bern",
             "videoid": "f9U041kJbcY",
             "tags": ["city", "bern", "family", "unesco", "historic"],
@@ -21,7 +21,7 @@
           {
             "title": "Hidden-Gem Places",
             "desc": "Switzerland, with its inspiring landscapes, stands as an unparalleled haven for travelers. In every corner of this picturesque country, a captivating story unfolds. In this post, we will embark on a journey to discover the lesser-known but utterly enchanting places.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Ticino",
             "videoid": "i2Jdbj_Oa1c",
             "tags": ["villages", "hidden-gem", "landscapes", "ticino"],
@@ -30,7 +30,7 @@
           {
             "title": "Mount Brè",
             "desc": "Mount Brè is one of the most important mountains in the city of Lugano, Southern Switzerland. Also known as the sunniest mountain in the country, it is the starting point for several nice activities for families and mountain lovers.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Lugano, Ticino",
             "videoid": "K0ax5F61D2g",
             "tags": ["mountain", "city", "family", "views", "lake", "lugano", "ticino"],
@@ -39,7 +39,7 @@
           {
             "title": "Lauterbrunnen Valley",
             "desc": "Lauterbrunnen is a stunningly picturesque village nestled in the Lauterbrunnen Valley of the Bernese Oberland in Switzerland. Surrounded by high cliffs and dominated by the presence of numerous waterfalls, Lauterbrunnen is often considered one of the most beautiful valleys in the Swiss Alps.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Lauterbrunen, Bernese Oberland",
             "videoid": "KJH0UZCgdhA",
             "tags": ["bern", "village", "valley", "family", "waterfall", "alps", "lauterbrunnen"],
@@ -48,7 +48,7 @@
           {
             "title": "Interlaken",
             "desc": "Nestled between Lake Thun and Lake Brienz, Interlaken is a mesmerizing town that serves as the gateway to the stunning Jungfrau region in the Swiss Alps. Surrounded by the Eiger, Mönch, and Jungfrau mountain peaks, Interlaken is a visual feast.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Interlaken, Bernese Oberland",
             "videoid": "KLclTW2NH2g",
             "tags": ["bern", "city", "family", "alps", "lake", "interlaken"],
@@ -57,7 +57,7 @@
           {
             "title": "Discovering Gruyères",
             "desc": "Nestled in the heart of the Fribourg region of Switzerland, Gruyères stands as a testament to the country's rich history, medieval charm, and delectable culinary traditions. At the heart of Gruyères, perched majestically on a hill, is the ancient Gruyères Castle, a medieval fortress dating back to the 13th century.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Gruyères, Fribourg",
             "videoid": "M-gjYt1ZkY4",
             "tags": ["lake", "family", "village", "historic", "castle", "fribourg", "gruyere"],
@@ -66,7 +66,7 @@
           {
             "title": "Fribourg",
             "desc": "Located in the heart of Switzerland, the picturesque city of Fribourg beckons travelers with its captivating blend of medieval charm, cultural richness, and linguistic diversity. As you explore the nooks and crannies of Fribourg, you'll find a city that seamlessly blends the old with the new, the traditional with the modern.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Fribourg, Fribourg",
             "videoid": "mwljDNDTwf0",
             "tags": ["family", "city", "historic", "fribourg", "gruyere", "unesco"],
@@ -75,7 +75,7 @@
           {
             "title": "Top 25 Switzerland",
             "desc": "Embark with us on an epic journey through 25 amazing places in Switzerland, where each locale unveils its distinctive allure. From the majestic peaks to the charming cityscapes, let's delve into the main attractions that make Switzerland a treasure trove of unique and unforgettable experiences.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Switzerland",
             "videoid": "NiZV7Xrlux8",
             "tags": ["views", "landscapes", "top", "places", "alps"],
@@ -84,7 +84,7 @@
           {
             "title": "Flying over Lugano",
             "desc": "In this captivating post, we offer a unique perspective on the beauty of Lugano by taking to the skies with a drone. Experience the enchanting allure of Lugano like never before as we soar above, capturing breathtaking aerial views that unveil the city's stunning landscapes.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Lugano, Ticino",
             "videoid": "pKDkhIQ1kqs",
             "tags": ["city", "lake", "aerial", "lugano", "ticino"],
@@ -93,7 +93,7 @@
           {
             "title": "The village of Wengen",
             "desc": "Wengen is a holiday resort located on a wind-protected sun terrace at the foot of the Jungfrau, 400 metres above the Lauterbrunnen valley at an altitude of 1274 m. With the Jungfrau in the background, flanked by the immense panorama of the Bernese Alps, at the foot of the spectacular Lauterbrunnen valley: Wengen offers a pure mountain experience.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Lauterbrunen, Bernese Oberland",
             "videoid": "vM732ppJZog",
             "tags": ["bern", "village", "valley", "family", "alps", "lauterbrunnen"],
@@ -102,7 +102,7 @@
           {
             "title": "Top 10 Switzerland",
             "desc": "Switzerland, with its awe-inspiring landscapes and enchanting cities, stands as an unparalleled haven for travelers. Embark with us on an enticing journey through 10 Swiss places that unveils its distinctive allure.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Switzerland",
             "videoid": "vo-139pug3U",
             "tags": ["views", "landscapes", "top", "places", "alps"],
@@ -111,7 +111,7 @@
           {
             "title": "FIVE Zurich Hotel",
             "desc": "Check out our review of the amazing 5-star FIVE Zurich Hotel and discover our unforgettable experience! From luxurious rooms to exquisite dining and vibrant nightlife, all with breathtaking views of the city and Uetliberg forest — it was the perfect mix of relaxation and excitement.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Uetliberg Region, Zurich",
             "videoid": "x0FnTkEbe7s",
             "tags": ["city", "hotel", "luxury", "stay", "zurich", "review"],
@@ -120,7 +120,7 @@
           {
             "title": "Mount Pilatus",
             "desc": "Creator of weather, dwelling place of dragons, habitat for giants, and resting ground for rulers: Pilatus, Lucerne's distinctive mountain, stands as one of Central Switzerland's most visited locations. A journey to Mount Pilatus offers an unforgettable adventure amidst the stunning natural beauty of the Swiss Alps.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Lake Lucerne Region, Lucerne",
             "videoid": "Xa07d2O-o9Y",
             "tags": ["mountain", "lake", "family", "hike", "lucerne", "pilatus", "views", "landscapes", "alps"],
@@ -129,7 +129,7 @@
           {
             "title": "Foroglio",
             "desc": "Nestled amidst the breathtaking landscapes of Ticino, Switzerland, Foroglio stands as a true testament to the natural beauty that defines this enchanting region. Tucked away in the heart of the Bavona Valley, Foroglio is a picturesque village that captivates visitors with its idyllic charm, stunning waterfalls, and rich cultural heritage.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Bavona Valley, Ticino",
             "videoid": "YoBiyFkxcB4",
             "tags": ["village", "waterfall", "family", "historic", "ticino"],
@@ -139,7 +139,7 @@
             "title": "Airbnb House Tour in Appenzell",
             "desc": "Check out our incredible Airbnb house tour set in the heart of Switzerland! We stayed for a few days in this stunning home nestled amidst breathtaking landscapes, with sweeping views of majestic mountains and rolling green hills.",
             "location":"Niederteufen, Appenzell",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "videoid": "YTp2zDeqcYA",
             "tags": ["hotel", "stay", "appenzell", "review"],
             "url": "airbnb-appenzell"
@@ -149,7 +149,7 @@
             "title": "Staying in a Real Castle in Switzerland",
             "desc": "Ever dreamed of staying in a real castle in the swiss alps? Now you can turn that dream into reality without breaking the bank. Join us on this enchanting hotel tour as we unlock the doors to Châtelard Castle Hotel, in Montreux, Switzerland, where affordable luxury meets historic charm.",
             "location":"Chem. de Planchamp-Dessous, Montreux",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "videoid": "sMENon0E0Cw",
             "tags": ["hotel", "stay", "montreux", "review", "vaud"],
             "url": "airbnb-castle-montreux"
@@ -157,7 +157,7 @@
           {
             "title": "Top 5 hikings in Switzerland",
             "desc": "Switzerland is a hiker's paradise, offering a plethora of trails that cater to all levels of experience. In this post, we'll explore the top 5 hiking trails in Switzerland that promise unforgettable experiences amidst the stunning landscapes of the Swiss Alps.",
-            "date": "2025-01-01",
+            "date": "2025-01-01 18:00:00.000",
             "location":"Switzerland",
             "videoid": "wtCD5SgaeTE",
             "tags": ["views", "landscapes", "top", "places", "alps", "hike"],

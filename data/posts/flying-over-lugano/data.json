@@ -3,14 +3,25 @@
     "description": "In this captivating post, we offer a unique perspective on the beauty of Lugano by taking to the skies with a drone. Experience the enchanting allure of Lugano like never before as we soar above, capturing breathtaking aerial views that unveil the city's stunning landscapes.",
     "videoid": "pKDkhIQ1kqs",
     "headerReverse": false,
-    "publishedAt": "2024-2-1",
+    "publishedAt": "2024-02-01",
     "sections": [
+        {
+            "type": "text",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom":"1.5em"
+            },
+            "text": [
+                "Located in the Italian-speaking canton of Ticino, Lugano is a captivating city that effortlessly combines Swiss efficiency with a distinct Mediterranean flair."
+            ]
+        },
         {
             "type": "text",
             "title": null,
             "titlelevel": 2,
             "text": [
-                "Located in the Italian-speaking canton of Ticino, Lugano is a captivating city that effortlessly combines Swiss efficiency with a distinct Mediterranean flair. Situated on the shores of Lake Lugano and surrounded by the mountains of the Lugano Prealps, this city offers a delightful blend of natural beauty, cultural richness, and modern amenities.",
+                "Situated on the shores of Lake Lugano and surrounded by the mountains of the Lugano Prealps, this city offers a delightful blend of natural beauty, cultural richness, and modern amenities.",
                 "The azure waters of Lake Lugano set the stage for the city's enchanting atmosphere. The lake, surrounded by hills and mountains, provides a stunning backdrop for various recreational activities. Visitors can enjoy boat cruises, lakeside promenades, and water sports while taking in the picturesque scenery.",
                 "In this captivating video, we offer a unique perspective on the beauty of Lugano by taking to the skies with a drone. Experience the enchanting allure of Lugano like never before as we soar above, capturing breathtaking aerial views that unveil the city's stunning landscapes. Watch the video and join us on this mesmerizing journey as we showcase Lugano from a vantage point that adds a new dimension to its splendor."
             ]
@@ -76,6 +87,13 @@
                 "style": {},
                 "caption": "As the sun sets over Lugano, the cityscape transforms into a canvas of warm hues, casting a golden glow on the buildings and the tranquil lake."
             }
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ]
 }

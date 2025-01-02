@@ -3,7 +3,7 @@
     "description": "Nestled in the heart of the Fribourg region of Switzerland, Gruyères stands as a testament to the country's rich history, medieval charm, and delectable culinary traditions. At the heart of Gruyères, perched majestically on a hill, is the ancient Gruyères Castle, a medieval fortress dating back to the 13th century.",
     "videoid": "M-gjYt1ZkY4",
     "headerReverse": false,
-    "publishedAt": "2024-2-4",
+    "publishedAt": "2024-02-04",
     "sections": [
         {
             "type": "text",
@@ -82,6 +82,13 @@
             "text": [
                 "Gruyères stands as a testament to Switzerland's timeless allure, seamlessly blending medieval charm with contemporary delights. Join us on this virtual journey through our video, and let Gruyères captivate your senses, leaving you yearning for the enchanting landscapes, the echoes of history, and the irresistible flavors that define this Swiss gem."
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ]
 }

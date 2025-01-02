@@ -3,13 +3,28 @@
     "description": "Embark with us on an epic journey through 25 amazing places in Switzerland, where each locale unveils its distinctive allure. From the majestic peaks to the charming cityscapes, let's delve into the main attractions that make Switzerland a treasure trove of unique and unforgettable experiences.",
     "videoid": "NiZV7Xrlux8",
     "headerReverse": false,
-    "publishedAt": "2024-3-6",
+    "publishedAt": "2024-03-06",
     "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom" : "1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Switzerland, with its awe-inspiring landscapes and enchanting cities, stands as an unparalleled haven for travelers"
+                }
+            ]
+        },
         {
             "type": "text",
             "title": null,
             "text": [
-                "Switzerland, with its awe-inspiring landscapes and enchanting cities, stands as an unparalleled haven for travelers. In every corner of this picturesque country, a captivating story unfolds - a narrative woven with threads of culture, history, and the unparalleled beauty of nature.",
+                "In every corner of this picturesque country, a captivating story unfolds - a narrative woven with threads of culture, history, and the unparalleled beauty of nature.",
                 "Embark with us on an epic journey through 25 amazing places in Switzerland, where each locale unveils its distinctive allure. From the majestic peaks to the charming cityscapes, let's delve into the main attractions that make Switzerland a treasure trove of unique and unforgettable experiences."
             ]
         },
@@ -111,6 +126,13 @@
                 "In this captivating journey through Switzerland, we've only just scratched the surface of this stunning country's wonders. There's a whole lot more to explore, but going into all of it here would make this post way too long. So, checkout the video, where we take you on a visual odyssey to over 20 additional breathtaking places that showcase Switzerland's diverse landscapes, cultural treasures, and hidden gems. From the iconic Jungfraujoch and the vibrant city of Lausanne to the pristine beauty of Lucerne and the artistic charm of Montreux, the video unfolds a tapestry of experiences that will leave you in awe.",
                 "To witness the full spectrum of Switzerland's beauty, we invite you to watch the video, where each frame is a portal to a new adventure. These enchanting destinations offer a glimpse into the soul of Switzerland, inviting you to embark on a virtual journey that goes beyond the boundaries of a written post. And for an even closer look, don't forget to check out the captivating photos below, capturing moments that convey the essence of each place. Let the visuals inspire your wanderlust and beckon you to explore the myriad wonders that make Switzerland a true masterpiece. So, join us on this visual expedition, and let the beauty of Switzerland unfold before your eyes!"
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ],
     "gallery": {

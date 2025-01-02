@@ -3,7 +3,7 @@
     "desc": "Switzerland, with its awe-inspiring landscapes and enchanting cities, stands as an unparalleled haven for travelers. Embark with us on an enticing journey through 10 Swiss places that unveils its distinctive allure.",
     "videoid": "vo-139pug3U",
     "headerReverse": false,
-    "publishedAt": "2024-3-14",
+    "publishedAt": "2024-03-14",
     "author": {
         "name": "Eliã Batista",
         "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
@@ -11,10 +11,25 @@
     "location": "Switzerland",
     "sections": [
         {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom" : "1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Switzerland, with its awe-inspiring landscapes and enchanting cities, stands as an unparalleled haven for travelers"
+                }
+            ]
+        },
+        {
             "type": "text",
             "title": null,
             "text": [
-                "Switzerland, with its awe-inspiring landscapes and enchanting cities, stands as an unparalleled haven for travelers. In every corner of this picturesque country, a captivating story unfolds - a narrative woven with threads of culture, history, and the unparalleled beauty of nature.",
+                "In every corner of this picturesque country, a captivating story unfolds - a narrative woven with threads of culture, history, and the unparalleled beauty of nature.",
                 "Embark with us on an enticing journey through 10 Swiss places that unveils its distinctive allure. From the majestic peaks to the charming cityscapes, let's delve into the main attractions that make Switzerland a treasure trove of unique and unforgettable experiences."
             ]
         },
@@ -192,6 +207,13 @@
             "text": [
                 "Switzerland's landscapes present a tapestry of experiences, each uniquely woven with the threads of tranquility and adventure. From the serene beauty of Foroglio to the adrenaline-fueled excitement of Interlaken, this country embraces diversity in its offerings. Whether you are drawn to the cultural richness nestled within historic streets, the awe-inspiring beauty of its natural wonders, or the thrill of heart-pounding activities, Switzerland stands as a destination that caters to the desires of every traveler. In this picturesque land, the possibilities are as varied as the landscapes, inviting you to explore, discover, and create memories that span from the peaceful valleys to the towering peaks."
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
         
     ]

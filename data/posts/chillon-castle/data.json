@@ -3,7 +3,7 @@
     "description": "Nestled on the shores of Lake Geneva near Montreux, Chillon Castle (Château de Chillon) is a timeless symbol of medieval grandeur and historic significance.",
     "videoid": "EL4YYc87uOQ",
     "headerReverse": false,
-    "publishedAt": "2024-2-7",
+    "publishedAt": "2024-02-07",
     "button": {
         "text": "Download guide",
         "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/EL4YYc87uOQ/assets/chillon_guide.pdf",
@@ -122,6 +122,13 @@
                 "The Castle is definitely a must-visit attraction in Montreux, Switzerland. Its well-preserved medieval architecture, fascinating history, and stunning setting make it a captivating destination for tourists and locals alike. Visitors to Chillon Castle can explore its numerous rooms, including the grand halls, the chapel, the bedrooms, and the underground dungeons. The castle's interior is adorned with awesome old furniture, artwork, and historical artifacts, providing a glimpse into the daily life of its former inhabitants. In addition to its historical and architectural significance, Chillon Castle offers breathtaking views of Lake Geneva and the surrounding Alps.",
                 "Chillon, with its captivating history, architectural splendor, and idyllic lakeside location, is a testament to Switzerland's rich cultural heritage. A visit to this fairytale fortress allows you to immerse yourself in the stories of the past while enjoying the breathtaking beauty that surrounds Lake Geneva."
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ],
     "gallery": {

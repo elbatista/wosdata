@@ -2,7 +2,7 @@
     "title": "Wengen: One of the Most Beautiful Villages in the Heart of Switzerland",
     "description": "Wengen is a holiday resort located on a wind-protected sun terrace at the foot of the Jungfrau, 400 metres above the Lauterbrunnen valley at an altitude of 1274 m. With the Jungfrau in the background, flanked by the immense panorama of the Bernese Alps, at the foot of the spectacular Lauterbrunnen valley: Wengen offers a pure mountain experience.",
     "videoid": "vM732ppJZog",
-    "publishedAt": "2024-4-1",
+    "publishedAt": "2024-04-01",
     "author": {
         "name": "Eliã Batista",
         "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
@@ -14,6 +14,21 @@
         "canton": "Bern"
     },
     "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom" : "1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "The swiss \"Rivendell\" village of Wengen, located in the heart of the Jungfrau region"
+                }
+            ]
+        },
         {
             "type": "richtext",
             "text": [
@@ -535,6 +550,13 @@
             "text": [
                 "In conclusion, Wengen stands as a gateway to unparalleled hiking adventures within the majestic Jungfrau region. With a plethora of activities catering to every preference, from leisurely walks to challenging summits, Wengen beckons nature lovers to embark on unforgettable journeys amidst breathtaking landscapes. We invite you to share your Wengen hiking experiences in the comments below and spread the word by sharing this post with fellow explorers. Let's inspire each other to discover the wonders of Wengen together!"
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ],
     "gallery": {

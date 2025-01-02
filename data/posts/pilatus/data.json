@@ -4,19 +4,34 @@
     "slug": "mount-pilatus-legendary-mountain-in-switzerland",
     "videoid": "Xa07d2O-o9Y",
     "headerReverse": false,
-    "publishedAt": "2024-3-28",
+    "publishedAt": "2024-03-28",
     "author": {
         "name": "Eliã Batista",
         "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
     },
     "location": "Lucerne, Lake Lucerne Region",
     "sections": [
+
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom" : "1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "In the year 1420, there's a tale of a dragon rock descending from the heavens, crashing into the Swiss Alps"
+                }
+            ]
+        },
         {
             "type": "text",
             "title": "",
             "text": [
-                "In the year 1420, there's a tale of a dragon rock descending from the heavens. Lake Pilatus might hold the resting place of the Roman governor Pontius Pilatus. According to legend, a petrified sentinel stands watch by a cave's entrance. Rising majestically to 2,128 meters, the Pilatus mountain massif captivates the mind without doubt.",
-                ""
+                "Lake Pilatus might hold the resting place of the Roman governor Pontius Pilatus. According to legend, a petrified sentinel stands watch by a cave's entrance. Rising majestically to 2,128 meters, the Pilatus mountain massif captivates the mind without doubt."
             ]
         },
         {
@@ -499,6 +514,13 @@
             "text":[
                 "In conclusion, a journey to Mount Pilatus offers an unforgettable adventure amidst the stunning natural beauty of the Swiss Alps. From the exhilarating cable car and cogwheel train rides to the adrenaline-pumping activities at Fraumünster and Pilatus Seilpark, there's something for every outdoor enthusiast to enjoy. Whether you're marveling at the 360-degree views from the summit or exploring the scenic trails to Tomlishorn and beyond, the experience is bound to leave a lasting impression. So, pack your bags, lace up your hiking boots, and embark on an unforgettable pilgrimage to Mount Pilatus, where adventure and wonder await at every turn."
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ],
     "gallery": {

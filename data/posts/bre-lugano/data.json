@@ -3,7 +3,7 @@
     "description": "Join us as we explore the breathtaking beauty of Mount Brè in Lugano, Switzerland!",
     "videoid": "K0ax5F61D2g",
     "headerReverse": false,
-    "publishedAt": "2024-3-25",
+    "publishedAt": "2024-03-25",
     "author": {
         "name": "Larissa Batista",
         "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/lari.jpeg"
@@ -351,6 +351,13 @@
                     "value" : " if you still have any lingering questions or uncertainties regarding this excursion. We are here to provide assistance and ensure your experience is as enjoyable as possible. If you found the tips provided helpful, we would greatly appreciate it if you could share this post with others who may benefit from them. Additionally, if you have any other relevant information or insights to contribute, we encourage you to leave a comment below for the benefit of our community. Your input is valuable and helps enrich the experience for everyone."
                 }
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ]
 }

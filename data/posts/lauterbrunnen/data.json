@@ -3,14 +3,31 @@
     "description": "Lauterbrunnen is a stunningly picturesque village nestled in the Lauterbrunnen Valley of the Bernese Oberland in Switzerland. Surrounded by high cliffs and dominated by the presence of numerous waterfalls, Lauterbrunnen is often considered one of the most beautiful valleys in the Swiss Alps.",
     "videoid": "KJH0UZCgdhA",
     "headerReverse": false,
-    "publishedAt": "2024-2-6",
+    "publishedAt": "2024-02-06",
     "sections": [
+
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom":"1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Lauterbrunnen is a stunningly picturesque village nestled in the Lauterbrunnen Valley of the Bernese Oberland in Switzerland"
+                }
+            ]
+        },
+
         {
             "type": "text",
             "title": null,
             "titlelevel": 2,
             "text": [
-                "Lauterbrunnen is a stunningly picturesque village nestled in the Lauterbrunnen Valley of the Bernese Oberland in Switzerland. Surrounded by high cliffs and dominated by the presence of numerous waterfalls, Lauterbrunnen is often considered one of the most beautiful valleys in the Swiss Alps. Here are some key aspects of Lauterbrunnen."
+                "Surrounded by high cliffs and dominated by the presence of numerous waterfalls, Lauterbrunnen is often considered one of the most beautiful valleys in the Swiss Alps. Here are some key aspects of Lauterbrunnen."
             ]
         },
         {
@@ -88,6 +105,13 @@
             "text": [
                 "Lauterbrunnen's unparalleled natural beauty, coupled with its outdoor activities and charming village atmosphere, makes it a must-visit destination for nature lovers, adventure enthusiasts, and those seeking a quintessential Swiss Alpine experience."
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ],
     "gallery": {

@@ -3,7 +3,7 @@
     "description": "Dive into a world of luxury and sophistication at the FIVE Zurich, a premier destination in the heart of Switzerland's vibrant cityscape. Indulge in exquisite dining, vibrant nightlife, and blissful relaxation amidst breathtaking views of the city skyline and the serene Uetliberg forest. Experience the epitome of urban chic at the FIVE Zurich, where every moment is a celebration of luxury living.",
     "desc": "Check out our review of the amazing 5-star FIVE Zurich Hotel and discover our unforgettable experience! From luxurious rooms to exquisite dining and vibrant nightlife, all with breathtaking views of the city and Uetliberg forest — it was the perfect mix of relaxation and excitement.",
     "videoid": "x0FnTkEbe7s",
-    "publishedAt": "2024-4-20",
+    "publishedAt": "2024-04-20",
     "author": {
         "name": "Eliã Batista",
         "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
@@ -20,8 +20,7 @@
             "type": "text",
             "class": "text-base md:text-xl tracking-wider font-extralight uppercase",
             "style": {
-                "lineHeight":"1.8em",
-                "padding": "1em 3em"
+                "lineHeight":"1.8em"
             },
             "text": [
                 "Experience luxury like never before at FIVE Zurich. From our own stay, we can attest to the unforgettable moments awaiting you. Indulge in culinary delights, soak in the vibrant nightlife, and find tranquility in our serene spa. Trust us, every moment at FIVE Zurich is an experience worth cherishing, redefining luxury with every step."
@@ -749,6 +748,13 @@
                 "From the moment we stepped into the luxurious sanctuary of the hotel, our experience was nothing short of extraordinary. From unwinding in the serene spa to indulging in culinary delights at Soul St. and savoring the incredible breakfast spread, every moment was a celebration of luxury and relaxation. With its modern interior, impeccable service, and world-class amenities, the hotel exceeded all expectations, leaving us feeling pampered, rejuvenated, and utterly enchanted. It was more than just a stay - it was an unforgettable experience that we'll cherish for years to come. Until next time, Zurich! "
                 
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
     ]
 }

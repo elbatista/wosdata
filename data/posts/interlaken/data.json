@@ -3,13 +3,29 @@
     "description": "Nestled between Lake Thun and Lake Brienz, Interlaken is a mesmerizing town that serves as the gateway to the stunning Jungfrau region in the Swiss Alps.",
     "videoid": "KLclTW2NH2g",
     "headerReverse": false,
-    "publishedAt": "2024-2-5",
+    "publishedAt": "2024-02-05",
     "sections": [
+        
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom":"1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Nestled in the Bernese Oberland between Lake Thun and Lake Brienz, Interlaken is a mesmerizing town that serves as the gateway to the stunning Jungfrau region in the Swiss Alps"
+                }
+            ]
+        },
         {
             "type": "text",
             "title": null,
             "text": [
-                "Nestled in the Bernese Oberland between Lake Thun and Lake Brienz, Interlaken is a mesmerizing town that serves as the gateway to the stunning Jungfrau region in the Swiss Alps. Known for its breathtaking landscapes, thrilling outdoor activities, and charming atmosphere, Interlaken is a haven for nature lovers and adventure enthusiasts. Here's a closer look at what makes Interlaken a captivating destination"
+                "Known for its breathtaking landscapes, thrilling outdoor activities, and charming atmosphere, Interlaken is a haven for nature lovers and adventure enthusiasts. Here's a closer look at what makes Interlaken a captivating destination."
             ]
         },
         {
@@ -95,6 +111,13 @@
             "text": [
                 "In conclusion, Interlaken's unique combination of natural beauty and adrenaline-pumping activities makes it a sought-after destination. Whether you're an adventure seeker, a nature lover, or someone looking to unwind in a picturesque setting, Interlaken has something magical to offer."
             ]
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
         
     ],

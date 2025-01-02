@@ -19,8 +19,7 @@
             "type": "richtext",
             "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
             "style": {
-                "lineHeight":"1.8em",
-                "padding": "1em 3em"
+                "lineHeight":"1.8em"
             },
             "text": [
                 {
@@ -384,7 +383,7 @@
                 {
                     "type": "text",
                     "class": "font-thin text-sm",
-                    "value": " Mountain view • Valley view • Garden view • Bathtub • Hair dryer • Cleaning products • Body soap • Hot water • Washer • Towels, bed sheets, soap, and toilet paper • Hangers • Bed linens • Extra pillows and blankets • Room-darkening shades • Iron • Drying rack for clothing • Entertainment • TV • Arcade games • Portable fans • Heating • Smoke alarm • Carbon monoxide alarm • Fire extinguisher • First aid kit • Internet and office • Wifi • Dedicated workspace • Kitchen and dining • Refrigerator • Microwave • Cooking basics • Pots and pans, oil, salt, and pepper • Dishes and silverware • Bowls, chopsticks, plates, cups, etc. • Freezer • Dishwasher • Stove • Oven • Hot water kettle • Coffee maker • Wine glasses • Toaster • Baking sheet • Dining table • Coffee • Location features • Private entrance • Separate street or building entrance • Outdoor • Patio or balcony • Backyard • An open space on the property usually covered in grass • Outdoor furniture • Outdoor dining area • Sun loungers • Parking and facilities • Free parking on premises • Pets allowed • Assistance animals are always allowed • Luggage dropoff allowed • Smoking allowed • Long term stays allowed • Allow stay for 28 days or more • Self check-in • Lockbox • Cleaning available during stay"
+                    "value": " Mountain view • Bathtub • Hair dryer • Hangers • Bed linens • Iron • TV • Arcade games • Portable fans • Heating • Smoke alarm • Carbon monoxide alarm • Fire extinguisher • First aid kit  • Wifi • Dedicated workspace • Kitchen • Dishes and silverware • Stove • Oven • Coffee maker • Patio or balcony • Backyard • Outdoor furniture • Free parking on premises • Pets allowed • Luggage dropoff allowed • Smoking allowed • Long term stays allowed • Self check-in"
                 }
             ]
         },
@@ -732,7 +731,7 @@
             "type": "coffee",
             "title": "Buy us a coffee ☕",
             "subtitle": "Did you enjoy this post?",
-            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us create more content and continue our adventures. Thank you for your support! 🙏",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
             "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
         
