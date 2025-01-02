@@ -718,15 +718,6 @@
             }
         },
         {
-            "type": "img",
-            "title": "",
-            "img": {
-                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-appenzell/photo/saxer.jpeg",
-                "style": {},
-                "caption": "The hike to Saxer Lücke."
-            }
-        },
-        {
             "type": "richtext",
             "title": "Final Thoughts",
             "titlelevel": 2,
@@ -744,7 +735,6 @@
             "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us create more content and continue our adventures. Thank you for your support! 🙏",
             "url": "https://buymeacoffee.com/wonders.of.switzerland"
         }
-        
         
     ]
 }
