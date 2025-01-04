@@ -152,26 +152,56 @@
             "videoid": "8yf-DrM0LKk",
             "tags": ["hotel", "stay", "schwyz", "review"],
             "url": "airbnb-schwyz"
-          }
-    ],
-    "next":[{
-            "title": "Staying in a Real Castle in Switzerland",
-            "desc": "Ever dreamed of staying in a real castle in the swiss alps? Now you can turn that dream into reality without breaking the bank. Join us on this enchanting hotel tour as we unlock the doors to Châtelard Castle Hotel, in Montreux, Switzerland, where affordable luxury meets historic charm.",
-            "location":"Chem. de Planchamp-Dessous, Montreux",
-            "date": "2025-01-01 18:00:00.000",
-            "videoid": "sMENon0E0Cw",
-            "tags": ["hotel", "stay", "montreux", "review", "vaud"],
-            "url": "airbnb-castle-montreux"
           },
           {
-            "title": "Top 5 hikings in Switzerland",
-            "desc": "Switzerland is a hiker's paradise, offering a plethora of trails that cater to all levels of experience. In this post, we'll explore the top 5 hiking trails in Switzerland that promise unforgettable experiences amidst the stunning landscapes of the Swiss Alps.",
+            "title": "Frozen in Time: Discover the Timeless Beauty of Sabbione in the Bavona Valley",
+            "desc": "Step back in time to explore the enchanting village of Sabbione in Switzerland's Bavona Valley. Discover its medieval charm, breathtaking landscapes, and the timeless way of life preserved in this hidden gem.",
             "date": "2025-01-01 18:00:00.000",
-            "location":"Switzerland",
-            "videoid": "wtCD5SgaeTE",
-            "tags": ["views", "landscapes", "top", "places", "alps", "hike"],
-            "url": "top5-hikings"
-          }]
+            "location":"Bavona Valley, Ticino",
+            "videoid": "s0-S2BCjXlQ",
+            "tags": ["village", "waterfall", "family", "historic", "ticino"],
+            "url": "sabbione"
+          }
+    ],
+    "next":[
+      
+          {
+            "title": "Stoos Ridge",
+            "desc": "Stoos Ridge is a mountain ridge in the Swiss Alps, located in the canton of Schwyz. It is a popular destination for hikers and nature lovers, offering stunning views of the surrounding mountains and valleys. The ridge is accessible by cable car, making it an ideal day trip for visitors looking to explore the natural beauty of Switzerland.",
+            "date": "2025-01-01 18:00:00.000",
+            "location":"Schwyz, Schwyz",
+            "videoid": "8yf-DrM0LKk",
+            "tags": ["mountain", "hike", "views", "schwyz", "alps"],
+            "url": "stoos-ridge"
+          },
+          {
+            "title": "Mount Rigi",
+            "desc": "Mount Rigi, also known as the 'Queen of the Mountains,' is a popular tourist destination in Switzerland. Located near Lucerne and the Lake of Zug, Mount Rigi offers stunning views of the Swiss Alps and the surrounding lakes. Visitors can reach the summit by cogwheel train or cable car, and enjoy a range of outdoor activities such as hiking, biking, and paragliding.",
+            "date": "2025-01-01 18:00:00.000",
+            "location":"Lake Lucerne Region, Lucerne",
+            "videoid": "8yf-DrM0LKk",
+            "tags": ["mountain", "lake", "hike", "lucerne", "rigi", "views", "alps"],
+            "url": "rigi"
+          },
+      {
+        "title": "Staying in a Real Castle in Switzerland",
+        "desc": "Ever dreamed of staying in a real castle in the swiss alps? Now you can turn that dream into reality without breaking the bank. Join us on this enchanting hotel tour as we unlock the doors to Châtelard Castle Hotel, in Montreux, Switzerland, where affordable luxury meets historic charm.",
+        "location":"Chem. de Planchamp-Dessous, Montreux",
+        "date": "2025-01-01 18:00:00.000",
+        "videoid": "sMENon0E0Cw",
+        "tags": ["hotel", "stay", "montreux", "review", "vaud"],
+        "url": "airbnb-castle-montreux"
+      },
+      {
+        "title": "Top 5 hikings in Switzerland",
+        "desc": "Switzerland is a hiker's paradise, offering a plethora of trails that cater to all levels of experience. In this post, we'll explore the top 5 hiking trails in Switzerland that promise unforgettable experiences amidst the stunning landscapes of the Swiss Alps.",
+        "date": "2025-01-01 18:00:00.000",
+        "location":"Switzerland",
+        "videoid": "wtCD5SgaeTE",
+        "tags": ["views", "landscapes", "top", "places", "alps", "hike"],
+        "url": "top5-hikings"
+      }
+    ]
   }
   
           

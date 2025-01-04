@@ -1,0 +1,418 @@
+{
+    "title": "Frozen in Time: Exploring the Mysterious Medieval Village of Sabbione",
+    "description": "Explore Sabbione, a hidden Swiss village of medieval charm and stunning Alpine landscapes!",
+    "videoid": "s0-S2BCjXlQ",
+    "publishedAt": "2025-01-05",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Sabbione",
+        "region": "6690 Cevio, Bavona Valley",
+        "canton": "Ticino",
+        "airport": "Milan Malpensa (MXP) - 2h drive",
+        "maps": "https://maps.app.goo.gl/BaE2Kjh2wgX2RQyVA"
+    },
+    "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Hidden deep within the Bavona Valley in Switzerland’s Canton of Ticino lies Sabbione, a village seemingly untouched by time"
+                }
+            ]
+            
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "With its rustic stone houses, breathtaking landscapes, and rich history, Sabbione offers a rare glimpse into the past. Nestled amidst towering mountains and dense forests, this remote village is not just a relic of history but a living testament to the resilience of tradition and harmony with nature."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/capa.jpeg",
+                "style": {},
+                "caption": "Sabbione, a hidden gem in the Bavona Valley of Ticino, Switzerland."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "A Step Back in Time",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Sabbione’s history stretches back thousands of years, with evidence of human habitation in the Bavona Valley dating as far back as 5,000 years ago. The village itself, preserved in its "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "16th-century form"
+                },
+                {
+                    "type": "text",
+                    "value": ", showcases remarkable "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "stone architecture"
+                },
+                {
+                    "type": "text",
+                    "value": ". Houses built from local granite blend seamlessly into the rugged landscape, with some even constructed "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "beneath massive boulders"
+                },
+                {
+                    "type": "text",
+                    "value": ", creating a unique and enchanting atmosphere."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "These ingenious stone structures were not only practical but also a testament to the resourcefulness of the villagers, who used the abundant local materials to build sturdy homes that could withstand the harsh alpine weather. Walking through Sabbione feels like stepping into a "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "medieval storybook"
+                },
+                {
+                    "type": "text",
+                    "value": ", where every corner tells a tale of resilience and ingenuity."
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 mt-5",
+            "caption": "Stone houses in Sabbione, blending seamlessly into the natural landscape.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/IMG_9773.jpeg",
+                    "width": 975,
+                    "height": 758,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/stonehouse.jpeg",
+                    "width": 1072,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Life in an Isolated Village",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "A few years ago, living in Sabbione meant embracing simplicity and a slower pace of life. Isolated from the hustle and bustle of modern cities, the village had retained its age-old traditions and a profound connection to nature. The villagers relied on the surrounding environment for resources and had adapted their lives to the rhythms of the valley."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "This isolation came with challenges, particularly during the harsh winters, but it also fostered a strong sense of community and self-reliance. For visitors nowadays, this offers a rare opportunity to witness a way of life that’s almost entirely untouched by modernity. One of the standout features of Sabbione is its "
+                },
+                {
+                    "type": "link",
+                    "value": "small oratory",
+                    "url": "https://cevio.ch/cultura/attivita-e-siti-culturali/valle-bavona-oratori/oratorio-di-sabbione/",
+                    "target": "_blank"
+                },
+                {
+                    "type": "text",
+                    "value": ", a reflection of the village’s deep-rooted Catholic heritage. This religious structure serves as a reminder of Ticino’s cultural identity as a predominantly Catholic canton and its Italian-speaking traditions. "
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Breathtaking Landscapes",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Sabbione’s setting in the "
+                },
+                {
+                    "type": "link",
+                    "value": "Bavona Valley",
+                    "url": "https://youtu.be/ig3OYRMhxXI",
+                    "target": "_blank"
+                },
+                {
+                    "type": "text",
+                    "value": " is nothing short of spectacular. The rugged mountains that cradle the village rise dramatically, creating a breathtaking backdrop. Dense forests, crystal-clear streams, and cascading waterfalls complete the scene, making this one of Switzerland’s most picturesque locations. The interplay of nature and architecture is especially striking. The stone houses appear to emerge organically from the landscape, as if placed there by the mountains themselves. Whether bathed in sunlight or shrouded in mist, the views around Sabbione are truly unforgettable."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "How to Visit Sabbione",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "caption": "Reaching Sabbione by car from Locarno.",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d88261.53986337462!2d8.59757871691101!3d46.26666372688439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4785c9fcdf682823%3A0xff9107992fea3a9a!2sLocarno!3m2!1d46.166998799999995!2d8.7942643!4m5!1s0x478599c901b264ed%3A0x5987edca72a4fc99!2sSabbione%2C%20Cevio!3m2!1d46.36631!2d8.565714999999999!5e0!3m2!1sen!2sch!4v1736015009489!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "40%",
+                            "height": "400px",
+                            "minWidth":"200px", 
+                            "float": "right",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "Reaching Sabbione involves traveling along a scenic mountain road that branches in the valley. The best time to visit is during spring and summer ("
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "May to August"
+                },
+                {
+                    "type": "text",
+                    "value": "), when the valley’s natural beauty is at its peak. For those exploring the area, nearby villages such as "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "Foroglio",
+                    "url": "/posts/foroglio"
+                },
+                {
+                    "type": "text",
+                    "value": ", "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "Sonlerto",
+                    "url": "https://youtu.be/cgjAloFbrxs"
+                },
+                {
+                    "type": "text",
+                    "value": " and "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "San Carlo",
+                    "url": "https://www.ticino.ch/en/commons/details/Funivia-San-Carlo-Robiei/1002.html"
+                },
+                {
+                    "type": "text",
+                    "value": " offer additional attractions and complement Sabbione’s rustic charm."
+                }
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "title": "By Public Transport",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Take "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "bus 315"
+                },
+                {
+                    "type": "text",
+                    "value": " from Locarno to "
+                },
+                {
+                    "type": "link",
+                    "value": "Bignasco, Posta",
+                    "url": "https://goo.gl/maps/4aHbkH4NA5b4SxiC7",
+                    "target": "_blank"
+                },
+                {
+                    "type": "text",
+                    "value": ", followed by "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "bus 333"
+                },
+                {
+                    "type": "text",
+                    "value": " to Sabbione. Note that bus 333 operates only a few times a day, so be sure to "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "check the schedule in advance"
+                },
+                {
+                    "type": "text",
+                    "value": ". The entire trip takes approximately 1 hour from Locarno. On weekends, buses can be crowded, and standing may be necessary. "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "Don't forget to verify the return bus schedule."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "By Car",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "You can drive directly to Sabbione, which is about a 40-minute drive from Locarno. There is a small free parking lot in front of the village – GPS coordinates: "
+                },
+                {
+                    "type": "link",
+                    "value": "46.367288, 8.564875",
+                    "url": "https://maps.app.goo.gl/nGhEnRGMkhtPf9T77",
+                    "target": "_blank"
+                },
+                {
+                    "type": "text",
+                    "value": ". The scenic drive offers breathtaking views of the Bavona Valley, making the journey as enjoyable as the destination."
+                }
+            ]
+        },
+
+
+        {
+            "type": "richtext",
+            "title": "Conclusion",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Sabbione is more than just a village; it’s a journey into the heart of a bygone era. With its rich history, stunning landscapes, and timeless charm, it offers a unique experience for travelers seeking serenity and authenticity. Whether you’re drawn to its medieval architecture, its harmonious connection with nature, or simply the chance to slow down, Sabbione is a destination that lingers in the heart and mind."
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "w-full mt-5",
+            "caption": "The enchanting beauty of Sabbione and the Bavona Valley. ",
+            "photos": [
+                
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h19m47s349.jpeg",
+                    "width": 1463,
+                    "height": 850,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h21m48s052.jpeg",
+                    "width": 1512,
+                    "height": 850,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h25m20s292.jpeg",
+                    "width": 1512,
+                    "height": 850,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h27m41s488.jpeg",
+                    "width": 1280,
+                    "height": 716,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h27m59s427.jpeg",
+                    "width": 1280,
+                    "height": 476,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h29m34s358.jpeg",
+                    "width": 1280,
+                    "height": 673,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h30m22s669.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h31m32s439.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "coffee",
+            "title": "Did you enjoy this post?",
+            "subtitle": "Buy us a coffee ☕",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
+        },
+        {
+            "type": "gyg-div",
+            "title": "Offers of Nearby Activities",
+            "text": "Discover more activities in the region and make the most of your trip to Sabbione!",
+            "gygatt": {
+                "data-gyg-location-id": "104739" ,
+                "data-gyg-locale-code": "en-US" ,
+                "data-gyg-widget": "activities" ,
+                "data-gyg-number-of-items": "6" ,
+                "data-gyg-partner-id": "6OBOJRK"
+            }
+        }
+    ]
+}
