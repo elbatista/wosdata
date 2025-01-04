@@ -1,0 +1,640 @@
+{
+    "title": "Swiss Alps Airbnb Review: Peaceful Stay Near Stoos Ridge & Mount Rigi",
+    "description": "Check out our incredible Airbnb review and house tour set in the heart of Switzerland!",
+    "videoid": "8yf-DrM0LKk",
+    "publishedAt": "2025-01-05",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Rickenbachstrasse 209",
+        "region": "6432 Rickenbach",
+        "canton": "Schwyz",
+        "airport": "Zurich Airport (ZRH) - about 76 km away",
+        "maps": "https://maps.app.goo.gl/d1F6WXnLeiRusVtk8"
+    },
+    "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Nestled in the picturesque heart of Switzerland, the region of Schwyz offers an authentic taste of the Swiss Alps"
+                }
+            ]
+            
+        },
+        {
+            "type": "text",
+            "title": "",
+            "titlelevel": 2,
+            "text": [
+                "During our recent visit, we stayed in a charming Airbnb that exceeded all our expectations. With breathtaking views, cozy interiors, and a prime location near some of Switzerland’s most iconic landmarks, it was the perfect getaway. Here’s our full review of this unforgettable stay."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/capa.jpg",
+                "style": {},
+                "caption": "The landscape in which the house is situated. 🌿✨."
+            }
+        },
+        {
+            "type": "text",
+            "title": "About the Airbnb",
+            "titlelevel": 2,
+            "text": [
+                "Our Airbnb was a traditional wooden chalet, located in Rickenbach region. From the moment we arrived, we were struck by its blend of rustic charm, modern amenities, and the warm hospitality of the hosts. The newly renovated 3 and a half room apartment on the 2nd floor, has a bedroom with a box spring bed, a children's room with a single bed and a living room with a sofa bed. A fully equipped kitchen with dishwasher, coffee maker, fondue and raclette oven. The cozy balcony invites you to linger and offers a fantastic view of the surrounding mountains and Lake Lucerne."
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 mt-5",
+            "caption": "Some photos of the Airbnb (see the complete tour in the video).",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/house/3fd5162a-e77f-45a6-bb06-9ebf8c126880.avif",
+                    "width": 1440,
+                    "height": 1440,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/house/7418a350-cdee-4920-a464-1489e9aa0fc9.jpeg",
+                    "width": 1440,
+                    "height": 1920,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/house/75367a4b-0a1d-4757-8d9b-4eb2718b788d.avif",
+                    "width": 1440,
+                    "height": 1440,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/house/9e0cdb38-eb93-4c61-9acc-94c16b6aaec9.avif",
+                    "width": 1440,
+                    "height": 1440,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/house/aa88ba58-a6f5-42dd-b634-4ad954e8e62f.avif",
+                    "width": 1440,
+                    "height": 1440,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/house/c6f4e034-f9b7-4827-86b6-acf95c2243bc.avif",
+                    "width": 1440,
+                    "height": 1440,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/house/d7777651-7782-41c0-9ce9-1d46e84f3604.avif",
+                    "width": 1200,
+                    "height": 900,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/house/fc1290e2-eb88-4c19-856b-1a08de74d142.avif",
+                    "width": 1440,
+                    "height": 1080,
+                    "title": null,
+                    "description": null
+                }
+
+            ]
+        },
+        {
+            "type": "richtext",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "For us, the key features of the Airbnb included:"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "class": "font-bold uppercase ml-5",
+                    "value": "📍 Location: "
+                },
+                {
+                    "type": "text",
+                    "value": "The Airbnb was situated in a quiet and peaceful area, surrounded by lush greenery and stunning mountain views. It was just around"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " 37 km from Lucerne"
+                },
+                {
+                    "type": "text",
+                    "value": " and"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " 7 km from Stoos"
+                },
+                {
+                    "type": "text",
+                    "value": " (see Nearby Attractions below)."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "class": "font-bold uppercase ml-5",
+                    "value": "🛏️ Amenities: "
+                },
+                {
+                    "type": "text",
+                    "value": "The chalet came with 2 bedrooms, a cozy living room with a balcony offering stunning views, one modern bathroom, a well-equipped kitchen perfect for preparing meals, and free parking."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "class": "font-bold uppercase ml-5",
+                    "value": "🛋️ Ambiance: "
+                },
+                {
+                    "type": "text",
+                    "value": "The blend of traditional Swiss design and modern comforts made it feel like home."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Booking this Airbnb was straightforward, and for the price of approximately  "
+                },
+                {
+                    "type":"text",
+                    "class": "font-bold text-lg",
+                    "value": "102 CHF per night"
+                },
+                {
+                    "type":"text",
+                    "value": ", it was a steal for the experience it offered. See the  "
+                },
+                {
+                    "type": "link",
+                    "value": "Airbnb listing",
+                    "target": "_blank",
+                    "url": "https://www.airbnb.com/rooms/956197854409493084"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "class": "italic",
+                    "value": "All amenities: "
+                },
+                {
+                    "type": "text",
+                    "class": "font-thin text-sm ",
+                    "value": "Hair dryer • Shampoo • Body soap • Hot water • Shower gel • TV • Central heating • Smoke alarm • Fire extinguisher • First aid kit • Wifi • Dedicated workspace • Refrigerator • Cooking basics • Dishes and silverware • Bowls, chopsticks, plates, cups... • Freezer • Dishwasher • Electric stove • Oven • Coffee maker • Long term stays allowed • Host greets you"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "The Views & Scenery",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "One of the standout features of this stay was the jaw-dropping scenery. From the balcony, we were greeted with sweeping views of majestic mountain peaks, rolling green hills, and the serene Lake Lucerne."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type":"text",
+                    "value": "During our visit, the weather added an extra layer of magic. On one foggy morning, the valley below was shrouded in a thick blanket of clouds, making it feel like we were floating above the world. The changing light throughout the day made the landscape a living masterpiece."
+                }
+            ]
+        },
+
+
+        {
+            "type": "richtext",
+            "title": "Practical Information",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "caption": "Reaching the Airbnb by car from Lucerne.",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d86937.50571989965!2d8.397909019077057!3d47.08344330243564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x478ffa2a79547379%3A0xaef02ad1409952af!2sLucerne!3m2!1d47.050168199999995!2d8.3093072!4m5!1s0x47854e5819c78a41%3A0x8a83fafaaec15384!2sRickenbachstrasse%20209%2C%206432%20Rickenbach!3m2!1d47.0131849!2d8.6741426!5e0!3m2!1sen!2sch!4v1735848935893!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "40%",
+                            "height": "400px",
+                            "minWidth":"200px", 
+                            "float": "right",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "Getting there is not complicated. The Airbnb is located approximately 37 km away from Lucerne, the nearest major city, and"
+                },
+                {
+                    "type": "text",
+                    "value": " around 76 km from Zurich Airport (ZRH). The drive from Zurich Airport takes around 1 hour and 10 minutes. The nearest train station is in Schwyz."
+                },
+                {
+                    "type": "text",
+                    "value": " Free parking is available and this is very convenient since we always travel by car. For around"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold text-lg",
+                    "value": " 102.00 CHF per night"
+                },
+                {
+                    "type": "text",
+                    "value": ", this accommodation provides excellent value. Please note that "
+                },
+                {
+                    "type": "text",
+                    "class": "underline text-lg font-bold",
+                    "value": "accessibility might be a concern"
+                },
+                {
+                    "type": "text",
+                    "value": " as there are stairs to climb and no lift available. This could be challenging for guests with mobility issues."
+                }
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "title": "Our experience",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Staying at this chalet was nothing short of magical. Some of our favorite moments included sipping a coffee on the balcony and cozy evenings by the living room. The hosts were incredibly welcoming and made sure we had everything we needed for a comfortable stay. We also appreciated the cleanliness and attention to detail throughout the apartment."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "The location was perfect for exploring the surrounding area. We took a"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " day trip to Stoos"
+                },
+                {
+                    "type": "text",
+                    "value": ", and the nearby mountains, all of which were within easy reach. The Airbnb was a peaceful retreat after a day of sightseeing, and we loved coming back to the stunning views and tranquility of the chalet."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "A truly special moment was when the hosts graciously"
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": " allowed us to invite a family of friends over"
+                },
+                {
+                    "type": "text",
+                    "value": " for dinner. We shared a delightful raclette meal, filled with laughter, stories, and the warmth of good company. The evening was magical, with the cozy ambiance of the chalet and the breathtaking views outside, making it an unforgettable night that we will cherish forever."
+                }
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "title": "Nearby Attractions",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "The Airbnb is ideally located for exploring some of Switzerland’s most iconic attractions. Here are a few highlights:"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Stoos",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "link",
+                    "value": "Stoos",
+                    "target": "_blank",
+                    "url": "https://youtu.be/O6MeuilKwpQ"
+                },
+                {
+                    "type": "text",
+                    "value": " is a charming mountain village that is car-free and accessible by a"
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "value": " funicular railway",
+                    "url": "https://www.stoos.ch/en/stories/stoosbahnen"
+                },
+                {
+                    "type": "text",
+                    "value": ". The village offers stunning views of the surrounding mountains and is a popular destination for hiking and skiing. One of the highlights is the"
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "value": " Stoos Ridge Hike",
+                    "url": "https://www.stoos.ch/en/stories/stoos-ridge-hike"
+                },
+                {
+                    "type": "text",
+                    "value": ", from Klingenstock to Fronalpstock, which offers breathtaking panoramic views of the Swiss Alps and Lake Lucerne. The hike is suitable for all levels and provides a unique opportunity to experience the natural beauty of the region up close."
+                },
+                {
+                    "type": "text",
+                    "value": "Stoos is just a short drive away from the Airbnb and is well worth a visit for its natural beauty and peaceful atmosphere. "
+                },
+                {
+                    "type": "text",
+                    "value": "For more information, visit the "
+                },
+                {
+                    "type": "link",
+                    "value": "official Stoos website",
+                    "target": "_blank",
+                    "url": "https://www.stoos.ch/en/"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/stoos.jpeg",
+                "style": {},
+                "caption": "The Stoos Ridge Hike offers breathtaking panoramic views of the Swiss Alps and Lake Lucerne. 🏞️🌲."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "Lucerne",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "A picturesque city known for its well-preserved medieval architecture, including the "
+                },
+                {
+                    "type": "link",
+                    "value": "Chapel Bridge",
+                    "target": "_blank",
+                    "url": "https://youtu.be/RZouDSusavY"
+                },
+                {
+                    "type": "text",
+                    "value": " and Water Tower."
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "value": " Lucerne",
+                    "url": "https://youtu.be/oD-_4wJAw-s"
+                },
+                {
+                    "type": "text",
+                    "value": " is also a gateway to the Swiss Alps and offers boat cruises on Lake Lucerne."
+                },
+                {
+                    "type": "text",
+                    "value": " The city is just a short drive away from the Airbnb and is a must-visit for its historic charm and stunning views of the surrounding mountains. "
+                },
+                {
+                    "type": "text",
+                    "value": "Another nearby attraction is"
+                },
+                {
+                    "type": "link",
+                    "value": " Mount Pilatus",
+                    "target": "_blank",
+                    "url": "/posts/pilatus"
+                },
+                {
+                    "type": "text",
+                    "value": ", known for its steepest cogwheel railway in the world. The mountain offers breathtaking panoramic views, hiking trails, and a variety of activities such as the Pilatus Rope Park and the Dragon Ride aerial cableway. It's a perfect destination for adventure seekers and nature lovers alike."
+                },
+                {
+                    "type": "text",
+                    "value": " For more information, visit the "
+                },
+                {
+                    "type": "link",
+                    "value": "official Lucerne website",
+                    "target": "_blank",
+                    "url": "https://www.luzern.com/en/"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/lucerne.jpg",
+                "style": {},
+                "caption": "Lucerne is a picturesque city known for its well-preserved medieval architecture. 🏰🌸."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "Mount Rigi",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "link",
+                    "target" : "_blank",
+                    "value": "Rigi",
+                    "url": "https://youtu.be/0knsC3bOKl0"
+                },
+                {
+                    "type": "text",
+                    "value": " is known as the 'Queen of the Mountains,' offering panoramic views of the Swiss Alps and Lake Lucerne. The mountain is accessible by many "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "value": "railways and cable cars",
+                    "url": "https://www.rigi.ch/en/experience/mountain-railways/mountain-railway-experiences"
+                },
+                {
+                    "type": "text",
+                    "value": " and is a popular destination for hiking and skiing."
+                },
+                {
+                    "type": "text",
+                    "value": " One of the highlights is the "
+                },
+                {
+                    "type": "link",
+                    "value": "Rigi Panorama Trail",
+                    "target": "_blank",
+                    "url": "https://www.rigi.ch/en/experience/hiking/top-5-hiking-trails#ipd=13843726"
+                },
+                {
+                    "type": "text",
+                    "value": ", a scenic hike that offers breathtaking views of the surrounding mountains and lakes. The mountain is just a short drive away from the Airbnb and is a must-visit for its natural beauty and outdoor activities. For more information, visit the "
+                },
+                {
+                    "type": "link",
+                    "value": "official Rigi website",
+                    "target": "_blank",
+                    "url": "https://www.rigi.ch/en"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/rigi.jpeg",
+                "style": {},
+                "caption": "Mount Rigi offers panoramic views of the Swiss Alps and Lake Lucerne. 🏞️🌲."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "Schwyz",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "The capital of the canton of Schwyz, this charming town is known for its well-preserved historic buildings and traditional Swiss culture. Schwyz is a great place to explore on foot and offers stunning views of the surrounding mountains."
+                },
+                {
+                    "type": "text",
+                    "value": " One of the highlights are the  "
+                },
+                {
+                    "type": "link",
+                    "value": "cherry schnaps distilleries",
+                    "target": "_blank",
+                    "url": "https://www.myswitzerland.com/en-ch/experiences/visit-cherry-schnaps-distilleries/"
+                },
+                {
+                    "type": "text",
+                    "value": ". The organisation \"Kirschstrasse\" (translated \"cherry schnaps street\") offers plenty of activities, seminaries and visits around the famous \"Kirsch\" schnaps. For more information, visit the "
+                },
+                {
+                    "type": "link",
+                    "value": "official Schwyz website",
+                    "target": "_blank",
+                    "url": "https://www.sz.ch/"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Final Thoughts",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Our stay at this Airbnb was truly unforgettable. From the stunning views to the cozy interiors and warm hospitality of the hosts, every moment was a delight. We left feeling refreshed, rejuvenated, and with memories that will last a lifetime. If you’re looking for a peaceful retreat in the heart of Switzerland, we highly recommend booking a stay at this charming chalet."
+                }
+            ]
+        },
+        {
+            "type": "gyg-div",
+            "title": "Offers of Nearby Activities",
+            "text": "Check out some of the best activities near Schwyz! By using our GetYourGuide widgets below, you help us to create more content like this, and you can book tours and activities directly from this page. Enjoy your stay! 🇨🇭",
+            "gygatt": {
+                "data-gyg-widget":"activities" ,
+                "data-gyg-number-of-items":"5" ,
+                "data-gyg-excluded-tour-ids":"383502" ,
+                "data-gyg-partner-id":"6OBOJRK" ,
+                "data-gyg-tour-ids":"383502,87452,123611,519460,568668"
+            }
+        },
+        {
+            "type": "coffee",
+            "title": "Did you enjoy this post?",
+            "subtitle": "Buy us a coffee ☕",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
+        }
+        
+    ]
+}

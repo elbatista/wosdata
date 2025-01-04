@@ -143,6 +143,15 @@
             "videoid": "YTp2zDeqcYA",
             "tags": ["hotel", "stay", "appenzell", "review"],
             "url": "airbnb-appenzell"
+          },
+          {
+            "title": "Airbnb Review in the Swiss Alps",
+            "desc": "Discover our amazing Airbnb experience in Schwyz, Switzerland! We spent a few unforgettable days in this beautiful chalet, surrounded by breathtaking scenery, featuring panoramic views of majestic mountains, lush green hills, and the sparkling Lake Lucerne.",
+            "location":"Rickenbach, Schwyz",
+            "date": "2025-01-02 18:00:00.000",
+            "videoid": "8yf-DrM0LKk",
+            "tags": ["hotel", "stay", "schwyz", "review"],
+            "url": "airbnb-schwyz"
           }
     ],
     "next":[{
