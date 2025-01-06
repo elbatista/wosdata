@@ -161,19 +161,20 @@
             "videoid": "s0-S2BCjXlQ",
             "tags": ["village", "waterfall", "family", "historic", "ticino"],
             "url": "sabbione"
+          },
+          {
+            "title": "Stoos Ridge",
+            "desc": "Stoos Ridge is a mountain ridge in the Swiss Alps, located in the canton of Schwyz. It is a popular destination for hikers and nature lovers, offering stunning views of the surrounding mountains and valleys.",
+            "date": "2025-01-01 18:00:00.000",
+            "location":"Stoos, Schwyz",
+            "videoid": "O6MeuilKwpQ",
+            "tags": ["mountain", "hike", "views", "schwyz", "alps", "stoos", "ridge"],
+            "url": "stoos-ridge"
           }
     ],
     "next":[
       
-          {
-            "title": "Stoos Ridge",
-            "desc": "Stoos Ridge is a mountain ridge in the Swiss Alps, located in the canton of Schwyz. It is a popular destination for hikers and nature lovers, offering stunning views of the surrounding mountains and valleys. The ridge is accessible by cable car, making it an ideal day trip for visitors looking to explore the natural beauty of Switzerland.",
-            "date": "2025-01-01 18:00:00.000",
-            "location":"Schwyz, Schwyz",
-            "videoid": "8yf-DrM0LKk",
-            "tags": ["mountain", "hike", "views", "schwyz", "alps"],
-            "url": "stoos-ridge"
-          },
+          
           {
             "title": "Mount Rigi",
             "desc": "Mount Rigi, also known as the 'Queen of the Mountains,' is a popular tourist destination in Switzerland. Located near Lucerne and the Lake of Zug, Mount Rigi offers stunning views of the Swiss Alps and the surrounding lakes. Visitors can reach the summit by cogwheel train or cable car, and enjoy a range of outdoor activities such as hiking, biking, and paragliding.",

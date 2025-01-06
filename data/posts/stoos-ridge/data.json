@@ -1,0 +1,854 @@
+{
+    "title": "Stoos Ridge Hike - A Swiss Adventure in the Alps",
+    "description": "The Stoos Ridge hike is a beautiful and challenging hike in the Swiss Alps. The hike offers stunning views of the surrounding mountains and valleys, and is a great way to experience the natural beauty of Switzerland. ",
+    "videoid": "O6MeuilKwpQ",
+    "publishedAt": "2025-01-05",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Stoos",
+        "region": "Central Switzerland",
+        "canton": "Schwyz",
+        "airport": "Zurich Airport (ZRH) - 1h 15min by car",
+        "maps": "https://maps.app.goo.gl/FMM4AEYdsRtCPDav6"
+    },
+    "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "If you’re seeking a thrilling yet accessible hiking adventure in Switzerland, the Stoos Ridge Hike from Klingenstock to Fronalpstock is an absolute must-do"
+                }
+            ]
+            
+        },
+
+       
+        {
+            "type": "richtext",
+            "text": [
+            {
+                "type": "text",
+                "class": "text-base md:text-lg tracking-wider font-light",
+                "value": "Combining breathtaking panoramas, a world-famous funicular, and an alpine ridge trail, this hike offers an unforgettable experience for outdoor enthusiasts and families alike."
+            }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": " w-full mt-5",
+            "caption": "Some photos of the hike. See the complete tour in the video. More photos at the end of the post.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0133.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0137.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0151.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0153.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0165.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0171.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0179.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0185.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        
+        {
+            "type": "richtext",
+            "title": "Highlights and Key Information",
+            "titlelevel": 2,
+            "text": [
+              {
+            "type": "text",
+            "class": "text-base md:text-lg tracking-wider font-bold",
+            "value": "🚞 Ride the Steepest Funicular in the World"
+              },
+              {
+            "type": "text",
+            "class": "text-base md:text-lg tracking-wider font-light",
+            "value": ": Begin your adventure with a ride on the Stoosbahn, the steepest funicular train in the world, whisking you up to the charming alpine village of Stoos."
+              }
+            ]
+          },
+          {
+            "type": "richtext",
+            "text": [
+              {
+            "type": "text",
+            "class": "text-base md:text-lg tracking-wider font-bold",
+            "value": "🌄 Ridge Trail with Panoramic Views"
+              },
+              {
+            "type": "text",
+            "class": "text-base md:text-lg tracking-wider font-light",
+            "value": ": The hike takes you along a spectacular ridgeline, offering unobstructed views of Lake Lucerne, surrounding peaks, and lush valleys."
+              }
+            ]
+          },
+          {
+            "type": "richtext",
+            "text": [
+              {
+            "type": "text",
+            "class": "text-base md:text-lg tracking-wider font-bold",
+            "value": "🚡 Chairlifts to Elevate Your Experience"
+              },
+              {
+            "type": "text",
+            "class": "text-base md:text-lg tracking-wider font-light",
+            "value": ": Chairlifts to and from the ridge make the hike more accessible while providing stunning aerial vistas."
+              }
+            ]
+          },
+          {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 mt-5",
+            "caption": "The Stoos village, chair-lifts and the ridge trail.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h38m53s577.jpeg",
+                    "width": 1280,
+                    "height": 461,
+                    "title": null,
+                    "description": null
+                },{
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h36m56s747.jpeg",
+                    "width": 944,
+                    "height": 610,
+                    "title": null,
+                    "description": null
+                },
+                
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h40m25s877.jpeg",
+                    "width": 941,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h41m07s704.jpeg",
+                    "width": 1280,
+                    "height": 536,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "list",
+                    "class": "text-base md:text-lg tracking-wider font-light",
+                    "value": [
+                        "Trail Name: \t\t Klingenstock to Fronalpstock Ridge Trail",
+                        "Distance: 4.4 km (one way)",
+                        "Duration: ~2 hours (3 or more for beginners or with kids)",
+                        "Elevation: 290m ascent, 300m descent",
+                        "Highest Point: 1900m",
+                        "Difficulty: Moderate (secure footing required, with steep drop-offs)",
+                        "Trail Conditions: Narrow, rocky alpine trail with stairs",
+                        "Season: Open June to October",
+                        "Cost: CHF 56/adult, CHF 20/child (6-15 years). Discounts available for travel passes."
+                    ]
+                }
+            ]
+        },
+
+
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "More info: "
+                },
+                {
+                    "type": "link",
+                    "url": "https://www.stoos-muotatal.ch",
+                    "target": "_blank",
+                    "value": "https://stoos-muotatal.ch/en/"
+                  },
+                  {
+                    "type": "text",
+                    "value": " | "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://stoos-muotatal.ch/en/webcams/",
+                    "target": "_blank",
+                    "value": "Webcam"
+                  },
+                  {
+                    "type": "text",
+                    "value": " | "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://stoos-muotatal.ch/en/open-facilities/",
+                    "target": "_blank",
+                    "value": "Lift & Trail status"
+                  }
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "title": "Getting There",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "caption": "Reaching the Stoos Funicular Station by car from Lucerne.",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d86955.13601106413!2d8.39748136855657!3d47.072638901625474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x478ffa2a79547379%3A0xaef02ad1409952af!2sLucerne!3m2!1d47.050168199999995!2d8.3093072!4m5!1s0x47854fa78e60e643%3A0xb421658e7574f8fe!2sStoosbahnen%2C%206430%20Schwyz!3m2!1d46.9912603!2d8.673320799999999!5e0!3m2!1sen!2sch!4v1736111530025!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "40%",
+                            "height": "300px",
+                            "minWidth":"200px", 
+                            "float": "right",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "By Car: "
+                },
+                {
+                    "type": "text",
+                    "value": "The Stoos Funicular Station is at "
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://www.google.com/maps?q=Grundstrasse+232,+6430+Schwyz",
+                    "target": "_blank",
+                    "value": "Grundstrasse 232, 6430 Schwyz"
+                  },
+                  {
+                    "type": "text",
+                    "value": ". Parking is available at the funicular station. If the main parking lot is full, continue driving down the valley to the overflow parking area, where a shuttle service will take you back to the funicular station."
+                  }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "By Public Transport: "
+                },
+                {
+                    "type": "text",
+                    "value": "Take a train to Schwyz, then bus #1 to Schwyz Stoosbahn. The bus stops directly at the funicular station."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Planning Your Day",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Start Early: "
+                },
+                {
+                    "type": "text",
+                    "value": "To enjoy quieter trails and maximize your time, aim to arrive in the morning."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Tickets: "
+                },
+                {
+                    "type": "text",
+                    "value": "Purchase the “Stoos Peak Experience Ticket” onsite or "
+                },
+                {
+                    "type": "link",
+                    "url": "https://www.stoos.ch/en/pages/prices-peak-experience-ticket-dayticket-summer",
+                    "target": "_blank",
+                    "value": "online for slight discounts"
+                },
+                {
+                    "type": "text",
+                    "value": ". This includes the funicular and chairlift rides."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Check Operating Hours:"
+                },
+                {
+                    "type": "text",
+                    "value": "Lifts and funiculars have seasonal schedules; verify before your trip at "
+                },
+                {
+                    "type": "link",
+                    "url": "https://www.stoos.ch/en/pages/funicular-schwyz-stoos",
+                    "target": "_blank",
+                    "value": "their website"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 mt-5",
+            "caption": "Break spots along the trail.",
+            "photos": [
+                
+
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h51m05s970.jpeg",
+                    "width": 1280,
+                    "height": 564,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "titlelevel": 3,
+            "title": "Family-Friendly Tips",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "For Kids: "
+                },
+                {
+                    "type": "text",
+                    "value": "The trail’s narrow paths and steep drop-offs mean it’s best suited for older kids with secure footing. Younger children might enjoy the easy panorama trail at Fronalpstock."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Break Spots: "
+                },
+                {
+                    "type": "text",
+                    "value": "Pack a picnic to enjoy at scenic viewpoints along the trail."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Gear: "
+                },
+                {
+                    "type": "text",
+                    "value": "Wear sturdy hiking shoes and bring layers, sunscreen, and water."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Alternative Options",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Easier Option: "
+                },
+                {
+                    "type": "text",
+                    "value": "Ride the chairlift to Fronalpstock for a gentle panorama trail suitable for families with young kids."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Longer Option: "
+                },
+                {
+                    "type": "text",
+                    "value": "Skip the Klingenstock chairlift and hike up to the ridge, adding 4km and 565m of elevation gain. Extend your hike by descending from Fronalpstock on foot."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Nearby Attractions",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Stoos is ideally located for exploring some of Switzerland’s most iconic attractions. Here are two highlights:"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Lucerne",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "A picturesque city known for its well-preserved medieval architecture, including the "
+                },
+                {
+                    "type": "link",
+                    "value": "Chapel Bridge",
+                    "target": "_blank",
+                    "url": "https://youtu.be/RZouDSusavY"
+                },
+                {
+                    "type": "text",
+                    "value": " and Water Tower."
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "value": " Lucerne",
+                    "url": "https://youtu.be/oD-_4wJAw-s"
+                },
+                {
+                    "type": "text",
+                    "value": " is also a gateway to the Swiss Alps and offers boat cruises on Lake Lucerne."
+                },
+                {
+                    "type": "text",
+                    "value": " The city is just a short drive away from Stoos and is a must-visit for its historic charm and stunning views of the surrounding mountains. "
+                },
+                {
+                    "type": "text",
+                    "value": "Another nearby attraction is"
+                },
+                {
+                    "type": "link",
+                    "value": " Mount Pilatus",
+                    "target": "_blank",
+                    "url": "/posts/pilatus"
+                },
+                {
+                    "type": "text",
+                    "value": ", known for its steepest cogwheel railway in the world. The mountain offers breathtaking panoramic views, hiking trails, and a variety of activities such as the Pilatus Rope Park and the Dragon Ride aerial cableway. It's a perfect destination for adventure seekers and nature lovers alike."
+                },
+                {
+                    "type": "text",
+                    "value": " For more information, visit the "
+                },
+                {
+                    "type": "link",
+                    "value": "official Lucerne website",
+                    "target": "_blank",
+                    "url": "https://www.luzern.com/en/"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/lucerne.jpg",
+                "style": {},
+                "caption": "Lucerne is a picturesque city known for its well-preserved medieval architecture. 🏰🌸."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "Mount Rigi",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "link",
+                    "target" : "_blank",
+                    "value": "Rigi",
+                    "url": "https://youtu.be/0knsC3bOKl0"
+                },
+                {
+                    "type": "text",
+                    "value": " is known as the 'Queen of the Mountains,' offering panoramic views of the Swiss Alps and Lake Lucerne. The mountain is accessible by many "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "value": "railways and cable cars",
+                    "url": "https://www.rigi.ch/en/experience/mountain-railways/mountain-railway-experiences"
+                },
+                {
+                    "type": "text",
+                    "value": " and is a popular destination for hiking and skiing."
+                },
+                {
+                    "type": "text",
+                    "value": " One of the highlights is the "
+                },
+                {
+                    "type": "link",
+                    "value": "Rigi Panorama Trail",
+                    "target": "_blank",
+                    "url": "https://www.rigi.ch/en/experience/hiking/top-5-hiking-trails#ipd=13843726"
+                },
+                {
+                    "type": "text",
+                    "value": ", a scenic hike that offers breathtaking views of the surrounding mountains and lakes. The mountain is just a short drive away from Stoos and is a must-visit for its natural beauty and outdoor activities. For more information, visit the "
+                },
+                {
+                    "type": "link",
+                    "value": "official Rigi website",
+                    "target": "_blank",
+                    "url": "https://www.rigi.ch/en"
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/airbnb-schwyz/photo/rigi.jpeg",
+                "style": {},
+                "caption": "Mount Rigi offers panoramic views of the Swiss Alps and Lake Lucerne. 🏞️🌲."
+            }
+        },
+
+
+        {
+            "type": "richtext",
+            "title": "Other Nearby Attractions",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "link",
+                    "url": "https://fronalpstock.ch/en/",
+                    "target": "_blank",
+    
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Fronalpstock Restaurant: "
+                },
+                {
+                    "type": "text",
+                    "value": "Savor a meal with a view at the cliffside restaurant."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+               
+            {
+                "type": "link",
+                "url": "https://www.getyourguide.com/lucerne-l867/1-hour-catamaran-cruise-on-lake-lucerne-t446352/?partner_id=6OBOJRK&utm_medium=online_publisher",
+                "target": "_blank",
+                "class": "text-base md:text-lg tracking-wider font-bold",
+                "value": "Lake Lucerne Activities: "
+            },
+            {
+                "type": "text",
+                "value": "Explore the region further with a boat ride or visit nearby villages."
+            }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "url": "https://www.swissholidaypark.ch/en",
+                    "target": "_blank",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Swiss Holiday Park in Morschach: "
+                },
+                {
+                    "type": "text",
+                    "value": "Perfect for families, offering pools, thermal baths, and kid-friendly activities."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Where to Stay",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-bold uppercase",
+                    "value": "⭐️✨ Our recommendation: "
+                },
+                {
+                    "type": "text",
+                    "value": "Stay at the Airbnb we stayed in Schwyz. We have a "
+                },
+                {
+                    "type": "link",
+                    "url": "/posts/airbnb-schwyz",
+                    "target": "_blank",
+                    "value": "separate post with all the details"
+                },
+                {
+                    "type": "text",
+                    "value": ". It offers a cozy and comfortable stay with stunning views of the surrounding mountains. Perfect for families, it provides easy access (10 minutes by car) to the Stoos Funicular Station and other nearby attractions. Other accommodation options include:"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "url": "https://www.stooshutta.ch/",
+                    "target": "_blank",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Stoos Hütte: "
+                },
+                {
+                    "type": "text",
+                    "value": "A nice option very close to the Klingenstock chairlift for an early start."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "url": "https://fronalpstock.ch/en/",
+                    "target": "_blank",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Fronalpstock Mountain Hotel: "
+                },
+                {
+                    "type": "text",
+                    "value": "Stay at the trail’s end to enjoy a sunset over the cliffs."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "link",
+                    "url": "https://www.swissholidaypark.ch/en",
+                    "target": "_blank",
+                    "class": "text-base md:text-lg tracking-wider font-bold",
+                    "value": "Swiss Holiday Park: "
+                },
+                {
+                    "type": "text",
+                    "value": "Again, the family-friendly resort in Morschach with excellent facilities and alternative access to Stoos via cable car."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Final Reflections",
+            "titlelevel": 2,
+            "text": [
+            {
+                "type": "text",
+                "value": "The Stoos Ridge Hike is a quintessential Swiss adventure, blending thrilling landscapes with accessible logistics. Whether you’re chasing alpine vistas, seeking family-friendly exploration, or simply looking to ride the steepest funicular in the world, Stoos has something for everyone. Don’t forget to share your experiences and tips in the comments below – happy hiking!"
+            }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "w-full mt-5",
+            "caption": "Some other photos of the hike (see the complete tour in the video).",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h42m08s060.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h42m35s978.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h44m39s598.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h45m41s590.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h46m13s297.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h47m01s493.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h48m16s341.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h48m38s761.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h49m52s498.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h52m02s322.jpeg",
+                    "width": 984,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h52m23s569.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "coffee",
+            "title": "Did you enjoy this post?",
+            "subtitle": "Buy us a coffee ☕",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
+        },
+        {
+            "type": "gyg-div",
+            "title": "Offers of Nearby Activities",
+            "text": "Check out some of the best activities near Stoos! By using our GetYourGuide widgets below, you help us to create more content like this, and you can book tours and activities directly from this page. Enjoy your stay! 🇨🇭",
+            "gygatt": {
+                "data-gyg-widget":"activities" ,
+                "data-gyg-number-of-items":"5" ,
+                "data-gyg-excluded-tour-ids":"383502" ,
+                "data-gyg-partner-id":"6OBOJRK" ,
+                "data-gyg-tour-ids":"383502,87452,123611,519460,568668"
+            }
+        }
+        
+          
+
+
+,
+        "The hike is relatively short, but it is quite steep and requires a good level of fitness. The trail is well-marked and easy to follow, but there are some sections that are quite exposed and require a head for heights. The hike is best done in the summer months, when the weather is warm and the trails are clear of snow. The hike starts in the village of Stoos, which is accessible by cable car from the valley below. From there, the trail climbs steeply up the ridge, passing through meadows and forests before reaching the summit. The views from the top are breathtaking, with panoramic views of the surrounding mountains and valleys. The hike is a great way to experience the natural beauty of Switzerland and is a must-do for any outdoor enthusiast visiting the country."
+    ]
+}
