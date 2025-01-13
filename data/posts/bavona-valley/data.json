@@ -1,0 +1,663 @@
+{
+    "title": "Bavona Valley - A Hidden Gem in the Swiss Alps",
+    "description": "Bavona Valley is a beautiful place to visit, with stunning views, plenty of outdoor activities, and home to several charming villages, each with its own unique character.",
+    "videoid": "ig3OYRMhxXI",
+    "publishedAt": "2025-01-08",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Bavona Valley",
+        "canton": "Ticino",
+        "airport": "Milan Malpensa Airport (MXP) - around 2 hours drive",
+        "maps": "https://maps.app.goo.gl/Heu4n2rvES1nTc5MA"
+    },
+    "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Nestled in the heart of Ticino, Switzerland, 'Val Bavona' is a realm where nature’s raw power meets human resilience"
+                }
+            ]
+            
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-lg tracking-wider font-light  ",
+                    "value": "With colossal boulders, towering rock faces, and a wilderness untouched by time, this valley invites visitors to step into a world shaped by glaciers and nurtured by ancient traditions. Here, amidst the rugged terrain, humans have carved out a life—building meadows, fields, and homes in the shadow of sheer cliffs. In this post, discover the untamed beauty, cultural treasures, and outdoor adventures that make Bavona Valley an unmissable destination."
+                }
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/capa.jpg",
+                "style": {},
+                "caption": "Bavona Valley in Ticino, Switzerland. A stunning place to visit for nature lovers and outdoor enthusiasts."
+            }
+        },
+        {
+            "type": "richtext",
+            "title": "Val Bavona at a Glance",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Bavona Valley, the steepest and rockiest valley in the Alps, is a dramatic testament to the power of glaciers. The rocky mountainsides rise hundreds of meters, revealing a landscape left behind by ancient ice flows. At its furthest point lies the "
+                },
+                {
+                    "type": "link",
+                    "url":"https://www.ticino.ch/en/commons/details/Bas%C3%B2dino-Glacier-/142499.html",
+                    "target": "_blank",
+                    "value": "Basòdino Glacier"
+                },
+                {
+                    "type": "text",
+                    "value": ", a striking reminder of the valley’s glacial past."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "For centuries, humans have worked tirelessly to transform this wild terrain into habitable space. Meadows and fields have been painstakingly created between massive boulders and cliffs, reflecting a remarkable coexistence with nature. Even today, the valley retains its untamed character, offering visitors a glimpse into its natural and cultural richness."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [
+                {
+                    "type": "text",
+                    "value": "One unique aspect of Bavona Valley is its lack of an electricity network. Solar power fulfills the energy needs of its inhabitants, despite the valley’s own hydroelectric plants generating significant electricity. This self-reliance underscores the valley’s harmony with nature."
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": " w-full mt-5",
+            "caption": "Bavona Valley is a place of rugged beauty, with towering cliffs, stunning villages, lush meadows, and crystal-clear streams.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/vlcsnap-2025-01-08-20h44m49s309.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/vlcsnap-2025-01-08-20h45m14s032.jpeg",
+                    "width": 1280,
+                    "height": 517,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/vlcsnap-2025-01-08-20h46m01s621.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/vlcsnap-2025-01-08-20h46m46s616.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/vlcsnap-2025-01-08-20h47m20s006.jpeg",
+                    "width": 714,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/vlcsnap-2025-01-08-20h48m11s345.jpeg",
+                    "width": 1046,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/vlcsnap-2025-01-08-20h48m22s941.jpeg",
+                    "width": 918,
+                    "height": 719,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "title": "Practical Information",
+            "titlelevel": 2,
+            "text": [
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "How to Get There",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "map",
+                    "float": "right",
+                    "caption": "Route from Malpensa to Bavona Valley, passing through Lugano and Locarno.",
+                    "attributes": {
+                        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d354728.16022049246!2d8.463668608637313!3d46.004929589830724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x478661757c84a7b7%3A0xa3f10a57a0c77efe!2sMilano%20Malpensa%20Airport%20(MXP)%2C%20Ferno%2C%20VA%2C%20Italy!3m2!1d45.6227139!2d8.7282345!4m5!1s0x47859a2ea93469fb%3A0x3d0f78dc180d083e!2sVal%20Bavona%2C%206690%20Cevio!3m2!1d46.3861111!2d8.5266667!5e0!3m2!1sen!2sch!4v1736367084276!5m2!1sen!2sch", 
+                        "style": {
+                            "width": "40%",
+                            "height": "300px",
+                            "minWidth":"200px", 
+                            "float": "right",
+                            "marginLeft": "20px",
+                            "marginBottom": "20px" 
+                        } ,
+                        "allowFullScreen": ""
+                    }
+                },
+                {
+                    "type": "text",
+                    "value": "Bavona Valley is located in the canton of "
+                },
+                {
+                    "type": "link",
+                    "url":"/ticino",
+                    "target": "_blank",
+                    "value": "Ticino"
+                },
+                {
+                    "type": "text",
+                    "value": ", in southern Switzerland. The "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "nearest airport is Milan Malpensa Airport (MXP)"
+                },
+                {
+                    "type": "text",
+                    "value": ", which is approximately a "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "2-hour drive away"
+                },
+                {
+                    "type": "text",
+                    "value": ". From the airport, you can rent a car or take public transportation to reach the valley. From Locarno, take a scenic drive or bus ride towards "
+                },
+                {
+                    "type": "link",
+                    "url": "https://maps.app.goo.gl/qHfLCqpLLjQRzoF6A",
+                    "target": "_blank",
+                    "value": "Cavergno"
+                },
+                {
+                    "type": "text",
+                    "value": ", the gateway to the valley. Parking is available near key attractions like "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "Foroglio",
+                    "url": "/posts/foroglio"
+                },
+                {
+                    "type": "text",
+                    "value": ", "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "Sonlerto",
+                    "url": "https://youtu.be/cgjAloFbrxs"
+                },
+                {
+                    "type": "text",
+                    "value": " and "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "Sabbione.",
+                    "url": "/posts/sabbione"
+                }
+            ]
+        },
+        
+        {
+            "type": "richtext",
+            "title": "When to Visit",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "The best time to visit is from late spring to early autumn "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "(May to October)"
+                },
+                {
+                    "type": "text",
+                    "value": ", when trails are clear, waterfalls are at their peak, and the weather is ideal for outdoor activities. The valley is particularly beautiful in the fall when the larch trees turn golden, creating a stunning contrast against the rugged landscape. Winter is also a magical time to visit, with snow-covered peaks and a peaceful atmosphere. However, "
+                },
+                {
+                    "type": "text",
+                    "class": "font-bold",
+                    "value": "some attractions may be closed during the winter"
+                },
+                {
+                    "type": "text",
+                    "value": " months."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "What to Pack",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "When visiting Bavona Valley, be sure to pack appropriate clothing and gear for outdoor activities. And of course, don’t forget your sense of adventure!"
+                },
+                {
+                    "type": "list",
+                    "value": [
+                        "Hiking boots",
+                        "Waterproof jacket",
+                        "Layers",
+                        "Refillable water bottle",
+                        "Snacks",
+                        "Camera",
+                        "Swimsuit and towel",
+                        "Sense of adventure"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Must-See Attractions in Bavona Valley",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Bavona Valley is home to several charming villages, each with its own unique character. From ancient churches to picturesque waterfalls, there are plenty of attractions to explore in this hidden gem of the Swiss Alps. Here are some must-see places in Bavona Valley:"
+                }
+            ]
+        },  
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 mt-5 ml-5",
+            "caption": "The village of Foroglio, known for its stunning waterfall and traditional stone houses.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/foro/IMG_5936.jpg",
+                    "width": 1052,
+                    "height": 592,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/foro/vlcsnap-2025-01-09-23h52m11s717.jpg",
+                    "width": 1018,
+                    "height": 559,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Foroglio Waterfall",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "One of the most iconic attractions in Bavona Valley is the "
+                },
+                {
+                    "type": "link",
+                    "url":"/posts/foroglio",
+                    "target": "_blank",
+                    "value": "Foroglio Waterfall"
+                },
+                {
+                    "type": "text",
+                    "value": ". This stunning waterfall cascades over 80 meters into a crystal-clear pool below, creating a mesmerizing spectacle. A short hike from the village of Foroglio leads to the base of the waterfall, where visitors can feel the power of nature up close. The surrounding area is perfect for a picnic or a leisurely stroll, offering breathtaking views of the valley and surrounding mountains."
+                }
+            ]
+        },
+        
+        {
+            "type": "richtext",
+            "title": "Sabbione",
+            "titlelevel": 3,
+            "text": [
+                
+                {
+                    "type": "text",
+                    "value": "The village of "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "Sabbione",
+                    "url": "/posts/sabbione"
+                },
+                {
+                    "type": "text",
+                    "value": " is a hidden gem in Bavona Valley, known for its traditional stone houses and charming atmosphere. "
+                },
+                {
+                    "type": "link",
+                    "url": "https://maps.app.goo.gl/BaE2Kjh2wgX2RQyVA",
+                    "target": "_blank",
+                    "value": "The village"
+                },
+                {
+                    "type": "text",
+                    "value": " is a great starting point for hikes and walks in the surrounding area, offering stunning views of the valley and nearby peaks. Visitors can explore the narrow alleys or visit its "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "value": "small oratory",
+                    "url": "https://cevio.ch/cultura/attivita-e-siti-culturali/valle-bavona-oratori/oratorio-di-sabbione/"
+                },
+                {
+                    "type": "text",
+                    "value": ". Sabbione is a peaceful retreat, perfect for those seeking tranquility and natural beauty."
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "w-full mt-5",
+            "caption": "The enchanting beauty of Sabbione and the Bavona Valley. ",
+            "photos": [
+                
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h19m47s349.jpeg",
+                    "width": 1463,
+                    "height": 850,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h21m48s052.jpeg",
+                    "width": 1512,
+                    "height": 850,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h27m41s488.jpeg",
+                    "width": 1280,
+                    "height": 716,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/sabbione/photo/vlcsnap-2025-01-04-21h27m59s427.jpeg",
+                    "width": 1280,
+                    "height": 476,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        }, 
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 mt-5 ml-5",
+            "caption": "The Basòdino Glacier (Photo: Alessio Pizzicannella, Ascona-Locarno Tourism).",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/basodino/variant.jpg",
+                    "width": 1452,
+                    "height": 780,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/basodino/variant2.jpg",
+                    "width": 1437,
+                    "height": 819,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Basòdino Glacier",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "At the head of Bavona Valley lies the "
+                },
+                {
+                    "type": "link",
+                    "url":"https://www.ticino.ch/en/commons/details/Bas%C3%B2dino-Glacier-/142499.html",
+                    "target": "_blank",
+                    "value": "Basòdino Glacier"
+                },
+                {
+                    "type": "text",
+                    "value": ". This impressive glacier is a popular destination for hikers and nature enthusiasts, offering a glimpse into the valley’s glacial past. The glacier can be reached via a scenic hike from the village of "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "San Carlo",
+                    "url": "https://www.ticino.ch/en/commons/details/Funivia-San-Carlo-Robiei/1002.html"
+                },
+                {
+                    "type": "text",
+                    "value": ", passing through alpine meadows and rugged terrain. From the glacier, visitors can enjoy panoramic views of the surrounding peaks and valleys, making it a must-see attraction in Bavona Valley."
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 mt-5 ml-5",
+            "caption": "The village of San Carlo",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/sancarlo/sancarlo.jpeg",
+                    "width": 1077,
+                    "height": 591,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/bavona-valley/photo/sancarlo/sancarlo2.jpeg",
+                    "width": 1055,
+                    "height": 599,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "San Carlo",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "The village of "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "San Carlo",
+                    "url": "https://maps.app.goo.gl/cNHJhXvvs7HyXkVY9"
+                },
+                {
+                    "type": "text",
+                    "value": " is a picturesque hamlet nestled in the heart of Bavona Valley. Here is the lower terminus of the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "cableway to Robièi",
+                    "url": "https://www.ticino.ch/en/commons/details/Funivia-San-Carlo-Robiei/1002.html"
+                },
+                {
+                    "type": "text",
+                    "value": ", situated at the foot of the Basòdino Glacier and starting point of the Cristallina Pass hiking trail. The village is a great starting point for hikes and walks in the area, with trails leading to the Basòdino Glacier, Foroglio Waterfall, and other scenic spots. San Carlo is also home to traditional stone houses, a charming church, and a welcoming atmosphere that captures the essence of life in the Swiss Alps."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Activities in Bavona Valley",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Bavona Valley offers a wide range of outdoor activities for nature lovers and adventure seekers. From hiking and rock climbing to swimming and wildlife watching, there’s something for everyone to enjoy in this stunning alpine paradise. Here are some popular activities to try in Bavona Valley:"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Hiking",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Bavona Valley is a hiker’s paradise, with a network of trails that wind through the rugged landscape, offering stunning views of the surrounding mountains and valleys. From leisurely walks to challenging hikes, there are routes for all skill levels, making it the perfect destination for outdoor enthusiasts. Some popular hikes include "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "the trail to the Basòdino Glacier",
+                    "url": "https://www.ticino.ch/en/hike/details/Glacier-path/33120550.html?morf=274485e6-4fca-4603-9daa-24c44fd41240"
+                },
+                {
+                    "type": "text",
+                    "value": ", the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "Foroglio Waterfall loop",
+                    "url": "https://www.ticino.ch/en/hike/details/Foroglio-Caln%C3%A8gia-Foroglio/33120527.html?morf=274485e6-4fca-4603-9daa-24c44fd41240"
+                },
+                {
+                    "type": "text",
+                    "value": ", and the "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "San Carlo to Bignasco hike.",
+                    "url": "https://www.ticino.ch/en/hike/details/Bignasco-Rima-Prato-Sornico/33178064.html?morf=274485e6-4fca-4603-9daa-24c44fd41240#ipd=33120492"
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Cycling & Mountain Biking",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "Explore Bavona Valley on two wheels with cycling and mountain biking adventures that take you through the valley’s scenic landscapes. From leisurely rides along quiet country roads to adrenaline-pumping descents on mountain trails, "
+                },
+                {
+                    "type": "link",
+                    "target":"_blank",
+                    "value": "there are routes",
+                    "url": "https://www.ticino.ch/en/explore/excursions/two-wheels.html"
+                },
+                {
+                    "type": "text",
+                    "value": " for cyclists of all abilities."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Nature Walks",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type": "text",
+                    "value": "For a more relaxed outdoor experience, take a nature walk through Bavona Valley’s pristine wilderness. Wander along meandering paths, through lush forests, and beside crystal-clear streams, immersing yourself in the sights and sounds of nature. Keep an eye out for local wildlife, including chamois, ibex, and marmots, as you explore the valley’s diverse ecosystems. Nature walks are a great way to connect with the natural world and experience the beauty of Bavona Valley at a leisurely pace."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Insider Tips for Visitors",
+            "titlelevel": 2
+        },
+        {
+            "type": "richtext",
+            "title": "Local Customs",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Embrace the valley’s quiet charm and respect its traditions. When visiting small hamlets, take time to appreciate their historic architecture and interact with locals who often have fascinating stories to share."
+                }
+            ]
+        },
+        {
+            "type": "richtext",
+            "title": "Eco-Responsibility",
+            "titlelevel": 3,
+            "text": [
+                {
+                    "type":"text",
+                    "value": "Given its reliance on solar power, Bavona Valley is a model of sustainability. Visitors should minimize waste, stick to marked trails, and leave no trace to preserve its pristine environment."
+                }
+            ]
+        },
+        {
+            "type": "coffee",
+            "title": "Did you enjoy this post?",
+            "subtitle": "Buy us a coffee ☕",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
+        },
+        {
+            "type": "gyg-div",
+            "title": "Offers of Nearby Activities",
+            "text": "Discover more activities in the region and make the most of your trip to Bavona Valley!",
+            "gygatt": {
+                "data-gyg-location-id": "104739" ,
+                "data-gyg-locale-code": "en-US" ,
+                "data-gyg-widget": "activities" ,
+                "data-gyg-number-of-items": "4" ,
+                "data-gyg-partner-id": "6OBOJRK"
+            }
+        }
+    ]
+}

@@ -146,7 +146,7 @@
           },
           {
             "title": "Airbnb Review in the Swiss Alps",
-            "desc": "Our review of this incredible Airbnb in a traditional swiss chalet, with breathtaking landscapes and awesome nearby attractions.",
+            "desc": "Our review of this incredible Airbnb in a traditional swiss chalet, breathtaking views and great nearby attractions.",
             "location":"Rickenbach, Schwyz",
             "date": "2025-01-02 18:00:00.000",
             "videoid": "8yf-DrM0LKk",
@@ -156,7 +156,7 @@
           {
             "title": "Frozen in Time: Timeless Beauty of Sabbione",
             "desc": "Step back in time to explore the enchanting village of Sabbione in the heart of Ticino, Switzerland.",
-            "date": "2025-03-01 18:00:00.000",
+            "date": "2025-01-03 18:00:00.000",
             "location":"Bavona Valley, Ticino",
             "videoid": "s0-S2BCjXlQ",
             "tags": ["village", "waterfall", "family", "historic", "ticino"],
@@ -165,25 +165,32 @@
           {
             "title": "Stoos Ridge Hike",
             "desc": "Popular mountain ridge in the Swiss Alps for hikers and nature lovers, offering stunning views of the surrounding landscapes.",
-            "date": "2025-04-01 18:00:00.000",
+            "date": "2025-01-05 18:00:00.000",
             "location":"Stoos, Schwyz",
             "videoid": "O6MeuilKwpQ",
             "tags": ["mountain", "hike", "views", "schwyz", "alps", "stoos", "ridge"],
             "url": "stoos-ridge"
+          },
+          {
+            "title": "Bavona Valley",
+            "desc": "A beautiful valley that captivates with its stone villages, stunning waterfalls, and rich cultural heritage.",
+            "date": "2025-01-08 18:00:00.000",
+            "location":"Bavona Valley, Ticino",
+            "videoid": "ig3OYRMhxXI",
+            "tags": ["village", "waterfall", "family", "historic", "ticino"],
+            "url": "bavona-valley"
           }
     ],
     "next":[
-      
-          
-          {
-            "title": "Mount Rigi",
-            "desc": "Mount Rigi, also known as the 'Queen of the Mountains,' is a popular tourist destination in Switzerland. Located near Lucerne and the Lake of Zug, Mount Rigi offers stunning views of the Swiss Alps and the surrounding lakes. Visitors can reach the summit by cogwheel train or cable car, and enjoy a range of outdoor activities such as hiking, biking, and paragliding.",
-            "date": "2025-01-01 18:00:00.000",
-            "location":"Lake Lucerne Region, Lucerne",
-            "videoid": "8yf-DrM0LKk",
-            "tags": ["mountain", "lake", "hike", "lucerne", "rigi", "views", "alps"],
-            "url": "rigi"
-          },
+      {
+        "title": "Mount Rigi",
+        "desc": "Mount Rigi, also known as the 'Queen of the Mountains,' is a popular tourist destination in Switzerland. Located near Lucerne and the Lake of Zug, Mount Rigi offers stunning views of the Swiss Alps and the surrounding lakes. Visitors can reach the summit by cogwheel train or cable car, and enjoy a range of outdoor activities such as hiking, biking, and paragliding.",
+        "date": "2025-01-01 18:00:00.000",
+        "location":"Lake Lucerne Region, Lucerne",
+        "videoid": "8yf-DrM0LKk",
+        "tags": ["mountain", "lake", "hike", "lucerne", "rigi", "views", "alps"],
+        "url": "rigi"
+      },
       {
         "title": "Staying in a Real Castle in Switzerland",
         "desc": "Ever dreamed of staying in a real castle in the swiss alps? Now you can turn that dream into reality without breaking the bank. Join us on this enchanting hotel tour as we unlock the doors to Châtelard Castle Hotel, in Montreux, Switzerland, where affordable luxury meets historic charm.",
