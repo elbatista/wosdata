@@ -61,7 +61,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/pilatus.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/refs/heads/master/data/posts/top5-hikes/pilatus.html"
         },
         {
             "type": "text",
@@ -92,7 +92,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/stoos.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/refs/heads/master/data/posts/top5-hikes/stoos.html"
         },
         {
             "type": "text",
@@ -116,7 +116,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/hoher.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/refs/heads/master/data/posts/top5-hikes/hoher.html"
         },
         {
             "type": "text",
@@ -140,7 +140,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/rigi.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/refs/heads/master/data/posts/top5-hikes/rigi.html"
         },
         {
             "type": "text",
@@ -164,7 +164,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/saxer.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/refs/heads/master/data/posts/top5-hikes/saxer.html"
         },
         {
             "type": "coffee",
