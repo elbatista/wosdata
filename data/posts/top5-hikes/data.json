@@ -1,0 +1,177 @@
+{
+    "title": "Top 5 hikes in Switzerland",
+    "description": "Discover the top 5 hikes in Switzerland — stunning views, crystal-clear lakes, and unforgettable trails perfect for nature lovers and families alike!",
+    "videoid": "wtCD5SgaeTE",
+    "headerReverse": false,
+    "publishedAt": "2025-06-17",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": "Switzerland",
+    "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom" : "1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Ready to explore Switzerland’s most stunning trails? Here are 5 hikes you can’t miss!"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": null,
+            "text": [
+                "From towering peaks to serene lakes, Switzerland is full of unforgettable hikes. In this list, we’ll explore 5 must-do trails: Pilatus, Stoos, Hoher Kasten, Rigi, and Saxer Lücke — each offering stunning views and unique experiences for all levels."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "#5 Mount Pilatus",
+            "titlelevel": 2
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 ",
+            "caption": "Some photos from Pilatus Kulm.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/top.jpeg",
+                    "width": 1280,
+                    "height": 600,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/Xa07d2O-o9Y/assets/top2.jpeg",
+                    "width": 2000,
+                    "height": 1600,
+                    "title": null,
+                    "description": null
+                }
+
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/pilatus.html"
+        },
+        {
+            "type": "text",
+            "title": "#4 Stoos Ridge Hike",
+            "titlelevel": 2
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 ",
+            "caption": "Some photos of the hike.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h46m13s297.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo2/vlcsnap-2025-01-06-12h47m01s493.jpeg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": null
+                }
+
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/stoos.html"
+        },
+        {
+            "type": "text",
+            "title": "#3 Hoher Kasten",
+            "titlelevel": 2
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 ",
+            "caption": "The Hoher Kasten (photo by Simon Spring, Unsplash).",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/top5-hikes/photo/simon-spring-WrdrFA7hroQ-unsplash.jpg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": "The Hoher Kasten (photo by Simon Spring, Unsplash)."
+                }
+
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/hoher.html"
+        },
+        {
+            "type": "text",
+            "title": "#2 Mount Rigi",
+            "titlelevel": 2
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 ",
+            "caption": "Mount Rigi: the queen of the mountains (photo by Hasmik Ghazaryan, Unsplash).",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/top5-hikes/photo/hasmik-ghazaryan-olson-IBSX2IBWpxE-unsplash.jpg",
+                    "width": 1280,
+                    "height": 720,
+                    "title": null,
+                    "description": ""
+                }
+
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/rigi.html"
+        },
+        {
+            "type": "text",
+            "title": "#1 Saxer Lücke",
+            "titlelevel": 2
+        },
+        {
+            "type": "gallery",
+            "class": "float-right w-1/2 ml-5 ",
+            "caption": "The Saxer Lücke rock formation.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/top5-hikes/photo/Saxer_Lucke_Switzerland-768x1151.jpg",
+                    "width": 768,
+                    "height": 1151,
+                    "title": null,
+                    "description": "The Saxer Lücke rock formation."
+                }
+
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/top5-hikes/saxer.html"
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
+        }
+    ]
+}

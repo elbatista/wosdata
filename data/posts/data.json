@@ -179,6 +179,15 @@
             "videoid": "ig3OYRMhxXI",
             "tags": ["village", "waterfall", "family", "historic", "ticino"],
             "url": "bavona-valley"
+          },
+          {
+            "title": "Top 5 hikes in Switzerland",
+            "desc": "Switzerland is a hiker's paradise, offering a plethora of trails that cater to all levels of experience. In this post, we'll explore our Top 5 hiking trails in Switzerland that promise unforgettable experiences amidst the stunning landscapes of the Swiss Alps.",
+            "date": "2025-01-01 18:00:00.000",
+            "location":"Switzerland",
+            "videoid": "wtCD5SgaeTE",
+            "tags": ["views", "landscapes", "top", "places", "alps", "hike"],
+            "url": "top5-hikes"
           }
     ],
     "next":[
@@ -199,16 +208,8 @@
         "videoid": "sMENon0E0Cw",
         "tags": ["hotel", "stay", "montreux", "review", "vaud"],
         "url": "airbnb-castle-montreux"
-      },
-      {
-        "title": "Top 5 hikings in Switzerland",
-        "desc": "Switzerland is a hiker's paradise, offering a plethora of trails that cater to all levels of experience. In this post, we'll explore the top 5 hiking trails in Switzerland that promise unforgettable experiences amidst the stunning landscapes of the Swiss Alps.",
-        "date": "2025-01-01 18:00:00.000",
-        "location":"Switzerland",
-        "videoid": "wtCD5SgaeTE",
-        "tags": ["views", "landscapes", "top", "places", "alps", "hike"],
-        "url": "top5-hikings"
       }
+      
     ]
   }
   
