@@ -251,6 +251,10 @@
         },
         {
             "type": "html",
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/merch.html"
+        },
+        {
+            "type": "html",
             "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms.html"
         },
         {
