@@ -44,11 +44,11 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/getthere.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/getthere.html"
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/arrival.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/arrival.html"
         },
         {
             "type": "gallery",
@@ -109,7 +109,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/pink.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/pink.html"
         },
         {
             "type": "gallery",
@@ -170,7 +170,7 @@
 
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/laufen.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen.html"
         },
         {
             "type": "gallery",
@@ -251,7 +251,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/platforms.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms.html"
         },
         {
             "type": "gallery",
@@ -332,7 +332,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/rock.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock.html"
         },
         {
             "type": "gallery",
@@ -406,7 +406,7 @@
         },
         {
             "type": "html",
-            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/conc.html"
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/conc.html"
         },
 
         {
