@@ -1,0 +1,420 @@
+{
+    "title": "Rhine Falls - The Largest Waterfall in Europe",
+    "description": "The Rhine Falls, located near the town of Schaffhausen, is the largest waterfall in Europe and a must-visit destination for nature lovers and adventure seekers.",
+    "videoid": "HYFDg-GjJgA",
+    "headerReverse": false,
+    "publishedAt": "2025-11-16",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Neuhausen am Rheinfall",
+        "canton": "Schaffhausen",
+        "airport": "Zurich Airport (ZRH) - about 35 km away",
+        "maps": "https://maps.app.goo.gl/rrpyzevTUQVG6kbi7"
+    },
+    "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom" : "1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "Ready to explore Switzerland’s most stunning waterfall? Here are the top 5 highlights of the Rhine Falls!"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": null,
+            "text": [
+                "The Rhine Falls, located near the town of Schaffhausen, is the largest waterfall in Europe. This natural wonder offers breathtaking views and thrilling experiences for visitors. In this post, we’ll explore the top highlights of the Rhine Falls, including its stunning viewpoints, castles, boat tours, and the surrounding natural beauty."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "How to get there",
+            "titlelevel": 2
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/getthere.html"
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/arrival.html"
+        },
+        {
+            "type": "gallery",
+            "class": "my-5",
+            "caption": "",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/arrival/IMG_3579.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/arrival/IMG_3590.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/arrival/IMG_3621.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/arrival/IMG_3645.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/arrival/IMG_3626.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/arrival/IMG_3647.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/arrival/IMG_3648.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                }
+
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/pink.html"
+        },
+        {
+            "type": "gallery",
+            "class": "my-5",
+            "caption": "",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/pinkboat/IMG_3664.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/pinkboat/IMG_3678.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/pinkboat/IMG_3687.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/pinkboat/IMG_3704.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/pinkboat/IMG_3709.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/pinkboat/IMG_3722.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/pinkboat/IMG_3726.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/laufen.html"
+        },
+        {
+            "type": "gallery",
+            "class": "my-5",
+            "caption": "",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/DJI_20250501161442_0024_D.jpeg",
+                    "width": 640,
+                    "height": 360,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/IMG_3746.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/IMG_3755.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/IMG_3757.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/IMG_3812.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/IMG_3815.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/IMG_3840.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/IMG_3842.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/vlcsnap-2025-07-20-16h34m33s022.jpeg",
+                    "width": 640,
+                    "height": 360,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/laufen/vlcsnap-2025-07-20-16h35m15s189.jpeg",
+                    "width": 640,
+                    "height": 390,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/platforms.html"
+        },
+        {
+            "type": "gallery",
+            "class": "my-5",
+            "caption": "",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3852.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3855.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3860.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3866.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3875.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3882.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3885.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3892.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3900.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/platforms/IMG_3932.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/rock.html"
+        },
+        {
+            "type": "gallery",
+            "class": "my-5",
+            "caption": "",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/DJI_20250501163318_0047_D.jpeg",
+                    "width": 640,
+                    "height": 360,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/DJI_20250501163345_0048_D.jpeg",
+                    "width": 640,
+                    "height": 360,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/DJI_20250501163359_0050_D.jpeg",
+                    "width": 640,
+                    "height": 360,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/DJI_20250501163414_0051_D.jpeg",
+                    "width": 360,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/DJI_20250501163420_0052_D.jpeg",
+                    "width": 360,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/DJI_20250501163426_0053_D.jpeg",
+                    "width": 360,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/IMG_3959.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/IMG_3977.jpeg",
+                    "width": 480,
+                    "height": 640,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/rhine-falls/rock/IMG_3994.jpeg",
+                    "width": 640,
+                    "height": 480,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+        {
+            "type": "html",
+            "html": "/Users/batista/projects/wosdata/data/posts/rhine-falls/conc.html"
+        },
+
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "subtitle": "Did you enjoy this post?",
+            "text": "Consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
+        }
+    ]
+}

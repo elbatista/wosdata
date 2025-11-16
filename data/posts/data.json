@@ -188,6 +188,15 @@
             "videoid": "wtCD5SgaeTE",
             "tags": ["views", "landscapes", "top", "places", "alps", "hike"],
             "url": "top5-hikes"
+          },
+          {
+            "title": "Rhine Falls - The Largest Waterfall in Europe",
+            "desc": "The Rhine Falls, located near the town of Schaffhausen, is the largest waterfall in Europe and a must-visit destination for nature lovers and adventure seekers.",
+            "date": "2025-07-20 18:00:00.000",
+            "location":"Neuhausen am Rheinfall, Schaffhausen",
+            "videoid": "HYFDg-GjJgA",
+            "tags": ["views", "landscapes", "places", "family", "waterfall"],
+            "url": "rhine-falls"
           }
     ],
     "next":[
