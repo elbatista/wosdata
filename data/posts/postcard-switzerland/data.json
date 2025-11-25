@@ -1,0 +1,280 @@
+{
+    "title": "Walking Into a Postcard: The Swiss Experience Everyone Deserves at Least Once",
+    "description": "Experience Switzerland like never before—fog seas, alpine hikes, historic funiculars, and the hidden corners that make this country truly unique.",
+    "videoid": "OTXwr5NLqew",
+    "headerReverse": false,
+    "publishedAt": "2025-11-19",
+    "author": {
+        "name": "Eliã Batista",
+        "photo": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/assets/elia.jpeg"
+    },
+    "location": {
+        "place": "Switzerland",
+        "region": "Europe",
+        "airport": "Zurich Airport (ZRH), Bern Airport (BRN), Basel-Mulhouse Airport (BSL)",
+        "maps": "https://maps.app.goo.gl/rrpyzevTUQVG6kbi7"
+    },
+    "sections": [
+        {
+            "type": "richtext",
+            "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+            "style": {
+                "lineHeight":"1.8em",
+                "marginBottom" : "1.5em"
+            },
+            "text": [
+                {
+                    "type": "text",
+                    "class": "text-base md:text-xl tracking-wider font-extralight uppercase ",
+                    "value": "There are moments in Switzerland that don’t feel real — moments when you stop, look around, and swear someone replaced your eyes with a 4K drone camera. But then you breathe in the mountain air, hear the cowbells echoing across the valley, and realize: this is actually happening."
+                }
+            ]
+        },
+
+
+        {
+            "type": "richtext",
+            "title": "The Sea of Fog That Switzerland Gifted Me",
+            "titlelevel": 2,
+            "text": [
+                {
+                    "type": "text",
+                    "value" : "It was a beautiful autumn day, and we were in  "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "/lucerne",
+                    "value" :"Lucerne"
+                },
+                {
+                    "type": "text",
+                    "value" : ", ready for an early start. As the "
+                },
+                {
+                    "type": "link",
+                    "target": "_blank",
+                    "url": "https://www.rigi.ch/en/experience/mountain-railways",
+                    "value" :"mountain train"
+                },
+                {
+                    "type": "text",
+                    "value" : " began its steep climb, the chilly morning air rolled through the open windows, carrying that crisp scent of the season."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": null,
+            "text": [
+                "Slowly, the world below started to fade. Cities, lakes, and tiny villages disappeared beneath a thick blanket of fog, as if the landscape had been gently tucked in for the day.",
+                "We were at the top of Mount Rigi, and the view was nothing short of magical."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/postcard-switzerland/foto/seaoffog.jpeg",
+                "style": {},
+                "caption": "The captivating landscape from the top of Mount Rigi."
+            }
+        },
+        {
+            "type": "text",
+            "title": "Family hiking above the clouds in the Swiss Alps",
+            "titlelevel": 3
+        },
+        {
+            "type": "text",
+            "title": null,
+            "text": [
+                "Same incredible experience happened the day before at Stoos Ridge. We took the historic funicular up to the car-free village of Stoos, and from there, we embarked on a hike that felt like walking on air.",
+                "My daughter was giggling, convinced we were “walking on top of the sky”. Honestly? That’s exactly how it felt. Switzerland has this magical ability to turn a simple family outing into a memory you’ll never stop talking about."
+            ]
+        },
+
+        {
+            "type": "gallery",
+            "class": " w-full mt-5",
+            "caption": "Some photos of our hike at the Stoos Ridge.",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0133.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0137.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0151.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0153.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0165.jpeg",
+                    "width": 1280,
+                    "height": 960,
+                    "title": null,
+                    "description": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/stoos-ridge/photo/IMG_0179.jpeg",
+                    "width": 960,
+                    "height": 1280,
+                    "title": null,
+                    "description": null
+                }
+            ]
+        },
+
+        {
+            "type": "richtext",
+            "title": "Why Switzerland Hits Different",
+            "titlelevel": 2,
+            "text": [{
+                "type":"list",
+                "value": [
+                    "Every season surprises you. Even after years living here, Switzerland always has something new to show.",
+                    "Many hikes are family-friendly if you know where to go (trust me, I’ve tested them carrying a baby).",
+                    "Small villages hide the best stories—the kind you won't find in travel guides."
+                ]
+            }]
+        },
+        {   "type": "text",
+            "title": null,
+            "text": [
+                "So, if you ever get the chance to visit Switzerland, don’t just see it—experience it. Walk its trails, breathe its air, and let it surprise you. Because in Switzerland, every moment really feels like stepping into a postcard."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "The Secret? Don’t Stick to the Famous Spots",
+            "titlelevel": 2
+        },
+        {   "type": "richtext",
+        "title": null,
+        "text": [
+            {
+                "type":"text",
+                "value":"Sure, "
+            },
+            {
+                "type":"link",
+                "target": "_blank",
+                "url": "https://www.jungfrau.ch/en-gb/",
+                "value":"Jungfraujoch"
+            },
+            {
+                "type":"text",
+                "value":" and  "
+            },
+            {
+                "type":"link",
+                "target": "_blank",
+                "url": "https://zermatt.swiss/en",
+                "value":"Zermatt"
+            },
+            {
+                "type":"text",
+                "value":" are fantastic—but Switzerland’s heart is in its tiny corners:"
+            }
+            ]
+        },
+        {
+            "type": "richtext",
+            "text": [{
+                "type":"list",
+                "value": [
+                    "Villages with 12 inhabitants (yes, really, Corippo, I've been there).",
+                    "Old funiculars from the 1800s still working like magic.",
+                    "Alpine trails where you're more likely to meet goats than people."
+                ]
+            }]
+        },
+        {
+            "type": "gallery",
+            "class": " w-full mt-5",
+            "photos": [
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/i2Jdbj_Oa1c/assets/corippo.jpeg",
+                    "width": 3823,
+                    "height": 1289,
+                    "title": null,
+                    "description": "The tiny village of Corippo, with just 12 inhabitants."
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/postcard-switzerland/foto/funi.jpeg",
+                    "width": 1280,
+                    "height": 853,
+                    "title": null,
+                    "description": "The Giessbach Funicular still in operation, a testament to Swiss engineering."
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/postcard-switzerland/foto/goat.jpeg",
+                    "width": 1080,
+                    "height": 757,
+                    "title": null,
+                    "description": "Goats in the swiss alps."
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "title": "If You’ve Ever Dreamed of Visiting Switzerland…",
+            "titlelevel": 2
+        },
+        {   "type": "text",
+        "title": null,
+        "text": [
+            "Do it. Do it with your kids, your parents, your partner, or even solo. There’s something about this place that brings people closer—maybe it’s the views, maybe the simplicity, maybe the peace."
+            ]
+        },
+        {
+            "type": "img",
+            "title": "",
+            "img": {
+                "url": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/episodes/YoBiyFkxcB4/assets/foroglio2.jpg",
+                "style": {},
+                "caption": "The village of Foroglio - natural wonders and rich cultural heritage."
+            }
+        },
+        {   "type": "text",
+        "title": null,
+        "text": [
+            "And if you’re already here? Keep exploring. Switzerland rewards curiosity like no other place I’ve known."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "OUR MERCH",
+            "titlelevel": 2
+        },
+        {
+            "type": "html",
+            "html": "https://raw.githubusercontent.com/elbatista/wosdata/master/data/posts/postcard-switzerland/merch.html"
+        },
+        {
+            "type": "coffee",
+            "title": "Buy us a coffee ☕",
+            "text": "Or maybe consider supporting us by buying us a coffee! ☕ Your support helps us to create more content for you. Thank you, it means the world to us! 🙏",
+            "url": "https://buymeacoffee.com/wonders.of.switzerland"
+        }
+    ]
+}

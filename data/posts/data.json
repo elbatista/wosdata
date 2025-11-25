@@ -197,7 +197,23 @@
             "videoid": "HYFDg-GjJgA",
             "tags": ["views", "landscapes", "places", "family", "waterfall"],
             "url": "rhine-falls"
+          },
+
+
+          {
+            "title": "Walking Into a Postcard",
+            "desc": "The swiss experience everyone deserves at least once in their lifetime.",
+            "date": "2025-11-19 18:00:00.000",
+            "location":"Switzerland",
+            "videoid": "OTXwr5NLqew",
+            "tags": ["views", "landscapes", "places", "switzerland"],
+            "url": "postcard-switzerland"
           }
+
+
+
+
+
     ],
     "next":[
       {
